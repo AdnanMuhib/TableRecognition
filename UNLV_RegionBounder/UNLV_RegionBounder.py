@@ -7,6 +7,12 @@ from PIL import Image
 import numpy as np
 #-*- coding: utf-8 -*-
 import unicodedata
+# importing the class of FeatureExtraction
+import DataCollector as DC
+################################################
+##############Array of Object###################
+################################################
+arr_of_objects = []
 
 ################################################
 #################Word Data######################
@@ -132,6 +138,16 @@ def region_bounder_word(img):
         ax.add_patch(rect)
     plt.show()
 
+# moving the data from array to struct for
+# sorting and other operations
+def assigning_values_to_the_struct():
+    for x in range(0, no_of_words):
+        arr_of_objects.append(DC.DataCollector(word_X[x], word_Y[x],
+                    word_Width[x],
+                    word_Height[x],
+                    words[x], True))
+    return
+
 # main driver for the file
 def main(table, img, ocr):
     # read table xml file and  calculate the
@@ -142,10 +158,11 @@ def main(table, img, ocr):
     word_to_array(ocr)
     # the region bounder for the sake of 
     # display
-    region_bounder_table(img)
-    region_bounder_word(img)
+    #region_bounder_table(img)
+    #region_bounder_word(img)
     # assigning the values to the struct object
     assigning_values_to_the_struct()
+    print arr_of_objects
     return
 
 

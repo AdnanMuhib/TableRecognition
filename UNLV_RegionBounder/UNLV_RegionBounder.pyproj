@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="FeatureExtraction.py" />
+    <Compile Include="DataCollector.py" />
     <Compile Include="UNLV_RegionBounder.py" />
   </ItemGroup>
   <PropertyGroup>
