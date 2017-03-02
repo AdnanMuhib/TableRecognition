@@ -13,7 +13,8 @@ import DataCollector as DC
 ##############Array of Object###################
 ################################################
 arr_of_objects = []
-
+# 1 means its part of table 0 means not a part
+objects_in_table = []
 ################################################
 #################Word Data######################
 ################################################
@@ -55,6 +56,12 @@ def word_to_array(file):
         word_Y.append(abs(total_height - top))
         word_Width.append(abs(left - right))
         word_Height.append(abs(top - bottom))
+        
+        for x in range(0, len(X)):
+            if ((X[x] < left < X_1[x]) and (Y[x] < abs(total_height - top) < Y_1[x])):
+                objects_in_table.append(1)
+            else:
+                objects_in_table.append(0)         
     y = 0
 
     for word in words:
@@ -67,6 +74,8 @@ def word_to_array(file):
 no_of_tables = 0
 X = []
 Y = []
+X_1 = []
+Y_1 = []
 Width = []
 Height = []
 word_part_of_table = []
@@ -86,13 +95,13 @@ def table_to_array(file):
     for elements in root.getElementsByTagName('Table'):
         X.append(int(unicodedata.normalize('NFKD', (elements.getAttribute("x0"))).encode('ascii', 'ignore')))
         Y.append(int(unicodedata.normalize('NFKD', (elements.getAttribute("y0"))).encode('ascii', 'ignore')))
+        X_1.append(int(unicodedata.normalize('NFKD', (elements.getAttribute("x1"))).encode('ascii', 'ignore')))
+        Y_1.append(int(unicodedata.normalize('NFKD', (elements.getAttribute("y1"))).encode('ascii', 'ignore')))
         Width.append(calc_difference(int(unicodedata.normalize('NFKD', (elements.getAttribute("x0"))).encode('ascii', 'ignore')), 
                                          int(unicodedata.normalize('NFKD', (elements.getAttribute("x1"))).encode('ascii', 'ignore'))))
         Height.append(calc_difference(int(unicodedata.normalize('NFKD', (elements.getAttribute("y0"))).encode('ascii', 'ignore')), 
                                          int(unicodedata.normalize('NFKD', (elements.getAttribute("y1"))).encode('ascii', 'ignore'))))
     return
-
-
 
 # for calculating the width/height of the table
 def calc_difference(x0, x1):
@@ -145,7 +154,7 @@ def assigning_values_to_the_struct():
         arr_of_objects.append(DC.DataCollector(word_X[x], word_Y[x],
                     word_Width[x],
                     word_Height[x],
-                    words[x], True))
+                    words[x], objects_in_table[x]))
     return
 
 # main driver for the file
@@ -162,11 +171,15 @@ def main(table, img, ocr):
     #region_bounder_word(img)
     # assigning the values to the struct object
     assigning_values_to_the_struct()
-    print arr_of_objects
+    print 1
     return
 
+# deciding which words are in the table and which 
+# are not by looping through all the elements of 
+# the word and see if its x and y are equal to that
+# of other arrays
 
 if __name__ == "__main__":
-    main("F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_gt\\0101_003.xml",
-         "F:\\KICS - Research Officer\\CVML\\unlv-table-png\\0101_003.png",
-         "F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_ocr\\0101_003.xml")
+    main("F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_gt\\0110_099.xml",
+         "F:\\KICS - Research Officer\\CVML\\unlv-table-png\\0110_099.png",
+         "F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_ocr\\0110_099.xml")
