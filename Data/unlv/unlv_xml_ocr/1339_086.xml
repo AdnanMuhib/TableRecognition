@@ -1,0 +1,1619 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490573415.png" width="2544"/>
+<words>
+<word bottom="3146" left="1208" right="1297" top="3176">
+Table</word>
+<word bottom="3146" left="1312" right="1357" top="3174">
+
+A7
+</word>
+<word bottom="3088" left="844" right="1038" top="3125">
+Wind-Speed</word>
+<word bottom="3096" left="1052" right="1127" top="3124">
+Data</word>
+<word bottom="3096" left="1140" right="1189" top="3126">
+for</word>
+<word bottom="3096" left="1202" right="1363" top="3125">
+Locations</word>
+<word bottom="3097" left="1374" right="1405" top="3126">
+in</word>
+<word bottom="3096" left="1419" right="1470" top="3126">
+the</word>
+<word bottom="3096" left="1483" right="1594" top="3126">
+United</word>
+<word bottom="3096" left="1608" right="1726" top="3126">
+States*</word>
+<word bottom="302" left="302" right="372" top="327">
+*The</word>
+<word bottom="301" left="384" right="470" top="325">
+values</word>
+<word bottom="301" left="481" right="522" top="318">
+are</word>
+<word bottom="301" left="534" right="697" top="325">
+fastest-mile</word>
+<word bottom="301" left="708" right="778" top="325">
+wind</word>
+<word bottom="295" left="791" right="882" top="325">
+speeds</word>
+<word bottom="300" left="893" right="918" top="322">
+at</word>
+<word bottom="300" left="933" right="964" top="325">
+
+33
+</word>
+<word bottom="300" left="977" right="1032" top="325">
+feet</word>
+<word bottom="296" left="1045" right="1091" top="325">
+
+(10
+</word>
+<word bottom="296" left="1102" right="1209" top="325">
+meters)</word>
+<word bottom="301" left="1221" right="1303" top="325">
+above</word>
+<word bottom="295" left="1314" right="1415" top="325">
+ground</word>
+<word bottom="301" left="1427" right="1468" top="326">
+for</word>
+<word bottom="296" left="1481" right="1615" top="326">
+Exposure</word>
+<word bottom="296" left="1626" right="1755" top="326">
+Category</word>
+<word bottom="302" left="1767" right="1796" top="326">
+C.</word>
+<word bottom="251" left="301" right="422" top="277">
+NOTES:</word>
+<word bottom="209" left="330" right="370" top="239">
+
+(1)
+</word>
+<word bottom="214" left="382" right="499" top="238">
+Denotes</word>
+<word bottom="213" left="510" right="621" top="238">
+stations</word>
+<word bottom="214" left="631" right="657" top="238">
+in</word>
+<word bottom="208" left="669" right="898" top="238">
+hurricane-prone</word>
+<word bottom="213" left="909" right="988" top="231">
+areas.</word>
+<word bottom="172" left="329" right="369" top="201">
+
+(2)
+</word>
+<word bottom="172" left="381" right="536" top="201">
+Estimated,</word>
+<word bottom="176" left="546" right="632" top="201">
+rather</word>
+<word bottom="176" left="644" right="707" top="200">
+than</word>
+<word bottom="175" left="719" right="862" top="200">
+measured.</word>
+<word bottom="135" left="330" right="369" top="164">
+
+(3)
+</word>
+<word bottom="139" left="382" right="482" top="163">
+Fastest</word>
+<word bottom="139" left="494" right="595" top="163">
+minute</word>
+<word bottom="138" left="606" right="719" top="163">
+derived.</word>
+<word bottom="61" left="304" right="344" top="90">
+
+84
+</word>
+<word bottom="2905" left="326" right="454" top="2929">
+Location</word>
+<word bottom="2862" left="372" right="407" top="2891">
+by</word>
+<word bottom="3013" left="774" right="896" top="3037">
+Extreme</word>
+<word bottom="3013" left="909" right="1080" top="3037">
+Fastest-Mile</word>
+<word bottom="2970" left="750" right="847" top="3000">
+Speeds</word>
+<word bottom="2970" left="860" right="946" top="3000">
+(mph)</word>
+<word bottom="2976" left="958" right="999" top="3001">
+for</word>
+<word bottom="2976" left="1012" right="1115" top="3001">
+Annual</word>
+<word bottom="2934" left="832" right="992" top="2963">
+Probability</word>
+<word bottom="2938" left="1004" right="1035" top="2963">
+of</word>
+<word bottom="2896" left="793" right="871" top="2925">
+Being</word>
+<word bottom="2901" left="884" right="1021" top="2926">
+Exceeded</word>
+<word bottom="2901" left="1033" right="1072" top="2926">
+of:</word>
+<word bottom="2940" left="1290" right="1434" top="2965">
+Maximum</word>
+<word bottom="2902" left="1228" right="1400" top="2928">
+Fastest-Mile</word>
+<word bottom="2897" left="1413" right="1497" top="2927">
+Speed</word>
+<word bottom="2865" left="1297" right="1339" top="2889">
+for</word>
+<word bottom="2865" left="1350" right="1429" top="2890">
+Years</word>
+<word bottom="2906" left="1609" right="1688" top="2930">
+Years</word>
+<word bottom="2868" left="1634" right="1665" top="2893">
+of</word>
+<word bottom="2976" left="1808" right="1935" top="3002">
+Standard</word>
+<word bottom="2977" left="1947" right="2098" top="3002">
+Deviations</word>
+<word bottom="2940" left="1822" right="1853" top="2964">
+of</word>
+<word bottom="2934" left="1863" right="1994" top="2963">
+Sampling</word>
+<word bottom="2940" left="2006" right="2081" top="2964">
+Error</word>
+<word bottom="2896" left="1907" right="1994" top="2926">
+(mph)</word>
+<word bottom="2829" left="355" right="425" top="2854">
+State</word>
+<word bottom="2830" left="749" right="811" top="2855">
+
+0.04
+</word>
+<word bottom="2830" left="899" right="961" top="2855">
+
+0.02
+</word>
+<word bottom="2830" left="1049" right="1108" top="2855">
+
+0.01
+</word>
+<word bottom="2828" left="1291" right="1322" top="2852">
+of</word>
+<word bottom="2827" left="1332" right="1434" top="2852">
+Record</word>
+<word bottom="2831" left="1597" right="1700" top="2855">
+Record</word>
+<word bottom="2831" left="1798" right="1860" top="2856">
+
+0.04
+</word>
+<word bottom="2831" left="1923" right="1984" top="2856">
+
+0.02
+</word>
+<word bottom="2831" left="2048" right="2106" top="2856">
+
+0.01
+</word>
+<word bottom="2832" left="2182" right="2264" top="2856">
+Notes</word>
+<word bottom="2759" left="301" right="470" top="2784">
+ALABAMA</word>
+<word bottom="2717" left="329" right="504" top="2747">
+Birmingham</word>
+<word bottom="2722" left="768" right="801" top="2747">
+
+61
+</word>
+<word bottom="2722" left="918" right="952" top="2747">
+
+65
+</word>
+<word bottom="2722" left="1068" right="1102" top="2747">
+
+68
+</word>
+<word bottom="2723" left="1367" right="1402" top="2748">
+
+62
+</word>
+<word bottom="2723" left="1646" right="1679" top="2749">
+
+34
+</word>
+<word bottom="2723" left="1837" right="1850" top="2748">
+
+3
+</word>
+<word bottom="2724" left="1960" right="1975" top="2748">
+
+4
+</word>
+<word bottom="2724" left="2084" right="2100" top="2748">
+
+4
+</word>
+<word bottom="2679" left="328" right="512" top="2710">
+Montgomery</word>
+<word bottom="2685" left="768" right="801" top="2710">
+
+63
+</word>
+<word bottom="2685" left="918" right="952" top="2710">
+
+68
+</word>
+<word bottom="2686" left="1068" right="1102" top="2710">
+
+72
+</word>
+<word bottom="2687" left="1368" right="1402" top="2711">
+
+77
+</word>
+<word bottom="2686" left="1646" right="1679" top="2711">
+
+28
+</word>
+<word bottom="2687" left="1834" right="1850" top="2710">
+
+4
+</word>
+<word bottom="2686" left="1960" right="1975" top="2710">
+
+5
+</word>
+<word bottom="2686" left="2085" right="2099" top="2711">
+
+6
+</word>
+<word bottom="2635" left="301" right="458" top="2660">
+ARIZONA</word>
+<word bottom="2596" left="331" right="449" top="2621">
+Prescott</word>
+<word bottom="2598" left="770" right="801" top="2622">
+
+71
+</word>
+<word bottom="2598" left="919" right="952" top="2623">
+
+76
+</word>
+<word bottom="2597" left="1070" right="1103" top="2622">
+
+82
+</word>
+<word bottom="2598" left="1368" right="1402" top="2624">
+
+66
+</word>
+<word bottom="2599" left="1648" right="1679" top="2623">
+
+17
+</word>
+<word bottom="2598" left="1836" right="1851" top="2623">
+
+6
+</word>
+<word bottom="2599" left="1962" right="1975" top="2622">
+
+7
+</word>
+<word bottom="2598" left="2087" right="2101" top="2623">
+
+8
+</word>
+<word bottom="2559" left="331" right="435" top="2583">
+Tucson</word>
+<word bottom="2560" left="770" right="804" top="2584">
+
+70
+</word>
+<word bottom="2560" left="920" right="952" top="2585">
+
+75
+</word>
+<word bottom="2560" left="1070" right="1103" top="2585">
+
+80
+</word>
+<word bottom="2561" left="1369" right="1402" top="2586">
+
+78
+</word>
+<word bottom="2561" left="1646" right="1681" top="2586">
+
+30
+</word>
+<word bottom="2562" left="1835" right="1850" top="2586">
+
+4
+</word>
+<word bottom="2561" left="1961" right="1975" top="2585">
+
+5
+</word>
+<word bottom="2561" left="2085" right="2100" top="2586">
+
+6
+</word>
+<word bottom="2522" left="332" right="418" top="2547">
+Yuma</word>
+<word bottom="2522" left="769" right="802" top="2547">
+
+65
+</word>
+<word bottom="2523" left="919" right="953" top="2547">
+
+70
+</word>
+<word bottom="2523" left="1069" right="1103" top="2548">
+
+74
+</word>
+<word bottom="2523" left="1367" right="1400" top="2549">
+
+65
+</word>
+<word bottom="2524" left="1646" right="1679" top="2549">
+
+29
+</word>
+<word bottom="2524" left="1835" right="1851" top="2548">
+
+4
+</word>
+<word bottom="2523" left="1961" right="1975" top="2547">
+
+5
+</word>
+<word bottom="2523" left="2085" right="2100" top="2548">
+
+6
+</word>
+<word bottom="2472" left="302" right="487" top="2497">
+ARKANSAS</word>
+<word bottom="2435" left="330" right="392" top="2459">
+Fort</word>
+<word bottom="2434" left="405" right="488" top="2459">
+Smith</word>
+<word bottom="2434" left="769" right="801" top="2459">
+
+61
+</word>
+<word bottom="2434" left="919" right="952" top="2459">
+
+65
+</word>
+<word bottom="2434" left="1069" right="1103" top="2459">
+
+69
+</word>
+<word bottom="2435" left="1368" right="1400" top="2460">
+
+61
+</word>
+<word bottom="2434" left="1647" right="1680" top="2460">
+
+26
+</word>
+<word bottom="2436" left="1836" right="1852" top="2460">
+
+4
+</word>
+<word bottom="2435" left="1961" right="1976" top="2459">
+
+5
+</word>
+<word bottom="2435" left="2086" right="2100" top="2460">
+
+5
+</word>
+<word bottom="2397" left="330" right="408" top="2421">
+Little</word>
+<word bottom="2397" left="421" right="496" top="2422">
+Rock</word>
+<word bottom="2397" left="769" right="802" top="2421">
+
+67
+</word>
+<word bottom="2397" left="919" right="952" top="2422">
+
+73
+</word>
+<word bottom="2397" left="1069" right="1102" top="2422">
+
+79
+</word>
+<word bottom="2398" left="1369" right="1403" top="2423">
+
+72
+</word>
+<word bottom="2398" left="1647" right="1678" top="2423">
+
+35
+</word>
+<word bottom="2397" left="1837" right="1850" top="2421">
+
+5
+</word>
+<word bottom="2397" left="1961" right="1975" top="2421">
+
+5
+</word>
+<word bottom="2397" left="2086" right="2101" top="2422">
+
+6
+</word>
+<word bottom="2347" left="301" right="515" top="2372">
+CALIFORNIA</word>
+<word bottom="2309" left="330" right="427" top="2334">
+Fresno</word>
+<word bottom="2309" left="769" right="803" top="2333">
+
+45
+</word>
+<word bottom="2309" left="919" right="953" top="2334">
+
+47
+</word>
+<word bottom="2309" left="1069" right="1104" top="2334">
+
+50
+</word>
+<word bottom="2310" left="1368" right="1403" top="2335">
+
+46
+</word>
+<word bottom="2310" left="1648" right="1680" top="2335">
+
+37
+</word>
+<word bottom="2310" left="1838" right="1853" top="2334">
+
+2
+</word>
+<word bottom="2310" left="1963" right="1976" top="2334">
+
+3
+</word>
+<word bottom="2310" left="2088" right="2101" top="2335">
+
+3
+</word>
+<word bottom="2272" left="330" right="386" top="2296">
+Red</word>
+<word bottom="2272" left="398" right="472" top="2297">
+Bluff</word>
+<word bottom="2271" left="769" right="804" top="2296">
+
+68
+</word>
+<word bottom="2272" left="920" right="954" top="2297">
+
+72
+</word>
+<word bottom="2272" left="1069" right="1102" top="2297">
+
+76
+</word>
+<word bottom="2273" left="1368" right="1402" top="2298">
+
+67
+</word>
+<word bottom="2273" left="1647" right="1680" top="2298">
+
+33
+</word>
+<word bottom="2273" left="1836" right="1851" top="2297">
+
+4
+</word>
+<word bottom="2273" left="1961" right="1977" top="2297">
+
+4
+</word>
+<word bottom="2273" left="2086" right="2100" top="2297">
+
+5
+</word>
+<word bottom="2234" left="330" right="498" top="2260">
+Sacramento</word>
+<word bottom="2234" left="769" right="801" top="2259">
+
+61
+</word>
+<word bottom="2234" left="919" right="952" top="2259">
+
+65
+</word>
+<word bottom="2234" left="1069" right="1104" top="2259">
+
+69
+</word>
+<word bottom="2235" left="1368" right="1401" top="2260">
+
+61
+</word>
+<word bottom="2236" left="1647" right="1680" top="2260">
+
+29
+</word>
+<word bottom="2236" left="1836" right="1852" top="2260">
+
+4
+</word>
+<word bottom="2235" left="1962" right="1975" top="2259">
+
+5
+</word>
+<word bottom="2235" left="2086" right="2101" top="2260">
+
+6
+</word>
+<word bottom="2197" left="330" right="381" top="2222">
+San</word>
+<word bottom="2192" left="393" right="474" top="2221">
+Diego</word>
+<word bottom="2197" left="769" right="804" top="2221">
+
+44
+</word>
+<word bottom="2197" left="919" right="953" top="2221">
+
+47
+</word>
+<word bottom="2197" left="1069" right="1104" top="2222">
+
+49
+</word>
+<word bottom="2198" left="1368" right="1403" top="2223">
+
+47
+</word>
+<word bottom="2198" left="1648" right="1681" top="2223">
+
+38
+</word>
+<word bottom="2198" left="1839" right="1853" top="2222">
+
+2
+</word>
+<word bottom="2198" left="1963" right="1978" top="2223">
+
+2
+</word>
+<word bottom="2198" left="2088" right="2101" top="2223">
+
+3
+</word>
+<word bottom="2147" left="301" right="492" top="2172">
+COLORADO</word>
+<word bottom="2110" left="330" right="430" top="2134">
+Denver</word>
+<word bottom="2109" left="770" right="803" top="2134">
+
+59
+</word>
+<word bottom="2110" left="919" right="954" top="2135">
+
+62
+</word>
+<word bottom="2110" left="1070" right="1102" top="2135">
+
+65
+</word>
+<word bottom="2111" left="1368" right="1403" top="2136">
+
+62
+</word>
+<word bottom="2111" left="1648" right="1679" top="2136">
+
+27
+</word>
+<word bottom="2111" left="1838" right="1851" top="2135">
+
+3
+</word>
+<word bottom="2111" left="1963" right="1976" top="2135">
+
+3
+</word>
+<word bottom="2111" left="2086" right="2102" top="2135">
+
+4
+</word>
+<word bottom="2072" left="329" right="418" top="2098">
+Grand</word>
+<word bottom="2073" left="429" right="555" top="2097">
+Junction</word>
+<word bottom="2072" left="770" right="804" top="2097">
+
+64
+</word>
+<word bottom="2072" left="920" right="953" top="2097">
+
+67
+</word>
+<word bottom="2072" left="1070" right="1104" top="2097">
+
+70
+</word>
+<word bottom="2073" left="1370" right="1403" top="2098">
+
+70
+</word>
+<word bottom="2073" left="1648" right="1679" top="2098">
+
+21
+</word>
+<word bottom="2073" left="1838" right="1851" top="2098">
+
+3
+</word>
+<word bottom="2073" left="1964" right="1976" top="2098">
+
+3
+</word>
+<word bottom="2074" left="2086" right="2102" top="2098">
+
+4
+</word>
+<word bottom="2035" left="328" right="426" top="2060">
+Pueblo</word>
+<word bottom="2035" left="771" right="804" top="2060">
+
+78
+</word>
+<word bottom="2035" left="920" right="952" top="2060">
+
+83
+</word>
+<word bottom="2035" left="1070" right="1103" top="2060">
+
+87
+</word>
+<word bottom="2036" left="1370" right="1403" top="2061">
+
+79
+</word>
+<word bottom="2036" left="1647" right="1680" top="2061">
+
+37
+</word>
+<word bottom="2036" left="1838" right="1852" top="2061">
+
+3
+</word>
+<word bottom="2037" left="1961" right="1977" top="2060">
+
+4
+</word>
+<word bottom="2036" left="2087" right="2101" top="2060">
+
+5
+</word>
+<word bottom="1985" left="301" right="544" top="2010">
+CONNECTICUT</word>
+<word bottom="1948" left="330" right="455" top="1973">
+Hartford</word>
+<word bottom="1947" left="770" right="805" top="1973">
+
+60
+</word>
+<word bottom="1948" left="920" right="954" top="1973">
+
+64
+</word>
+<word bottom="1948" left="1069" right="1104" top="1973">
+
+68
+</word>
+<word bottom="1949" left="1369" right="1402" top="1974">
+
+67
+</word>
+<word bottom="1949" left="1648" right="1681" top="1974">
+
+38
+</word>
+<word bottom="1949" left="1839" right="1852" top="1973">
+
+3
+</word>
+<word bottom="1950" left="1962" right="1977" top="1974">
+
+4
+</word>
+<word bottom="1950" left="2086" right="2102" top="1973">
+
+4
+</word>
+<word bottom="1894" left="301" right="539" top="1923">
+WASHINGTON,</word>
+<word bottom="1899" left="552" right="596" top="1923">
+DC</word>
+<word bottom="1898" left="769" right="804" top="1923">
+
+62
+</word>
+<word bottom="1898" left="919" right="953" top="1923">
+
+66
+</word>
+<word bottom="1899" left="1071" right="1104" top="1923">
+
+70
+</word>
+<word bottom="1899" left="1368" right="1402" top="1924">
+
+66
+</word>
+<word bottom="1899" left="1647" right="1680" top="1924">
+
+33
+</word>
+<word bottom="1899" left="1839" right="1851" top="1924">
+
+3
+</word>
+<word bottom="1900" left="1961" right="1977" top="1924">
+
+4
+</word>
+<word bottom="1900" left="2086" right="2102" top="1924">
+
+4
+</word>
+<word bottom="1848" left="302" right="456" top="1873">
+FLORIDA</word>
+<word bottom="1812" left="330" right="502" top="1837">
+Jacksonville</word>
+<word bottom="1819" left="1082" right="1101" top="1822">
+
+—
+</word>
+<word bottom="1813" left="1370" right="1404" top="1838">
+
+74
+</word>
+<word bottom="1812" left="1648" right="1681" top="1838">
+
+28
+</word>
+<word bottom="1813" left="2234" right="2244" top="1837">
+
+1
+</word>
+<word bottom="1770" left="330" right="387" top="1800">
+Key</word>
+<word bottom="1776" left="398" right="465" top="1799">
+West</word>
+<word bottom="1776" left="1370" right="1405" top="1801">
+
+90
+</word>
+<word bottom="1776" left="1649" right="1681" top="1801">
+
+19
+</word>
+<word bottom="1776" left="2233" right="2243" top="1800">
+
+1
+</word>
+<word bottom="1732" left="329" right="428" top="1762">
+Tampa</word>
+<word bottom="1745" left="932" right="952" top="1748">
+
+—
+</word>
+<word bottom="1739" left="1370" right="1402" top="1764">
+
+65
+</word>
+<word bottom="1738" left="1649" right="1682" top="1763">
+
+10
+</word>
+<word bottom="1739" left="2233" right="2243" top="1763">
+
+1
+</word>
+<word bottom="1688" left="302" right="459" top="1713">
+GEORGIA</word>
+<word bottom="1651" left="330" right="437" top="1675">
+Atlanta</word>
+<word bottom="1651" left="770" right="804" top="1676">
+
+67
+</word>
+<word bottom="1651" left="921" right="954" top="1676">
+
+73
+</word>
+<word bottom="1652" left="1071" right="1105" top="1676">
+
+78
+</word>
+<word bottom="1652" left="1370" right="1403" top="1677">
+
+76
+</word>
+<word bottom="1652" left="1647" right="1682" top="1677">
+
+42
+</word>
+<word bottom="1653" left="1838" right="1853" top="1676">
+
+4
+</word>
+<word bottom="1652" left="1964" right="1977" top="1676">
+
+5
+</word>
+<word bottom="1652" left="2088" right="2102" top="1677">
+
+6
+</word>
+<word bottom="1652" left="2233" right="2246" top="1677">
+
+3
+</word>
+<word bottom="1613" left="330" right="424" top="1638">
+Macon</word>
+<word bottom="1614" left="770" right="802" top="1638">
+
+61
+</word>
+<word bottom="1613" left="920" right="954" top="1639">
+
+66
+</word>
+<word bottom="1614" left="1071" right="1105" top="1639">
+
+70
+</word>
+<word bottom="1614" left="1369" right="1405" top="1639">
+
+60
+</word>
+<word bottom="1614" left="1648" right="1681" top="1640">
+
+28
+</word>
+<word bottom="1615" left="1837" right="1852" top="1639">
+
+4
+</word>
+<word bottom="1614" left="1963" right="1976" top="1638">
+
+5
+</word>
+<word bottom="1615" left="2087" right="2101" top="1639">
+
+6
+</word>
+<word bottom="1576" left="331" right="466" top="1601">
+Savannah</word>
+<word bottom="1584" left="1082" right="1102" top="1587">
+
+—
+</word>
+<word bottom="1577" left="1372" right="1404" top="1602">
+
+79
+</word>
+<word bottom="1577" left="1649" right="1682" top="1602">
+
+32
+</word>
+<word bottom="1578" left="2233" right="2244" top="1602">
+
+1
+</word>
+<word bottom="1527" left="304" right="413" top="1551">
+IDAHO</word>
+<word bottom="1489" left="331" right="405" top="1514">
+Boise</word>
+<word bottom="1489" left="771" right="804" top="1514">
+
+59
+</word>
+<word bottom="1489" left="921" right="955" top="1514">
+
+62
+</word>
+<word bottom="1489" left="1070" right="1103" top="1514">
+
+65
+</word>
+<word bottom="1490" left="1370" right="1404" top="1515">
+
+62
+</word>
+<word bottom="1490" left="1649" right="1682" top="1515">
+
+38
+</word>
+<word bottom="1490" left="1839" right="1854" top="1514">
+
+2
+</word>
+<word bottom="1490" left="1964" right="1977" top="1515">
+
+3
+</word>
+<word bottom="1490" left="2089" right="2102" top="1515">
+
+3
+</word>
+<word bottom="1451" left="330" right="462" top="1476">
+Pocatello</word>
+<word bottom="1451" left="771" right="805" top="1476">
+
+68
+</word>
+<word bottom="1452" left="921" right="955" top="1476">
+
+72
+</word>
+<word bottom="1452" left="1071" right="1104" top="1476">
+
+75
+</word>
+<word bottom="1453" left="1371" right="1404" top="1477">
+
+72
+</word>
+<word bottom="1452" left="1649" right="1682" top="1478">
+
+39
+</word>
+<word bottom="1453" left="1839" right="1853" top="1477">
+
+3
+</word>
+<word bottom="1453" left="1962" right="1978" top="1477">
+
+4
+</word>
+<word bottom="1454" left="2087" right="2103" top="1477">
+
+4
+</word>
+<word bottom="1402" left="304" right="450" top="1426">
+ILLINOIS</word>
+<word bottom="1359" left="330" right="443" top="1389">
+Chicago</word>
+<word bottom="1364" left="770" right="804" top="1388">
+
+57
+</word>
+<word bottom="1364" left="920" right="956" top="1389">
+
+60
+</word>
+<word bottom="1364" left="1070" right="1104" top="1389">
+
+63
+</word>
+<word bottom="1364" left="1370" right="1404" top="1390">
+
+59
+</word>
+<word bottom="1365" left="1649" right="1681" top="1390">
+
+35
+</word>
+<word bottom="1365" left="1840" right="1854" top="1389">
+
+2
+</word>
+<word bottom="1365" left="1964" right="1977" top="1390">
+
+3
+</word>
+<word bottom="1366" left="2089" right="2102" top="1390">
+
+3
+</word>
+<word bottom="1327" left="331" right="428" top="1352">
+Moline</word>
+<word bottom="1327" left="772" right="803" top="1351">
+
+71
+</word>
+<word bottom="1327" left="921" right="955" top="1352">
+
+76
+</word>
+<word bottom="1327" left="1072" right="1106" top="1352">
+
+80
+</word>
+<word bottom="1328" left="1371" right="1405" top="1353">
+
+72
+</word>
+<word bottom="1328" left="1649" right="1682" top="1353">
+
+34
+</word>
+<word bottom="1329" left="1838" right="1853" top="1352">
+
+4
+</word>
+<word bottom="1329" left="1963" right="1979" top="1352">
+
+4
+</word>
+<word bottom="1328" left="2089" right="2102" top="1352">
+
+5
+</word>
+<word bottom="1290" left="331" right="420" top="1314">
+Peoria</word>
+<word bottom="1289" left="772" right="805" top="1314">
+
+67
+</word>
+<word bottom="1290" left="922" right="953" top="1314">
+
+71
+</word>
+<word bottom="1290" left="1072" right="1104" top="1314">
+
+75
+</word>
+<word bottom="1290" left="1372" right="1406" top="1315">
+
+70
+</word>
+<word bottom="1290" left="1650" right="1681" top="1316">
+
+35
+</word>
+<word bottom="1290" left="1841" right="1853" top="1315">
+
+3
+</word>
+<word bottom="1291" left="1963" right="1979" top="1315">
+
+4
+</word>
+<word bottom="1290" left="2089" right="2102" top="1314">
+
+5
+</word>
+<word bottom="1246" left="332" right="487" top="1277">
+Springfield</word>
+<word bottom="1251" left="772" right="806" top="1276">
+
+67
+</word>
+<word bottom="1251" left="923" right="956" top="1276">
+
+70
+</word>
+<word bottom="1252" left="1073" right="1106" top="1277">
+
+74
+</word>
+<word bottom="1253" left="1372" right="1403" top="1277">
+
+71
+</word>
+<word bottom="1252" left="1650" right="1684" top="1278">
+
+30
+</word>
+<word bottom="1253" left="1841" right="1853" top="1277">
+
+3
+</word>
+<word bottom="1253" left="1964" right="1979" top="1277">
+
+4
+</word>
+<word bottom="1253" left="2088" right="2104" top="1277">
+
+4
+</word>
+<word bottom="1202" left="304" right="451" top="1226">
+INDIANA</word>
+<word bottom="1164" left="332" right="473" top="1189">
+Evansville</word>
+<word bottom="1164" left="772" right="806" top="1189">
+
+59
+</word>
+<word bottom="1164" left="922" right="955" top="1189">
+
+63
+</word>
+<word bottom="1164" left="1072" right="1105" top="1189">
+
+66
+</word>
+<word bottom="1165" left="1371" right="1403" top="1190">
+
+61
+</word>
+<word bottom="1165" left="1650" right="1682" top="1190">
+
+37
+</word>
+<word bottom="1165" left="1840" right="1854" top="1190">
+
+3
+</word>
+<word bottom="1165" left="1966" right="1978" top="1190">
+
+3
+</word>
+<word bottom="1166" left="2088" right="2104" top="1190">
+
+4
+</word>
+<word bottom="1127" left="333" right="396" top="1151">
+Fort</word>
+<word bottom="1123" left="406" right="502" top="1151">
+Wayne</word>
+<word bottom="1127" left="772" right="806" top="1152">
+
+67
+</word>
+<word bottom="1127" left="923" right="954" top="1151">
+
+71
+</word>
+<word bottom="1127" left="1072" right="1105" top="1151">
+
+75
+</word>
+<word bottom="1127" left="1372" right="1405" top="1153">
+
+69
+</word>
+<word bottom="1127" left="1651" right="1683" top="1153">
+
+36
+</word>
+<word bottom="1127" left="1841" right="1854" top="1152">
+
+3
+</word>
+<word bottom="1129" left="1964" right="1979" top="1152">
+
+4
+</word>
+<word bottom="1129" left="2089" right="2104" top="1152">
+
+4
+</word>
+<word bottom="1084" left="333" right="508" top="1113">
+Indianapolis</word>
+<word bottom="1089" left="773" right="806" top="1114">
+
+79
+</word>
+<word bottom="1089" left="923" right="955" top="1114">
+
+86
+</word>
+<word bottom="1088" left="1072" right="1106" top="1114">
+
+92
+</word>
+<word bottom="1090" left="1371" right="1404" top="1115">
+
+93
+</word>
+<word bottom="1090" left="1650" right="1683" top="1115">
+
+34
+</word>
+<word bottom="1090" left="1839" right="1853" top="1114">
+
+5
+</word>
+<word bottom="1090" left="1963" right="1978" top="1115">
+
+6
+</word>
+<word bottom="1090" left="2090" right="2104" top="1115">
+
+8
+</word>
+<word bottom="1091" left="2233" right="2246" top="1115">
+
+3
+</word>
+<word bottom="1039" left="305" right="393" top="1064">
+IOWA</word>
+<word bottom="996" left="333" right="486" top="1026">
+Burlington</word>
+<word bottom="1001" left="774" right="807" top="1026">
+
+76
+</word>
+<word bottom="1001" left="924" right="954" top="1026">
+
+81
+</word>
+<word bottom="1001" left="1074" right="1105" top="1026">
+
+87
+</word>
+<word bottom="1001" left="1373" right="1407" top="1027">
+
+72
+</word>
+<word bottom="1002" left="1650" right="1683" top="1027">
+
+23
+</word>
+<word bottom="1002" left="1840" right="1854" top="1026">
+
+5
+</word>
+<word bottom="1002" left="1965" right="1979" top="1027">
+
+6
+</word>
+<word bottom="1002" left="2091" right="2105" top="1027">
+
+8
+</word>
+<word bottom="963" left="332" right="383" top="988">
+Des</word>
+<word bottom="964" left="395" right="496" top="988">
+Moines</word>
+<word bottom="963" left="773" right="806" top="988">
+
+76
+</word>
+<word bottom="963" left="923" right="954" top="988">
+
+81
+</word>
+<word bottom="963" left="1073" right="1105" top="989">
+
+86
+</word>
+<word bottom="964" left="1372" right="1406" top="989">
+
+80
+</word>
+<word bottom="964" left="1649" right="1682" top="990">
+
+27
+</word>
+<word bottom="964" left="1839" right="1853" top="988">
+
+5
+</word>
+<word bottom="964" left="1964" right="1978" top="989">
+
+6
+</word>
+<word bottom="964" left="2089" right="2103" top="989">
+
+6
+</word>
+<word bottom="965" left="2233" right="2248" top="989">
+
+2
+</word>
+<word bottom="926" left="333" right="413" top="951">
+Sioux</word>
+<word bottom="922" left="425" right="485" top="950">
+City</word>
+<word bottom="926" left="773" right="806" top="950">
+
+77
+</word>
+<word bottom="925" left="923" right="956" top="951">
+
+83
+</word>
+<word bottom="926" left="1073" right="1106" top="951">
+
+88
+</word>
+<word bottom="926" left="1373" right="1406" top="952">
+
+88
+</word>
+<word bottom="926" left="1650" right="1682" top="952">
+
+36
+</word>
+<word bottom="928" left="1838" right="1854" top="951">
+
+4
+</word>
+<word bottom="926" left="1964" right="1978" top="951">
+
+5
+</word>
+<word bottom="927" left="2089" right="2104" top="951">
+
+6
+</word>
+<word bottom="875" left="305" right="440" top="900">
+KANSAS</word>
+<word bottom="838" left="331" right="480" top="863">
+Concordia</word>
+<word bottom="838" left="772" right="806" top="863">
+
+79
+</word>
+<word bottom="838" left="923" right="956" top="863">
+
+85
+</word>
+<word bottom="838" left="1072" right="1106" top="863">
+
+90
+</word>
+<word bottom="840" left="1373" right="1405" top="864">
+
+74
+</word>
+<word bottom="839" left="1651" right="1683" top="864">
+
+16
+</word>
+<word bottom="839" left="1841" right="1854" top="863">
+
+7
+</word>
+<word bottom="839" left="1965" right="1979" top="864">
+
+8
+</word>
+<word bottom="839" left="2089" right="2105" top="864">
+
+9
+</word>
+<word bottom="795" left="333" right="424" top="826">
+Dodge</word>
+<word bottom="796" left="435" right="495" top="826">
+City</word>
+<word bottom="801" left="773" right="805" top="826">
+
+73
+</word>
+<word bottom="801" left="922" right="955" top="826">
+
+77
+</word>
+<word bottom="801" left="1073" right="1107" top="826">
+
+80
+</word>
+<word bottom="802" left="1372" right="1406" top="827">
+
+72
+</word>
+<word bottom="802" left="1650" right="1681" top="827">
+
+35
+</word>
+<word bottom="802" left="1840" right="1854" top="826">
+
+3
+</word>
+<word bottom="802" left="1966" right="1978" top="826">
+
+3
+</word>
+<word bottom="803" left="2088" right="2104" top="827">
+
+4
+</word>
+<word bottom="758" left="332" right="440" top="788">
+Topeka</word>
+<word bottom="764" left="773" right="807" top="788">
+
+72
+</word>
+<word bottom="764" left="923" right="956" top="788">
+
+77
+</word>
+<word bottom="764" left="1073" right="1107" top="789">
+
+82
+</word>
+<word bottom="765" left="1372" right="1405" top="790">
+
+79
+</word>
+<word bottom="764" left="1651" right="1683" top="790">
+
+28
+</word>
+<word bottom="765" left="1839" right="1855" top="789">
+
+4
+</word>
+<word bottom="764" left="1965" right="1978" top="788">
+
+5
+</word>
+<word bottom="765" left="2089" right="2104" top="789">
+
+6
+</word>
+<word bottom="726" left="331" right="440" top="751">
+Wichita</word>
+<word bottom="726" left="774" right="806" top="751">
+
+76
+</word>
+<word bottom="726" left="924" right="955" top="751">
+
+81
+</word>
+<word bottom="726" left="1074" right="1105" top="752">
+
+86
+</word>
+<word bottom="727" left="1372" right="1406" top="752">
+
+90
+</word>
+<word bottom="728" left="1651" right="1683" top="753">
+
+37
+</word>
+<word bottom="728" left="1839" right="1855" top="752">
+
+4
+</word>
+<word bottom="727" left="1965" right="1978" top="751">
+
+5
+</word>
+<word bottom="727" left="2089" right="2103" top="751">
+
+5
+</word>
+<word bottom="677" left="305" right="492" top="702">
+KENTUCKY</word>
+<word bottom="639" left="333" right="471" top="664">
+Louisville</word>
+<word bottom="639" left="773" right="807" top="664">
+
+64
+</word>
+<word bottom="639" left="923" right="957" top="665">
+
+68
+</word>
+<word bottom="640" left="1073" right="1107" top="665">
+
+72
+</word>
+<word bottom="640" left="1371" right="1405" top="666">
+
+66
+</word>
+<word bottom="640" left="1650" right="1684" top="666">
+
+32
+</word>
+<word bottom="640" left="1841" right="1854" top="665">
+
+3
+</word>
+<word bottom="641" left="1964" right="1979" top="665">
+
+4
+</word>
+<word bottom="640" left="2089" right="2103" top="664">
+
+5
+</word>
+<word bottom="589" left="305" right="493" top="615">
+LOUISIANA</word>
+<word bottom="547" left="334" right="489" top="578">
+Shreveport</word>
+<word bottom="552" left="773" right="806" top="577">
+
+57
+</word>
+<word bottom="553" left="922" right="957" top="578">
+
+60
+</word>
+<word bottom="553" left="1071" right="1106" top="578">
+
+64
+</word>
+<word bottom="553" left="1371" right="1404" top="579">
+
+53
+</word>
+<word bottom="554" left="1651" right="1681" top="578">
+
+11
+</word>
+<word bottom="553" left="1840" right="1853" top="577">
+
+5
+</word>
+<word bottom="553" left="1964" right="1978" top="577">
+
+5
+</word>
+<word bottom="553" left="2089" right="2103" top="578">
+
+6
+</word>
+<word bottom="503" left="305" right="415" top="528">
+MAINE</word>
+<word bottom="465" left="332" right="455" top="491">
+Portland</word>
+<word bottom="466" left="773" right="806" top="491">
+
+67
+</word>
+<word bottom="466" left="923" right="958" top="491">
+
+72
+</word>
+<word bottom="466" left="1073" right="1106" top="491">
+
+77
+</word>
+<word bottom="467" left="1373" right="1405" top="492">
+
+73
+</word>
+<word bottom="467" left="1651" right="1682" top="492">
+
+37
+</word>
+<word bottom="467" left="1839" right="1853" top="491">
+
+4
+</word>
+<word bottom="467" left="1965" right="1978" top="491">
+
+5
+</word>
+<word bottom="466" left="2089" right="2104" top="491">
+
+6
+</word>
+<word bottom="416" left="305" right="502" top="441">
+MARYLAND</word>
+<word bottom="379" left="334" right="474" top="404">
+Baltimore</word>
+<word bottom="386" left="784" right="805" top="389">
+
+—
+</word>
+<word bottom="387" left="1084" right="1104" top="390">
+
+—
+</word>
+<word bottom="380" left="1372" right="1404" top="405">
+
+71
+</word>
+<word bottom="380" left="1650" right="1683" top="406">
+
+29
+</word>
+<word bottom="387" left="1842" right="1861" top="390">
+
+—
+</word>
+<word bottom="387" left="1966" right="1987" top="390">
+
+—
+</word>
+<word bottom="380" left="2235" right="2245" top="404">
+
+1
+</word>
+</words>
+</ocrresult>
+

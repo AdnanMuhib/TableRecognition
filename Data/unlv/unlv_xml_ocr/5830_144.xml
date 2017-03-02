@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490968272.png" width="2544"/>
+<words>
+<word bottom="2975" left="446" right="468" top="3005">
+
+F
+</word>
+<word bottom="2974" left="506" right="654" top="3005">
+GRAPH</word>
+<word bottom="2977" left="1146" right="1352" top="3010">
+SUMMARY</word>
+<word bottom="2978" left="1389" right="1564" top="3010">
+REPORT</word>
+<word bottom="2923" left="450" right="652" top="2953">
+
+VersNo=
+</word>
+<word bottom="2923" left="697" right="775" top="2955">
+
+1.0
+</word>
+<word bottom="2874" left="964" right="1142" top="2906">
+NEVADA</word>
+<word bottom="2875" left="1177" right="1291" top="2907">
+TEST</word>
+<word bottom="2876" left="1330" right="1444" top="2908">
+SITE</word>
+<word bottom="2877" left="1483" right="1566" top="2908">
+
+PMF
+</word>
+<word bottom="2876" left="1604" right="1750" top="2908">
+STUDY</word>
+<word bottom="2826" left="1240" right="1357" top="2858">
+TUFF</word>
+<word bottom="2827" left="1393" right="1510" top="2858">
+RAMP</word>
+<word bottom="2772" left="723" right="1084" top="2805">
+THUNDERSTORM</word>
+<word bottom="2774" left="1117" right="1201" top="2805">
+
+PMF
+</word>
+<word bottom="2774" left="1240" right="1294" top="2807">
+AT</word>
+<word bottom="2775" left="1331" right="1414" top="2807">
+ONE</word>
+<word bottom="2775" left="1453" right="1564" top="2808">
+MIN.</word>
+<word bottom="2775" left="1605" right="1720" top="2807">
+UNIT</word>
+<word bottom="2773" left="1756" right="1996" top="2806">
+DURATION</word>
+<word bottom="2722" left="970" right="1053" top="2755">
+
+KLB
+</word>
+<word bottom="2723" left="1122" right="1417" top="2757">
+
+02-21-1986
+</word>
+<word bottom="2725" left="1488" right="1721" top="2757">
+
+08:49:53
+</word>
+<word bottom="2975" left="2121" right="2265" top="3008">
+Table</word>
+<word bottom="2975" left="2306" right="2357" top="3006">
+
+19
+</word>
+<word bottom="2915" left="2123" right="2239" top="2954">
+Page</word>
+<word bottom="2924" left="2308" right="2329" top="2954">
+
+9
+</word>
+<word bottom="2518" left="479" right="596" top="2550">
+TIME</word>
+<word bottom="2468" left="481" right="569" top="2501">
+min</word>
+<word bottom="2520" left="785" right="901" top="2552">
+RAIN</word>
+<word bottom="2470" left="823" right="873" top="2502">
+in</word>
+<word bottom="2521" left="1091" right="1205" top="2554">
+LOSS</word>
+<word bottom="2471" left="1126" right="1177" top="2504">
+in</word>
+<word bottom="2523" left="1363" right="1540" top="2555">
+EXCESS</word>
+<word bottom="2522" left="1697" right="1967" top="2554">
+
+UNITGRAPH
+</word>
+<word bottom="2473" left="1432" right="1483" top="2506">
+in</word>
+<word bottom="2471" left="1795" right="1875" top="2504">
+
+cfs
+</word>
+<word bottom="2520" left="2065" right="2364" top="2552">
+
+HYDROGRAPH
+</word>
+<word bottom="2469" left="2191" right="2272" top="2502">
+
+cfs
+</word>
+<word bottom="2315" left="427" right="597" top="2347">
+
+288.00
+</word>
+<word bottom="2317" left="759" right="901" top="2349">
+
+0.014
+</word>
+<word bottom="2318" left="1062" right="1205" top="2350">
+
+0.001
+</word>
+<word bottom="2320" left="1367" right="1510" top="2352">
+
+0.013
+</word>
+<word bottom="2316" left="2224" right="2303" top="2348">
+
+178
+</word>
+<word bottom="2265" left="424" right="595" top="2297">
+
+289.00
+</word>
+<word bottom="2267" left="757" right="899" top="2298">
+
+0.014
+</word>
+<word bottom="2268" left="1062" right="1201" top="2300">
+
+0.001
+</word>
+<word bottom="2270" left="1366" right="1509" top="2301">
+
+0.013
+</word>
+<word bottom="2266" left="2221" right="2298" top="2298">
+
+171
+</word>
+<word bottom="2214" left="428" right="598" top="2246">
+
+290.00
+</word>
+<word bottom="2217" left="758" right="901" top="2248">
+
+0.013
+</word>
+<word bottom="2218" left="1063" right="1206" top="2249">
+
+0.001
+</word>
+<word bottom="2219" left="1368" right="1510" top="2251">
+
+0.012
+</word>
+<word bottom="2216" left="2224" right="2305" top="2248">
+
+164
+</word>
+<word bottom="2164" left="424" right="596" top="2196">
+
+291.00
+</word>
+<word bottom="2166" left="757" right="899" top="2198">
+
+0.013
+</word>
+<word bottom="2167" left="1062" right="1201" top="2199">
+
+0.001
+</word>
+<word bottom="2168" left="1367" right="1508" top="2201">
+
+0.012
+</word>
+<word bottom="2166" left="2221" right="2302" top="2197">
+
+158
+</word>
+<word bottom="2113" left="428" right="598" top="2145">
+
+292.00
+</word>
+<word bottom="2115" left="758" right="901" top="2147">
+
+0.013
+</word>
+<word bottom="2116" left="1063" right="1206" top="2148">
+
+0.001
+</word>
+<word bottom="2118" left="1368" right="1512" top="2150">
+
+0.012
+</word>
+<word bottom="2114" left="2225" right="2304" top="2146">
+
+152
+</word>
+<word bottom="2063" left="425" right="596" top="2095">
+
+293.00
+</word>
+<word bottom="2064" left="757" right="898" top="2096">
+
+0.012
+</word>
+<word bottom="2065" left="1062" right="1201" top="2097">
+
+0.001
+</word>
+<word bottom="2067" left="1367" right="1507" top="2098">
+
+0.011
+</word>
+<word bottom="2064" left="2221" right="2302" top="2096">
+
+147
+</word>
+<word bottom="2012" left="429" right="598" top="2044">
+
+294.00
+</word>
+<word bottom="2014" left="759" right="901" top="2046">
+
+0.012
+</word>
+<word bottom="2015" left="1063" right="1206" top="2047">
+
+0.001
+</word>
+<word bottom="2016" left="1368" right="1510" top="2048">
+
+0.011
+</word>
+<word bottom="2013" left="2224" right="2304" top="2045">
+
+141
+</word>
+<word bottom="1961" left="425" right="597" top="1993">
+
+295.00
+</word>
+<word bottom="1962" left="758" right="898" top="1995">
+
+0.012
+</word>
+<word bottom="1964" left="1062" right="1201" top="1996">
+
+0.001
+</word>
+<word bottom="1965" left="1367" right="1507" top="1997">
+
+0.011
+</word>
+<word bottom="1962" left="2221" right="2302" top="1994">
+
+136
+</word>
+<word bottom="1911" left="429" right="598" top="1942">
+
+296.00
+</word>
+<word bottom="1912" left="760" right="901" top="1944">
+
+0.012
+</word>
+<word bottom="1913" left="1063" right="1207" top="1945">
+
+0.001
+</word>
+<word bottom="1914" left="1369" right="1511" top="1946">
+
+0.011
+</word>
+<word bottom="1912" left="2226" right="2305" top="1943">
+
+132
+</word>
+<word bottom="1860" left="427" right="598" top="1891">
+
+297.00
+</word>
+<word bottom="1861" left="759" right="899" top="1893">
+
+0.012
+</word>
+<word bottom="1862" left="1063" right="1202" top="1894">
+
+0.001
+</word>
+<word bottom="1864" left="1368" right="1507" top="1895">
+
+0.011
+</word>
+<word bottom="1861" left="2222" right="2303" top="1893">
+
+127
+</word>
+<word bottom="1810" left="430" right="600" top="1841">
+
+298.00
+</word>
+<word bottom="1811" left="760" right="902" top="1843">
+
+0.011
+</word>
+<word bottom="1813" left="1064" right="1207" top="1844">
+
+0.001
+</word>
+<word bottom="1814" left="1369" right="1512" top="1846">
+
+0.010
+</word>
+<word bottom="1812" left="2226" right="2306" top="1843">
+
+124
+</word>
+<word bottom="1760" left="427" right="598" top="1791">
+
+299.00
+</word>
+<word bottom="1761" left="759" right="897" top="1793">
+
+0.011
+</word>
+<word bottom="1762" left="1063" right="1202" top="1794">
+
+0.001
+</word>
+<word bottom="1764" left="1368" right="1511" top="1796">
+
+0.010
+</word>
+<word bottom="1762" left="2223" right="2304" top="1794">
+
+120
+</word>
+<word bottom="1709" left="430" right="600" top="1740">
+
+300.00
+</word>
+<word bottom="1711" left="760" right="903" top="1742">
+
+0.011
+</word>
+<word bottom="1712" left="1065" right="1207" top="1744">
+
+0.001
+</word>
+<word bottom="1714" left="1369" right="1513" top="1745">
+
+0.010
+</word>
+<word bottom="1712" left="2227" right="2306" top="1744">
+
+116
+</word>
+<word bottom="1659" left="428" right="599" top="1690">
+
+301.00
+</word>
+<word bottom="1660" left="760" right="898" top="1691">
+
+0.011
+</word>
+<word bottom="1661" left="1064" right="1204" top="1693">
+
+0.001
+</word>
+<word bottom="1662" left="1369" right="1512" top="1695">
+
+0.010
+</word>
+<word bottom="1662" left="2223" right="2304" top="1693">
+
+113
+</word>
+<word bottom="1608" left="431" right="602" top="1639">
+
+302.00
+</word>
+<word bottom="1609" left="762" right="904" top="1640">
+
+0.011
+</word>
+<word bottom="1610" left="1067" right="1209" top="1642">
+
+0.001
+</word>
+<word bottom="1612" left="1371" right="1514" top="1643">
+
+0.010
+</word>
+<word bottom="1610" left="2228" right="2307" top="1642">
+
+110
+</word>
+<word bottom="1557" left="429" right="600" top="1589">
+
+303.00
+</word>
+<word bottom="1558" left="761" right="899" top="1590">
+
+0.011
+</word>
+<word bottom="1560" left="1065" right="1205" top="1592">
+
+0.001
+</word>
+<word bottom="1561" left="1370" right="1513" top="1593">
+
+0.010
+</word>
+<word bottom="1560" left="2224" right="2306" top="1592">
+
+108
+</word>
+<word bottom="1506" left="431" right="602" top="1537">
+
+304.00
+</word>
+<word bottom="1507" left="763" right="905" top="1538">
+
+0.011
+</word>
+<word bottom="1508" left="1067" right="1209" top="1540">
+
+0.001
+</word>
+<word bottom="1510" left="1371" right="1514" top="1542">
+
+0.010
+</word>
+<word bottom="1509" left="2228" right="2307" top="1541">
+
+105
+</word>
+<word bottom="1455" left="428" right="600" top="1487">
+
+305.00
+</word>
+<word bottom="1457" left="761" right="900" top="1488">
+
+0.011
+</word>
+<word bottom="1458" left="1066" right="1205" top="1489">
+
+0.001
+</word>
+<word bottom="1460" left="1370" right="1514" top="1491">
+
+0.010
+</word>
+<word bottom="1459" left="2225" right="2305" top="1490">
+
+103
+</word>
+<word bottom="1404" left="430" right="602" top="1436">
+
+306.00
+</word>
+<word bottom="1406" left="763" right="905" top="1437">
+
+0.011
+</word>
+<word bottom="1433" left="987" right="1013" top="1438">
+
+-
+</word>
+<word bottom="1407" left="1049" right="1211" top="1439">
+
+-(17001
+</word>
+<word bottom="1408" left="1372" right="1515" top="1440">
+
+0.010
+</word>
+<word bottom="1407" left="2228" right="2307" top="1439">
+
+101
+</word>
+<word bottom="1354" left="428" right="600" top="1386">
+
+307.00
+</word>
+<word bottom="1355" left="761" right="900" top="1387">
+
+0.011
+</word>
+<word bottom="1356" left="1066" right="1205" top="1388">
+
+0.001
+</word>
+<word bottom="1358" left="1371" right="1514" top="1390">
+
+0.010
+</word>
+<word bottom="1357" left="2255" right="2306" top="1389">
+
+99
+</word>
+<word bottom="1303" left="430" right="602" top="1334">
+
+308.00
+</word>
+<word bottom="1304" left="763" right="905" top="1335">
+
+0.011
+</word>
+<word bottom="1305" left="1067" right="1210" top="1337">
+
+0.001
+</word>
+<word bottom="1308" left="1373" right="1516" top="1339">
+
+0.010
+</word>
+<word bottom="1307" left="2256" right="2308" top="1338">
+
+98
+</word>
+<word bottom="1252" left="428" right="600" top="1284">
+
+309.00
+</word>
+<word bottom="1254" left="762" right="899" top="1286">
+
+0.011
+</word>
+<word bottom="1255" left="1067" right="1206" top="1287">
+
+0.001
+</word>
+<word bottom="1257" left="1372" right="1515" top="1289">
+
+0.010
+</word>
+<word bottom="1257" left="2255" right="2306" top="1288">
+
+97
+</word>
+<word bottom="1202" left="430" right="602" top="1234">
+
+310.00
+</word>
+<word bottom="1203" left="764" right="906" top="1235">
+
+0.010
+</word>
+<word bottom="1205" left="1068" right="1211" top="1236">
+
+0.001
+</word>
+<word bottom="1207" left="1373" right="1516" top="1238">
+
+0.009
+</word>
+<word bottom="1206" left="2257" right="2309" top="1238">
+
+96
+</word>
+<word bottom="1151" left="428" right="600" top="1183">
+
+311.00
+</word>
+<word bottom="1153" left="762" right="905" top="1184">
+
+0.010
+</word>
+<word bottom="1154" left="1067" right="1206" top="1185">
+
+0.001
+</word>
+<word bottom="1156" left="1372" right="1514" top="1188">
+
+0.009
+</word>
+<word bottom="1155" left="2255" right="2306" top="1187">
+
+95
+</word>
+<word bottom="1100" left="430" right="602" top="1132">
+
+312.00
+</word>
+<word bottom="1102" left="764" right="906" top="1134">
+
+0.010
+</word>
+<word bottom="1103" left="1067" right="1211" top="1135">
+
+0.001
+</word>
+<word bottom="1105" left="1373" right="1516" top="1137">
+
+0.009
+</word>
+<word bottom="1105" left="2258" right="2309" top="1137">
+
+94
+</word>
+<word bottom="1050" left="428" right="600" top="1082">
+
+313.00
+</word>
+<word bottom="1052" left="762" right="905" top="1083">
+
+0.010
+</word>
+<word bottom="1053" left="1067" right="1207" top="1084">
+
+0.001
+</word>
+<word bottom="1055" left="1372" right="1515" top="1087">
+
+0.009
+</word>
+<word bottom="1055" left="2256" right="2306" top="1087">
+
+92
+</word>
+<word bottom="1000" left="429" right="602" top="1031">
+
+314.00
+</word>
+<word bottom="1001" left="764" right="906" top="1033">
+
+0.010
+</word>
+<word bottom="1003" left="1068" right="1211" top="1034">
+
+0.001
+</word>
+<word bottom="1005" left="1373" right="1517" top="1037">
+
+0.009
+</word>
+<word bottom="1005" left="2258" right="2310" top="1036">
+
+91
+</word>
+<word bottom="949" left="427" right="600" top="981">
+
+315.00
+</word>
+<word bottom="950" left="762" right="905" top="982">
+
+0.010
+</word>
+<word bottom="951" left="1067" right="1207" top="983">
+
+0.001
+</word>
+<word bottom="954" left="1372" right="1515" top="986">
+
+0.009
+</word>
+<word bottom="953" left="2256" right="2308" top="985">
+
+90
+</word>
+<word bottom="899" left="428" right="602" top="930">
+
+316.00
+</word>
+<word bottom="900" left="764" right="906" top="932">
+
+0.010
+</word>
+<word bottom="902" left="1068" right="1211" top="934">
+
+0.001
+</word>
+<word bottom="904" left="1373" right="1517" top="936">
+
+0.009
+</word>
+<word bottom="903" left="2258" right="2309" top="935">
+
+89
+</word>
+<word bottom="848" left="427" right="600" top="880">
+
+317.00
+</word>
+<word bottom="849" left="762" right="905" top="881">
+
+0.009
+</word>
+<word bottom="851" left="1067" right="1207" top="883">
+
+0.001
+</word>
+<word bottom="853" left="1372" right="1515" top="885">
+
+0.008
+</word>
+<word bottom="852" left="2257" right="2307" top="884">
+
+87
+</word>
+<word bottom="798" left="429" right="602" top="830">
+
+318.00
+</word>
+<word bottom="799" left="764" right="907" top="832">
+
+0.009
+</word>
+<word bottom="801" left="1068" right="1211" top="833">
+
+0.001
+</word>
+<word bottom="803" left="1373" right="1517" top="835">
+
+0.008
+</word>
+<word bottom="803" left="2258" right="2310" top="834">
+
+86
+</word>
+<word bottom="748" left="428" right="600" top="780">
+
+319.00
+</word>
+<word bottom="750" left="763" right="905" top="782">
+
+0.009
+</word>
+<word bottom="751" left="1067" right="1207" top="783">
+
+0.001
+</word>
+<word bottom="753" left="1373" right="1515" top="785">
+
+0.008
+</word>
+<word bottom="753" left="2258" right="2309" top="784">
+
+85
+</word>
+<word bottom="697" left="430" right="602" top="729">
+
+320.00
+</word>
+<word bottom="698" left="764" right="907" top="731">
+
+0.009
+</word>
+<word bottom="700" left="1070" right="1212" top="732">
+
+0.001
+</word>
+<word bottom="702" left="1373" right="1517" top="734">
+
+0.008
+</word>
+<word bottom="702" left="2258" right="2311" top="732">
+
+84
+</word>
+<word bottom="646" left="428" right="601" top="678">
+
+321.00
+</word>
+<word bottom="648" left="764" right="906" top="680">
+
+0.009
+</word>
+<word bottom="650" left="1068" right="1207" top="681">
+
+0.001
+</word>
+<word bottom="652" left="1373" right="1516" top="683">
+
+0.008
+</word>
+<word bottom="651" left="2258" right="2309" top="683">
+
+83
+</word>
+<word bottom="595" left="431" right="603" top="627">
+
+322.00
+</word>
+<word bottom="597" left="764" right="908" top="629">
+
+0.008
+</word>
+<word bottom="599" left="1070" right="1211" top="631">
+
+0.001
+</word>
+<word bottom="601" left="1375" right="1517" top="633">
+
+0.007
+</word>
+<word bottom="600" left="2260" right="2311" top="632">
+
+82
+</word>
+<word bottom="546" left="428" right="602" top="577">
+
+323.00
+</word>
+<word bottom="547" left="764" right="906" top="579">
+
+0.008
+</word>
+<word bottom="549" left="1068" right="1208" top="581">
+
+0.001
+</word>
+<word bottom="551" left="1373" right="1515" top="583">
+
+0.007
+</word>
+<word bottom="550" left="2258" right="2310" top="582">
+
+80
+</word>
+<word bottom="495" left="431" right="603" top="526">
+
+324.00
+</word>
+<word bottom="496" left="765" right="908" top="528">
+
+0.008
+</word>
+<word bottom="498" left="1070" right="1212" top="530">
+
+0.001
+</word>
+<word bottom="500" left="1375" right="1518" top="533">
+
+0.007
+</word>
+<word bottom="500" left="2261" right="2312" top="531">
+
+78
+</word>
+<word bottom="445" left="429" right="602" top="476">
+
+325.00
+</word>
+<word bottom="447" left="764" right="906" top="478">
+
+0.008
+</word>
+<word bottom="449" left="1069" right="1208" top="480">
+
+0.001
+</word>
+<word bottom="451" left="1374" right="1514" top="482">
+
+0.007
+</word>
+<word bottom="450" left="2258" right="2309" top="481">
+
+77
+</word>
+<word bottom="395" left="432" right="604" top="425">
+
+326.00
+</word>
+<word bottom="396" left="766" right="908" top="428">
+
+0.008
+</word>
+<word bottom="398" left="1070" right="1212" top="430">
+
+0.001
+</word>
+<word bottom="401" left="1376" right="1517" top="432">
+
+0.007
+</word>
+<word bottom="400" left="2261" right="2312" top="430">
+
+76
+</word>
+<word bottom="345" left="431" right="602" top="375">
+
+327.00
+</word>
+<word bottom="346" left="765" right="905" top="378">
+
+0.007
+</word>
+<word bottom="348" left="1069" right="1208" top="379">
+
+0.001
+</word>
+<word bottom="350" left="1374" right="1517" top="382">
+
+0.006
+</word>
+<word bottom="350" left="2260" right="2310" top="380">
+
+74
+</word>
+<word bottom="295" left="432" right="604" top="326">
+
+328.00
+</word>
+<word bottom="297" left="767" right="908" top="329">
+
+0.007
+</word>
+<word bottom="299" left="1070" right="1213" top="330">
+
+0.001
+</word>
+<word bottom="301" left="1376" right="1518" top="332">
+
+0.006
+</word>
+<word bottom="300" left="2261" right="2312" top="332">
+
+72
+</word>
+</words>
+</ocrresult>
+

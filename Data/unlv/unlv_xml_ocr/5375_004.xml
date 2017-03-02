@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490849832.png" width="2544"/>
+<words>
+<word bottom="2884" left="1224" right="1566" top="2925">
+Introduction</word>
+<word bottom="2741" left="564" right="733" top="2779">
+Sandia</word>
+<word bottom="2741" left="761" right="1104" top="2781">
+Laboratories</word>
+<word bottom="2735" left="1136" right="1362" top="2777">
+operates</word>
+<word bottom="2748" left="1395" right="1419" top="2775">
+a</word>
+<word bottom="2747" left="1455" right="1650" top="2785">
+seismic</word>
+<word bottom="2747" left="1683" right="1884" top="2787">
+network</word>
+<word bottom="2745" left="1913" right="1968" top="2788">
+of</word>
+<word bottom="2749" left="2001" right="2084" top="2787">
+six</word>
+<word bottom="2746" left="2116" right="2337" top="2786">
+stations</word>
+<word bottom="1792" left="563" right="786" top="1829">
+Stations</word>
+<word bottom="1793" left="818" right="902" top="1820">
+are</word>
+<word bottom="1792" left="936" right="989" top="1829">
+in</word>
+<word bottom="1792" left="1024" right="1216" top="1830">
+tunnels</word>
+<word bottom="1794" left="1247" right="1362" top="1831">
+with</word>
+<word bottom="1795" left="1393" right="1619" top="1825">
+concrete</word>
+<word bottom="1794" left="1653" right="1963" top="1832">
+seismometer</word>
+<word bottom="1783" left="1996" right="2106" top="1833">
+pads</word>
+<word bottom="1784" left="2138" right="2307" top="1833">
+poured</word>
+<word bottom="1695" left="420" right="475" top="1723">
+on</word>
+<word bottom="1696" left="505" right="724" top="1734">
+bedrock.</word>
+<word bottom="1697" left="788" right="872" top="1735">
+All</word>
+<word bottom="1697" left="908" right="1129" top="1735">
+stations</word>
+<word bottom="1698" left="1162" right="1245" top="1727">
+are</word>
+<word bottom="1690" left="1277" right="1504" top="1737">
+remotely</word>
+<word bottom="1698" left="1537" right="1820" top="1739">
+controlled</word>
+<word bottom="1696" left="1853" right="1966" top="1739">
+from</word>
+<word bottom="1699" left="1995" right="2077" top="1738">
+and</word>
+<word bottom="1698" left="2109" right="2335" top="1738">
+recorded</word>
+<word bottom="1601" left="421" right="476" top="1632">
+at</word>
+<word bottom="1602" left="506" right="532" top="1629">
+a</word>
+<word bottom="1601" left="563" right="758" top="1639">
+control</word>
+<word bottom="1591" left="792" right="932" top="1638">
+point</word>
+<word bottom="1601" left="963" right="1019" top="1629">
+on</word>
+<word bottom="1601" left="1049" right="1131" top="1639">
+NTS</word>
+<word bottom="1603" left="1161" right="1274" top="1640">
+with</word>
+<word bottom="1595" left="1307" right="1418" top="1640">
+Iris</word>
+<word bottom="1603" left="1451" right="1562" top="1640">
+Time</word>
+<word bottom="1604" left="1594" right="1706" top="1644">
+Code</word>
+<word bottom="1602" left="1739" right="1963" top="1643">
+recorded</word>
+<word bottom="1602" left="1994" right="2051" top="1632">
+on</word>
+<word bottom="1592" left="2085" right="2192" top="1637">
+tape</word>
+<word bottom="1603" left="2224" right="2279" top="1637">
+at</word>
+<word bottom="1505" left="423" right="503" top="1543">
+the</word>
+<word bottom="1495" left="536" right="788" top="1544">
+recording</word>
+<word bottom="1496" left="821" right="982" top="1544">
+point.</word>
+<word bottom="1507" left="1049" right="1159" top="1545">
+Thus</word>
+<word bottom="1508" left="1193" right="1271" top="1546">
+all</word>
+<word bottom="1509" left="1310" right="1532" top="1546">
+stations</word>
+<word bottom="1508" left="1565" right="1679" top="1548">
+have</word>
+<word bottom="1511" left="1709" right="1735" top="1538">
+a</word>
+<word bottom="1508" left="1766" right="1936" top="1538">
+common</word>
+<word bottom="1509" left="1966" right="2049" top="1548">
+and</word>
+<word bottom="1507" left="2081" right="2306" top="1542">
+accurate</word>
+<word bottom="1410" left="423" right="533" top="1447">
+time</word>
+<word bottom="1410" left="563" right="695" top="1448">
+base.</word>
+<word bottom="1402" left="762" right="929" top="1449">
+Signal</word>
+<word bottom="1412" left="965" right="1160" top="1450">
+transit</word>
+<word bottom="1412" left="1195" right="1303" top="1449">
+time</word>
+<word bottom="1414" left="1337" right="1417" top="1451">
+via</word>
+<word bottom="1404" left="1454" right="1706" top="1453">
+telephone</word>
+<word bottom="1414" left="1739" right="1850" top="1453">
+link</word>
+<word bottom="1411" left="1881" right="1935" top="1447">
+to</word>
+<word bottom="1413" left="1968" right="2050" top="1453">
+the</word>
+<word bottom="1412" left="2082" right="2305" top="1452">
+stations</word>
+<word bottom="1413" left="2341" right="2391" top="1452">
+is</word>
+<word bottom="1314" left="420" right="562" top="1353">
+below</word>
+<word bottom="1316" left="595" right="674" top="1353">
+the</word>
+<word bottom="1315" left="705" right="989" top="1354">
+resolution</word>
+<word bottom="1317" left="1019" right="1075" top="1355">
+of</word>
+<word bottom="1318" left="1106" right="1131" top="1346">
+a</word>
+<word bottom="1308" left="1165" right="1328" top="1355">
+
+si
+
+imal
+</word>
+<word bottom="1318" left="1362" right="1525" top="1350">
+onset.</word>
+<word bottom="1211" left="564" right="757" top="1259">
+Signals</word>
+<word bottom="1221" left="791" right="905" top="1261">
+from</word>
+<word bottom="1222" left="936" right="1073" top="1261">
+these</word>
+<word bottom="1223" left="1106" right="1328" top="1260">
+
+sta:i)ns
+</word>
+<word bottom="1224" left="1364" right="1447" top="1251">
+are</word>
+<word bottom="1215" left="1477" right="1761" top="1263">
+ordinarily</word>
+<word bottom="1222" left="1793" right="2018" top="1267">
+recorded</word>
+<word bottom="1214" left="2050" right="2162" top="1264">
+only</word>
+<word bottom="1223" left="2195" right="2278" top="1264">
+for</word>
+<word bottom="1127" left="423" right="671" top="1165">
+scheduled</word>
+<word bottom="1127" left="703" right="786" top="1164">
+
+NTS
+</word>
+<word bottom="1127" left="818" right="1008" top="1160">
+events.</word>
+<word bottom="1127" left="1073" right="1131" top="1164">
+On</word>
+<word bottom="1119" left="1159" right="1330" top="1165">
+August</word>
+<word bottom="1123" left="1363" right="1409" top="1165">
+
+5,
+</word>
+<word bottom="1123" left="1451" right="1559" top="1168">
+
+1971
+</word>
+<word bottom="1130" left="1592" right="1647" top="1159">
+an</word>
+<word bottom="1119" left="1680" right="1962" top="1170">
+earthquake</word>
+<word bottom="1128" left="1991" right="2219" top="1168">
+occurred</word>
+<word bottom="1128" left="2252" right="2307" top="1162">
+at</word>
+<word bottom="1032" left="421" right="559" top="1069">
+about</word>
+<word bottom="1026" left="592" right="814" top="1075">
+
+17:58:17
+</word>
+<word bottom="1032" left="845" right="932" top="1068">
+GMT</word>
+<word bottom="1032" left="958" right="1073" top="1071">
+with</word>
+<word bottom="1033" left="1104" right="1158" top="1061">
+an</word>
+<word bottom="1023" left="1190" right="1445" top="1071">
+epicenter</word>
+<word bottom="1034" left="1478" right="1674" top="1073">
+located</word>
+<word bottom="1033" left="1709" right="1762" top="1073">
+in</word>
+<word bottom="1031" left="1790" right="1898" top="1073">
+
+NTS.
+</word>
+<word bottom="1032" left="1960" right="2078" top="1073">
+When</word>
+<word bottom="1031" left="2111" right="2191" top="1074">
+the</word>
+<word bottom="1031" left="2222" right="2390" top="1072">
+earth-</word>
+<word bottom="928" left="419" right="560" top="976">
+quake</word>
+<word bottom="938" left="587" right="671" top="967">
+was</word>
+<word bottom="937" left="706" right="814" top="976">
+felt</word>
+<word bottom="937" left="845" right="900" top="971">
+at</word>
+<word bottom="938" left="936" right="1015" top="977">
+the</word>
+<word bottom="937" left="1046" right="1242" top="977">
+control</word>
+<word bottom="929" left="1275" right="1436" top="977">
+point,</word>
+<word bottom="939" left="1476" right="1730" top="979">
+recorders</word>
+<word bottom="938" left="1761" right="1876" top="968">
+were</word>
+<word bottom="936" left="1910" right="2075" top="979">
+turned</word>
+<word bottom="937" left="2105" right="2163" top="967">
+on</word>
+<word bottom="932" left="2195" right="2249" top="977">
+in</word>
+<word bottom="937" left="2282" right="2392" top="977">
+time</word>
+<word bottom="842" left="423" right="474" top="874">
+to</word>
+<word bottom="842" left="505" right="701" top="879">
+receive</word>
+<word bottom="841" left="734" right="815" top="880">
+the</word>
+<word bottom="833" left="847" right="1013" top="881">
+signal</word>
+<word bottom="843" left="1046" right="1100" top="875">
+at</word>
+<word bottom="843" left="1131" right="1213" top="882">
+all</word>
+<word bottom="842" left="1247" right="1495" top="882">
+stations.</word>
+<word bottom="833" left="1560" right="1703" top="880">
+Paper</word>
+<word bottom="842" left="1735" right="1931" top="883">
+records</word>
+<word bottom="841" left="1960" right="2076" top="872">
+were</word>
+<word bottom="833" left="2105" right="2362" top="882">
+generated</word>
+<word bottom="748" left="421" right="475" top="780">
+at</word>
+<word bottom="748" left="508" right="561" top="786">
+le</word>
+<word bottom="740" left="588" right="778" top="790">
+
+um/sec,
+</word>
+<word bottom="745" left="821" right="900" top="786">
+the</word>
+<word bottom="747" left="932" right="1098" top="786">
+normal</word>
+<word bottom="748" left="1133" right="1244" top="786">
+shot</word>
+<word bottom="740" left="1275" right="1531" top="787">
+recording</word>
+<word bottom="739" left="1564" right="1725" top="789">
+speed.</word>
+<word bottom="651" left="561" right="756" top="691">
+Arrival</word>
+<word bottom="651" left="791" right="900" top="690">
+time</word>
+<word bottom="651" left="933" right="1015" top="691">
+for</word>
+<word bottom="650" left="1050" right="1129" top="691">
+the</word>
+<word bottom="642" left="1159" right="1299" top="690">
+quake</word>
+<word bottom="653" left="1329" right="1414" top="681">
+was</word>
+<word bottom="652" left="1449" right="1558" top="692">
+read</word>
+<word bottom="652" left="1590" right="1646" top="687">
+at</word>
+<word bottom="642" left="1678" right="2391" top="692">
+
+each.of,,the-six'statione'
+</word>
+<word bottom="620" left="2106" right="2127" top="644">
+
+4
+</word>
+<word bottom="613" left="2154" right="2158" top="619">
+
+,
+</word>
+<word bottom="556" left="425" right="476" top="588">
+to</word>
+<word bottom="556" left="507" right="534" top="585">
+a</word>
+<word bottom="556" left="562" right="786" top="595">
+
+hundreth
+</word>
+<word bottom="555" left="816" right="870" top="584">
+or</word>
+<word bottom="556" left="905" right="1044" top="594">
+tenth</word>
+<word bottom="556" left="1073" right="1128" top="595">
+of</word>
+<word bottom="557" left="1159" right="1185" top="585">
+a</word>
+<word bottom="557" left="1218" right="1384" top="596">
+second</word>
+<word bottom="547" left="1417" right="1675" top="596">
+depending</word>
+<word bottom="555" left="1704" right="1762" top="586">
+on</word>
+<word bottom="555" left="1793" right="1875" top="596">
+the</word>
+<word bottom="543" left="1905" right="2412" top="603">
+
+emplitude..ofithel:
+</word>
+<word bottom="461" left="421" right="637" top="500">
+arrival.</word>
+<word bottom="461" left="701" right="897" top="499">
+Arrival</word>
+<word bottom="460" left="934" right="1043" top="498">
+time</word>
+<word bottom="460" left="1074" right="1383" top="500">
+differences</word>
+<word bottom="463" left="1416" right="1471" top="494">
+at</word>
+<word bottom="462" left="1506" right="1589" top="501">
+the</word>
+<word bottom="458" left="1618" right="1816" top="501">
+various</word>
+<word bottom="458" left="1850" right="2073" top="502">
+stations</word>
+<word bottom="460" left="2103" right="2217" top="495">
+Were</word>
+<word bottom="448" left="2249" right="2388" top="501">
+noted</word>
+<word bottom="217" left="2364" right="2388" top="261">
+
+3
+</word>
+<word bottom="2646" left="422" right="588" top="2684">
+around</word>
+<word bottom="2648" left="624" right="702" top="2686">
+the</word>
+<word bottom="2647" left="734" right="903" top="2686">
+Nevada</word>
+<word bottom="2648" left="936" right="1047" top="2684">
+Test</word>
+<word bottom="2650" left="1080" right="1191" top="2688">
+Site</word>
+<word bottom="2642" left="1227" right="1384" top="2693">
+
+(NTS).
+</word>
+<word bottom="2652" left="1454" right="1653" top="2691">
+Station</word>
+<word bottom="2651" left="1684" right="1938" top="2692">
+locations</word>
+<word bottom="2653" left="1971" right="2054" top="2682">
+are</word>
+<word bottom="2655" left="2085" right="2138" top="2684">
+as</word>
+<word bottom="2652" left="2172" right="2387" top="2693">
+follows:</word>
+<word bottom="2503" left="422" right="618" top="2542">
+STATION</word>
+<word bottom="2505" left="1045" right="1277" top="2544">
+LATITUDE</word>
+<word bottom="2507" left="1562" right="1824" top="2547">
+LONGITUDE</word>
+<word bottom="2556" left="1905" right="1915" top="2565">
+
+•
+</word>
+<word bottom="2509" left="2111" right="2367" top="2549">
+ELEVATION</word>
+<word bottom="2403" left="419" right="609" top="2446">
+Nelson,</word>
+<word bottom="2410" left="648" right="753" top="2446">
+Nev.</word>
+<word bottom="2405" left="1052" right="1215" top="2455">
+
+35°421
+</word>
+<word bottom="2411" left="1253" right="1385" top="2454">
+
+44.6"
+</word>
+<word bottom="2408" left="1568" right="1762" top="2459">
+
+114°501
+</word>
+<word bottom="2407" left="1798" right="1932" top="2457">
+
+36.5"
+</word>
+<word bottom="2407" left="2170" right="2304" top="2457">
+
+3260'
+</word>
+<word bottom="2304" left="421" right="638" top="2352">
+Tonopah,</word>
+<word bottom="2315" left="677" right="781" top="2351">
+Nev.</word>
+<word bottom="2309" left="1052" right="1213" top="2360">
+
+38°041
+</word>
+<word bottom="2312" left="1249" right="1384" top="2359">
+
+29.6"
+</word>
+<word bottom="2311" left="1568" right="1760" top="2363">
+
+117°131
+</word>
+<word bottom="2317" left="1795" right="1930" top="2362">
+20.8"</word>
+<word bottom="2317" left="2170" right="2305" top="2362">
+
+61801
+</word>
+<word bottom="2214" left="418" right="582" top="2257">
+Leeds,</word>
+<word bottom="2220" left="621" right="733" top="2258">
+Utah</word>
+<word bottom="2215" left="1052" right="1214" top="2265">
+
+37°141
+</word>
+<word bottom="2215" left="1253" right="1384" top="2263">
+
+35.4"
+</word>
+<word bottom="2218" left="1567" right="1761" top="2268">
+
+113°221
+</word>
+<word bottom="2217" left="1798" right="1931" top="2263">
+
+35.9"
+</word>
+<word bottom="2218" left="2170" right="2304" top="2263">
+
+3512'
+</word>
+<word bottom="2119" left="419" right="609" top="2161">
+Darwin,</word>
+<word bottom="2125" left="647" right="810" top="2164">
+Calif.</word>
+<word bottom="2121" left="1051" right="1214" top="2170">
+
+36%61
+</word>
+<word bottom="2121" left="1252" right="1384" top="2169">
+
+36.7"
+</word>
+<word bottom="2123" left="1568" right="1759" top="2173">
+
+117°35'
+</word>
+<word bottom="2122" left="1798" right="1930" top="2169">
+
+374"
+</word>
+<word bottom="2123" left="2170" right="2302" top="2166">
+
+5950'
+</word>
+<word bottom="2028" left="420" right="588" top="2067">
+Battle</word>
+<word bottom="2024" left="615" right="751" top="2065">
+Mtn.,</word>
+<word bottom="2030" left="790" right="895" top="2066">
+Nev.</word>
+<word bottom="2026" left="1051" right="1213" top="2077">
+
+40°251
+</word>
+<word bottom="2026" left="1252" right="1382" top="2070">
+
+53.3"
+</word>
+<word bottom="2027" left="1567" right="1759" top="2078">
+
+117°131
+</word>
+<word bottom="2032" left="1797" right="1930" top="2077">
+
+18.4"
+</word>
+<word bottom="2025" left="2170" right="2303" top="2071">
+
+52301
+</word>
+<word bottom="1925" left="420" right="524" top="1972">
+Ely,</word>
+<word bottom="1934" left="563" right="667" top="1970">
+Nev.</word>
+<word bottom="1929" left="1051" right="1213" top="1980">
+
+39°071
+</word>
+<word bottom="1930" left="1252" right="1383" top="1979">
+
+53.8"
+</word>
+<word bottom="1931" left="1567" right="1759" top="1983">
+
+114653'
+</word>
+<word bottom="1931" left="1796" right="1929" top="1977">
+
+31.5"
+</word>
+<word bottom="1932" left="2166" right="2303" top="1981">
+
+7600
+
+l
+</word>
+</words>
+</ocrresult>
+

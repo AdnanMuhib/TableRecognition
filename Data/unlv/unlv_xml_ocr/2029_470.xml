@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2550" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544151736.png" width="3312"/>
+<words>
+<word bottom="2089" left="810" right="954" top="2120">
+Refer-</word>
+<word bottom="2041" left="536" right="731" top="2072">
+Variable</word>
+<word bottom="2031" left="810" right="956" top="2069">
+
+encing
+</word>
+<word bottom="1992" left="587" right="682" top="2014">
+name</word>
+<word bottom="1982" left="784" right="978" top="2012">
+programs</word>
+<word bottom="1897" left="539" right="638" top="1928">
+
+NLBC
+</word>
+<word bottom="1896" left="789" right="912" top="1928">
+
+HST3D
+</word>
+<word bottom="1894" left="1041" right="1260" top="1927">
+
+INTEGER*4
+</word>
+<word bottom="1846" left="788" right="937" top="1877">
+
+APLYBC
+</word>
+<word bottom="1846" left="1040" right="1260" top="1878">
+
+INTEGER*4
+</word>
+<word bottom="1797" left="787" right="936" top="1828">
+
+ASEMBL
+</word>
+<word bottom="1797" left="1041" right="1260" top="1828">
+
+INTEGER*4
+</word>
+<word bottom="1749" left="787" right="887" top="1780">
+DUMP</word>
+<word bottom="1747" left="1041" right="1260" top="1780">
+
+INTEGER*4
+</word>
+<word bottom="1697" left="789" right="933" top="1728">
+
+ERROR1
+</word>
+<word bottom="1696" left="1039" right="1258" top="1729">
+
+INTEGER*4
+</word>
+<word bottom="1647" left="789" right="935" top="1679">
+
+ERROR2
+</word>
+<word bottom="1646" left="1040" right="1260" top="1679">
+
+INTEGER*4
+</word>
+<word bottom="1598" left="788" right="933" top="1630">
+
+ERROR3
+</word>
+<word bottom="1597" left="1039" right="1257" top="1630">
+
+INTEGER*4
+</word>
+<word bottom="1550" left="789" right="908" top="1581">
+
+ETOM1
+</word>
+<word bottom="1549" left="1039" right="1259" top="1581">
+
+INTEGER*4
+</word>
+<word bottom="1500" left="788" right="909" top="1532">
+
+ETOM2
+</word>
+<word bottom="1499" left="1039" right="1258" top="1532">
+
+INTEGER*4
+</word>
+<word bottom="1449" left="790" right="905" top="1480">
+
+INIT1
+</word>
+<word bottom="1448" left="1039" right="1258" top="1482">
+
+INTEGER*4
+</word>
+<word bottom="1400" left="789" right="909" top="1432">
+
+INIT2
+</word>
+<word bottom="1399" left="1037" right="1258" top="1432">
+
+INTEGER*4
+</word>
+<word bottom="1350" left="790" right="909" top="1383">
+
+INIT3
+</word>
+<word bottom="1350" left="1039" right="1258" top="1383">
+
+INTEGER*4
+</word>
+<word bottom="1301" left="789" right="887" top="1332">
+ITER</word>
+<word bottom="1300" left="1039" right="1257" top="1333">
+
+INTEGER*4
+</word>
+<word bottom="1250" left="787" right="907" top="1282">
+
+READ1
+</word>
+<word bottom="1249" left="1038" right="1258" top="1282">
+
+INTEGER*4
+</word>
+<word bottom="1201" left="787" right="908" top="1233">
+
+READ2
+</word>
+<word bottom="1200" left="1038" right="1257" top="1233">
+
+INTEGER*4
+</word>
+<word bottom="1150" left="787" right="909" top="1183">
+
+READ3
+</word>
+<word bottom="1151" left="1038" right="1257" top="1183">
+
+INTEGER*4
+</word>
+<word bottom="1103" left="789" right="935" top="1133">
+
+SUMCAL
+</word>
+<word bottom="1102" left="1038" right="1257" top="1135">
+
+INTEGER*4
+</word>
+<word bottom="1052" left="786" right="931" top="1083">
+
+WRITE1
+</word>
+<word bottom="1051" left="1039" right="1258" top="1084">
+
+INTEGER*4
+</word>
+<word bottom="1001" left="783" right="932" top="1033">
+
+WRITE2
+</word>
+<word bottom="1001" left="1036" right="1255" top="1033">
+
+INTEGER*4
+</word>
+<word bottom="951" left="784" right="932" top="983">
+
+WRITE3
+</word>
+<word bottom="951" left="1036" right="1256" top="984">
+
+INTEGER*4
+</word>
+<word bottom="901" left="783" right="932" top="933">
+
+WRITE5
+</word>
+<word bottom="901" left="1036" right="1255" top="934">
+
+INTEGER*4
+</word>
+<word bottom="802" left="534" right="607" top="832">
+
+NLC
+</word>
+<word bottom="801" left="785" right="930" top="833">
+
+ERROR2
+</word>
+<word bottom="801" left="1036" right="1255" top="834">
+
+INTEGER*4
+</word>
+<word bottom="701" left="534" right="606" top="731">
+
+NLP
+</word>
+<word bottom="700" left="784" right="882" top="731">
+PLOT</word>
+<word bottom="650" left="785" right="933" top="681">
+
+ZONPLT
+</word>
+<word bottom="551" left="534" right="660" top="581">
+
+NMAPR
+</word>
+<word bottom="550" left="783" right="907" top="582">
+
+HST3D
+</word>
+<word bottom="500" left="785" right="907" top="531">
+CLOSE</word>
+<word bottom="451" left="783" right="881" top="481">
+DUMP</word>
+<word bottom="402" left="786" right="906" top="433">
+
+INIT2
+</word>
+<word bottom="352" left="784" right="903" top="384">
+
+READ1
+</word>
+<word bottom="2187" left="960" right="1081" top="2217">
+Table</word>
+<word bottom="2183" left="1115" right="1631" top="2216">
+
+11.2--Cross-reference
+</word>
+<word bottom="2183" left="1662" right="1756" top="2215">
+list</word>
+<word bottom="2181" left="1784" right="1831" top="2210">
+of</word>
+<word bottom="2177" left="1857" right="2348" top="2212">
+
+variables--Continued
+</word>
+<word bottom="700" left="1036" right="1255" top="733">
+
+INTEGER*4
+</word>
+<word bottom="650" left="1035" right="1254" top="682">
+
+INTEGER*4
+</word>
+<word bottom="550" left="1035" right="1255" top="583">
+
+INTEGER*4
+</word>
+<word bottom="500" left="1035" right="1255" top="533">
+
+INTEGER*4
+</word>
+<word bottom="450" left="1036" right="1255" top="482">
+
+INTEGER*4
+</word>
+<word bottom="401" left="1035" right="1254" top="433">
+
+INTEGER*4
+</word>
+<word bottom="352" left="1036" right="1254" top="384">
+
+INTEGER*4
+</word>
+<word bottom="2037" left="1158" right="1354" top="2068">
+Variable</word>
+<word bottom="1980" left="1210" right="1304" top="2015">
+type</word>
+<word bottom="2081" left="1979" right="2125" top="2112">
+Refer-</word>
+<word bottom="2033" left="1706" right="1902" top="2064">
+Variable</word>
+<word bottom="2024" left="1980" right="2127" top="2062">
+
+encing
+</word>
+<word bottom="1985" left="1756" right="1852" top="2007">
+name</word>
+<word bottom="1975" left="1953" right="2149" top="2006">
+programs</word>
+<word bottom="1890" left="1705" right="1853" top="1920">
+
+NMPZON
+</word>
+<word bottom="1888" left="1953" right="2077" top="1920">
+
+HST3D
+</word>
+<word bottom="1840" left="1957" right="2076" top="1871">
+
+INIT3
+</word>
+<word bottom="1791" left="1953" right="2077" top="1822">
+
+MAP2D
+</word>
+<word bottom="1740" left="1954" right="2076" top="1773">
+
+READ3
+</word>
+<word bottom="1691" left="1952" right="2099" top="1722">
+
+WRITE3
+</word>
+<word bottom="1640" left="1953" right="2100" top="1672">
+WRITES</word>
+<word bottom="1542" left="1703" right="1775" top="1574">
+
+NN3
+</word>
+<word bottom="1541" left="1954" right="2100" top="1572">
+
+ZONPLT
+</word>
+<word bottom="1443" left="1702" right="1775" top="1474">
+
+NNC
+</word>
+<word bottom="1442" left="1951" right="2074" top="1475">
+
+D4DES
+</word>
+<word bottom="1345" left="1702" right="1852" top="1376">
+
+NNOPPR
+</word>
+<word bottom="1344" left="1952" right="2102" top="1375">
+
+PRNTAR
+</word>
+<word bottom="1245" left="1702" right="1827" top="1277">
+
+NNOUT
+</word>
+<word bottom="1245" left="1949" right="2075" top="1277">
+
+MAP2D
+</word>
+<word bottom="1146" left="1701" right="1802" top="1176">
+
+NNPR
+</word>
+<word bottom="1145" left="1951" right="2100" top="1176">
+
+PRNTAR
+</word>
+<word bottom="1046" left="1701" right="1749" top="1076">
+NO</word>
+<word bottom="1045" left="1950" right="2048" top="1076">
+PLOT</word>
+<word bottom="995" left="1950" right="2098" top="1026">
+
+PLOTOC
+</word>
+<word bottom="895" left="1700" right="1799" top="927">
+
+NOCV
+</word>
+<word bottom="895" left="1949" right="2073" top="928">
+
+HST3D
+</word>
+<word bottom="845" left="1949" right="2046" top="876">
+DUMP</word>
+<word bottom="796" left="1949" right="2097" top="828">
+
+ERROR2
+</word>
+<word bottom="745" left="1950" right="2068" top="777">
+
+ETOM1
+</word>
+<word bottom="695" left="1950" right="2070" top="727">
+
+INIT2
+</word>
+<word bottom="646" left="1949" right="2067" top="677">
+
+READ1
+</word>
+<word bottom="596" left="1948" right="2069" top="628">
+
+READ2
+</word>
+<word bottom="546" left="1948" right="2096" top="577">
+VISCOS</word>
+<word bottom="497" left="1947" right="2095" top="528">
+
+WRITE2
+</word>
+<word bottom="1886" left="2205" right="2425" top="1918">
+
+INTEGER*4
+</word>
+<word bottom="1838" left="2206" right="2424" top="1870">
+
+INTEGER*4
+</word>
+<word bottom="1789" left="2205" right="2424" top="1821">
+
+INTEGER*4
+</word>
+<word bottom="1739" left="2205" right="2423" top="1772">
+
+INTEGER*4
+</word>
+<word bottom="1689" left="2204" right="2422" top="1721">
+
+INTEGER*4
+</word>
+<word bottom="1638" left="2204" right="2423" top="1671">
+
+INTEGER*4
+</word>
+<word bottom="1540" left="2203" right="2422" top="1572">
+
+INTEGER*4
+</word>
+<word bottom="1441" left="2204" right="2420" top="1474">
+
+INTEGER*4
+</word>
+<word bottom="1343" left="2202" right="2419" top="1376">
+
+INTEGER*4
+</word>
+<word bottom="1244" left="2202" right="2421" top="1277">
+
+INTEGER*4
+</word>
+<word bottom="1144" left="2201" right="2418" top="1176">
+
+INTEGER*4
+</word>
+<word bottom="1044" left="2202" right="2419" top="1077">
+
+INTEGER*4
+</word>
+<word bottom="995" left="2199" right="2418" top="1027">
+
+INTEGER*4
+</word>
+<word bottom="895" left="2201" right="2418" top="928">
+
+INTEGER*4
+</word>
+<word bottom="845" left="2200" right="2416" top="878">
+
+INTEGER*4
+</word>
+<word bottom="796" left="2201" right="2418" top="829">
+
+INTEGER*4
+</word>
+<word bottom="745" left="2199" right="2416" top="777">
+
+INTEGER*4
+</word>
+<word bottom="694" left="2200" right="2417" top="728">
+
+INTEGER*4
+</word>
+<word bottom="645" left="2199" right="2417" top="678">
+
+INTEGER*4
+</word>
+<word bottom="596" left="2199" right="2417" top="629">
+
+INTEGER*4
+</word>
+<word bottom="546" left="2198" right="2415" top="579">
+
+INTEGER*4
+</word>
+<word bottom="496" left="2199" right="2417" top="530">
+
+INTEGER*4
+</word>
+<word bottom="399" left="1699" right="1798" top="429">
+
+NOTV
+</word>
+<word bottom="399" left="1947" right="2096" top="429">
+
+VSINIT
+</word>
+<word bottom="398" left="2198" right="2415" top="431">
+
+INTEGER*4
+</word>
+<word bottom="2030" left="2326" right="2523" top="2060">
+Variable</word>
+<word bottom="1973" left="2379" right="2472" top="2009">
+type</word>
+<word bottom="1885" left="2453" right="2676" top="1916">
+DIMENSION</word>
+<word bottom="1880" left="2684" right="2743" top="1919">
+(3)</word>
+<word bottom="1831" left="2452" right="2742" top="1869">
+
+DIMENSION(3)
+</word>
+<word bottom="1733" left="2451" right="2742" top="1771">
+
+DIMENSION(3)
+</word>
+<word bottom="1682" left="2452" right="2741" top="1721">
+
+DIMENSION(3)
+</word>
+<word bottom="1633" left="2451" right="2741" top="1671">
+
+DIMENSION(3)
+</word>
+</words>
+</ocrresult>
+

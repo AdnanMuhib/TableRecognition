@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490531094.png" width="2544"/>
+<words>
+<word bottom="2828" left="715" right="1045" top="2887">
+Contents</word>
+<word bottom="2770" left="715" right="948" top="2802">
+Introduction</word>
+<word bottom="2771" left="2282" right="2300" top="2800">
+
+7
+</word>
+<word bottom="2720" left="714" right="923" top="2752">
+Continuum</word>
+<word bottom="2713" left="938" right="1219" top="2753">
+Approximation</word>
+<word bottom="2721" left="2282" right="2299" top="2750">
+
+7
+</word>
+<word bottom="2670" left="714" right="942" top="2703">
+Constitutive</word>
+<word bottom="2671" left="958" right="1075" top="2703">
+Model</word>
+<word bottom="2671" left="2283" right="2301" top="2701">
+
+9
+</word>
+<word bottom="2621" left="756" right="867" top="2653">
+Intact</word>
+<word bottom="2621" left="882" right="1040" top="2653">
+Material</word>
+<word bottom="2621" left="2282" right="2301" top="2651">
+
+9
+</word>
+<word bottom="2571" left="754" right="849" top="2603">
+Joint</word>
+<word bottom="2571" left="864" right="1015" top="2604">
+Dilation</word>
+<word bottom="2571" left="2280" right="2300" top="2601">
+
+9
+</word>
+<word bottom="2522" left="754" right="850" top="2553">
+Joint</word>
+<word bottom="2522" left="865" right="970" top="2554">
+Shear</word>
+<word bottom="2521" left="2263" right="2302" top="2551">
+
+10
+</word>
+<word bottom="2465" left="755" right="908" top="2504">
+Coupled</word>
+<word bottom="2472" left="924" right="1075" top="2504">
+Dilation</word>
+<word bottom="2465" left="1090" right="1360" top="2504">
+Displacements</word>
+<word bottom="2471" left="2263" right="2302" top="2502">
+
+10
+</word>
+<word bottom="2422" left="715" right="869" top="2454">
+Solution</word>
+<word bottom="2422" left="885" right="922" top="2453">
+of</word>
+<word bottom="2422" left="934" right="1163" top="2454">
+Constitutive</word>
+<word bottom="2415" left="1178" right="1367" top="2454">
+Equations</word>
+<word bottom="2422" left="2262" right="2300" top="2451">
+
+11
+</word>
+<word bottom="2372" left="714" right="872" top="2403">
+Fracture</word>
+<word bottom="2365" left="888" right="1128" top="2405">
+Permeability</word>
+<word bottom="2372" left="1142" right="1271" top="2404">
+Tensor</word>
+<word bottom="2372" left="2264" right="2302" top="2402">
+
+13
+</word>
+<word bottom="2315" left="713" right="893" top="2354">
+Examples</word>
+<word bottom="2322" left="2263" right="2300" top="2352">
+
+13
+</word>
+<word bottom="2272" left="756" right="906" top="2304">
+Dilation</word>
+<word bottom="2265" left="921" right="1095" top="2304">
+Response</word>
+<word bottom="2272" left="2264" right="2302" top="2302">
+
+13
+</word>
+<word bottom="2223" left="756" right="861" top="2255">
+Shear</word>
+<word bottom="2216" left="876" right="1050" top="2255">
+Response</word>
+<word bottom="2223" left="1065" right="1220" top="2256">
+Without</word>
+<word bottom="2216" left="1236" right="1389" top="2255">
+Coupled</word>
+<word bottom="2216" left="1404" right="1677" top="2256">
+Displacements</word>
+<word bottom="2223" left="2265" right="2304" top="2252">
+
+14
+</word>
+<word bottom="2173" left="755" right="860" top="2206">
+Shear</word>
+<word bottom="2166" left="876" right="1049" top="2205">
+Response</word>
+<word bottom="2173" left="1065" right="1159" top="2206">
+With</word>
+<word bottom="2166" left="1174" right="1328" top="2206">
+Coupled</word>
+<word bottom="2167" left="1343" right="1615" top="2206">
+Displacements</word>
+<word bottom="2173" left="2265" right="2304" top="2203">
+
+15
+</word>
+<word bottom="2123" left="714" right="839" top="2154">
+Future</word>
+<word bottom="2123" left="856" right="958" top="2156">
+Work</word>
+<word bottom="2123" left="2263" right="2302" top="2153">
+
+16
+</word>
+<word bottom="2073" left="713" right="913" top="2105">
+References</word>
+<word bottom="2073" left="2264" right="2302" top="2103">
+
+17
+</word>
+<word bottom="1938" left="715" right="929" top="1994">
+Figures</word>
+<word bottom="1899" left="737" right="753" top="1928">
+
+1
+</word>
+<word bottom="1899" left="837" right="865" top="1930">
+A</word>
+<word bottom="1891" left="881" right="1160" top="1931">
+Representative</word>
+<word bottom="1891" left="1175" right="1391" top="1931">
+Elementary</word>
+<word bottom="1899" left="1407" right="1551" top="1931">
+Volume</word>
+<word bottom="1891" left="1566" right="1773" top="1932">
+Containing</word>
+<word bottom="1891" left="1787" right="1967" top="1931">
+Regularly</word>
+<word bottom="1891" left="1983" right="2116" top="1931">
+Spaced</word>
+<word bottom="1898" left="2132" right="2199" top="1930">
+and</word>
+<word bottom="1848" left="837" right="980" top="1881">
+Parallel</word>
+<word bottom="1849" left="996" right="1172" top="1881">
+Fractures</word>
+<word bottom="1841" left="1188" right="1374" top="1881">
+Separated</word>
+<word bottom="1842" left="1391" right="1436" top="1881">
+by</word>
+<word bottom="1849" left="1450" right="1470" top="1870">
+a</word>
+<word bottom="1849" left="1485" right="1647" top="1881">
+Distance</word>
+<word bottom="1849" left="1662" right="1677" top="1880">
+
+ö
+</word>
+<word bottom="1848" left="2284" right="2301" top="1878">
+
+7
+</word>
+<word bottom="1799" left="735" right="753" top="1829">
+
+2
+</word>
+<word bottom="1798" left="836" right="1003" top="1830">
+Assumed</word>
+<word bottom="1799" left="1019" right="1114" top="1830">
+Joint</word>
+<word bottom="1799" left="1129" right="1290" top="1831">
+Stiffness</word>
+<word bottom="1798" left="1305" right="1473" top="1831">
+Behavior</word>
+<word bottom="1799" left="1488" right="1629" top="1831">
+Normal</word>
+<word bottom="1799" left="1644" right="1680" top="1827">
+to</word>
+<word bottom="1799" left="1697" right="1716" top="1820">
+a</word>
+<word bottom="1791" left="1731" right="1845" top="1831">
+Single</word>
+<word bottom="1799" left="1860" right="1956" top="1830">
+Joint</word>
+<word bottom="1798" left="1971" right="2076" top="1830">
+Plane</word>
+<word bottom="1798" left="2284" right="2303" top="1828">
+
+9
+</word>
+<word bottom="1748" left="736" right="776" top="1779">
+
+3a
+</word>
+<word bottom="1749" left="838" right="1004" top="1780">
+Assumed</word>
+<word bottom="1749" left="1019" right="1115" top="1781">
+Joint</word>
+<word bottom="1749" left="1130" right="1290" top="1782">
+Stiffness</word>
+<word bottom="1749" left="1306" right="1474" top="1781">
+Behavior</word>
+<word bottom="1750" left="1489" right="1523" top="1781">
+in</word>
+<word bottom="1749" left="1540" right="1646" top="1782">
+Shear</word>
+<word bottom="1749" left="1661" right="1806" top="1781">
+Parallel</word>
+<word bottom="1749" left="1821" right="1857" top="1778">
+to</word>
+<word bottom="1749" left="1873" right="1892" top="1770">
+a</word>
+<word bottom="1741" left="1907" right="2020" top="1781">
+Single</word>
+<word bottom="1749" left="2036" right="2132" top="1780">
+Joint</word>
+<word bottom="1699" left="838" right="941" top="1730">
+Plane</word>
+<word bottom="1699" left="2264" right="2301" top="1728">
+
+11
+</word>
+<word bottom="1649" left="735" right="778" top="1681">
+
+3b
+</word>
+<word bottom="1649" left="837" right="1003" top="1681">
+Assumed</word>
+<word bottom="1642" left="1019" right="1172" top="1682">
+Coupled</word>
+<word bottom="1649" left="1189" right="1340" top="1681">
+Dilation</word>
+<word bottom="1649" left="1355" right="1522" top="1682">
+Behavior</word>
+<word bottom="1650" left="1538" right="1590" top="1681">
+for</word>
+<word bottom="1649" left="1606" right="1748" top="1681">
+Normal</word>
+<word bottom="1649" left="1762" right="1831" top="1682">
+and</word>
+<word bottom="1649" left="1846" right="1953" top="1682">
+Shear</word>
+<word bottom="1592" left="838" right="1108" top="1631">
+Displacements</word>
+<word bottom="1599" left="2265" right="2302" top="1628">
+
+11
+</word>
+<word bottom="1549" left="734" right="754" top="1579">
+
+4
+</word>
+<word bottom="1549" left="837" right="980" top="1581">
+Parallel</word>
+<word bottom="1549" left="995" right="1091" top="1581">
+Plate</word>
+<word bottom="1542" left="1106" right="1388" top="1581">
+Approximation</word>
+<word bottom="1550" left="1405" right="1456" top="1581">
+for</word>
+<word bottom="1543" left="1472" right="1718" top="1582">
+Computation</word>
+<word bottom="1549" left="1733" right="1771" top="1581">
+of</word>
+<word bottom="1549" left="1784" right="1803" top="1570">
+a</word>
+<word bottom="1549" left="1818" right="1978" top="1581">
+Fracture</word>
+<word bottom="1492" left="837" right="1077" top="1531">
+Permeability</word>
+<word bottom="1499" left="1091" right="1222" top="1531">
+Tensor</word>
+<word bottom="1498" left="2264" right="2304" top="1529">
+
+13
+</word>
+<word bottom="1449" left="735" right="754" top="1479">
+
+5
+</word>
+<word bottom="1449" left="837" right="1165" top="1482">
+Strain-Controlled</word>
+<word bottom="1442" left="1181" right="1333" top="1481">
+Loading</word>
+<word bottom="1449" left="1348" right="1537" top="1482">
+Situations</word>
+<word bottom="1450" left="1554" right="1605" top="1481">
+for</word>
+<word bottom="1449" left="1621" right="1679" top="1481">
+the</word>
+<word bottom="1443" left="1695" right="1858" top="1482">
+Example</word>
+<word bottom="1449" left="1875" right="2050" top="1482">
+Problems</word>
+<word bottom="1449" left="2265" right="2304" top="1478">
+
+14
+</word>
+<word bottom="1399" left="735" right="753" top="1430">
+
+6
+</word>
+<word bottom="1399" left="836" right="931" top="1431">
+Joint</word>
+<word bottom="1399" left="947" right="1087" top="1431">
+Normal</word>
+<word bottom="1399" left="1103" right="1263" top="1432">
+Stiffness</word>
+<word bottom="1399" left="1280" right="1372" top="1432">
+Used</word>
+<word bottom="1400" left="1388" right="1440" top="1431">
+for</word>
+<word bottom="1393" left="1455" right="1618" top="1432">
+Example</word>
+<word bottom="1400" left="1638" right="1653" top="1429">
+
+1
+</word>
+<word bottom="1399" left="2265" right="2303" top="1429">
+
+14
+</word>
+<word bottom="1349" left="736" right="754" top="1379">
+
+7
+</word>
+<word bottom="1349" left="838" right="1079" top="1381">
+Stress-Strain</word>
+<word bottom="1343" left="1096" right="1270" top="1381">
+Response</word>
+<word bottom="1349" left="1286" right="1426" top="1382">
+Normal</word>
+<word bottom="1350" left="1442" right="1479" top="1378">
+to</word>
+<word bottom="1342" left="1493" right="1647" top="1382">
+Jointing</word>
+<word bottom="1350" left="1662" right="1714" top="1382">
+for</word>
+<word bottom="1342" left="1729" right="1894" top="1382">
+Example</word>
+<word bottom="1350" left="1912" right="1927" top="1379">
+
+1
+</word>
+<word bottom="1349" left="2266" right="2304" top="1379">
+
+15
+</word>
+<word bottom="1299" left="735" right="754" top="1330">
+
+8
+</word>
+<word bottom="1300" left="837" right="949" top="1331">
+Effect</word>
+<word bottom="1300" left="965" right="1002" top="1330">
+of</word>
+<word bottom="1300" left="1014" right="1110" top="1332">
+Joint</word>
+<word bottom="1300" left="1126" right="1266" top="1332">
+Normal</word>
+<word bottom="1300" left="1282" right="1396" top="1332">
+Strain</word>
+<word bottom="1301" left="1411" right="1456" top="1322">
+on</word>
+<word bottom="1300" left="1471" right="1631" top="1332">
+Fracture</word>
+<word bottom="1293" left="1647" right="1889" top="1332">
+Permeability</word>
+<word bottom="1299" left="1904" right="2048" top="1331">
+Parallel</word>
+<word bottom="1300" left="2063" right="2100" top="1328">
+to</word>
+<word bottom="1242" left="836" right="988" top="1281">
+Jointing</word>
+<word bottom="1250" left="1004" right="1055" top="1281">
+for</word>
+<word bottom="1243" left="1071" right="1234" top="1282">
+Example</word>
+<word bottom="1250" left="1252" right="1268" top="1280">
+
+1
+</word>
+<word bottom="1249" left="2263" right="2303" top="1279">
+
+15
+</word>
+<word bottom="1199" left="735" right="754" top="1230">
+
+9
+</word>
+<word bottom="1199" left="837" right="1079" top="1232">
+Stress-Strain</word>
+<word bottom="1193" left="1096" right="1270" top="1231">
+Response</word>
+<word bottom="1201" left="1286" right="1320" top="1232">
+in</word>
+<word bottom="1200" left="1337" right="1442" top="1233">
+Shear</word>
+<word bottom="1200" left="1458" right="1602" top="1233">
+Parallel</word>
+<word bottom="1200" left="1617" right="1653" top="1229">
+to</word>
+<word bottom="1193" left="1668" right="1822" top="1233">
+Jointing</word>
+<word bottom="1200" left="1837" right="1889" top="1232">
+for</word>
+<word bottom="1192" left="1905" right="2069" top="1231">
+Example</word>
+<word bottom="1200" left="2086" right="2104" top="1230">
+
+2
+</word>
+<word bottom="1199" left="2267" right="2306" top="1229">
+
+15
+</word>
+<word bottom="1149" left="716" right="776" top="1180">
+
+10a
+</word>
+<word bottom="1150" left="837" right="950" top="1182">
+Effect</word>
+<word bottom="1150" left="965" right="1002" top="1181">
+of</word>
+<word bottom="1143" left="1015" right="1168" top="1183">
+Coupled</word>
+<word bottom="1150" left="1184" right="1336" top="1182">
+Dilation</word>
+<word bottom="1143" left="1351" right="1456" top="1183">
+Angle</word>
+<word bottom="1151" left="1473" right="1517" top="1172">
+on</word>
+<word bottom="1150" left="1532" right="1628" top="1183">
+Joint</word>
+<word bottom="1150" left="1643" right="1784" top="1183">
+Normal</word>
+<word bottom="1143" left="1801" right="2056" top="1182">
+Displacement</word>
+<word bottom="1100" left="837" right="889" top="1131">
+for</word>
+<word bottom="1093" left="904" right="1068" top="1132">
+Example</word>
+<word bottom="1100" left="1083" right="1102" top="1130">
+
+3
+</word>
+<word bottom="1099" left="2264" right="2304" top="1130">
+
+15
+</word>
+<word bottom="1049" left="716" right="778" top="1082">
+
+10b
+</word>
+<word bottom="1050" left="837" right="950" top="1082">
+Effect</word>
+<word bottom="1050" left="965" right="1002" top="1081">
+of</word>
+<word bottom="1043" left="1016" right="1169" top="1083">
+Coupled</word>
+<word bottom="1049" left="1184" right="1335" top="1082">
+Dilation</word>
+<word bottom="1043" left="1351" right="1457" top="1083">
+Angle</word>
+<word bottom="1050" left="1473" right="1517" top="1072">
+on</word>
+<word bottom="1050" left="1532" right="1628" top="1083">
+Joint</word>
+<word bottom="1050" left="1644" right="1785" top="1083">
+Normal</word>
+<word bottom="1050" left="1800" right="1911" top="1083">
+Stress</word>
+<word bottom="1050" left="1928" right="1980" top="1082">
+for</word>
+<word bottom="993" left="837" right="999" top="1031">
+Example</word>
+<word bottom="1000" left="1016" right="1035" top="1031">
+
+3
+</word>
+<word bottom="999" left="2265" right="2303" top="1029">
+
+16
+</word>
+<word bottom="950" left="716" right="752" top="979">
+
+11
+</word>
+<word bottom="950" left="837" right="950" top="982">
+Effect</word>
+<word bottom="949" left="965" right="1003" top="981">
+of</word>
+<word bottom="942" left="1015" right="1168" top="983">
+Coupled</word>
+<word bottom="949" left="1185" right="1336" top="982">
+Dilation</word>
+<word bottom="942" left="1351" right="1457" top="982">
+Angle</word>
+<word bottom="950" left="1473" right="1516" top="971">
+on</word>
+<word bottom="950" left="1533" right="1624" top="982">
+Flow</word>
+<word bottom="949" left="1639" right="1750" top="982">
+Stress</word>
+<word bottom="949" left="1766" right="1818" top="981">
+for</word>
+<word bottom="942" left="1834" right="1997" top="982">
+Example</word>
+<word bottom="949" left="2013" right="2032" top="980">
+
+3
+</word>
+<word bottom="949" left="2266" right="2305" top="979">
+
+16
+</word>
+<word bottom="899" left="715" right="754" top="929">
+
+12
+</word>
+<word bottom="899" left="837" right="949" top="931">
+Effect</word>
+<word bottom="899" left="965" right="1002" top="930">
+of</word>
+<word bottom="892" left="1015" right="1168" top="932">
+Coupled</word>
+<word bottom="899" left="1184" right="1336" top="931">
+Dilation</word>
+<word bottom="892" left="1351" right="1457" top="932">
+Angle</word>
+<word bottom="900" left="1473" right="1516" top="921">
+on</word>
+<word bottom="900" left="1533" right="1693" top="932">
+Fracture</word>
+<word bottom="892" left="1708" right="1950" top="932">
+Permeability</word>
+<word bottom="899" left="1966" right="2110" top="932">
+Parallel</word>
+<word bottom="899" left="2125" right="2161" top="927">
+to</word>
+<word bottom="841" left="835" right="988" top="881">
+Jointing</word>
+<word bottom="849" left="1004" right="1055" top="881">
+for</word>
+<word bottom="842" left="1071" right="1235" top="881">
+Example</word>
+<word bottom="849" left="1252" right="1270" top="879">
+
+3
+</word>
+<word bottom="849" left="2264" right="2303" top="879">
+
+16
+</word>
+<word bottom="217" left="2253" right="2303" top="247">
+
+5-6
+</word>
+</words>
+</ocrresult>
+

@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544129875.png" width="2560"/>
+<words>
+<word bottom="2980" left="591" right="709" top="3011">
+Table</word>
+<word bottom="2981" left="743" right="829" top="3011">
+I-1.</word>
+<word bottom="2973" left="888" right="1281" top="3010">
+Waste-Acceptance</word>
+<word bottom="2980" left="1313" right="1803" top="3012">
+
+Schedule--Authorized
+</word>
+<word bottom="2974" left="1834" right="1979" top="3010">
+System</word>
+<word bottom="2927" left="809" right="972" top="2964">
+(Metric</word>
+<word bottom="2931" left="1007" right="1097" top="2957">
+tons</word>
+<word bottom="2931" left="1128" right="1172" top="2962">
+of</word>
+<word bottom="2931" left="1202" right="1373" top="2962">
+uranium</word>
+<word bottom="2927" left="1405" right="1515" top="2964">
+
+(MTU)
+</word>
+<word bottom="2923" left="1549" right="1618" top="2952">
+per</word>
+<word bottom="2923" left="1647" right="1766" top="2964">
+year)</word>
+<word bottom="841" left="444" right="731" top="889">
+'Approximate</word>
+<word bottom="841" left="759" right="1154" top="875">
+waste-acceptance</word>
+<word bottom="848" left="1185" right="1301" top="874">
+rates</word>
+<word bottom="848" left="1334" right="1403" top="879">
+for</word>
+<word bottom="840" left="1431" right="1672" top="879">
+high-level</word>
+<word bottom="849" left="1703" right="1823" top="875">
+waste</word>
+<word bottom="849" left="1854" right="1950" top="880">
+from</word>
+<word bottom="799" left="387" right="531" top="830">
+atomic</word>
+<word bottom="791" left="561" right="707" top="820">
+energy</word>
+<word bottom="799" left="736" right="905" top="830">
+defense</word>
+<word bottom="799" left="934" right="1177" top="829">
+activities</word>
+<word bottom="798" left="1208" right="1279" top="827">
+and</word>
+<word bottom="799" left="1308" right="1548" top="829">
+commercial</word>
+<word bottom="792" left="1578" right="1823" top="830">
+high-level</word>
+<word bottom="799" left="1851" right="1972" top="826">
+waste</word>
+<word bottom="800" left="2003" right="2100" top="830">
+from</word>
+<word bottom="750" left="392" right="458" top="779">
+the</word>
+<word bottom="750" left="487" right="582" top="779">
+West</word>
+<word bottom="743" left="610" right="758" top="780">
+Valley</word>
+<word bottom="749" left="786" right="1106" top="780">
+Demonstration</word>
+<word bottom="742" left="1135" right="1323" top="780">
+Project.</word>
+<word bottom="741" left="1382" right="1623" top="780">
+Quantities</word>
+<word bottom="749" left="1654" right="1749" top="779">
+have</word>
+<word bottom="749" left="1779" right="1875" top="779">
+been</word>
+<word bottom="701" left="391" right="681" top="730">
+"normalized"</word>
+<word bottom="701" left="714" right="756" top="727">
+to</word>
+<word bottom="700" left="784" right="929" top="730">
+metric</word>
+<word bottom="700" left="964" right="1053" top="725">
+tons</word>
+<word bottom="700" left="1084" right="1128" top="730">
+of</word>
+<word bottom="700" left="1159" right="1330" top="730">
+uranium</word>
+<word bottom="696" left="1362" right="1497" top="733">
+
+(MTUs)
+</word>
+<word bottom="700" left="1529" right="1575" top="721">
+on</word>
+<word bottom="701" left="1603" right="1625" top="721">
+a</word>
+<word bottom="692" left="1654" right="2046" top="731">
+curie-equivalent</word>
+<word bottom="651" left="387" right="527" top="682">
+basis.</word>
+<word bottom="651" left="586" right="680" top="681">
+This</word>
+<word bottom="651" left="713" right="830" top="681">
+table</word>
+<word bottom="650" left="860" right="1029" top="672">
+assumes</word>
+<word bottom="645" left="1062" right="1204" top="681">
+
+16,000
+</word>
+<word bottom="651" left="1233" right="1329" top="679">
+
+DHLW
+</word>
+<word bottom="650" left="1358" right="1573" top="681">
+canisters</word>
+<word bottom="651" left="1604" right="1675" top="679">
+and</word>
+<word bottom="651" left="1705" right="1774" top="681">
+
+640
+</word>
+<word bottom="652" left="1802" right="1874" top="680">
+
+MTU
+</word>
+<word bottom="651" left="1902" right="2017" top="680">
+
+CHLW.
+</word>
+<word bottom="652" left="2080" right="2124" top="680">
+In</word>
+<word bottom="602" left="391" right="481" top="633">
+this</word>
+<word bottom="594" left="512" right="702" top="631">
+example,</word>
+<word bottom="601" left="737" right="805" top="632">
+
+400
+</word>
+<word bottom="601" left="834" right="907" top="630">
+
+MTU
+</word>
+<word bottom="601" left="935" right="979" top="631">
+of</word>
+<word bottom="600" left="1010" right="1178" top="631">
+defense</word>
+<word bottom="600" left="1208" right="1327" top="627">
+waste</word>
+<word bottom="592" left="1357" right="1498" top="631">
+equals</word>
+<word bottom="601" left="1529" right="1599" top="632">
+
+800
+</word>
+<word bottom="601" left="1631" right="1867" top="632">
+canisters.</word>
+<word bottom="602" left="1926" right="2070" top="632">
+Actual</word>
+<word bottom="552" left="388" right="485" top="581">
+
+DHLW
+</word>
+<word bottom="544" left="511" right="755" top="578">
+acceptance</word>
+<word bottom="551" left="786" right="903" top="577">
+rates</word>
+<word bottom="551" left="934" right="1004" top="571">
+are</word>
+<word bottom="551" left="1037" right="1079" top="578">
+to</word>
+<word bottom="551" left="1109" right="1153" top="580">
+be</word>
+<word bottom="542" left="1183" right="1426" top="581">
+negotiated</word>
+<word bottom="551" left="1454" right="1625" top="580">
+between</word>
+<word bottom="551" left="1653" right="1823" top="582">
+Defense</word>
+<word bottom="543" left="1854" right="2045" top="580">
+Programs</word>
+<word bottom="552" left="2076" right="2147" top="581">
+and</word>
+<word bottom="502" left="391" right="458" top="531">
+the</word>
+<word bottom="502" left="487" right="631" top="532">
+Office</word>
+<word bottom="502" left="662" right="704" top="531">
+of</word>
+<word bottom="502" left="736" right="931" top="532">
+Civilian</word>
+<word bottom="501" left="959" right="1229" top="531">
+Radioactive</word>
+<word bottom="501" left="1257" right="1377" top="529">
+Waste</word>
+<word bottom="493" left="1405" right="1648" top="530">
+Management</word>
+<word bottom="502" left="1682" right="1725" top="531">
+in</word>
+<word bottom="502" left="1757" right="1823" top="530">
+the</word>
+<word bottom="502" left="1854" right="1942" top="531">
+DOE.</word>
+<word bottom="253" left="1383" right="1451" top="281">
+
+-6-
+</word>
+<word bottom="2683" left="467" right="562" top="2712">
+Year</word>
+<word bottom="2782" left="840" right="958" top="2813">
+First</word>
+<word bottom="2775" left="988" right="1233" top="2812">
+Repository</word>
+<word bottom="2782" left="1608" right="1752" top="2811">
+Second</word>
+<word bottom="2776" left="1782" right="2027" top="2813">
+Repository</word>
+<word bottom="2675" left="740" right="858" top="2712">
+Spent</word>
+<word bottom="2683" left="890" right="982" top="2713">
+Fuel</word>
+<word bottom="2725" left="1113" right="1354" top="2763">
+High-Level</word>
+<word bottom="2682" left="1162" right="1300" top="2723">
+Waste'</word>
+<word bottom="2675" left="1508" right="1627" top="2712">
+Spent</word>
+<word bottom="2683" left="1657" right="1750" top="2714">
+Fuel</word>
+<word bottom="2725" left="1881" right="2125" top="2764">
+High-Level</word>
+<word bottom="2684" left="1930" right="2070" top="2724">
+Waste'</word>
+<word bottom="2584" left="470" right="560" top="2615">
+
+1998
+</word>
+<word bottom="2534" left="470" right="560" top="2566">
+
+1999
+</word>
+<word bottom="2485" left="469" right="560" top="2516">
+
+2000
+</word>
+<word bottom="2435" left="469" right="559" top="2466">
+
+2001
+</word>
+<word bottom="2386" left="469" right="560" top="2417">
+
+2002
+</word>
+<word bottom="2584" left="864" right="933" top="2615">
+
+400
+</word>
+<word bottom="2535" left="864" right="933" top="2566">
+
+400
+</word>
+<word bottom="2485" left="864" right="933" top="2516">
+
+400
+</word>
+<word bottom="2435" left="865" right="933" top="2466">
+
+900
+</word>
+<word bottom="2379" left="816" right="932" top="2417">
+
+1,800
+</word>
+<word bottom="2336" left="469" right="560" top="2367">
+
+2003
+</word>
+<word bottom="2330" left="815" right="933" top="2367">
+
+3,000
+</word>
+<word bottom="2336" left="1212" right="1280" top="2366">
+
+400
+</word>
+<word bottom="2287" left="469" right="560" top="2317">
+
+2004
+</word>
+<word bottom="2281" left="815" right="932" top="2318">
+
+3,000
+</word>
+<word bottom="2287" left="1212" right="1280" top="2317">
+
+400
+</word>
+<word bottom="2238" left="468" right="558" top="2268">
+
+2005
+</word>
+<word bottom="2231" left="814" right="932" top="2268">
+
+3,000
+</word>
+<word bottom="2237" left="1211" right="1279" top="2267">
+
+400
+</word>
+<word bottom="2188" left="469" right="558" top="2219">
+
+2006
+</word>
+<word bottom="2182" left="815" right="932" top="2219">
+
+3,000
+</word>
+<word bottom="2188" left="1212" right="1280" top="2218">
+
+400
+</word>
+<word bottom="2189" left="1634" right="1701" top="2219">
+
+900
+</word>
+<word bottom="2139" left="468" right="559" top="2169">
+
+2007
+</word>
+<word bottom="2133" left="815" right="932" top="2170">
+
+3,000
+</word>
+<word bottom="2139" left="1212" right="1280" top="2168">
+
+400
+</word>
+<word bottom="2134" left="1585" right="1700" top="2170">
+
+1,800
+</word>
+<word bottom="2089" left="468" right="558" top="2120">
+
+2008
+</word>
+<word bottom="2083" left="814" right="932" top="2120">
+
+3,000
+</word>
+<word bottom="2089" left="1211" right="1279" top="2119">
+
+400
+</word>
+<word bottom="2084" left="1584" right="1700" top="2120">
+
+1,800
+</word>
+<word bottom="2039" left="468" right="559" top="2070">
+
+2009
+</word>
+<word bottom="2033" left="815" right="932" top="2070">
+
+3,000
+</word>
+<word bottom="2039" left="1212" right="1280" top="2069">
+
+400
+</word>
+<word bottom="2034" left="1584" right="1701" top="2070">
+
+1,800
+</word>
+<word bottom="1990" left="468" right="559" top="2020">
+
+2010
+</word>
+<word bottom="1983" left="815" right="931" top="2020">
+
+3,000
+</word>
+<word bottom="1989" left="1211" right="1279" top="2019">
+
+400
+</word>
+<word bottom="1985" left="1584" right="1700" top="2020">
+
+1,800
+</word>
+<word bottom="1941" left="468" right="557" top="1971">
+
+2011
+</word>
+<word bottom="1934" left="814" right="931" top="1971">
+
+3,000
+</word>
+<word bottom="1940" left="1211" right="1279" top="1970">
+
+400
+</word>
+<word bottom="1935" left="1583" right="1700" top="1971">
+
+2,400
+</word>
+<word bottom="1891" left="468" right="560" top="1921">
+
+2012
+</word>
+<word bottom="1884" left="815" right="932" top="1921">
+
+3,000
+</word>
+<word bottom="1890" left="1211" right="1280" top="1920">
+
+400
+</word>
+<word bottom="1885" left="1583" right="1700" top="1922">
+
+3,000
+</word>
+<word bottom="1892" left="1979" right="2049" top="1922">
+
+400
+</word>
+<word bottom="1841" left="467" right="559" top="1872">
+
+2013
+</word>
+<word bottom="1835" left="814" right="931" top="1872">
+
+3,000
+</word>
+<word bottom="1841" left="1212" right="1279" top="1871">
+
+320
+</word>
+<word bottom="1836" left="1583" right="1700" top="1872">
+
+3,000
+</word>
+<word bottom="1842" left="1979" right="2048" top="1873">
+
+400
+</word>
+<word bottom="1792" left="467" right="559" top="1822">
+
+2014
+</word>
+<word bottom="1785" left="814" right="931" top="1822">
+
+3,000
+</word>
+<word bottom="1786" left="1583" right="1699" top="1822">
+
+3,000
+</word>
+<word bottom="1793" left="1978" right="2048" top="1823">
+
+400
+</word>
+<word bottom="1742" left="468" right="557" top="1773">
+
+2015
+</word>
+<word bottom="1736" left="815" right="931" top="1772">
+
+3,000
+</word>
+<word bottom="1737" left="1583" right="1700" top="1773">
+
+3,000
+</word>
+<word bottom="1743" left="1979" right="2048" top="1773">
+
+400
+</word>
+<word bottom="1692" left="467" right="557" top="1723">
+
+2016
+</word>
+<word bottom="1686" left="815" right="930" top="1723">
+
+3,000
+</word>
+<word bottom="1687" left="1583" right="1700" top="1723">
+
+3,000
+</word>
+<word bottom="1694" left="1979" right="2048" top="1723">
+
+400
+</word>
+<word bottom="1643" left="468" right="558" top="1673">
+
+2017
+</word>
+<word bottom="1637" left="815" right="930" top="1673">
+
+3,000
+</word>
+<word bottom="1638" left="1583" right="1699" top="1674">
+
+3,000
+</word>
+<word bottom="1644" left="1979" right="2048" top="1674">
+
+400
+</word>
+<word bottom="1593" left="467" right="558" top="1624">
+
+2018
+</word>
+<word bottom="1587" left="814" right="931" top="1624">
+
+3,000
+</word>
+<word bottom="1588" left="1583" right="1700" top="1624">
+
+3,000
+</word>
+<word bottom="1594" left="1979" right="2048" top="1624">
+
+400
+</word>
+<word bottom="1543" left="466" right="558" top="1575">
+
+2019
+</word>
+<word bottom="1537" left="814" right="930" top="1574">
+
+3,000
+</word>
+<word bottom="1538" left="1583" right="1699" top="1574">
+
+3,000
+</word>
+<word bottom="1544" left="1978" right="2048" top="1575">
+
+400
+</word>
+<word bottom="1493" left="467" right="558" top="1524">
+
+2020
+</word>
+<word bottom="1487" left="814" right="931" top="1524">
+
+3,000
+</word>
+<word bottom="1488" left="1583" right="1700" top="1524">
+
+3,000
+</word>
+<word bottom="1495" left="1979" right="2048" top="1525">
+
+400
+</word>
+<word bottom="1444" left="467" right="557" top="1474">
+
+2021
+</word>
+<word bottom="1438" left="814" right="931" top="1474">
+
+3,000
+</word>
+<word bottom="1439" left="1583" right="1699" top="1474">
+
+3,000
+</word>
+<word bottom="1445" left="1979" right="2048" top="1475">
+
+400
+</word>
+<word bottom="1395" left="466" right="558" top="1425">
+
+2022
+</word>
+<word bottom="1388" left="813" right="930" top="1425">
+
+3,000
+</word>
+<word bottom="1389" left="1582" right="1699" top="1425">
+
+3,000
+</word>
+<word bottom="1395" left="1980" right="2047" top="1426">
+
+320
+</word>
+<word bottom="1345" left="467" right="558" top="1375">
+
+2023
+</word>
+<word bottom="1339" left="813" right="931" top="1376">
+
+1,780
+</word>
+<word bottom="1340" left="1583" right="1700" top="1375">
+
+3,000
+</word>
+<word bottom="1296" left="466" right="558" top="1326">
+
+2024
+</word>
+<word bottom="1290" left="1582" right="1699" top="1326">
+
+3,000
+</word>
+<word bottom="1246" left="466" right="556" top="1276">
+
+2025
+</word>
+<word bottom="1240" left="1582" right="1699" top="1277">
+
+3,000
+</word>
+<word bottom="1196" left="466" right="556" top="1227">
+
+2026
+</word>
+<word bottom="1191" left="1582" right="1699" top="1227">
+
+3,000
+</word>
+<word bottom="1147" left="466" right="557" top="1177">
+
+2027
+</word>
+<word bottom="1141" left="1582" right="1699" top="1177">
+
+3,000
+</word>
+<word bottom="1097" left="465" right="557" top="1128">
+
+2028
+</word>
+<word bottom="1091" left="1581" right="1699" top="1128">
+
+3,000
+</word>
+<word bottom="1047" left="466" right="557" top="1078">
+
+2029
+</word>
+<word bottom="1042" left="1582" right="1699" top="1078">
+
+3,000
+</word>
+<word bottom="998" left="466" right="557" top="1029">
+
+2030
+</word>
+<word bottom="997" left="1632" right="1699" top="1028">
+
+120
+</word>
+<word bottom="948" left="389" right="631" top="979">
+Cumulative</word>
+<word bottom="942" left="786" right="929" top="979">
+
+65,680
+</word>
+<word bottom="942" left="1159" right="1277" top="978">
+
+4,320
+</word>
+<word bottom="942" left="1555" right="1699" top="978">
+
+64,620
+</word>
+<word bottom="942" left="1927" right="2047" top="979">
+
+4,320
+</word>
+</words>
+</ocrresult>
+

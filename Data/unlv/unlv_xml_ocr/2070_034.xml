@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490724993.png" width="2544"/>
+<words>
+<word bottom="2736" left="294" right="487" top="2775">
+Damping:</word>
+<word bottom="2744" left="550" right="693" top="2775">
+
+0.0030
+</word>
+<word bottom="2736" left="727" right="843" top="2779">
+
+s2/%2
+</word>
+<word bottom="2693" left="295" right="611" top="2725">
+Observations:</word>
+<word bottom="2694" left="676" right="767" top="2724">
+
+2887
+</word>
+<word bottom="2644" left="295" right="418" top="2674">
+Block</word>
+<word bottom="2644" left="451" right="561" top="2675">
+size:</word>
+<word bottom="2644" left="625" right="667" top="2675">
+
+35
+</word>
+<word bottom="2645" left="698" right="718" top="2664">
+
+x
+</word>
+<word bottom="2646" left="751" right="791" top="2675">
+
+35
+</word>
+<word bottom="2644" left="823" right="872" top="2673">
+km</word>
+<word bottom="2595" left="295" right="391" top="2623">
+Data</word>
+<word bottom="2594" left="420" right="636" top="2625">
+
+varience:
+</word>
+<word bottom="2595" left="699" right="841" top="2625">
+
+0.0561
+</word>
+<word bottom="2546" left="295" right="492" top="2578">
+Variance</word>
+<word bottom="2537" left="525" right="811" top="2578">
+improvement:</word>
+<word bottom="2544" left="873" right="993" top="2576">
+
+82.1%
+</word>
+<word bottom="2440" left="571" right="765" top="2479">
+Velocity</word>
+<word bottom="2447" left="845" right="1065" top="2479">
+Thickness</word>
+<word bottom="2394" left="599" right="737" top="2431">
+(km/s)</word>
+<word bottom="2394" left="900" right="988" top="2430">
+(km)</word>
+<word bottom="2347" left="646" right="715" top="2378">
+
+6.0
+</word>
+<word bottom="2347" left="924" right="965" top="2377">
+
+15
+</word>
+<word bottom="2298" left="646" right="714" top="2328">
+
+6.7
+</word>
+<word bottom="2297" left="925" right="966" top="2327">
+
+16
+</word>
+<word bottom="2248" left="646" right="714" top="2278">
+
+7.8
+</word>
+<word bottom="2246" left="923" right="965" top="2277">
+
+50
+</word>
+<word bottom="2198" left="646" right="714" top="2229">
+
+8.3
+</word>
+<word bottom="2197" left="923" right="965" top="2228">
+
+50
+</word>
+<word bottom="2147" left="647" right="713" top="2178">
+
+8.5
+</word>
+<word bottom="2146" left="899" right="966" top="2176">
+
+100
+</word>
+<word bottom="1887" left="291" right="483" top="1927">
+Damping:</word>
+<word bottom="1895" left="547" right="689" top="1926">
+
+0.0030
+</word>
+<word bottom="1889" left="722" right="840" top="1931">
+
+s2/%2
+</word>
+<word bottom="1843" left="293" right="608" top="1875">
+Observations:</word>
+<word bottom="1843" left="674" right="763" top="1873">
+
+2887
+</word>
+<word bottom="1793" left="294" right="415" top="1824">
+Block</word>
+<word bottom="1793" left="449" right="559" top="1824">
+size:</word>
+<word bottom="1793" left="625" right="665" top="1823">
+
+35
+</word>
+<word bottom="1793" left="696" right="717" top="1812">
+
+x
+</word>
+<word bottom="1794" left="749" right="790" top="1823">
+
+35
+</word>
+<word bottom="1793" left="822" right="870" top="1820">
+km</word>
+<word bottom="1743" left="293" right="388" top="1771">
+Data</word>
+<word bottom="1742" left="419" right="633" top="1774">
+
+varience:
+</word>
+<word bottom="1743" left="697" right="839" top="1773">
+
+0.0561
+</word>
+<word bottom="1693" left="293" right="491" top="1724">
+Variance</word>
+<word bottom="1685" left="526" right="811" top="1725">
+improvement:</word>
+<word bottom="1694" left="875" right="993" top="1725">
+
+80.6%
+</word>
+<word bottom="1588" left="569" right="765" top="1626">
+Velocity</word>
+<word bottom="1541" left="599" right="737" top="1577">
+(km/s)</word>
+<word bottom="1493" left="648" right="716" top="1524">
+
+6.0
+</word>
+<word bottom="1443" left="648" right="715" top="1474">
+
+6.7
+</word>
+<word bottom="1393" left="650" right="716" top="1424">
+
+7.8
+</word>
+<word bottom="1344" left="647" right="717" top="1375">
+
+8.3
+</word>
+<word bottom="1294" left="647" right="716" top="1325">
+
+8.5
+</word>
+<word bottom="1595" left="844" right="1065" top="1627">
+Thickness</word>
+<word bottom="1542" left="901" right="988" top="1577">
+(km)</word>
+<word bottom="1494" left="926" right="966" top="1524">
+
+15
+</word>
+<word bottom="1444" left="926" right="967" top="1475">
+
+16
+</word>
+<word bottom="1393" left="926" right="967" top="1423">
+
+50
+</word>
+<word bottom="1344" left="925" right="968" top="1375">
+
+50
+</word>
+<word bottom="1295" left="900" right="968" top="1325">
+
+100
+</word>
+<word bottom="2943" left="1198" right="1320" top="2973">
+TABLE</word>
+<word bottom="2944" left="1353" right="1370" top="2973">
+
+9
+</word>
+<word bottom="2845" left="1159" right="1279" top="2875">
+Model</word>
+<word bottom="2845" left="1313" right="1432" top="2875">
+
+nov9b
+</word>
+<word bottom="2731" left="1150" right="1222" top="2767">
+Top</word>
+<word bottom="2731" left="1255" right="1371" top="2770">
+layer</word>
+<word bottom="2741" left="1399" right="1569" top="2772">
+modeled</word>
+<word bottom="2742" left="1603" right="1644" top="2763">
+as</word>
+<word bottom="2741" left="1681" right="1847" top="2773">
+station</word>
+<word bottom="2742" left="1879" right="2146" top="2774">
+corrections</word>
+<word bottom="2685" left="1150" right="1271" top="2721">
+Layer</word>
+<word bottom="2693" left="1300" right="1464" top="2724">
+offset:</word>
+<word bottom="2694" left="1525" right="1621" top="2715">
+none</word>
+<word bottom="2645" left="1150" right="1294" top="2675">
+Blocks</word>
+<word bottom="2645" left="1324" right="1514" top="2675">
+modeled:</word>
+<word bottom="2645" left="1580" right="1645" top="2676">
+
+345
+</word>
+<word bottom="2594" left="1150" right="1343" top="2627">
+Residual</word>
+<word bottom="2595" left="1374" right="1589" top="2626">
+
+varience:
+</word>
+<word bottom="2596" left="1652" right="1798" top="2626">
+
+0.0100
+</word>
+<word bottom="2449" left="1198" right="1218" top="2482">
+
+#
+</word>
+<word bottom="2448" left="1249" right="1293" top="2478">
+of</word>
+<word bottom="2448" left="1324" right="1470" top="2478">
+Blocks</word>
+<word bottom="1996" left="1156" right="1277" top="2027">
+Model</word>
+<word bottom="1997" left="1310" right="1429" top="2027">
+
+nov9f
+</word>
+<word bottom="1883" left="1147" right="1219" top="1918">
+Top</word>
+<word bottom="1883" left="1252" right="1369" top="1921">
+layer</word>
+<word bottom="1893" left="1396" right="1567" top="1923">
+modeled</word>
+<word bottom="1894" left="1601" right="1642" top="1914">
+as</word>
+<word bottom="1894" left="1676" right="1819" top="1924">
+blocks</word>
+<word bottom="1835" left="1148" right="1268" top="1871">
+Layer</word>
+<word bottom="1843" left="1299" right="1462" top="1873">
+offset:</word>
+<word bottom="1844" left="1525" right="1618" top="1864">
+none</word>
+<word bottom="1794" left="1149" right="1292" top="1823">
+Blocks</word>
+<word bottom="1794" left="1323" right="1513" top="1824">
+modeled:</word>
+<word bottom="1795" left="1580" right="1643" top="1825">
+
+337
+</word>
+<word bottom="1743" left="1148" right="1342" top="1774">
+Residual</word>
+<word bottom="1744" left="1373" right="1589" top="1774">
+
+varience:
+</word>
+<word bottom="1743" left="1652" right="1795" top="1774">
+
+0.0109
+</word>
+<word bottom="1597" left="1196" right="1218" top="1630">
+
+#
+</word>
+<word bottom="1596" left="1247" right="1292" top="1626">
+of</word>
+<word bottom="1596" left="1322" right="1469" top="1625">
+Blocks</word>
+<word bottom="254" left="1250" right="1294" top="284">
+
+28
+</word>
+<word bottom="2348" left="1274" right="1294" top="2378">
+
+8
+</word>
+<word bottom="2348" left="1324" right="1345" top="2368">
+
+x
+</word>
+<word bottom="2350" left="1376" right="1396" top="2379">
+
+8
+</word>
+<word bottom="2297" left="1274" right="1344" top="2329">
+8x</word>
+<word bottom="2298" left="1375" right="1393" top="2327">
+
+9
+</word>
+<word bottom="2247" left="1274" right="1292" top="2277">
+
+9
+</word>
+<word bottom="2248" left="1321" right="1342" top="2268">
+
+x
+</word>
+<word bottom="2249" left="1377" right="1419" top="2279">
+
+10
+</word>
+<word bottom="2198" left="1274" right="1291" top="2228">
+
+9
+</word>
+<word bottom="2198" left="1322" right="1343" top="2218">
+
+x
+</word>
+<word bottom="2199" left="1376" right="1418" top="2228">
+
+10
+</word>
+<word bottom="2146" left="1277" right="1315" top="2176">
+
+11
+</word>
+<word bottom="2147" left="1347" right="1368" top="2167">
+
+x
+</word>
+<word bottom="2148" left="1402" right="1444" top="2178">
+
+10
+</word>
+<word bottom="1496" left="1277" right="1294" top="1525">
+
+8
+</word>
+<word bottom="1495" left="1325" right="1345" top="1515">
+
+x
+</word>
+<word bottom="1496" left="1377" right="1396" top="1526">
+
+8
+</word>
+<word bottom="1445" left="1276" right="1345" top="1476">
+8x</word>
+<word bottom="1445" left="1377" right="1394" top="1475">
+
+9
+</word>
+<word bottom="1393" left="1277" right="1294" top="1424">
+
+9
+</word>
+<word bottom="1394" left="1325" right="1346" top="1414">
+
+x
+</word>
+<word bottom="1395" left="1379" right="1421" top="1424">
+
+10
+</word>
+<word bottom="1345" left="1277" right="1295" top="1376">
+
+9
+</word>
+<word bottom="1345" left="1324" right="1345" top="1365">
+
+x
+</word>
+<word bottom="1347" left="1379" right="1421" top="1375">
+
+10
+</word>
+<word bottom="1295" left="1279" right="1317" top="1325">
+
+11
+</word>
+<word bottom="1296" left="1349" right="1370" top="1315">
+
+x
+</word>
+<word bottom="1297" left="1403" right="1445" top="1326">
+
+10
+</word>
+</words>
+</ocrresult>
+

@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490874407.png" width="2544"/>
+<words>
+<word bottom="2786" left="324" right="491" top="2829">
+Figures</word>
+<word bottom="2794" left="548" right="683" top="2828">
+
+23-30.
+</word>
+<word bottom="2786" left="746" right="891" top="2828">
+Graphs</word>
+<word bottom="2785" left="924" right="1093" top="2833">
+showing</word>
+<word bottom="2793" left="1123" right="1193" top="2827">
+the</word>
+<word bottom="2793" left="1224" right="1417" top="2829">
+relation</word>
+<word bottom="2793" left="1448" right="1617" top="2827">
+between</word>
+<word bottom="2793" left="1648" right="1717" top="2826">
+the</word>
+<word bottom="2784" left="1751" right="1969" top="2828">
+logarithm</word>
+<word bottom="2793" left="1998" right="2043" top="2826">
+of</word>
+<word bottom="2744" left="798" right="1017" top="2779">
+effective</word>
+<word bottom="2743" left="1047" right="1193" top="2779">
+matrix</word>
+<word bottom="2743" left="1225" right="1467" top="2778">
+saturation</word>
+<word bottom="2743" left="1498" right="1568" top="2776">
+and</word>
+<word bottom="2743" left="1598" right="1667" top="2776">
+the</word>
+<word bottom="2734" left="1700" right="1919" top="2778">
+logarithm</word>
+<word bottom="2742" left="1948" right="1993" top="2776">
+of</word>
+<word bottom="2694" left="797" right="992" top="2729">
+moisture</word>
+<word bottom="2686" left="1023" right="1212" top="2728">
+tension,</word>
+<word bottom="2693" left="1248" right="1342" top="2719">
+core</word>
+<word bottom="2694" left="1374" right="1468" top="2727">
+from</word>
+<word bottom="2693" left="1498" right="1593" top="2726">
+test</word>
+<word bottom="2693" left="1620" right="1711" top="2726">
+well</word>
+<word bottom="2694" left="1748" right="1820" top="2727">
+USW</word>
+<word bottom="2693" left="1847" right="1918" top="2726">
+
+H-1
+</word>
+<word bottom="2645" left="798" right="843" top="2677">
+at</word>
+<word bottom="2645" left="873" right="893" top="2669">
+a</word>
+<word bottom="2636" left="923" right="1043" top="2678">
+depth</word>
+<word bottom="2645" left="1073" right="1133" top="2678">
+of:</word>
+<word bottom="2595" left="848" right="908" top="2629">
+
+23.
+</word>
+<word bottom="2595" left="973" right="1067" top="2628">
+
+33.5
+</word>
+<word bottom="2594" left="1097" right="1241" top="2626">
+meters</word>
+<word bottom="2545" left="849" right="909" top="2579">
+
+24.
+</word>
+<word bottom="2545" left="974" right="1093" top="2578">
+
+128.0
+</word>
+<word bottom="2544" left="1122" right="1267" top="2576">
+meters</word>
+<word bottom="2496" left="849" right="909" top="2530">
+
+25.
+</word>
+<word bottom="2495" left="975" right="1095" top="2529">
+
+129.1
+</word>
+<word bottom="2495" left="1122" right="1267" top="2527">
+meters</word>
+<word bottom="2447" left="849" right="909" top="2480">
+
+26.
+</word>
+<word bottom="2446" left="975" right="1093" top="2479">
+
+134.9
+</word>
+<word bottom="2445" left="1122" right="1266" top="2478">
+meters</word>
+<word bottom="2397" left="849" right="909" top="2430">
+
+27.
+</word>
+<word bottom="2396" left="974" right="1093" top="2429">
+
+219.2
+</word>
+<word bottom="2395" left="1122" right="1266" top="2427">
+meters</word>
+<word bottom="2347" left="849" right="909" top="2380">
+
+28.
+</word>
+<word bottom="2346" left="974" right="1095" top="2379">
+
+221.4
+</word>
+<word bottom="2345" left="1122" right="1267" top="2377">
+meters</word>
+<word bottom="2297" left="849" right="909" top="2330">
+
+29.
+</word>
+<word bottom="2296" left="974" right="1094" top="2329">
+
+222.1
+</word>
+<word bottom="2296" left="1122" right="1267" top="2327">
+meters</word>
+<word bottom="2247" left="849" right="909" top="2280">
+
+30.
+</word>
+<word bottom="2246" left="974" right="1093" top="2280">
+
+225.6
+</word>
+<word bottom="2246" left="1122" right="1266" top="2278">
+meters</word>
+<word bottom="1998" left="323" right="444" top="2032">
+Table</word>
+<word bottom="1998" left="475" right="510" top="2032">
+
+1.
+</word>
+<word bottom="1997" left="574" right="943" top="2033">
+Characteristics</word>
+<word bottom="1997" left="975" right="1021" top="2031">
+of</word>
+<word bottom="1997" left="1050" right="1144" top="2022">
+core</word>
+<word bottom="1988" left="1176" right="1342" top="2032">
+samples</word>
+<word bottom="1998" left="1376" right="1470" top="2031">
+from</word>
+<word bottom="1997" left="1499" right="1569" top="2031">
+the</word>
+<word bottom="1997" left="1600" right="1870" top="2031">
+unsaturated</word>
+<word bottom="1990" left="1900" right="2014" top="2021">
+zone,</word>
+<word bottom="1948" left="625" right="720" top="1981">
+test</word>
+<word bottom="1948" left="747" right="838" top="1983">
+well</word>
+<word bottom="1949" left="874" right="946" top="1983">
+USW</word>
+<word bottom="1949" left="975" right="1045" top="1982">
+
+H-1
+</word>
+<word bottom="1700" left="451" right="520" top="1734">
+For</word>
+<word bottom="1700" left="550" right="669" top="1733">
+those</word>
+<word bottom="1699" left="701" right="868" top="1732">
+readers</word>
+<word bottom="1700" left="897" right="969" top="1733">
+who</word>
+<word bottom="1691" left="999" right="1145" top="1733">
+prefer</word>
+<word bottom="1699" left="1174" right="1219" top="1731">
+to</word>
+<word bottom="1699" left="1251" right="1318" top="1724">
+use</word>
+<word bottom="1691" left="1352" right="1594" top="1735">
+inch-pound</word>
+<word bottom="1699" left="1626" right="1770" top="1732">
+rather</word>
+<word bottom="1699" left="1799" right="1894" top="1733">
+than</word>
+<word bottom="1699" left="1924" right="2068" top="1734">
+metric</word>
+<word bottom="1692" left="2101" right="2239" top="1733">
+units,</word>
+<word bottom="1649" left="325" right="569" top="1684">
+conversion</word>
+<word bottom="1649" left="601" right="767" top="1682">
+factors</word>
+<word bottom="1649" left="801" right="870" top="1683">
+for</word>
+<word bottom="1650" left="900" right="969" top="1683">
+the</word>
+<word bottom="1649" left="1000" right="1117" top="1681">
+terms</word>
+<word bottom="1649" left="1150" right="1245" top="1682">
+used</word>
+<word bottom="1650" left="1277" right="1319" top="1685">
+in</word>
+<word bottom="1650" left="1350" right="1442" top="1684">
+this</word>
+<word bottom="1641" left="1476" right="1620" top="1681">
+report</word>
+<word bottom="1649" left="1649" right="1719" top="1673">
+are</word>
+<word bottom="1649" left="1752" right="1896" top="1684">
+listed</word>
+<word bottom="1649" left="1924" right="2060" top="1683">
+below:</word>
+<word bottom="1550" left="372" right="521" top="1582">
+Metric</word>
+<word bottom="1549" left="548" right="646" top="1582">
+unit</word>
+<word bottom="1449" left="326" right="571" top="1485">
+centimeter</word>
+<word bottom="1399" left="324" right="446" top="1432">
+meter</word>
+<word bottom="1393" left="478" right="542" top="1435">
+
+(m)
+</word>
+<word bottom="1350" left="328" right="546" top="1384">
+kilometer</word>
+<word bottom="1300" left="326" right="445" top="1335">
+cubic</word>
+<word bottom="1300" left="476" right="721" top="1335">
+centimeter</word>
+<word bottom="1294" left="753" right="867" top="1336">
+
+(cm3)
+</word>
+<word bottom="1240" left="325" right="421" top="1274">
+gram</word>
+<word bottom="1241" left="450" right="521" top="1274">
+per</word>
+<word bottom="1249" left="551" right="670" top="1284">
+cubic</word>
+<word bottom="1249" left="701" right="946" top="1283">
+centimeter</word>
+<word bottom="1191" left="378" right="542" top="1236">
+
+(g/cm3)
+</word>
+<word bottom="1150" left="327" right="572" top="1185">
+centimeter</word>
+<word bottom="1141" left="600" right="672" top="1174">
+per</word>
+<word bottom="1150" left="702" right="847" top="1183">
+second</word>
+<word bottom="1144" left="879" right="1019" top="1186">
+
+(cm/s)
+</word>
+<word bottom="1099" left="327" right="573" top="1134">
+centimeter</word>
+<word bottom="1091" left="601" right="672" top="1124">
+per</word>
+<word bottom="1099" left="703" right="847" top="1133">
+second</word>
+<word bottom="1091" left="878" right="1047" top="1133">
+squared</word>
+<word bottom="1049" left="325" right="572" top="1084">
+millimeter</word>
+<word bottom="1041" left="601" right="672" top="1073">
+per</word>
+<word bottom="1040" left="698" right="798" top="1073">
+year</word>
+<word bottom="1040" left="829" right="994" top="1085">
+
+(mm/yr)
+</word>
+<word bottom="990" left="327" right="421" top="1031">
+dyne</word>
+<word bottom="990" left="451" right="522" top="1023">
+per</word>
+<word bottom="998" left="552" right="797" top="1033">
+centimeter</word>
+<word bottom="990" left="829" right="1044" top="1035">
+(dyne/cm)</word>
+<word bottom="940" left="329" right="565" top="983">
+
+kilopascal
+</word>
+<word bottom="847" left="327" right="573" top="882">
+centimeter</word>
+<word bottom="848" left="602" right="648" top="880">
+of</word>
+<word bottom="848" left="675" right="797" top="879">
+water</word>
+<word bottom="797" left="326" right="573" top="833">
+centimeter</word>
+<word bottom="798" left="602" right="648" top="831">
+of</word>
+<word bottom="790" left="676" right="847" top="823">
+mercury</word>
+<word bottom="639" left="328" right="472" top="681">
+degree</word>
+<word bottom="648" left="503" right="671" top="683">
+Celsius</word>
+<word bottom="642" left="706" right="795" top="685">
+
+(°C)
+</word>
+<word bottom="2943" left="1001" right="1593" top="2978">
+
+ILLUSTRATIONS--Continued
+</word>
+<word bottom="2146" left="1248" right="1368" top="2181">
+TABLE</word>
+<word bottom="1799" left="1024" right="1169" top="1833">
+METRIC</word>
+<word bottom="1799" left="1199" right="1444" top="1833">
+CONVERSION</word>
+<word bottom="1799" left="1473" right="1594" top="1833">
+TABLE</word>
+<word bottom="1541" left="1172" right="1372" top="1582">
+Multiply</word>
+<word bottom="1541" left="1397" right="1447" top="1581">
+by</word>
+<word bottom="1449" left="1175" right="1417" top="1489">
+
+3.937x10-1
+</word>
+<word bottom="1399" left="1176" right="1296" top="1434">
+
+3.281
+</word>
+<word bottom="1350" left="1176" right="1417" top="1389">
+
+6.214x10-1
+</word>
+<word bottom="1300" left="1175" right="1417" top="1336">
+
+6.102x10-2
+</word>
+<word bottom="1249" left="1176" right="1392" top="1288">
+
+6.243x101
+</word>
+<word bottom="1150" left="1177" right="1417" top="1186">
+
+1.367x10-3
+</word>
+<word bottom="1099" left="1177" right="1419" top="1136">
+
+3.281x10-2
+</word>
+<word bottom="1049" left="1177" right="1418" top="1085">
+
+3.937x10-2
+</word>
+<word bottom="998" left="1177" right="1395" top="1038">
+
+5.71x10-6
+</word>
+<word bottom="948" left="1177" right="1394" top="988">
+
+1.00x10-2
+</word>
+<word bottom="898" left="1177" right="1393" top="937">
+
+1.45x10-1
+</word>
+<word bottom="848" left="1176" right="1395" top="887">
+
+9.80x10-4
+</word>
+<word bottom="798" left="1178" right="1418" top="838">
+
+1.934x10-1
+</word>
+<word bottom="748" left="1178" right="1394" top="788">
+
+1.33x10-2
+</word>
+<word bottom="646" left="1180" right="1423" top="687">
+
+F=9/5°C+32
+</word>
+<word bottom="149" left="1283" right="1324" top="183">
+iv</word>
+<word bottom="1449" left="1628" right="1720" top="1484">
+inch</word>
+<word bottom="1400" left="1627" right="1721" top="1433">
+foot</word>
+<word bottom="1350" left="1625" right="1720" top="1385">
+mile</word>
+<word bottom="1300" left="1625" right="1745" top="1335">
+cubic</word>
+<word bottom="1300" left="1778" right="1870" top="1335">
+inch</word>
+<word bottom="1241" left="1625" right="1746" top="1283">
+pound</word>
+<word bottom="1241" left="1775" right="1847" top="1275">
+per</word>
+<word bottom="1250" left="1876" right="1995" top="1284">
+cubic</word>
+<word bottom="1249" left="2027" right="2121" top="1283">
+foot</word>
+<word bottom="640" left="1628" right="1772" top="682">
+degree</word>
+<word bottom="649" left="1804" right="2049" top="684">
+Fahrenheit</word>
+<word bottom="643" left="2081" right="2170" top="687">
+
+(°F)
+</word>
+<word bottom="2884" left="2150" right="2242" top="2925">
+Page</word>
+<word bottom="2088" left="2150" right="2244" top="2129">
+Page</word>
+<word bottom="1948" left="2224" right="2245" top="1982">
+
+8
+</word>
+<word bottom="1549" left="1624" right="1670" top="1578">
+To</word>
+<word bottom="1549" left="1699" right="1846" top="1582">
+obtain</word>
+<word bottom="1540" left="1875" right="2123" top="1582">
+inch
+-pound
+</word>
+<word bottom="1549" left="2148" right="2246" top="1582">
+unit</word>
+<word bottom="1150" left="1628" right="1722" top="1183">
+foot</word>
+<word bottom="1142" left="1751" right="1823" top="1175">
+per</word>
+<word bottom="1141" left="1851" right="1923" top="1184">
+day</word>
+<word bottom="1100" left="1628" right="1722" top="1133">
+foot</word>
+<word bottom="1092" left="1751" right="1822" top="1125">
+per</word>
+<word bottom="1100" left="1853" right="1997" top="1133">
+second</word>
+<word bottom="1091" left="2028" right="2197" top="1134">
+squared</word>
+<word bottom="1049" left="1629" right="1721" top="1084">
+inch</word>
+<word bottom="1041" left="1751" right="1822" top="1074">
+per</word>
+<word bottom="1041" left="1848" right="1947" top="1074">
+year</word>
+<word bottom="990" left="1626" right="1747" top="1033">
+pound</word>
+<word bottom="991" left="1776" right="1848" top="1024">
+per</word>
+<word bottom="999" left="1879" right="1971" top="1034">
+inch</word>
+<word bottom="949" left="1627" right="1698" top="982">
+bar</word>
+<word bottom="890" left="1626" right="1747" top="932">
+pound</word>
+<word bottom="890" left="1776" right="1848" top="923">
+per</word>
+<word bottom="890" left="1878" right="2021" top="923">
+square</word>
+<word bottom="899" left="2055" right="2147" top="934">
+inch</word>
+<word bottom="848" left="1627" right="1698" top="882">
+bar</word>
+<word bottom="790" left="1626" right="1747" top="833">
+pound</word>
+<word bottom="791" left="1776" right="1848" top="824">
+per</word>
+<word bottom="790" left="1878" right="2021" top="823">
+square</word>
+<word bottom="799" left="2055" right="2147" top="834">
+inch</word>
+<word bottom="749" left="1627" right="1698" top="782">
+bar</word>
+<word bottom="2594" left="2198" right="2242" top="2627">
+
+27
+</word>
+<word bottom="2544" left="2199" right="2243" top="2577">
+
+27
+</word>
+<word bottom="2495" left="2199" right="2244" top="2528">
+
+28
+</word>
+<word bottom="2445" left="2199" right="2244" top="2478">
+
+28
+</word>
+<word bottom="2395" left="2199" right="2243" top="2428">
+
+29
+</word>
+<word bottom="2345" left="2199" right="2243" top="2378">
+
+29
+</word>
+<word bottom="2296" left="2199" right="2243" top="2329">
+
+30
+</word>
+<word bottom="2246" left="2199" right="2243" top="2279">
+
+30
+</word>
+<word bottom="3136" left="2323" right="2500" top="3194">
+
+ößlo
+</word>
+</words>
+</ocrresult>
+

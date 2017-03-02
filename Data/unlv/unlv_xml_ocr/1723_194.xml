@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490671486.png" width="2544"/>
+<words>
+<word bottom="2874" left="486" right="605" top="2905">
+TABLE</word>
+<word bottom="2874" left="633" right="680" top="2907">
+
+49
+</word>
+<word bottom="2774" left="484" right="631" top="2806">
+
+M-Area
+</word>
+<word bottom="2775" left="659" right="903" top="2809">
+
+Rinsewater
+</word>
+<word bottom="2766" left="931" right="1125" top="2807">
+Analysis</word>
+<word bottom="2766" left="1161" right="1297" top="2811">
+
+(Mg/L)
+</word>
+<word bottom="2626" left="855" right="1002" top="2657">
+
+M-Area
+</word>
+<word bottom="2626" left="1032" right="1149" top="2656">
+Total</word>
+<word bottom="2627" left="1257" right="1324" top="2659">
+
+313
+</word>
+<word bottom="2627" left="1354" right="1472" top="2656">
+Total</word>
+<word bottom="2627" left="1581" right="1644" top="2658">
+
+321
+</word>
+<word bottom="2625" left="1677" right="1796" top="2654">
+Total</word>
+<word bottom="2525" left="483" right="528" top="2555">
+Al</word>
+<word bottom="2526" left="858" right="978" top="2557">
+
+0.044
+</word>
+<word bottom="2526" left="1256" right="1275" top="2555">
+
+0
+</word>
+<word bottom="2526" left="1579" right="1598" top="2556">
+
+0
+</word>
+<word bottom="2427" left="482" right="530" top="2456">
+Na</word>
+<word bottom="2427" left="861" right="925" top="2458">
+
+557
+</word>
+<word bottom="2427" left="1261" right="1349" top="2459">
+
+1124
+</word>
+<word bottom="2427" left="1580" right="1648" top="2459">
+
+245
+</word>
+<word bottom="2329" left="481" right="527" top="2358">
+Fe</word>
+<word bottom="2330" left="857" right="876" top="2360">
+
+0
+</word>
+<word bottom="2329" left="1253" right="1348" top="2360">
+
+0.02
+</word>
+<word bottom="2329" left="1577" right="1697" top="2360">
+
+0.002
+</word>
+<word bottom="2229" left="482" right="530" top="2258">
+Ca</word>
+<word bottom="2229" left="858" right="951" top="2260">
+
+3.83
+</word>
+<word bottom="2229" left="1253" right="1347" top="2259">
+
+0.27
+</word>
+<word bottom="2227" left="1583" right="1697" top="2259">
+
+11.50
+</word>
+<word bottom="2130" left="484" right="527" top="2161">
+Si</word>
+<word bottom="2130" left="856" right="926" top="2160">
+
+2.8
+</word>
+<word bottom="2129" left="1254" right="1347" top="2160">
+
+3.75
+</word>
+<word bottom="2131" left="1580" right="1598" top="2160">
+
+0
+</word>
+<word bottom="2018" left="484" right="528" top="2060">
+PT</word>
+<word bottom="2029" left="858" right="950" top="2061">
+
+15.0
+</word>
+<word bottom="2029" left="1256" right="1320" top="2061">
+
+133
+</word>
+<word bottom="2029" left="1576" right="1595" top="2059">
+
+0
+</word>
+<word bottom="1929" left="481" right="527" top="1960">
+Ni</word>
+<word bottom="1928" left="854" right="949" top="1959">
+
+0.25
+</word>
+<word bottom="1829" left="482" right="528" top="1857">
+NO</word>
+<word bottom="1812" left="538" right="553" top="1838">
+
+3
+</word>
+<word bottom="1828" left="859" right="948" top="1859">
+
+1379
+</word>
+<word bottom="1827" left="1255" right="1346" top="1859">
+
+2447
+</word>
+<word bottom="1827" left="1577" right="1645" top="1858">
+656</word>
+<word bottom="1731" left="482" right="527" top="1758">
+PO</word>
+<word bottom="1714" left="535" right="552" top="1738">
+
+4
+</word>
+<word bottom="1730" left="856" right="947" top="1761">
+
+30.9
+</word>
+<word bottom="1730" left="1254" right="1321" top="1761">
+
+298
+</word>
+<word bottom="1731" left="1576" right="1594" top="1760">
+
+0
+</word>
+<word bottom="1627" left="480" right="524" top="1657">
+
+Cl
+</word>
+<word bottom="1628" left="855" right="947" top="1658">
+
+7.65
+</word>
+<word bottom="1627" left="1255" right="1345" top="1658">
+
+19.9
+</word>
+<word bottom="1629" left="1576" right="1596" top="1658">
+
+0
+</word>
+<word bottom="1529" left="481" right="551" top="1557">
+
+TOC
+</word>
+<word bottom="1529" left="854" right="897" top="1559">
+
+&lt;5
+</word>
+<word bottom="1429" left="482" right="548" top="1457">
+
+TDS
+</word>
+<word bottom="1429" left="858" right="946" top="1459">
+
+1815
+</word>
+<word bottom="1325" left="475" right="672" top="1357">
+Filtrate</word>
+<word bottom="1318" left="703" right="746" top="1354">
+pH</word>
+<word bottom="1325" left="852" right="946" top="1357">
+
+3.73
+</word>
+<word bottom="1325" left="1249" right="1343" top="1357">
+
+6.96
+</word>
+<word bottom="1324" left="1574" right="1667" top="1356">
+
+7.47
+</word>
+</words>
+</ocrresult>
+

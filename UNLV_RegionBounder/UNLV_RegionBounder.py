@@ -1,4 +1,4 @@
-# xml parser library
+﻿# xml parser library
 import xml.dom.minidom as minidom
 # image processing libraries
 import matplotlib.pyplot as plt
@@ -144,6 +144,8 @@ def main(table, img, ocr):
     # display
     region_bounder_table(img)
     region_bounder_word(img)
+    # assigning the values to the struct object
+    assigning_values_to_the_struct()
     return
 
 
