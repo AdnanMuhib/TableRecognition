@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DataCollector.py" />
+    <Compile Include="Class_DataCollector.py" />
     <Compile Include="UNLV_RegionBounder.py" />
   </ItemGroup>
   <PropertyGroup>

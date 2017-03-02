@@ -8,7 +8,7 @@ import numpy as np
 #-*- coding: utf-8 -*-
 import unicodedata
 # importing the class of FeatureExtraction
-import DataCollector as DC
+import Class_DataCollector as DC
 ################################################
 ##############Array of Object###################
 ################################################
@@ -171,7 +171,6 @@ def main(table, img, ocr):
     #region_bounder_word(img)
     # assigning the values to the struct object
     assigning_values_to_the_struct()
-    print 1
     return
 
 # deciding which words are in the table and which 
