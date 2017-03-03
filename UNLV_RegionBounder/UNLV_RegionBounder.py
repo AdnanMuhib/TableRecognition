@@ -212,10 +212,9 @@ def sort_array_by_x(new_sorted_array):
 # of other arrays
 
 if __name__ == "__main__":
-    main("F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_gt\\0110_099.xml",
-         "F:\\KICS - Research Officer\\CVML\\unlv-table-png\\0110_099.png",
-         "F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_ocr\\0110_099.xml")
-
+    main("C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0101_003.xml",
+         "C:\\New Folder\\TableRecognition\\Data\\unlv-table-png\\0101_003.png",
+         "C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0101_003.xml")
 ########################################################
 ####################End of File#########################
 ########################################################
