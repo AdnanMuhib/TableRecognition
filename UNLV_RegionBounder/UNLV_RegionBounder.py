@@ -180,8 +180,32 @@ def main(table, img, ocr):
     #region_bounder_word(img)
     # assigning the values to the struct object
     assigning_values_to_the_struct()
+    sorted_array=sort_array(arr_of_objects)
+    y_sorted_x=sort_array_by_x(sorted_array)
+    for x in range(0,len(y_sorted_x)):
+        print(y_sorted_x[x].y,y_sorted_x[x].x)
     return
-
+#sorting the array of objects with respect to y values
+def sort_array(new_array_of_objects):
+    changed = True
+    while changed:
+        changed = False
+        for i in range(len(new_array_of_objects) - 1):
+            if new_array_of_objects[i].y > new_array_of_objects[i+1].y:
+                new_array_of_objects[i], new_array_of_objects[i+1] = new_array_of_objects[i+1], new_array_of_objects[i]
+                changed = True
+    return new_array_of_objects
+#sorting the y values sorted array of objects with respect to x values
+def sort_array_by_x(new_sorted_array):
+    changed = True
+    while changed:
+        changed = False
+        for i in range(len(new_sorted_array) - 1):
+            if new_sorted_array[i].y > new_sorted_array[i+1].y:
+                if new_sorted_array[i].x >new_sorted_array[i+1].x:
+                    new_sorted_array[i], new_sorted_array[i+1] = new_sorted_array[i+1], new_sorted_array[i]
+                    changed = True
+    return new_sorted_array
 # deciding which words are in the table and which 
 # are not by looping through all the elements of 
 # the word and see if its x and y are equal to that
