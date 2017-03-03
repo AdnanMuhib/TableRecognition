@@ -73,14 +73,14 @@ def word_to_array(file):
 
 
 #eliminating y gap 
-def eliminate_y_diff(arr):
-    previous_y=arr[0].y
-    for i in range(len(arr)):
-        if(i!=len(arr)-1):
-            if(abs(arr[i].y-previous_y)<40):
-                arr[i].y=previous_y
-        previous_y=arr[i].y
-    return arr
+def eliminate_y_diff():
+    previous_y=arr_of_objects[0].y
+    for i in range(len(arr_of_objects)):
+        if(i!=len(arr_of_objects)-1):
+            if(abs(arr_of_objects[i].y-previous_y)<40):
+                arr_of_objects[i].y=previous_y
+        previous_y=arr_of_objects[i].y
+    return
 ################################################
 #################Table Data#####################
 ################################################
@@ -215,19 +215,13 @@ def calculate_dist():
             arr_of_objects[i].x_m_1_dist=abs(arr_of_objects[i].x-arr_of_objects[i-1].x)
             arr_of_objects[i].y_m_1_dist=abs(arr_of_objects[i].y-arr_of_objects[i-1].y)
     return
-my_sorted_array = []
+def sorting_x(sorted_array):
+    for i in range(len(sorted_array)):
 
-# sorting the x values
-def sort_x():
-    for x in range(len(my_sorted_array)):
-        for elements in x.y:
-            print elements
     return
-
 # main driver for the file
 
 def main(table, img, ocr):
-    global my_sorted_array
     # read table xml file and  calculate the
     # line spaces
     table_to_array(table)
@@ -240,14 +234,16 @@ def main(table, img, ocr):
     #region_bounder_word(img)
     # assigning the values to the struct object
     assigning_values_to_the_struct()
-    my_sorted_array = sort_array(arr_of_objects)
-    my_sorted_array = eliminate_y_diff(my_sorted_array)
-    #y_sorted_x=sort_array_by_x(my_sorted_array)
-    sort_x()
+    eliminate_y_diff()
+    sorted_array=sort_array(arr_of_objects)
+    y_sorted_x=sort_array_by_x(sorted_array)
+    print("y  x  x_1_dist y_1_dist x_m_1_dist y_m_1_dist")
     calculate_dist()
-   # sorting_x()
-    for x in range(0,len(my_sorted_array)):
-        print "x : ", my_sorted_array[x].x,"y : ", my_sorted_array[x].y,"word : ", my_sorted_array[x].word
+
+    for x in range(0,len(y_sorted_x)):
+        print(y_sorted_x[x].y,y_sorted_x[x].x,arr_of_objects[x].x_1_dist,
+              arr_of_objects[x].y_1_dist,arr_of_objects[x].x_m_1_dist,
+              arr_of_objects[x].y_m_1_dist,arr_of_objects[x].word)
     return
 # deciding which words are in the table and which 
 # are not by looping through all the elements of 
@@ -255,9 +251,9 @@ def main(table, img, ocr):
 # of other arrays
 
 if __name__ == "__main__":
-    main("C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
-         "C:\\New Folder\\TableRecognition\\Data\\unlv-table-png\\0110_099.png",
-         "C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
+    main("C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0101_003.xml",
+         "C:\\New Folder\\TableRecognition\\Data\\unlv-table-png\\0101_003.png",
+         "C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0101_003.xml")
 ########################################################
 ####################End of File#########################
 ########################################################
