@@ -9,12 +9,14 @@ import numpy as np
 import unicodedata
 # importing the class of FeatureExtraction
 import Class_DataCollector as DC
+
 ################################################
 ##############Array of Object###################
 ################################################
 arr_of_objects = []
 # 1 means its part of table 0 means not a part
 objects_in_table = []
+
 ################################################
 #################Word Data######################
 ################################################
@@ -30,6 +32,7 @@ word_Height = []
 # function for reading the xml of words and 
 # then storing its values to the array for 
 # further processing
+
 def word_to_array(file):
     global no_of_words
     global total_height
@@ -82,6 +85,7 @@ word_part_of_table = []
 
 # function for reading the xml and then storing 
 # its values to the array for further processing
+
 def table_to_array(file):
     global no_of_tables
     # parse the file using element treee for xml 
@@ -104,11 +108,13 @@ def table_to_array(file):
     return
 
 # for calculating the width/height of the table
+
 def calc_difference(x0, x1):
      return (x1 - x0)
 
 # region bounder for bounding the tables in an
 # image
+
 def region_bounder_table(img):
     # for every table drawing the boundry 
     # around
@@ -126,6 +132,7 @@ def region_bounder_table(img):
 
 # region bounder for bounding the words in an
 # image
+
 def region_bounder_word(img):
     # for every table drawing the boundry 
     # around
@@ -149,6 +156,7 @@ def region_bounder_word(img):
 
 # moving the data from array to struct for
 # sorting and other operations
+
 def assigning_values_to_the_struct():
     for x in range(0, no_of_words):
         arr_of_objects.append(DC.DataCollector(word_X[x], word_Y[x],
@@ -158,6 +166,7 @@ def assigning_values_to_the_struct():
     return
 
 # main driver for the file
+
 def main(table, img, ocr):
     # read table xml file and  calculate the
     # line spaces
@@ -182,3 +191,7 @@ if __name__ == "__main__":
     main("F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_gt\\0110_099.xml",
          "F:\\KICS - Research Officer\\CVML\\unlv-table-png\\0110_099.png",
          "F:\\KICS - Research Officer\\CVML\\unlv\\unlv_xml_ocr\\0110_099.xml")
+
+########################################################
+####################End of File#########################
+########################################################
