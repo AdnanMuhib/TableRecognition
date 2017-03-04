@@ -72,15 +72,18 @@ def word_to_array(file):
         y = y + 1
 
 
-#eliminating y gap 
+# there is difference in pixels values along the y axis
+# because of raw data to remove that difference you can 
+# simply change the value of 20 to the required one
 def eliminate_y_diff(arr):
     previous_y=arr[0].y
     for i in range(len(arr)):
         if(i!=len(arr)-1):
-            if(abs(arr[i].y-previous_y)<40):
+            if(abs(arr[i].y-previous_y) < 20):
                 arr[i].y=previous_y
         previous_y=arr[i].y
     return arr
+
 ################################################
 #################Table Data#####################
 ################################################
@@ -190,8 +193,8 @@ def sort_array_by_x(new_sorted_array):
     while changed:
         changed = False
         for i in range(len(new_sorted_array) - 1):
-            if new_sorted_array[i].y > new_sorted_array[i+1].y:
-                if new_sorted_array[i].x >new_sorted_array[i+1].x:
+            if new_sorted_array[i].y == new_sorted_array[i+1].y:
+                if new_sorted_array[i].x > new_sorted_array[i+1].x:
                     new_sorted_array[i], new_sorted_array[i+1] = new_sorted_array[i+1], new_sorted_array[i]
                     changed = True
     return new_sorted_array
@@ -215,17 +218,9 @@ def calculate_dist():
             arr_of_objects[i].x_m_1_dist=abs(arr_of_objects[i].x-arr_of_objects[i-1].x)
             arr_of_objects[i].y_m_1_dist=abs(arr_of_objects[i].y-arr_of_objects[i-1].y)
     return
-my_sorted_array = []
 
-# sorting the x values
-def sort_x():
-    for x in range(len(my_sorted_array)):
-        for elements in x.y:
-            print elements
-    return
 
 # main driver for the file
-
 def main(table, img, ocr):
     global my_sorted_array
     # read table xml file and  calculate the
@@ -242,12 +237,13 @@ def main(table, img, ocr):
     assigning_values_to_the_struct()
     my_sorted_array = sort_array(arr_of_objects)
     my_sorted_array = eliminate_y_diff(my_sorted_array)
-    #y_sorted_x=sort_array_by_x(my_sorted_array)
-    sort_x()
+    my_sorted_array = sort_array_by_x(my_sorted_array)
     calculate_dist()
-   # sorting_x()
+
     for x in range(0,len(my_sorted_array)):
-        print "x : ", my_sorted_array[x].x,"y : ", my_sorted_array[x].y,"word : ", my_sorted_array[x].word
+        print ("x : ", my_sorted_array[x].x,"y : ",
+               my_sorted_array[x].y,"word : ",
+               my_sorted_array[x].word)
     return
 # deciding which words are in the table and which 
 # are not by looping through all the elements of 
@@ -255,9 +251,9 @@ def main(table, img, ocr):
 # of other arrays
 
 if __name__ == "__main__":
-    main("C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
-         "C:\\New Folder\\TableRecognition\\Data\\unlv-table-png\\0110_099.png",
-         "C:\\New Folder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
+    main("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
+         "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv-table-png\\0110_099.png",
+         "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
 ########################################################
 ####################End of File#########################
 ########################################################
