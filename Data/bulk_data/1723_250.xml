@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GroundTruth InputFile="Z:\dataset\skew_corrected\unlv_tables_bin_test\1723_250.png">
+<Tables>
+<Table x0="456" x1="1290" y0="610" y1="924">
+<Row x0="456" x1="1290" y0="738" y1="738"/>
+<Row x0="456" x1="1290" y0="830" y1="830"/>
+<Column x0="1018" x1="1018" y0="610" y1="924"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="456" x1="1018" y0="610" y1="738">(64769,257,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="0" startCol="1" startRow="0" x0="1018" x1="1290" y0="610" y1="738">(64769,257,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="1" startCol="0" startRow="1" x0="456" x1="1018" y0="738" y1="830">(64769,514,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="1" startCol="1" startRow="1" x0="1018" x1="1290" y0="738" y1="830">(64769,514,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="2" startCol="0" startRow="2" x0="456" x1="1018" y0="830" y1="924">(64769,771,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="2" startCol="1" startRow="2" x0="1018" x1="1290" y0="830" y1="924">(64769,771,514)</Cell>
+</Table>
+</Tables>
+</GroundTruth>

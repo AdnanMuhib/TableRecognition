@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543770649.png" width="2560"/>
+<words>
+<word bottom="2917" left="461" right="603" top="2958">
+Issue,</word>
+<word bottom="2866" left="335" right="678" top="2908">
+investigation,</word>
+<word bottom="2876" left="715" right="761" top="2897">
+or</word>
+<word bottom="2824" left="336" right="611" top="2859">
+information</word>
+<word bottom="2825" left="641" right="737" top="2860">
+need</word>
+<word bottom="3176" left="1091" right="1388" top="3209">
+CONSULTATION</word>
+<word bottom="3176" left="1415" right="1538" top="3209">
+DRAFT</word>
+<word bottom="2817" left="1416" right="1587" top="2859">
+Subject</word>
+<word bottom="2725" left="412" right="530" top="2757">
+
+1.1.1
+</word>
+<word bottom="2726" left="942" right="1037" top="2759">
+Site</word>
+<word bottom="2725" left="1069" right="1336" top="2760">
+information</word>
+<word bottom="2725" left="1365" right="1512" top="2759">
+needed</word>
+<word bottom="2725" left="1541" right="1586" top="2754">
+to</word>
+<word bottom="2724" left="1617" right="1834" top="2759">
+calculate</word>
+<word bottom="2723" left="1864" right="2060" top="2758">
+releases</word>
+<word bottom="2676" left="993" right="1038" top="2706">
+to</word>
+<word bottom="2675" left="1067" right="1136" top="2709">
+the</word>
+<word bottom="2675" left="1167" right="1410" top="2709">
+accessible</word>
+<word bottom="2674" left="1442" right="1712" top="2708">
+environment</word>
+<word bottom="2665" left="1748" right="1936" top="2709">
+(Section</word>
+<word bottom="2663" left="1965" right="2226" top="2708">
+
+8.3.5.13.1)
+</word>
+<word bottom="2574" left="413" right="534" top="2607">
+
+1.1.2
+</word>
+<word bottom="2566" left="940" right="1210" top="2609">
+Potentially</word>
+<word bottom="2566" left="1241" right="1512" top="2609">
+significant</word>
+<word bottom="2574" left="1541" right="1710" top="2609">
+release</word>
+<word bottom="2573" left="1741" right="1935" top="2607">
+scenario</word>
+<word bottom="2572" left="1964" right="2134" top="2607">
+classes</word>
+<word bottom="2516" left="1000" right="1187" top="2560">
+(Section</word>
+<word bottom="2515" left="1241" right="1505" top="2559">
+
+8.3.5.13.2)
+</word>
+<word bottom="2423" left="414" right="534" top="2456">
+
+1.1.3
+</word>
+<word bottom="2273" left="414" right="536" top="2305">
+
+1.1.4
+</word>
+<word bottom="2123" left="412" right="638" top="2156">
+
+8.3.1.3.4
+</word>
+<word bottom="1972" left="412" right="637" top="2005">
+
+8.3.1.3.7
+</word>
+<word bottom="1822" left="413" right="638" top="1854">
+
+8.3.1.2.2
+</word>
+<word bottom="1671" left="414" right="638" top="1704">
+
+8.3.1.2.3
+</word>
+<word bottom="1219" left="338" right="615" top="1253">
+
+8.3.1.3.6.4
+</word>
+<word bottom="1221" left="669" right="864" top="1256">
+Schedule</word>
+<word bottom="1221" left="896" right="966" top="1255">
+and</word>
+<word bottom="1221" left="994" right="1235" top="1256">
+milestones</word>
+<word bottom="2424" left="942" right="1260" top="2459">
+
+Calculational
+</word>
+<word bottom="2424" left="1289" right="1435" top="2458">
+models</word>
+<word bottom="2424" left="1467" right="1536" top="2458">
+for</word>
+<word bottom="2423" left="1566" right="1734" top="2458">
+release</word>
+<word bottom="2423" left="1766" right="1959" top="2456">
+scenario</word>
+<word bottom="2422" left="1989" right="2157" top="2456">
+classes</word>
+<word bottom="2366" left="1001" right="1187" top="2409">
+(Section</word>
+<word bottom="2365" left="1216" right="1480" top="2408">
+
+8.3.5.13.3)
+</word>
+<word bottom="2274" left="941" right="1235" top="2308">
+Radionuclide</word>
+<word bottom="2273" left="1265" right="1460" top="2308">
+releases</word>
+<word bottom="2273" left="1492" right="1561" top="2308">
+for</word>
+<word bottom="2273" left="1591" right="1785" top="2306">
+scenario</word>
+<word bottom="2272" left="1814" right="1982" top="2307">
+classes</word>
+<word bottom="2215" left="1001" right="1188" top="2259">
+(Section</word>
+<word bottom="2214" left="1216" right="1481" top="2259">
+
+8.3.5.13.4)
+</word>
+<word bottom="2124" left="942" right="1235" top="2159">
+Radionuclide</word>
+<word bottom="2123" left="1265" right="1538" top="2158">
+retardation</word>
+<word bottom="2115" left="1565" right="1611" top="2157">
+by</word>
+<word bottom="2113" left="1641" right="1835" top="2156">
+sorption</word>
+<word bottom="2113" left="1863" right="2082" top="2144">
+processes</word>
+<word bottom="2112" left="2112" right="2230" top="2156">
+along</word>
+<word bottom="2074" left="995" right="1090" top="2108">
+flow</word>
+<word bottom="2064" left="1117" right="1236" top="2108">
+paths</word>
+<word bottom="2073" left="1266" right="1312" top="2103">
+to</word>
+<word bottom="2073" left="1341" right="1411" top="2107">
+the</word>
+<word bottom="2073" left="1442" right="1686" top="2108">
+accessible</word>
+<word bottom="2072" left="1716" right="1983" top="2106">
+environment</word>
+<word bottom="1973" left="942" right="1234" top="2008">
+Radionuclide</word>
+<word bottom="1972" left="1265" right="1537" top="2007">
+retardation</word>
+<word bottom="1964" left="1565" right="1611" top="2006">
+by</word>
+<word bottom="1972" left="1641" right="1708" top="2007">
+all</word>
+<word bottom="1964" left="1738" right="1957" top="1994">
+processes</word>
+<word bottom="1962" left="1987" right="2108" top="2005">
+along</word>
+<word bottom="1970" left="2136" right="2230" top="2005">
+flow</word>
+<word bottom="1915" left="994" right="1112" top="1957">
+paths</word>
+<word bottom="1923" left="1142" right="1186" top="1952">
+to</word>
+<word bottom="1922" left="1216" right="1285" top="1957">
+the</word>
+<word bottom="1922" left="1316" right="1561" top="1957">
+accessible</word>
+<word bottom="1921" left="1592" right="1858" top="1955">
+environment</word>
+<word bottom="1814" left="942" right="1211" top="1856">
+Description</word>
+<word bottom="1822" left="1240" right="1284" top="1856">
+of</word>
+<word bottom="1823" left="1315" right="1385" top="1857">
+the</word>
+<word bottom="1822" left="1415" right="1685" top="1856">
+unsaturated</word>
+<word bottom="1822" left="1715" right="1807" top="1844">
+zone</word>
+<word bottom="1811" left="1837" right="2083" top="1856">
+hydrologic</word>
+<word bottom="1811" left="2111" right="2254" top="1851">
+system</word>
+<word bottom="1773" left="995" right="1040" top="1803">
+at</word>
+<word bottom="1772" left="1068" right="1137" top="1806">
+the</word>
+<word bottom="1772" left="1167" right="1260" top="1805">
+site</word>
+<word bottom="1663" left="942" right="1211" top="1705">
+Description</word>
+<word bottom="1672" left="1240" right="1284" top="1706">
+of</word>
+<word bottom="1672" left="1315" right="1385" top="1706">
+the</word>
+<word bottom="1671" left="1416" right="1636" top="1706">
+saturated</word>
+<word bottom="1671" left="1665" right="1758" top="1693">
+zone</word>
+<word bottom="1661" left="1787" right="2032" top="1706">
+hydrologic</word>
+<word bottom="1662" left="2060" right="2204" top="1700">
+system</word>
+<word bottom="1623" left="995" right="1040" top="1653">
+at</word>
+<word bottom="1622" left="1069" right="1137" top="1656">
+the</word>
+<word bottom="1622" left="1167" right="1260" top="1655">
+site</word>
+<word bottom="1521" left="416" right="486" top="1553">
+
+1.8
+</word>
+<word bottom="1522" left="943" right="1015" top="1556">
+
+NRC
+</word>
+<word bottom="1513" left="1044" right="1187" top="1555">
+siting</word>
+<word bottom="1521" left="1216" right="1413" top="1555">
+criteria</word>
+<word bottom="1512" left="1446" right="1636" top="1557">
+(Section</word>
+<word bottom="1511" left="1663" right="1875" top="1555">
+
+8.3.5.17)
+</word>
+<word bottom="1420" left="416" right="512" top="1454">
+
+1.9b
+</word>
+<word bottom="1413" left="946" right="1114" top="1454">
+
+100,000
+</word>
+<word bottom="1413" left="1141" right="1186" top="1443">
+yr</word>
+<word bottom="1420" left="1215" right="1411" top="1454">
+releases</word>
+<word bottom="1412" left="1447" right="1636" top="1456">
+(Section</word>
+<word bottom="1410" left="1664" right="1874" top="1455">
+
+8.3.5.18)
+</word>
+<word bottom="1119" left="466" right="563" top="1153">
+This</word>
+<word bottom="1111" left="596" right="916" top="1154">
+investigation</word>
+<word bottom="1120" left="946" right="1138" top="1154">
+contains</word>
+<word bottom="1120" left="1166" right="1236" top="1151">
+two</word>
+<word bottom="1120" left="1266" right="1454" top="1155">
+studies:</word>
+<word bottom="1120" left="1515" right="1779" top="1153">
+
+8.3.1.3.6.1
+</word>
+<word bottom="1110" left="1818" right="2005" top="1154">
+(dynamic</word>
+<word bottom="1109" left="2033" right="2248" top="1149">
+transport</word>
+<word bottom="1069" left="339" right="487" top="1103">
+column</word>
+<word bottom="1061" left="518" right="809" top="1105">
+experiments)</word>
+<word bottom="1071" left="846" right="916" top="1105">
+and</word>
+<word bottom="1070" left="945" right="1211" top="1103">
+
+8.3.1.3.6.2
+</word>
+<word bottom="1060" left="1247" right="1486" top="1105">
+(diffusion</word>
+<word bottom="1060" left="1516" right="1726" top="1105">
+studies).</word>
+<word bottom="1069" left="1786" right="1832" top="1103">
+In</word>
+<word bottom="1068" left="1860" right="1929" top="1103">
+the</word>
+<word bottom="1059" left="1959" right="2102" top="1103">
+figure</word>
+<word bottom="1068" left="2131" right="2224" top="1102">
+that</word>
+<word bottom="1011" left="340" right="532" top="1053">
+follows,</word>
+<word bottom="1020" left="569" right="640" top="1054">
+the</word>
+<word bottom="1020" left="671" right="866" top="1055">
+schedule</word>
+<word bottom="1020" left="898" right="1163" top="1054">
+information</word>
+<word bottom="1020" left="1192" right="1262" top="1055">
+for</word>
+<word bottom="1020" left="1291" right="1411" top="1055">
+these</word>
+<word bottom="1019" left="1441" right="1609" top="1054">
+studies</word>
+<word bottom="1020" left="1641" right="1684" top="1053">
+is</word>
+<word bottom="1010" left="1713" right="1931" top="1053">
+presented</word>
+<word bottom="1018" left="1961" right="2005" top="1052">
+in</word>
+<word bottom="1019" left="2033" right="2103" top="1053">
+the</word>
+<word bottom="1017" left="2133" right="2225" top="1053">
+form</word>
+<word bottom="968" left="339" right="383" top="1003">
+of</word>
+<word bottom="969" left="415" right="658" top="1004">
+timelines.</word>
+<word bottom="970" left="720" right="790" top="1004">
+The</word>
+<word bottom="970" left="820" right="1040" top="1004">
+timelines</word>
+<word bottom="969" left="1070" right="1213" top="1004">
+extend</word>
+<word bottom="969" left="1241" right="1338" top="1004">
+from</word>
+<word bottom="961" left="1366" right="1709" top="1005">
+implementation</word>
+<word bottom="970" left="1737" right="1780" top="1004">
+of</word>
+<word bottom="968" left="1811" right="1879" top="1003">
+the</word>
+<word bottom="959" left="1909" right="2104" top="1002">
+approved</word>
+<word bottom="959" left="2132" right="2247" top="1002">
+study</word>
+<word bottom="909" left="338" right="461" top="953">
+plans</word>
+<word bottom="919" left="492" right="538" top="948">
+to</word>
+<word bottom="919" left="568" right="639" top="953">
+the</word>
+<word bottom="919" left="672" right="865" top="953">
+issuance</word>
+<word bottom="920" left="895" right="939" top="954">
+of</word>
+<word bottom="920" left="971" right="1088" top="955">
+final</word>
+<word bottom="910" left="1117" right="1310" top="954">
+products</word>
+<word bottom="919" left="1340" right="1585" top="953">
+associated</word>
+<word bottom="919" left="1611" right="1709" top="953">
+with</word>
+<word bottom="919" left="1737" right="1805" top="954">
+the</word>
+<word bottom="918" left="1835" right="2021" top="953">
+studies.</word>
+<word bottom="909" left="2081" right="2247" top="952">
+Summary</word>
+<word bottom="868" left="340" right="538" top="902">
+schedule</word>
+<word bottom="869" left="570" right="641" top="903">
+and</word>
+<word bottom="869" left="669" right="891" top="904">
+milestone</word>
+<word bottom="869" left="923" right="1188" top="905">
+information</word>
+<word bottom="869" left="1217" right="1287" top="904">
+for</word>
+<word bottom="869" left="1316" right="1410" top="904">
+this</word>
+<word bottom="861" left="1442" right="1759" top="903">
+investigation</word>
+<word bottom="868" left="1787" right="1856" top="890">
+can</word>
+<word bottom="868" left="1884" right="1928" top="902">
+be</word>
+<word bottom="867" left="1959" right="2079" top="902">
+found</word>
+<word bottom="867" left="2108" right="2153" top="901">
+in</word>
+<word bottom="818" left="339" right="514" top="851">
+Section</word>
+<word bottom="819" left="543" right="734" top="852">
+
+8.5.1.1.
+</word>
+<word bottom="718" left="465" right="565" top="753">
+Both</word>
+<word bottom="719" left="596" right="766" top="753">
+studies</word>
+<word bottom="719" left="797" right="1042" top="754">
+associated</word>
+<word bottom="719" left="1068" right="1164" top="754">
+with</word>
+<word bottom="719" left="1191" right="1286" top="753">
+this</word>
+<word bottom="710" left="1318" right="1635" top="752">
+investigation</word>
+<word bottom="719" left="1664" right="1732" top="740">
+are</word>
+<word bottom="709" left="1762" right="1947" top="751">
+ongoing,</word>
+<word bottom="717" left="1983" right="2054" top="752">
+and</word>
+<word bottom="718" left="2082" right="2151" top="752">
+the</word>
+<word bottom="668" left="338" right="438" top="702">
+work</word>
+<word bottom="668" left="468" right="692" top="704">
+described</word>
+<word bottom="669" left="722" right="792" top="690">
+can</word>
+<word bottom="669" left="821" right="866" top="703">
+be</word>
+<word bottom="669" left="898" right="1115" top="703">
+initiated</word>
+<word bottom="669" left="1143" right="1261" top="704">
+after</word>
+<word bottom="669" left="1291" right="1360" top="703">
+the</word>
+<word bottom="660" left="1391" right="1510" top="703">
+study</word>
+<word bottom="660" left="1539" right="1658" top="702">
+plans</word>
+<word bottom="668" left="1689" right="1756" top="690">
+are</word>
+<word bottom="667" left="1786" right="2021" top="703">
+available.</word>
+<word bottom="667" left="2080" right="2150" top="701">
+The</word>
+<word bottom="609" left="339" right="463" top="651">
+major</word>
+<word bottom="618" left="493" right="766" top="652">
+constraints</word>
+<word bottom="619" left="796" right="842" top="641">
+on</word>
+<word bottom="619" left="871" right="940" top="653">
+the</word>
+<word bottom="619" left="972" right="1137" top="653">
+studies</word>
+<word bottom="618" left="1165" right="1286" top="653">
+under</word>
+<word bottom="618" left="1315" right="1410" top="653">
+this</word>
+<word bottom="610" left="1442" right="1758" top="652">
+investigation</word>
+<word bottom="618" left="1786" right="1854" top="640">
+are</word>
+<word bottom="618" left="1883" right="1952" top="652">
+the</word>
+<word bottom="616" left="1982" right="2149" top="652">
+availa-</word>
+<word bottom="559" left="339" right="487" top="602">
+bility</word>
+<word bottom="568" left="519" right="562" top="602">
+of</word>
+<word bottom="568" left="596" right="691" top="590">
+core</word>
+<word bottom="559" left="722" right="891" top="603">
+samples</word>
+<word bottom="568" left="921" right="1019" top="603">
+from</word>
+<word bottom="568" left="1044" right="1114" top="603">
+the</word>
+<word bottom="568" left="1141" right="1287" top="603">
+Calico</word>
+<word bottom="568" left="1314" right="1435" top="602">
+Hills</word>
+<word bottom="559" left="1465" right="1578" top="601">
+unit,</word>
+<word bottom="568" left="1613" right="1683" top="603">
+the</word>
+<word bottom="558" left="1713" right="2003" top="602">
+availability</word>
+<word bottom="566" left="2031" right="2074" top="602">
+of</word>
+<word bottom="566" left="2106" right="2197" top="588">
+core</word>
+<word bottom="508" left="341" right="514" top="551">
+samples</word>
+<word bottom="509" left="545" right="793" top="552">
+exhibiting</word>
+<word bottom="509" left="820" right="917" top="553">
+good</word>
+<word bottom="510" left="947" right="1180" top="552">
+fractures,</word>
+<word bottom="517" left="1216" right="1287" top="552">
+and</word>
+<word bottom="518" left="1315" right="1385" top="552">
+the</word>
+<word bottom="517" left="1415" right="1511" top="552">
+need</word>
+<word bottom="517" left="1539" right="1584" top="548">
+to</word>
+<word bottom="509" left="1613" right="1781" top="552">
+develop</word>
+<word bottom="507" left="1810" right="2052" top="551">
+techniques</word>
+<word bottom="516" left="2081" right="2150" top="550">
+and</word>
+<word bottom="457" left="341" right="564" top="497">
+apparatus</word>
+<word bottom="467" left="596" right="666" top="501">
+for</word>
+<word bottom="459" left="697" right="942" top="502">
+conducting</word>
+<word bottom="468" left="972" right="1064" top="490">
+some</word>
+<word bottom="467" left="1094" right="1137" top="502">
+of</word>
+<word bottom="468" left="1166" right="1235" top="502">
+the</word>
+<word bottom="467" left="1265" right="1403" top="498">
+tests.</word>
+<word bottom="459" left="1463" right="1634" top="501">
+Testing</word>
+<word bottom="458" left="1662" right="1782" top="500">
+using</word>
+<word bottom="466" left="1810" right="1978" top="501">
+crushed</word>
+<word bottom="465" left="2006" right="2124" top="501">
+tuffs</word>
+<word bottom="465" left="2153" right="2221" top="487">
+can</word>
+<word bottom="407" left="340" right="515" top="451">
+proceed</word>
+<word bottom="409" left="546" right="816" top="452">
+immediately</word>
+<word bottom="409" left="846" right="968" top="452">
+along</word>
+<word bottom="418" left="994" right="1091" top="452">
+with</word>
+<word bottom="417" left="1117" right="1186" top="452">
+the</word>
+<word bottom="417" left="1214" right="1337" top="452">
+batch</word>
+<word bottom="409" left="1364" right="1536" top="451">
+testing</word>
+<word bottom="417" left="1563" right="1606" top="452">
+of</word>
+<word bottom="408" left="1637" right="1954" top="451">
+Investigation</word>
+<word bottom="415" left="1981" right="2198" top="449">
+
+8.3.1.3.4
+</word>
+<word bottom="357" left="347" right="665" top="401">
+(radionuclide</word>
+<word bottom="358" left="697" right="935" top="403">
+sorption).</word>
+<word bottom="368" left="996" right="1089" top="401">
+Some</word>
+<word bottom="358" left="1118" right="1286" top="400">
+testing</word>
+<word bottom="367" left="1313" right="1411" top="401">
+with</word>
+<word bottom="359" left="1440" right="1634" top="400">
+existing</word>
+<word bottom="367" left="1662" right="1780" top="389">
+cores</word>
+<word bottom="366" left="1809" right="1879" top="388">
+can</word>
+<word bottom="366" left="1907" right="2002" top="400">
+also</word>
+<word bottom="365" left="2030" right="2075" top="399">
+be</word>
+<word bottom="365" left="2106" right="2242" top="399">
+initi-</word>
+<word bottom="316" left="341" right="438" top="351">
+ated</word>
+<word bottom="316" left="468" right="540" top="352">
+and</word>
+<word bottom="308" left="570" right="792" top="352">
+augmented</word>
+<word bottom="317" left="819" right="917" top="352">
+when</word>
+<word bottom="317" left="946" right="1184" top="353">
+additional</word>
+<word bottom="317" left="1213" right="1408" top="351">
+material</word>
+<word bottom="318" left="1441" right="1484" top="351">
+is</word>
+<word bottom="317" left="1514" right="1730" top="352">
+available</word>
+<word bottom="316" left="1761" right="1854" top="352">
+from</word>
+<word bottom="316" left="1881" right="1950" top="351">
+the</word>
+<word bottom="306" left="1980" right="2173" top="350">
+drilling</word>
+<word bottom="257" left="340" right="517" top="288">
+program</word>
+<word bottom="267" left="545" right="617" top="302">
+and</word>
+<word bottom="267" left="645" right="717" top="302">
+the</word>
+<word bottom="259" left="747" right="1016" top="302">
+exploratory</word>
+<word bottom="267" left="1045" right="1162" top="302">
+shaft</word>
+<word bottom="267" left="1190" right="1453" top="300">
+activities.</word>
+<word bottom="259" left="1511" right="1706" top="300">
+Progress</word>
+<word bottom="267" left="1735" right="1781" top="289">
+on</word>
+<word bottom="266" left="1809" right="1901" top="288">
+some</word>
+<word bottom="266" left="1930" right="1974" top="300">
+of</word>
+<word bottom="265" left="2005" right="2074" top="299">
+the</word>
+<word bottom="265" left="2104" right="2244" top="299">
+column</word>
+<word bottom="116" left="1165" right="1433" top="149">
+
+8.3.1.3-109
+</word>
+</words>
+</ocrresult>
+

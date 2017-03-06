@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GroundTruth InputFile="C:\Dokumente und Einstellungen\mehmood\Desktop\dataset\skew_corrected\unlv_tables_bin_test\9568_033.png">
+<Tables>
+<Table x0="278" x1="2372" y0="420" y1="1448">
+<Row x0="278" x1="2372" y0="498" y1="498"/>
+<Row x0="278" x1="2372" y0="566" y1="566"/>
+<Row x0="278" x1="2372" y0="626" y1="626"/>
+<Row x0="278" x1="2372" y0="674" y1="674"/>
+<Row x0="278" x1="2372" y0="728" y1="728"/>
+<Row x0="278" x1="2372" y0="772" y1="772"/>
+<Row x0="278" x1="2372" y0="832" y1="832"/>
+<Row x0="278" x1="2372" y0="902" y1="902"/>
+<Row x0="278" x1="2372" y0="958" y1="958"/>
+<Row x0="278" x1="2372" y0="1016" y1="1016"/>
+<Row x0="278" x1="2372" y0="1066" y1="1066"/>
+<Row x0="278" x1="2372" y0="1134" y1="1134"/>
+<Row x0="278" x1="2372" y0="1228" y1="1228"/>
+<Row x0="278" x1="2372" y0="1296" y1="1296"/>
+<Row x0="278" x1="2372" y0="1348" y1="1348"/>
+<Column x0="1066" x1="1066" y0="420" y1="1448"/>
+<Column x0="1460" x1="1460" y0="420" y1="1448"/>
+<Column x0="1648" x1="1648" y0="420" y1="1448"/>
+<Column x0="1864" x1="1864" y0="420" y1="1448"/>
+<Column x0="2040" x1="2040" y0="420" y1="1448"/>
+<Column x0="2198" x1="2198" y0="420" y1="1448"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="278" x1="1066" y0="420" y1="498">(64769,257,257)</Cell>
+<Cell dontCare="false" endCol="3" endRow="0" startCol="1" startRow="0" x0="1066" x1="1864" y0="420" y1="498">(64769,257,516)</Cell>
+<Cell dontCare="true" endCol="2" endRow="0" startCol="2" startRow="0" x0="1460" x1="1648" y0="420" y1="498">(64769,257,771)</Cell>
+<Cell dontCare="true" endCol="3" endRow="0" startCol="3" startRow="0" x0="1648" x1="1864" y0="420" y1="498">(64769,257,1028)</Cell>
+<Cell dontCare="false" endCol="6" endRow="0" startCol="4" startRow="0" x0="1864" x1="2372" y0="420" y1="498">(64769,257,1287)</Cell>
+<Cell dontCare="true" endCol="5" endRow="0" startCol="5" startRow="0" x0="2040" x1="2198" y0="420" y1="498">(64769,257,1542)</Cell>
+<Cell dontCare="true" endCol="6" endRow="0" startCol="6" startRow="0" x0="2198" x1="2372" y0="420" y1="498">(64769,257,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="1" startCol="0" startRow="1" x0="278" x1="1066" y0="498" y1="566">(64769,514,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="1" startCol="1" startRow="1" x0="1066" x1="1460" y0="498" y1="566">(64769,514,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="1" startCol="2" startRow="1" x0="1460" x1="1648" y0="498" y1="566">(64769,514,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="1" startCol="3" startRow="1" x0="1648" x1="1864" y0="498" y1="566">(64769,514,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="1" startCol="4" startRow="1" x0="1864" x1="2040" y0="498" y1="566">(64769,514,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="1" startCol="5" startRow="1" x0="2040" x1="2198" y0="498" y1="566">(64769,514,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="1" startCol="6" startRow="1" x0="2198" x1="2372" y0="498" y1="566">(64769,514,1799)</Cell>
+<Cell dontCare="false" endCol="6" endRow="2" startCol="0" startRow="2" x0="278" x1="2372" y0="566" y1="626">(64769,771,263)</Cell>
+<Cell dontCare="true" endCol="1" endRow="2" startCol="1" startRow="2" x0="1066" x1="1460" y0="566" y1="626">(64769,771,514)</Cell>
+<Cell dontCare="true" endCol="2" endRow="2" startCol="2" startRow="2" x0="1460" x1="1648" y0="566" y1="626">(64769,771,771)</Cell>
+<Cell dontCare="true" endCol="3" endRow="2" startCol="3" startRow="2" x0="1648" x1="1864" y0="566" y1="626">(64769,771,1028)</Cell>
+<Cell dontCare="true" endCol="4" endRow="2" startCol="4" startRow="2" x0="1864" x1="2040" y0="566" y1="626">(64769,771,1285)</Cell>
+<Cell dontCare="true" endCol="5" endRow="2" startCol="5" startRow="2" x0="2040" x1="2198" y0="566" y1="626">(64769,771,1542)</Cell>
+<Cell dontCare="true" endCol="6" endRow="2" startCol="6" startRow="2" x0="2198" x1="2372" y0="566" y1="626">(64769,771,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="3" startCol="0" startRow="3" x0="278" x1="1066" y0="626" y1="674">(64769,1028,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="3" startCol="1" startRow="3" x0="1066" x1="1460" y0="626" y1="674">(64769,1028,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="3" startCol="2" startRow="3" x0="1460" x1="1648" y0="626" y1="674">(64769,1028,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="3" startCol="3" startRow="3" x0="1648" x1="1864" y0="626" y1="674">(64769,1028,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="3" startCol="4" startRow="3" x0="1864" x1="2040" y0="626" y1="674">(64769,1028,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="3" startCol="5" startRow="3" x0="2040" x1="2198" y0="626" y1="674">(64769,1028,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="3" startCol="6" startRow="3" x0="2198" x1="2372" y0="626" y1="674">(64769,1028,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="4" startCol="0" startRow="4" x0="278" x1="1066" y0="674" y1="728">(64769,1285,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="4" startCol="1" startRow="4" x0="1066" x1="1460" y0="674" y1="728">(64769,1285,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="4" startCol="2" startRow="4" x0="1460" x1="1648" y0="674" y1="728">(64769,1285,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="4" startCol="3" startRow="4" x0="1648" x1="1864" y0="674" y1="728">(64769,1285,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="4" startCol="4" startRow="4" x0="1864" x1="2040" y0="674" y1="728">(64769,1285,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="4" startCol="5" startRow="4" x0="2040" x1="2198" y0="674" y1="728">(64769,1285,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="4" startCol="6" startRow="4" x0="2198" x1="2372" y0="674" y1="728">(64769,1285,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="5" startCol="0" startRow="5" x0="278" x1="1066" y0="728" y1="772">(64769,1542,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="5" startCol="1" startRow="5" x0="1066" x1="1460" y0="728" y1="772">(64769,1542,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="5" startCol="2" startRow="5" x0="1460" x1="1648" y0="728" y1="772">(64769,1542,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="5" startCol="3" startRow="5" x0="1648" x1="1864" y0="728" y1="772">(64769,1542,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="5" startCol="4" startRow="5" x0="1864" x1="2040" y0="728" y1="772">(64769,1542,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="5" startCol="5" startRow="5" x0="2040" x1="2198" y0="728" y1="772">(64769,1542,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="5" startCol="6" startRow="5" x0="2198" x1="2372" y0="728" y1="772">(64769,1542,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="6" startCol="0" startRow="6" x0="278" x1="1066" y0="772" y1="832">(64769,1799,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="6" startCol="1" startRow="6" x0="1066" x1="1460" y0="772" y1="832">(64769,1799,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="6" startCol="2" startRow="6" x0="1460" x1="1648" y0="772" y1="832">(64769,1799,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="6" startCol="3" startRow="6" x0="1648" x1="1864" y0="772" y1="832">(64769,1799,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="6" startCol="4" startRow="6" x0="1864" x1="2040" y0="772" y1="832">(64769,1799,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="6" startCol="5" startRow="6" x0="2040" x1="2198" y0="772" y1="832">(64769,1799,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="6" startCol="6" startRow="6" x0="2198" x1="2372" y0="772" y1="832">(64769,1799,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="7" startCol="0" startRow="7" x0="278" x1="1066" y0="832" y1="902">(64769,2056,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="7" startCol="1" startRow="7" x0="1066" x1="1460" y0="832" y1="902">(64769,2056,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="7" startCol="2" startRow="7" x0="1460" x1="1648" y0="832" y1="902">(64769,2056,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="7" startCol="3" startRow="7" x0="1648" x1="1864" y0="832" y1="902">(64769,2056,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="7" startCol="4" startRow="7" x0="1864" x1="2040" y0="832" y1="902">(64769,2056,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="7" startCol="5" startRow="7" x0="2040" x1="2198" y0="832" y1="902">(64769,2056,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="7" startCol="6" startRow="7" x0="2198" x1="2372" y0="832" y1="902">(64769,2056,1799)</Cell>
+<Cell dontCare="false" endCol="6" endRow="8" startCol="0" startRow="8" x0="278" x1="2372" y0="902" y1="958">(64769,2313,263)</Cell>
+<Cell dontCare="true" endCol="1" endRow="8" startCol="1" startRow="8" x0="1066" x1="1460" y0="902" y1="958">(64769,2313,514)</Cell>
+<Cell dontCare="true" endCol="2" endRow="8" startCol="2" startRow="8" x0="1460" x1="1648" y0="902" y1="958">(64769,2313,771)</Cell>
+<Cell dontCare="true" endCol="3" endRow="8" startCol="3" startRow="8" x0="1648" x1="1864" y0="902" y1="958">(64769,2313,1028)</Cell>
+<Cell dontCare="true" endCol="4" endRow="8" startCol="4" startRow="8" x0="1864" x1="2040" y0="902" y1="958">(64769,2313,1285)</Cell>
+<Cell dontCare="true" endCol="5" endRow="8" startCol="5" startRow="8" x0="2040" x1="2198" y0="902" y1="958">(64769,2313,1542)</Cell>
+<Cell dontCare="true" endCol="6" endRow="8" startCol="6" startRow="8" x0="2198" x1="2372" y0="902" y1="958">(64769,2313,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="9" startCol="0" startRow="9" x0="278" x1="1066" y0="958" y1="1016">(64769,2570,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="9" startCol="1" startRow="9" x0="1066" x1="1460" y0="958" y1="1016">(64769,2570,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="9" startCol="2" startRow="9" x0="1460" x1="1648" y0="958" y1="1016">(64769,2570,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="9" startCol="3" startRow="9" x0="1648" x1="1864" y0="958" y1="1016">(64769,2570,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="9" startCol="4" startRow="9" x0="1864" x1="2040" y0="958" y1="1016">(64769,2570,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="9" startCol="5" startRow="9" x0="2040" x1="2198" y0="958" y1="1016">(64769,2570,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="9" startCol="6" startRow="9" x0="2198" x1="2372" y0="958" y1="1016">(64769,2570,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="11" startCol="0" startRow="10" x0="278" x1="1066" y0="1016" y1="1134">(64769,2828,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="10" startCol="1" startRow="10" x0="1066" x1="1460" y0="1016" y1="1066">(64769,2827,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="10" startCol="2" startRow="10" x0="1460" x1="1648" y0="1016" y1="1066">(64769,2827,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="10" startCol="3" startRow="10" x0="1648" x1="1864" y0="1016" y1="1066">(64769,2827,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="10" startCol="4" startRow="10" x0="1864" x1="2040" y0="1016" y1="1066">(64769,2827,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="10" startCol="5" startRow="10" x0="2040" x1="2198" y0="1016" y1="1066">(64769,2827,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="10" startCol="6" startRow="10" x0="2198" x1="2372" y0="1016" y1="1066">(64769,2827,1799)</Cell>
+<Cell dontCare="true" endCol="0" endRow="11" startCol="0" startRow="11" x0="278" x1="1066" y0="1066" y1="1134">(64769,3084,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="11" startCol="1" startRow="11" x0="1066" x1="1460" y0="1066" y1="1134">(64769,3084,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="11" startCol="2" startRow="11" x0="1460" x1="1648" y0="1066" y1="1134">(64769,3084,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="11" startCol="3" startRow="11" x0="1648" x1="1864" y0="1066" y1="1134">(64769,3084,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="11" startCol="4" startRow="11" x0="1864" x1="2040" y0="1066" y1="1134">(64769,3084,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="11" startCol="5" startRow="11" x0="2040" x1="2198" y0="1066" y1="1134">(64769,3084,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="11" startCol="6" startRow="11" x0="2198" x1="2372" y0="1066" y1="1134">(64769,3084,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="12" startCol="0" startRow="12" x0="278" x1="1066" y0="1134" y1="1228">(64769,3341,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="12" startCol="1" startRow="12" x0="1066" x1="1460" y0="1134" y1="1228">(64769,3341,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="12" startCol="2" startRow="12" x0="1460" x1="1648" y0="1134" y1="1228">(64769,3341,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="12" startCol="3" startRow="12" x0="1648" x1="1864" y0="1134" y1="1228">(64769,3341,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="12" startCol="4" startRow="12" x0="1864" x1="2040" y0="1134" y1="1228">(64769,3341,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="12" startCol="5" startRow="12" x0="2040" x1="2198" y0="1134" y1="1228">(64769,3341,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="12" startCol="6" startRow="12" x0="2198" x1="2372" y0="1134" y1="1228">(64769,3341,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="13" startCol="0" startRow="13" x0="278" x1="1066" y0="1228" y1="1296">(64769,3598,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="13" startCol="1" startRow="13" x0="1066" x1="1460" y0="1228" y1="1296">(64769,3598,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="13" startCol="2" startRow="13" x0="1460" x1="1648" y0="1228" y1="1296">(64769,3598,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="13" startCol="3" startRow="13" x0="1648" x1="1864" y0="1228" y1="1296">(64769,3598,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="13" startCol="4" startRow="13" x0="1864" x1="2040" y0="1228" y1="1296">(64769,3598,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="13" startCol="5" startRow="13" x0="2040" x1="2198" y0="1228" y1="1296">(64769,3598,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="13" startCol="6" startRow="13" x0="2198" x1="2372" y0="1228" y1="1296">(64769,3598,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="14" startCol="0" startRow="14" x0="278" x1="1066" y0="1296" y1="1348">(64769,3855,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="14" startCol="1" startRow="14" x0="1066" x1="1460" y0="1296" y1="1348">(64769,3855,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="14" startCol="2" startRow="14" x0="1460" x1="1648" y0="1296" y1="1348">(64769,3855,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="14" startCol="3" startRow="14" x0="1648" x1="1864" y0="1296" y1="1348">(64769,3855,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="14" startCol="4" startRow="14" x0="1864" x1="2040" y0="1296" y1="1348">(64769,3855,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="14" startCol="5" startRow="14" x0="2040" x1="2198" y0="1296" y1="1348">(64769,3855,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="14" startCol="6" startRow="14" x0="2198" x1="2372" y0="1296" y1="1348">(64769,3855,1799)</Cell>
+<Cell dontCare="false" endCol="0" endRow="15" startCol="0" startRow="15" x0="278" x1="1066" y0="1348" y1="1448">(64769,4112,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="15" startCol="1" startRow="15" x0="1066" x1="1460" y0="1348" y1="1448">(64769,4112,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="15" startCol="2" startRow="15" x0="1460" x1="1648" y0="1348" y1="1448">(64769,4112,771)</Cell>
+<Cell dontCare="false" endCol="3" endRow="15" startCol="3" startRow="15" x0="1648" x1="1864" y0="1348" y1="1448">(64769,4112,1028)</Cell>
+<Cell dontCare="false" endCol="4" endRow="15" startCol="4" startRow="15" x0="1864" x1="2040" y0="1348" y1="1448">(64769,4112,1285)</Cell>
+<Cell dontCare="false" endCol="5" endRow="15" startCol="5" startRow="15" x0="2040" x1="2198" y0="1348" y1="1448">(64769,4112,1542)</Cell>
+<Cell dontCare="false" endCol="6" endRow="15" startCol="6" startRow="15" x0="2198" x1="2372" y0="1348" y1="1448">(64769,4112,1799)</Cell>
+</Table>
+<Table x0="268" x1="1308" y0="2000" y1="2786">
+<Row x0="268" x1="1308" y0="2158" y1="2158"/>
+<Row x0="268" x1="1308" y0="2218" y1="2218"/>
+<Row x0="268" x1="1308" y0="2268" y1="2268"/>
+<Row x0="268" x1="1308" y0="2322" y1="2322"/>
+<Row x0="268" x1="1308" y0="2398" y1="2398"/>
+<Row x0="268" x1="1308" y0="2458" y1="2458"/>
+<Row x0="268" x1="1308" y0="2510" y1="2510"/>
+<Row x0="268" x1="1308" y0="2552" y1="2552"/>
+<Row x0="268" x1="1308" y0="2606" y1="2606"/>
+<Row x0="268" x1="1308" y0="2682" y1="2682"/>
+<Column x0="746" x1="746" y0="2000" y1="2786"/>
+<Column x0="1040" x1="1040" y0="2000" y1="2786"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="268" x1="746" y0="2000" y1="2158">(64770,257,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="0" startCol="1" startRow="0" x0="746" x1="1040" y0="2000" y1="2158">(64770,257,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="0" startCol="2" startRow="0" x0="1040" x1="1308" y0="2000" y1="2158">(64770,257,771)</Cell>
+<Cell dontCare="false" endCol="2" endRow="1" startCol="0" startRow="1" x0="268" x1="1308" y0="2158" y1="2218">(64770,514,259)</Cell>
+<Cell dontCare="true" endCol="1" endRow="1" startCol="1" startRow="1" x0="746" x1="1040" y0="2158" y1="2218">(64770,514,514)</Cell>
+<Cell dontCare="true" endCol="2" endRow="1" startCol="2" startRow="1" x0="1040" x1="1308" y0="2158" y1="2218">(64770,514,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="2" startCol="0" startRow="2" x0="268" x1="746" y0="2218" y1="2268">(64770,771,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="2" startCol="1" startRow="2" x0="746" x1="1040" y0="2218" y1="2268">(64770,771,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="2" startCol="2" startRow="2" x0="1040" x1="1308" y0="2218" y1="2268">(64770,771,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="3" startCol="0" startRow="3" x0="268" x1="746" y0="2268" y1="2322">(64770,1028,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="3" startCol="1" startRow="3" x0="746" x1="1040" y0="2268" y1="2322">(64770,1028,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="3" startCol="2" startRow="3" x0="1040" x1="1308" y0="2268" y1="2322">(64770,1028,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="4" startCol="0" startRow="4" x0="268" x1="746" y0="2322" y1="2398">(64770,1285,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="4" startCol="1" startRow="4" x0="746" x1="1040" y0="2322" y1="2398">(64770,1285,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="4" startCol="2" startRow="4" x0="1040" x1="1308" y0="2322" y1="2398">(64770,1285,771)</Cell>
+<Cell dontCare="false" endCol="2" endRow="5" startCol="0" startRow="5" x0="268" x1="1308" y0="2398" y1="2458">(64770,1542,259)</Cell>
+<Cell dontCare="true" endCol="1" endRow="5" startCol="1" startRow="5" x0="746" x1="1040" y0="2398" y1="2458">(64770,1542,514)</Cell>
+<Cell dontCare="true" endCol="2" endRow="5" startCol="2" startRow="5" x0="1040" x1="1308" y0="2398" y1="2458">(64770,1542,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="6" startCol="0" startRow="6" x0="268" x1="746" y0="2458" y1="2510">(64770,1799,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="6" startCol="1" startRow="6" x0="746" x1="1040" y0="2458" y1="2510">(64770,1799,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="6" startCol="2" startRow="6" x0="1040" x1="1308" y0="2458" y1="2510">(64770,1799,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="7" startCol="0" startRow="7" x0="268" x1="746" y0="2510" y1="2552">(64770,2056,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="7" startCol="1" startRow="7" x0="746" x1="1040" y0="2510" y1="2552">(64770,2056,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="7" startCol="2" startRow="7" x0="1040" x1="1308" y0="2510" y1="2552">(64770,2056,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="8" startCol="0" startRow="8" x0="268" x1="746" y0="2552" y1="2606">(64770,2313,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="8" startCol="1" startRow="8" x0="746" x1="1040" y0="2552" y1="2606">(64770,2313,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="8" startCol="2" startRow="8" x0="1040" x1="1308" y0="2552" y1="2606">(64770,2313,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="9" startCol="0" startRow="9" x0="268" x1="746" y0="2606" y1="2682">(64770,2570,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="9" startCol="1" startRow="9" x0="746" x1="1040" y0="2606" y1="2682">(64770,2570,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="9" startCol="2" startRow="9" x0="1040" x1="1308" y0="2606" y1="2682">(64770,2570,771)</Cell>
+<Cell dontCare="false" endCol="0" endRow="10" startCol="0" startRow="10" x0="268" x1="746" y0="2682" y1="2786">(64770,2827,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="10" startCol="1" startRow="10" x0="746" x1="1040" y0="2682" y1="2786">(64770,2827,514)</Cell>
+<Cell dontCare="false" endCol="2" endRow="10" startCol="2" startRow="10" x0="1040" x1="1308" y0="2682" y1="2786">(64770,2827,771)</Cell>
+</Table>
+</Tables>
+</GroundTruth>

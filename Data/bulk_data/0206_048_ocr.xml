@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2550" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543756238.png" width="3312"/>
+<words>
+<word bottom="2262" left="452" right="573" top="2296">
+Table</word>
+<word bottom="2263" left="604" right="692" top="2296">
+
+6-4.
+</word>
+<word bottom="2255" left="753" right="999" top="2296">
+Department</word>
+<word bottom="2265" left="1028" right="1072" top="2299">
+of</word>
+<word bottom="2257" left="1102" right="1248" top="2298">
+Energy</word>
+<word bottom="2266" left="1278" right="1523" top="2300">
+directives</word>
+<word bottom="2267" left="1554" right="1799" top="2301">
+considered</word>
+<word bottom="2269" left="1831" right="1874" top="2301">
+in</word>
+<word bottom="2269" left="1905" right="1974" top="2303">
+the</word>
+<word bottom="2260" left="2004" right="2246" top="2303">
+conceptual</word>
+<word bottom="2259" left="2278" right="2424" top="2302">
+design</word>
+<word bottom="2260" left="2461" right="2574" top="2303">
+(page</word>
+<word bottom="2270" left="2607" right="2619" top="2301">
+
+1
+</word>
+<word bottom="2270" left="2655" right="2698" top="2303">
+of</word>
+<word bottom="2262" left="2730" right="2769" top="2303">
+
+2)
+</word>
+<word bottom="2107" left="445" right="624" top="2136">
+Directive</word>
+<word bottom="1530" left="260" right="401" top="1557">
+Generic</word>
+<word bottom="1524" left="423" right="666" top="1557">
+Requirements</word>
+<word bottom="1530" left="692" right="749" top="1559">
+for</word>
+<word bottom="1531" left="773" right="792" top="1548">
+a</word>
+<word bottom="1530" left="813" right="913" top="1558">
+Mined</word>
+<word bottom="1481" left="302" right="462" top="1517">
+Geologic</word>
+<word bottom="1483" left="486" right="644" top="1518">
+Disposal</word>
+<word bottom="1483" left="670" right="791" top="1518">
+System</word>
+<word bottom="1482" left="820" right="887" top="1518">
+(GR)</word>
+<word bottom="1441" left="299" right="395" top="1475">
+
+.(DOE,
+</word>
+<word bottom="1442" left="427" right="537" top="1475">
+
+1984b)
+</word>
+<word bottom="994" left="261" right="320" top="1022">
+DOE</word>
+<word bottom="994" left="343" right="442" top="1023">
+Order</word>
+<word bottom="990" left="466" right="599" top="1021">
+
+6410.1,
+</word>
+<word bottom="988" left="632" right="853" top="1024">
+"Management</word>
+<word bottom="995" left="877" right="913" top="1023">
+of</word>
+<word bottom="953" left="301" right="543" top="981">
+Construction</word>
+<word bottom="947" left="565" right="746" top="982">
+Projects"</word>
+<word bottom="947" left="778" right="867" top="982">
+(DOE,</word>
+<word bottom="904" left="303" right="414" top="940">
+
+19836)
+</word>
+<word bottom="2101" left="1370" right="1591" top="2134">
+Description</word>
+<word bottom="2098" left="2289" right="2529" top="2134">
+Requirements</word>
+<word bottom="1984" left="259" right="400" top="2011">
+Mission</word>
+<word bottom="1985" left="424" right="504" top="2011">
+Plan</word>
+<word bottom="1985" left="529" right="585" top="2012">
+for</word>
+<word bottom="1986" left="609" right="667" top="2013">
+the</word>
+<word bottom="1984" left="691" right="853" top="2014">
+Civilian</word>
+<word bottom="1985" left="876" right="996" top="2013">
+Radio-</word>
+<word bottom="1976" left="1061" right="1164" top="2012">
+Using</word>
+<word bottom="1977" left="1186" right="1369" top="2011">
+governing</word>
+<word bottom="1978" left="1392" right="1629" top="2012">
+regulations,</word>
+<word bottom="1976" left="1658" right="1857" top="2011">
+explicitly</word>
+<word bottom="1976" left="1983" right="2142" top="2011">
+Requires</word>
+<word bottom="1984" left="2167" right="2186" top="2002">
+a</word>
+<word bottom="1977" left="2207" right="2286" top="2002">
+very</word>
+<word bottom="1977" left="2310" right="2469" top="2011">
+thorough</word>
+<word bottom="1982" left="2494" right="2692" top="2011">
+subsurface</word>
+<word bottom="1976" left="2716" right="2937" top="2011">
+exploration</word>
+<word bottom="1943" left="302" right="421" top="1970">
+active</word>
+<word bottom="1944" left="445" right="543" top="1970">
+Waste</word>
+<word bottom="1937" left="567" right="771" top="1972">
+Management</word>
+<word bottom="1937" left="793" right="936" top="1971">
+Program</word>
+<word bottom="1943" left="1104" right="1245" top="1970">
+defines</word>
+<word bottom="1943" left="1269" right="1326" top="1972">
+the</word>
+<word bottom="1942" left="1350" right="1491" top="1969">
+mission</word>
+<word bottom="1943" left="1514" right="1550" top="1970">
+of</word>
+<word bottom="1943" left="1575" right="1634" top="1971">
+the</word>
+<word bottom="1935" left="1658" right="1857" top="1969">
+repository</word>
+<word bottom="1935" left="2025" right="2165" top="1961">
+program</word>
+<word bottom="1943" left="2187" right="2225" top="1967">
+to</word>
+<word bottom="1941" left="2248" right="2368" top="1961">
+ensure</word>
+<word bottom="1942" left="2392" right="2469" top="1970">
+that</word>
+<word bottom="1942" left="2494" right="2551" top="1970">
+the</word>
+<word bottom="1941" left="2575" right="2712" top="1970">
+natural</word>
+<word bottom="1942" left="2736" right="2896" top="1970">
+barriers</word>
+<word bottom="1895" left="307" right="395" top="1930">
+(DOE,</word>
+<word bottom="1896" left="426" right="538" top="1930">
+
+1985a)
+</word>
+<word bottom="1901" left="1104" right="1162" top="1929">
+and</word>
+<word bottom="1902" left="1187" right="1245" top="1929">
+the</word>
+<word bottom="1895" left="1268" right="1510" top="1929">
+requirements</word>
+<word bottom="1901" left="1535" right="1594" top="1929">
+for</word>
+<word bottom="1901" left="1617" right="1675" top="1930">
+its</word>
+<word bottom="1894" left="1698" right="1933" top="1930">
+performance,</word>
+<word bottom="1901" left="2024" right="2061" top="1930">
+of</word>
+<word bottom="1902" left="2086" right="2143" top="1930">
+the</word>
+<word bottom="1902" left="2166" right="2244" top="1929">
+site</word>
+<word bottom="1894" left="2268" right="2409" top="1929">
+provide</word>
+<word bottom="1901" left="2431" right="2531" top="1925">
+waste</word>
+<word bottom="1900" left="2555" right="2746" top="1929">
+isolation.</word>
+<word bottom="1860" left="1061" right="1182" top="1888">
+States</word>
+<word bottom="1861" left="1207" right="1264" top="1888">
+the</word>
+<word bottom="1860" left="1289" right="1388" top="1889">
+broad</word>
+<word bottom="1861" left="1413" right="1509" top="1888">
+basis</word>
+<word bottom="1861" left="1536" right="1593" top="1888">
+for</word>
+<word bottom="1853" left="1616" right="1858" top="1888">
+anticipating</word>
+<word bottom="1861" left="1881" right="1938" top="1890">
+the</word>
+<word bottom="1820" left="1104" right="1203" top="1847">
+kinds</word>
+<word bottom="1819" left="1228" right="1262" top="1848">
+of</word>
+<word bottom="1814" left="1290" right="1504" top="1847">
+scientific,</word>
+<word bottom="1812" left="1536" right="1771" top="1846">
+engineering,</word>
+<word bottom="1820" left="1801" right="1856" top="1847">
+and</word>
+<word bottom="1777" left="1104" right="1365" top="1806">
+environmental</word>
+<word bottom="1777" left="1394" right="1613" top="1806">
+information</word>
+<word bottom="1770" left="1638" right="1796" top="1806">
+required</word>
+<word bottom="1778" left="1822" right="1878" top="1806">
+for</word>
+<word bottom="1778" left="1903" right="1920" top="1796">
+a</word>
+<word bottom="1730" left="1104" right="1319" top="1763">
+repository.</word>
+<word bottom="1694" left="1062" right="1264" top="1723">
+Identifies</word>
+<word bottom="1696" left="1290" right="1307" top="1713">
+a</word>
+<word bottom="1689" left="1330" right="1509" top="1724">
+hierarchy</word>
+<word bottom="1696" left="1535" right="1569" top="1724">
+of</word>
+<word bottom="1694" left="1597" right="1797" top="1723">
+unresolved</word>
+<word bottom="1688" left="1821" right="1917" top="1713">
+ques-</word>
+<word bottom="1653" left="1104" right="1203" top="1680">
+tions</word>
+<word bottom="1653" left="1229" right="1286" top="1682">
+for</word>
+<word bottom="1653" left="1308" right="1409" top="1682">
+which</word>
+<word bottom="1654" left="1435" right="1655" top="1682">
+information</word>
+<word bottom="1653" left="1679" right="1737" top="1671">
+can</word>
+<word bottom="1653" left="1761" right="1796" top="1681">
+be</word>
+<word bottom="1612" left="1105" right="1285" top="1641">
+collected</word>
+<word bottom="1612" left="1310" right="1348" top="1637">
+to</word>
+<word bottom="1604" left="1372" right="1510" top="1640">
+provide</word>
+<word bottom="1612" left="1536" right="1689" top="1631">
+answers.</word>
+<word bottom="1529" left="1061" right="1223" top="1557">
+Contains</word>
+<word bottom="1530" left="1248" right="1266" top="1548">
+a</word>
+<word bottom="1529" left="1289" right="1487" top="1558">
+functional</word>
+<word bottom="1523" left="1513" right="1735" top="1557">
+description</word>
+<word bottom="1530" left="1758" right="1794" top="1558">
+of</word>
+<word bottom="1530" left="1820" right="1877" top="1557">
+the</word>
+<word bottom="1481" left="1103" right="1245" top="1515">
+generic</word>
+<word bottom="1488" left="1269" right="1448" top="1512">
+structure</word>
+<word bottom="1489" left="1473" right="1508" top="1516">
+of</word>
+<word bottom="1489" left="1536" right="1553" top="1506">
+a</word>
+<word bottom="1488" left="1575" right="1674" top="1516">
+mined</word>
+<word bottom="1481" left="1698" right="1858" top="1516">
+geologic</word>
+<word bottom="1440" left="1104" right="1262" top="1475">
+disposal</word>
+<word bottom="1441" left="1290" right="1409" top="1470">
+system</word>
+<word bottom="1447" left="1434" right="1490" top="1475">
+and</word>
+<word bottom="1440" left="1515" right="1715" top="1475">
+explicitly</word>
+<word bottom="1439" left="1740" right="1938" top="1475">
+prescribes</word>
+<word bottom="1406" left="1104" right="1161" top="1433">
+the</word>
+<word bottom="1406" left="1186" right="1328" top="1433">
+minimum</word>
+<word bottom="1405" left="1352" right="1409" top="1428">
+set</word>
+<word bottom="1406" left="1433" right="1468" top="1434">
+of</word>
+<word bottom="1405" left="1495" right="1693" top="1434">
+functional</word>
+<word bottom="1399" left="1719" right="1875" top="1432">
+require-</word>
+<word bottom="1364" left="1104" right="1203" top="1389">
+ments</word>
+<word bottom="1365" left="1229" right="1286" top="1393">
+and</word>
+<word bottom="1358" left="1310" right="1531" top="1392">
+performance</word>
+<word bottom="1364" left="1556" right="1717" top="1392">
+criteria</word>
+<word bottom="1364" left="1740" right="1777" top="1389">
+to</word>
+<word bottom="1365" left="1801" right="1836" top="1392">
+be</word>
+<word bottom="1324" left="1105" right="1143" top="1351">
+be</word>
+<word bottom="1323" left="1167" right="1362" top="1352">
+satisfied.</word>
+<word bottom="1275" left="1063" right="1245" top="1310">
+Organized</word>
+<word bottom="1275" left="1270" right="1306" top="1310">
+by</word>
+<word bottom="1274" left="1331" right="1485" top="1304">
+systems,</word>
+<word bottom="1282" left="1513" right="1593" top="1310">
+with</word>
+<word bottom="1281" left="1617" right="1674" top="1311">
+the</word>
+<word bottom="1281" left="1697" right="1796" top="1310">
+mined</word>
+<word bottom="1234" left="1102" right="1266" top="1268">
+geologic</word>
+<word bottom="1233" left="1288" right="1448" top="1269">
+disposal</word>
+<word bottom="1234" left="1473" right="1593" top="1265">
+system</word>
+<word bottom="1240" left="1616" right="1816" top="1269">
+subdivided</word>
+<word bottom="1199" left="1105" right="1183" top="1226">
+into</word>
+<word bottom="1200" left="1207" right="1264" top="1227">
+the</word>
+<word bottom="1199" left="1287" right="1387" top="1223">
+waste</word>
+<word bottom="1192" left="1412" right="1566" top="1227">
+package,</word>
+<word bottom="1193" left="1595" right="1811" top="1226">
+repository,</word>
+<word bottom="1159" left="1105" right="1161" top="1186">
+and</word>
+<word bottom="1159" left="1187" right="1264" top="1185">
+site</word>
+<word bottom="1151" left="1290" right="1490" top="1187">
+subsystems</word>
+<word bottom="1152" left="1513" right="1634" top="1186">
+during</word>
+<word bottom="1150" left="1657" right="1856" top="1186">
+
+preclosure
+</word>
+<word bottom="1117" left="1105" right="1161" top="1145">
+and</word>
+<word bottom="1110" left="1187" right="1403" top="1144">
+engineered,</word>
+<word bottom="1112" left="1433" right="1586" top="1146">
+natural,</word>
+<word bottom="1117" left="1617" right="1674" top="1145">
+and</word>
+<word bottom="1116" left="1700" right="1855" top="1144">
+institu-</word>
+<word bottom="1075" left="1105" right="1223" top="1104">
+tional</word>
+<word bottom="1075" left="1249" right="1388" top="1104">
+barrier</word>
+<word bottom="1069" left="1413" right="1612" top="1104">
+subsystems</word>
+<word bottom="1075" left="1638" right="1736" top="1104">
+after</word>
+<word bottom="1075" left="1759" right="1911" top="1104">
+closure.</word>
+<word bottom="994" left="1061" right="1286" top="1023">
+Establishes</word>
+<word bottom="988" left="1310" right="1470" top="1022">
+policies</word>
+<word bottom="995" left="1494" right="1551" top="1023">
+and</word>
+<word bottom="987" left="1575" right="1776" top="1022">
+procedures</word>
+<word bottom="994" left="1800" right="1838" top="1018">
+to</word>
+<word bottom="994" left="1861" right="1898" top="1023">
+be</word>
+<word bottom="953" left="1104" right="1266" top="982">
+followed</word>
+<word bottom="945" left="1288" right="1410" top="982">
+during</word>
+<word bottom="954" left="1434" right="1490" top="981">
+the</word>
+<word bottom="946" left="1513" right="1675" top="981">
+planning</word>
+<word bottom="952" left="1697" right="1755" top="981">
+and</word>
+<word bottom="953" left="1779" right="1896" top="971">
+execu-</word>
+<word bottom="912" left="1104" right="1182" top="939">
+tion</word>
+<word bottom="912" left="1206" right="1243" top="941">
+of</word>
+<word bottom="912" left="1268" right="1328" top="941">
+DOE</word>
+<word bottom="911" left="1351" right="1592" top="939">
+construction</word>
+<word bottom="904" left="1615" right="1775" top="931">
+programs</word>
+<word bottom="912" left="1799" right="1856" top="940">
+and</word>
+<word bottom="864" left="1104" right="1279" top="898">
+projects.</word>
+<word bottom="870" left="1330" right="1490" top="899">
+Includes</word>
+<word bottom="871" left="1514" right="1551" top="888">
+an</word>
+<word bottom="870" left="1574" right="1714" top="900">
+outline</word>
+<word bottom="871" left="1737" right="1774" top="899">
+of</word>
+<word bottom="871" left="1798" right="1855" top="899">
+the</word>
+<word bottom="830" left="1105" right="1325" top="859">
+fundamental</word>
+<word bottom="823" left="1351" right="1550" top="858">
+objectives</word>
+<word bottom="830" left="1575" right="1610" top="859">
+of</word>
+<word bottom="822" left="1638" right="1833" top="858">
+conceptual</word>
+<word bottom="782" left="1104" right="1224" top="817">
+design</word>
+<word bottom="789" left="1249" right="1305" top="818">
+and</word>
+<word bottom="788" left="1330" right="1509" top="817">
+describes</word>
+<word bottom="789" left="1535" right="1592" top="816">
+the</word>
+<word bottom="787" left="1617" right="1755" top="813">
+content</word>
+<word bottom="788" left="1778" right="1814" top="816">
+of</word>
+<word bottom="788" left="1840" right="1857" top="806">
+a</word>
+<word bottom="741" left="1105" right="1303" top="776">
+conceptual</word>
+<word bottom="741" left="1330" right="1449" top="775">
+design</word>
+<word bottom="740" left="1473" right="1605" top="771">
+report.</word>
+<word bottom="1529" left="1982" right="2183" top="1558">
+Reconfirms</word>
+<word bottom="1529" left="2206" right="2264" top="1558">
+the</word>
+<word bottom="1528" left="2286" right="2425" top="1557">
+Federal</word>
+<word bottom="1521" left="2451" right="2649" top="1557">
+regulatory</word>
+<word bottom="1521" left="2673" right="2913" top="1555">
+requirements</word>
+<word bottom="1481" left="2025" right="2203" top="1516">
+including</word>
+<word bottom="1488" left="2227" right="2284" top="1517">
+the</word>
+<word bottom="1480" left="2309" right="2529" top="1514">
+requirement</word>
+<word bottom="1487" left="2553" right="2630" top="1516">
+that</word>
+<word bottom="1480" left="2654" right="2709" top="1505">
+any</word>
+<word bottom="1487" left="2734" right="2771" top="1505">
+or</word>
+<word bottom="1487" left="2796" right="2851" top="1515">
+all</word>
+<word bottom="1487" left="2877" right="2912" top="1516">
+of</word>
+<word bottom="1446" left="2024" right="2081" top="1475">
+the</word>
+<word bottom="1440" left="2104" right="2264" top="1476">
+emplaced</word>
+<word bottom="1446" left="2287" right="2386" top="1470">
+waste</word>
+<word bottom="1446" left="2410" right="2488" top="1470">
+must</word>
+<word bottom="1447" left="2513" right="2549" top="1474">
+be</word>
+<word bottom="1445" left="2572" right="2791" top="1474">
+retrievable</word>
+<word bottom="1446" left="2818" right="2851" top="1473">
+in</word>
+<word bottom="1405" left="2025" right="2121" top="1434">
+about</word>
+<word bottom="1406" left="2146" right="2202" top="1434">
+the</word>
+<word bottom="1405" left="2227" right="2304" top="1424">
+same</word>
+<word bottom="1397" left="2331" right="2447" top="1433">
+length</word>
+<word bottom="1406" left="2471" right="2507" top="1433">
+of</word>
+<word bottom="1405" left="2532" right="2609" top="1432">
+time</word>
+<word bottom="1404" left="2633" right="2669" top="1423">
+as</word>
+<word bottom="1404" left="2694" right="2771" top="1433">
+that</word>
+<word bottom="1404" left="2795" right="2933" top="1432">
+devoted</word>
+<word bottom="1364" left="2025" right="2061" top="1388">
+to</word>
+<word bottom="1363" left="2085" right="2325" top="1392">
+construction</word>
+<word bottom="1363" left="2349" right="2408" top="1392">
+and</word>
+<word bottom="1357" left="2431" right="2665" top="1392">
+emplacement,</word>
+<word bottom="1356" left="2694" right="2853" top="1391">
+starting</word>
+<word bottom="1364" left="2877" right="2913" top="1388">
+at</word>
+<word bottom="1316" left="2025" right="2082" top="1341">
+any</word>
+<word bottom="1323" left="2104" right="2183" top="1350">
+time</word>
+<word bottom="1316" left="2206" right="2244" top="1341">
+up</word>
+<word bottom="1322" left="2267" right="2305" top="1348">
+to</word>
+<word bottom="1322" left="2328" right="2368" top="1349">
+
+50
+</word>
+<word bottom="1315" left="2389" right="2428" top="1340">
+yr</word>
+<word bottom="1322" left="2451" right="2549" top="1351">
+after</word>
+<word bottom="1314" left="2572" right="2792" top="1351">
+emplacement</word>
+<word bottom="1274" left="2023" right="2223" top="1309">
+operations</word>
+<word bottom="1281" left="2247" right="2304" top="1300">
+are</word>
+<word bottom="1280" left="2330" right="2523" top="1309">
+initiated.</word>
+<word bottom="1273" left="2571" right="2730" top="1309">
+Compiles</word>
+<word bottom="1281" left="2753" right="2812" top="1308">
+DOE</word>
+<word bottom="1240" left="2022" right="2141" top="1269">
+orders</word>
+<word bottom="1233" left="2165" right="2364" top="1268">
+applicable</word>
+<word bottom="1239" left="2389" right="2427" top="1264">
+to</word>
+<word bottom="1233" left="2450" right="2609" top="1268">
+specific</word>
+<word bottom="1232" left="2632" right="2830" top="1267">
+subsystems</word>
+<word bottom="1199" left="2023" right="2081" top="1227">
+and</word>
+<word bottom="1192" left="2103" right="2318" top="1224">
+components.</word>
+<word bottom="993" left="1981" right="2202" top="1022">
+Establishes</word>
+<word bottom="994" left="2226" right="2244" top="1012">
+a</word>
+<word bottom="992" left="2267" right="2448" top="1023">
+framework</word>
+<word bottom="993" left="2470" right="2509" top="1017">
+to</word>
+<word bottom="992" left="2531" right="2649" top="1011">
+ensure</word>
+<word bottom="985" left="2672" right="2846" top="1021">
+planning,</word>
+<word bottom="945" left="2021" right="2156" top="981">
+design,</word>
+<word bottom="953" left="2184" right="2241" top="980">
+and</word>
+<word bottom="951" left="2265" right="2507" top="978">
+construction</word>
+<word bottom="952" left="2529" right="2566" top="980">
+of</word>
+<word bottom="951" left="2589" right="2650" top="980">
+DOE</word>
+<word bottom="951" left="2672" right="2871" top="980">
+facilities</word>
+<word bottom="911" left="2022" right="2080" top="929">
+are</word>
+<word bottom="904" left="2102" right="2262" top="939">
+properly</word>
+<word bottom="903" left="2285" right="2440" top="938">
+managed.</word>
+</words>
+</ocrresult>
+

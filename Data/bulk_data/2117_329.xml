@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GroundTruth InputFile="Z:\dataset\skew_corrected\unlv_tables_bin_train\2117_329.png">
+<Tables>
+<Table x0="283" x1="2126" y0="240" y1="2810">
+<Row x0="283" x1="2126" y0="430" y1="430"/>
+<Row x0="283" x1="2126" y0="612" y1="612"/>
+<Row x0="283" x1="2126" y0="768" y1="768"/>
+<Row x0="283" x1="2126" y0="1070" y1="1070"/>
+<Row x0="283" x1="2126" y0="1226" y1="1226"/>
+<Row x0="283" x1="2126" y0="1606" y1="1606"/>
+<Row x0="283" x1="2126" y0="1870" y1="1870"/>
+<Row x0="283" x1="2126" y0="2116" y1="2116"/>
+<Row x0="283" x1="2126" y0="2362" y1="2362"/>
+<Row x0="283" x1="2126" y0="2568" y1="2568"/>
+<Column x0="776" x1="776" y0="240" y1="2810"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="283" x1="776" y0="240" y1="430">(64769,257,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="0" startCol="1" startRow="0" x0="776" x1="2126" y0="240" y1="430">(64769,257,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="1" startCol="0" startRow="1" x0="283" x1="776" y0="430" y1="612">(64769,514,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="1" startCol="1" startRow="1" x0="776" x1="2126" y0="430" y1="612">(64769,514,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="2" startCol="0" startRow="2" x0="283" x1="776" y0="612" y1="768">(64769,771,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="2" startCol="1" startRow="2" x0="776" x1="2126" y0="612" y1="768">(64769,771,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="3" startCol="0" startRow="3" x0="283" x1="776" y0="768" y1="1070">(64769,1028,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="3" startCol="1" startRow="3" x0="776" x1="2126" y0="768" y1="1070">(64769,1028,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="4" startCol="0" startRow="4" x0="283" x1="776" y0="1070" y1="1226">(64769,1285,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="4" startCol="1" startRow="4" x0="776" x1="2126" y0="1070" y1="1226">(64769,1285,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="5" startCol="0" startRow="5" x0="283" x1="776" y0="1226" y1="1606">(64769,1542,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="5" startCol="1" startRow="5" x0="776" x1="2126" y0="1226" y1="1606">(64769,1542,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="6" startCol="0" startRow="6" x0="283" x1="776" y0="1606" y1="1870">(64769,1799,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="6" startCol="1" startRow="6" x0="776" x1="2126" y0="1606" y1="1870">(64769,1799,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="7" startCol="0" startRow="7" x0="283" x1="776" y0="1870" y1="2116">(64769,2056,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="7" startCol="1" startRow="7" x0="776" x1="2126" y0="1870" y1="2116">(64769,2056,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="8" startCol="0" startRow="8" x0="283" x1="776" y0="2116" y1="2362">(64769,2313,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="8" startCol="1" startRow="8" x0="776" x1="2126" y0="2116" y1="2362">(64769,2313,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="9" startCol="0" startRow="9" x0="283" x1="776" y0="2362" y1="2568">(64769,2570,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="9" startCol="1" startRow="9" x0="776" x1="2126" y0="2362" y1="2568">(64769,2570,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="10" startCol="0" startRow="10" x0="283" x1="776" y0="2568" y1="2810">(64769,2827,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="10" startCol="1" startRow="10" x0="776" x1="2126" y0="2568" y1="2810">(64769,2827,514)</Cell>
+</Table>
+</Tables>
+</GroundTruth>

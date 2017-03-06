@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544016732.png" width="2560"/>
+<words>
+<word bottom="2939" left="368" right="556" top="2972">
+
+12.8.3.1
+</word>
+<word bottom="2932" left="610" right="882" top="2971">
+Description</word>
+<word bottom="3113" left="1268" right="1334" top="3144">
+
+319
+</word>
+<word bottom="2790" left="487" right="556" top="2821">
+Six</word>
+<word bottom="2782" left="586" right="830" top="2821">
+properties</word>
+<word bottom="2791" left="862" right="932" top="2813">
+are</word>
+<word bottom="2782" left="967" right="1160" top="2821">
+required</word>
+<word bottom="2790" left="1195" right="1264" top="2823">
+for</word>
+<word bottom="2790" left="1296" right="1392" top="2821">
+each</word>
+<word bottom="2790" left="1422" right="1594" top="2822">
+nuclide</word>
+<word bottom="2791" left="1629" right="1821" top="2822">
+included</word>
+<word bottom="2791" left="1856" right="1900" top="2821">
+in</word>
+<word bottom="2791" left="1933" right="2001" top="2822">
+the</word>
+<word bottom="2789" left="2036" right="2148" top="2823">
+file.</word>
+<word bottom="2789" left="2211" right="2281" top="2821">
+The</word>
+<word bottom="2715" left="362" right="455" top="2746">
+file</word>
+<word bottom="2715" left="491" right="533" top="2745">
+is</word>
+<word bottom="2708" left="568" right="788" top="2747">
+organized</word>
+<word bottom="2708" left="819" right="867" top="2746">
+by</word>
+<word bottom="2707" left="900" right="1121" top="2746">
+ascending</word>
+<word bottom="2715" left="1153" right="1375" top="2746">
+numerical</word>
+<word bottom="2715" left="1409" right="1530" top="2746">
+order</word>
+<word bottom="2716" left="1562" right="1607" top="2746">
+of</word>
+<word bottom="2715" left="1641" right="1811" top="2747">
+nuclide</word>
+<word bottom="2716" left="1845" right="1983" top="2746">
+codes.</word>
+<word bottom="2715" left="2046" right="2165" top="2746">
+There</word>
+<word bottom="2714" left="2198" right="2269" top="2736">
+are</word>
+<word bottom="2639" left="361" right="430" top="2664">
+two</word>
+<word bottom="2639" left="464" right="631" top="2671">
+records</word>
+<word bottom="2632" left="664" right="734" top="2663">
+per</word>
+<word bottom="2633" left="765" right="957" top="2671">
+nuclide;</word>
+<word bottom="2640" left="997" right="1065" top="2671">
+the</word>
+<word bottom="2639" left="1100" right="1216" top="2671">
+first</word>
+<word bottom="2639" left="1251" right="1295" top="2669">
+is</word>
+<word bottom="2639" left="1328" right="1500" top="2671">
+nuclide</word>
+<word bottom="2635" left="1535" right="1650" top="2670">
+code,</word>
+<word bottom="2640" left="1689" right="1758" top="2670">
+the</word>
+<word bottom="2640" left="1793" right="1936" top="2670">
+second</word>
+<word bottom="2639" left="1970" right="2164" top="2669">
+contains</word>
+<word bottom="2639" left="2199" right="2268" top="2671">
+the</word>
+<word bottom="2565" left="359" right="529" top="2597">
+nuclide</word>
+<word bottom="2557" left="567" right="833" top="2596">
+properties.</word>
+<word bottom="2565" left="901" right="972" top="2596">
+The</word>
+<word bottom="2565" left="1008" right="1155" top="2597">
+number</word>
+<word bottom="2565" left="1192" right="1263" top="2596">
+and</word>
+<word bottom="2557" left="1299" right="1546" top="2595">
+particular</word>
+<word bottom="2565" left="1584" right="1929" top="2597">
+identification</word>
+<word bottom="2565" left="1965" right="2009" top="2596">
+of</word>
+<word bottom="2564" left="2046" right="2242" top="2596">
+nuclides</word>
+<word bottom="2490" left="361" right="555" top="2521">
+included</word>
+<word bottom="2491" left="586" right="629" top="2520">
+is</word>
+<word bottom="2490" left="659" right="730" top="2517">
+not</word>
+<word bottom="2482" left="761" right="981" top="2522">
+dependent</word>
+<word bottom="2490" left="1013" right="1059" top="2512">
+on</word>
+<word bottom="2490" left="1090" right="1186" top="2521">
+data</word>
+<word bottom="2489" left="1216" right="1436" top="2521">
+contained</word>
+<word bottom="2490" left="1470" right="1514" top="2520">
+in</word>
+<word bottom="2490" left="1543" right="1664" top="2521">
+other</word>
+<word bottom="2490" left="1697" right="1834" top="2522">
+files.</word>
+<word bottom="2486" left="1895" right="2086" top="2521">
+However,</word>
+<word bottom="2490" left="2122" right="2292" top="2521">
+absence</word>
+<word bottom="2415" left="359" right="402" top="2447">
+of</word>
+<word bottom="2415" left="439" right="584" top="2447">
+either</word>
+<word bottom="2406" left="620" right="839" top="2445">
+inventory</word>
+<word bottom="2415" left="873" right="970" top="2446">
+data</word>
+<word bottom="2411" left="1010" right="1199" top="2448">
+
+(ORIGEN2
+</word>
+<word bottom="2410" left="1236" right="1350" top="2448">
+file)</word>
+<word bottom="2415" left="1388" right="1435" top="2437">
+or</word>
+<word bottom="2406" left="1471" right="1689" top="2440">
+transport</word>
+<word bottom="2414" left="1723" right="1819" top="2446">
+data</word>
+<word bottom="2415" left="1854" right="1922" top="2447">
+for</word>
+<word bottom="2415" left="1956" right="1976" top="2437">
+a</word>
+<word bottom="2407" left="2009" right="2254" top="2446">
+particular</word>
+<word bottom="2340" left="357" right="528" top="2371">
+nuclide</word>
+<word bottom="2332" left="557" right="630" top="2362">
+may</word>
+<word bottom="2340" left="663" right="755" top="2372">
+lead</word>
+<word bottom="2340" left="789" right="832" top="2366">
+to</word>
+<word bottom="2340" left="864" right="958" top="2362">
+zero</word>
+<word bottom="2340" left="989" right="1134" top="2371">
+values</word>
+<word bottom="2341" left="1169" right="1213" top="2372">
+of</word>
+<word bottom="2339" left="1247" right="1568" top="2368">
+concentration</word>
+<word bottom="2340" left="1601" right="1644" top="2370">
+in</word>
+<word bottom="2340" left="1679" right="1746" top="2370">
+the</word>
+<word bottom="2332" left="1779" right="1944" top="2366">
+output,</word>
+<word bottom="2340" left="1982" right="2027" top="2362">
+or</word>
+<word bottom="2333" left="2058" right="2278" top="2366">
+premature</word>
+<word bottom="2265" left="362" right="629" top="2295">
+termination</word>
+<word bottom="2265" left="658" right="702" top="2296">
+of</word>
+<word bottom="2265" left="733" right="972" top="2295">
+execution.</word>
+<word bottom="1956" left="1281" right="1554" top="1995">
+Description</word>
+<word bottom="1964" left="2180" right="2301" top="1995">
+Units</word>
+<word bottom="1813" left="1258" right="1503" top="1843">
+Saturation</word>
+<word bottom="1813" left="1533" right="1852" top="1843">
+concentration</word>
+<word bottom="1814" left="1881" right="1925" top="1845">
+of</word>
+<word bottom="1814" left="1955" right="2125" top="1845">
+nuclide</word>
+<word bottom="1806" left="2180" right="2277" top="1848">
+
+gm/m
+</word>
+<word bottom="1839" left="2283" right="2301" top="1870">
+
+3
+</word>
+<word bottom="1736" left="2186" right="2251" top="1773">
+(or</word>
+<word bottom="1731" left="2278" right="2395" top="1773">
+
+mg/i)
+</word>
+<word bottom="1588" left="1256" right="1477" top="1620">
+Diffusion</word>
+<word bottom="1589" left="1507" right="1774" top="1620">
+coefficient</word>
+<word bottom="1589" left="1805" right="1849" top="1621">
+of</word>
+<word bottom="1589" left="1879" right="2050" top="1620">
+nuclide</word>
+<word bottom="1590" left="2176" right="2202" top="1611">
+
+m
+</word>
+<word bottom="1615" left="2207" right="2224" top="1645">
+
+2
+</word>
+<word bottom="1587" left="2233" right="2324" top="1623">
+/sec</word>
+<word bottom="1514" left="1259" right="1303" top="1544">
+in</word>
+<word bottom="1514" left="1328" right="1453" top="1540">
+water</word>
+<word bottom="1364" left="1255" right="1477" top="1396">
+Diffusion</word>
+<word bottom="1364" left="1507" right="1773" top="1396">
+coefficient</word>
+<word bottom="1365" left="1805" right="1850" top="1396">
+of</word>
+<word bottom="1365" left="1878" right="2050" top="1396">
+nuclide</word>
+<word bottom="1366" left="2177" right="2201" top="1386">
+
+m
+</word>
+<word bottom="1390" left="2207" right="2224" top="1421">
+
+2
+</word>
+<word bottom="1362" left="2232" right="2324" top="1399">
+/sec</word>
+<word bottom="1290" left="1258" right="1302" top="1320">
+in</word>
+<word bottom="1291" left="1329" right="1528" top="1322">
+
+backfill
+</word>
+<word bottom="1140" left="1255" right="1552" top="1172">
+Distribution</word>
+<word bottom="1140" left="1582" right="1849" top="1172">
+coefficient</word>
+<word bottom="1141" left="1880" right="1924" top="1172">
+of</word>
+<word bottom="1141" left="1954" right="2123" top="1172">
+nuclide</word>
+<word bottom="1133" left="2201" right="2326" top="1175">
+
+ml/gm
+</word>
+<word bottom="1066" left="1258" right="1302" top="1096">
+in</word>
+<word bottom="1065" left="1331" right="1527" top="1097">
+
+backfill
+</word>
+<word bottom="915" left="1254" right="1377" top="945">
+Leach</word>
+<word bottom="914" left="1408" right="1501" top="940">
+rate</word>
+<word bottom="915" left="1533" right="1799" top="947">
+coefficient</word>
+<word bottom="912" left="1836" right="1925" top="948">
+(for</word>
+<word bottom="908" left="2178" right="2401" top="975">
+
+g/m2-sec1/2
+</word>
+<word bottom="836" left="1256" right="1496" top="873">
+diffusion)</word>
+<word bottom="691" left="1254" right="1377" top="721">
+Leach</word>
+<word bottom="691" left="1407" right="1500" top="716">
+rate</word>
+<word bottom="691" left="1531" right="1799" top="723">
+coefficient</word>
+<word bottom="688" left="1836" right="1923" top="725">
+(for</word>
+<word bottom="684" left="2177" right="2372" top="747">
+
+g/m2/sec
+</word>
+<word bottom="612" left="1256" right="1546" top="650">
+dissolution)</word>
+<word bottom="2114" left="363" right="553" top="2148">
+
+12.8.3.2
+</word>
+<word bottom="2115" left="606" right="827" top="2148">
+Variables</word>
+<word bottom="1964" left="358" right="528" top="1996">
+Columns</word>
+<word bottom="1964" left="657" right="801" top="1995">
+Format</word>
+<word bottom="1964" left="930" right="1127" top="1996">
+Variable</word>
+<word bottom="1814" left="360" right="454" top="1846">
+
+1-10
+</word>
+<word bottom="1813" left="682" right="803" top="1846">
+
+F10.0
+</word>
+<word bottom="1814" left="930" right="1054" top="1845">
+
+WCSAT
+</word>
+<word bottom="1590" left="360" right="479" top="1621">
+
+11-20
+</word>
+<word bottom="1589" left="682" right="803" top="1622">
+
+F10.0
+</word>
+<word bottom="1589" left="930" right="1078" top="1620">
+
+WDBULK
+</word>
+<word bottom="1365" left="360" right="478" top="1397">
+
+21-30
+</word>
+<word bottom="1364" left="681" right="802" top="1397">
+
+F10.0
+</word>
+<word bottom="1365" left="929" right="1052" top="1395">
+
+WDBFL
+</word>
+<word bottom="1141" left="359" right="479" top="1173">
+
+31-40
+</word>
+<word bottom="1141" left="681" right="802" top="1174">
+
+F10.0
+</word>
+<word bottom="1142" left="929" right="1053" top="1172">
+
+WKDBF
+</word>
+<word bottom="916" left="358" right="479" top="947">
+
+41-50
+</word>
+<word bottom="915" left="682" right="803" top="948">
+
+F10.0
+</word>
+<word bottom="916" left="928" right="1077" top="946">
+
+WDIFFK
+</word>
+<word bottom="692" left="360" right="479" top="724">
+
+51-60
+</word>
+<word bottom="692" left="682" right="802" top="725">
+
+F10.0
+</word>
+<word bottom="692" left="930" right="1078" top="722">
+
+WDISSK
+</word>
+</words>
+</ocrresult>
+

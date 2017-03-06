@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543788264.png" width="2560"/>
+<words>
+<word bottom="2696" left="564" right="809" top="2733">
+Initiating</word>
+<word bottom="2701" left="839" right="984" top="2730">
+Events</word>
+<word bottom="2601" left="537" right="708" top="2631">
+Natural</word>
+<word bottom="2601" left="737" right="961" top="2631">
+Phenomena</word>
+<word bottom="2496" left="414" right="659" top="2532">
+Earthquake</word>
+<word bottom="2452" left="414" right="535" top="2482">
+Flood</word>
+<word bottom="2402" left="415" right="586" top="2430">
+Extreme</word>
+<word bottom="2402" left="611" right="710" top="2434">
+Wind</word>
+<word bottom="2352" left="415" right="585" top="2382">
+Tornado</word>
+<word bottom="2345" left="618" right="861" top="2383">
+(including</word>
+<word bottom="2350" left="887" right="1107" top="2384">
+missiles)</word>
+<word bottom="2151" left="515" right="686" top="2182">
+
+Offsite
+</word>
+<word bottom="2151" left="712" right="912" top="2181">
+Man-Made</word>
+<word bottom="2151" left="941" right="1086" top="2180">
+Events</word>
+<word bottom="2051" left="416" right="511" top="2078">
+Loss</word>
+<word bottom="2051" left="541" right="585" top="2081">
+of</word>
+<word bottom="2051" left="614" right="787" top="2083">
+
+Offsite
+</word>
+<word bottom="2051" left="816" right="1063" top="2083">
+Electrical</word>
+<word bottom="2000" left="465" right="587" top="2029">
+Power</word>
+<word bottom="1951" left="415" right="611" top="1982">
+Aircraft</word>
+<word bottom="1951" left="639" right="762" top="1981">
+Crash</word>
+<word bottom="1895" left="415" right="686" top="1932">
+Underground</word>
+<word bottom="1902" left="713" right="889" top="1931">
+Nuclear</word>
+<word bottom="1895" left="917" right="1160" top="1934">
+Explosions</word>
+<word bottom="1804" left="418" right="612" top="1834">
+In-Plant</word>
+<word bottom="1804" left="639" right="836" top="1835">
+Failures</word>
+<word bottom="1705" left="419" right="638" top="1734">
+Structure</word>
+<word bottom="1648" left="418" right="638" top="1687">
+Equipment</word>
+<word bottom="1598" left="417" right="614" top="1634">
+Operator</word>
+<word bottom="1105" left="420" right="538" top="1134">
+
+6.2.2
+</word>
+<word bottom="1101" left="593" right="740" top="1137">
+Design</word>
+<word bottom="1105" left="768" right="814" top="1135">
+of</word>
+<word bottom="1100" left="842" right="1089" top="1136">
+Mitigating</word>
+<word bottom="1103" left="1118" right="1311" top="1132">
+Features</word>
+<word bottom="1005" left="421" right="589" top="1035">
+
+6.2.2.1
+</word>
+<word bottom="1005" left="644" right="941" top="1037">
+Introduction</word>
+<word bottom="3001" left="1226" right="1347" top="3030">
+TABLE</word>
+<word bottom="3001" left="1376" right="1444" top="3031">
+
+6-3
+</word>
+<word bottom="2900" left="713" right="885" top="2929">
+SUMMARY</word>
+<word bottom="2900" left="913" right="960" top="2929">
+OF</word>
+<word bottom="2900" left="988" right="1210" top="2929">
+POTENTIAL</word>
+<word bottom="2900" left="1237" right="1457" top="2929">
+ACCIDENTS</word>
+<word bottom="2900" left="1486" right="1610" top="2929">
+BEING</word>
+<word bottom="2901" left="1639" right="1887" top="2929">
+CONSIDERED</word>
+<word bottom="2902" left="1914" right="1960" top="2930">
+AS</word>
+<word bottom="2850" left="978" right="1124" top="2878">
+FUTURE</word>
+<word bottom="2850" left="1153" right="1446" top="2879">
+DESIGN-BASIS</word>
+<word bottom="2850" left="1475" right="1699" top="2879">
+ACCIDENTS</word>
+<word bottom="2461" left="1294" right="1305" top="2473">
+
+•
+</word>
+<word bottom="2453" left="1362" right="1459" top="2483">
+Fuel</word>
+<word bottom="2446" left="1489" right="1687" top="2484">
+assembly</word>
+<word bottom="2447" left="1715" right="1811" top="2483">
+drop</word>
+<word bottom="2454" left="1844" right="1889" top="2485">
+in</word>
+<word bottom="2453" left="1918" right="2037" top="2483">
+cask-</word>
+<word bottom="2396" left="1361" right="1585" top="2434">
+unloading</word>
+<word bottom="2403" left="1613" right="1687" top="2433">
+hot</word>
+<word bottom="2403" left="1716" right="1812" top="2433">
+cell</word>
+<word bottom="2403" left="1842" right="1889" top="2426">
+or</word>
+<word bottom="2403" left="1918" right="2112" top="2434">
+consoli-</word>
+<word bottom="2352" left="1363" right="1510" top="2384">
+dation</word>
+<word bottom="2352" left="1537" right="1610" top="2382">
+hot</word>
+<word bottom="2352" left="1641" right="1735" top="2382">
+cell</word>
+<word bottom="2260" left="1294" right="1306" top="2271">
+
+•
+</word>
+<word bottom="2244" left="1363" right="1536" top="2279">
+Runaway</word>
+<word bottom="2244" left="1565" right="1839" top="2281">
+transporter</word>
+<word bottom="2253" left="1870" right="1914" top="2283">
+in</word>
+<word bottom="2245" left="1942" right="2037" top="2275">
+ramp</word>
+<word bottom="1347" left="419" right="516" top="1383">
+*Any</word>
+<word bottom="1354" left="558" right="629" top="1376">
+one</word>
+<word bottom="1354" left="673" right="718" top="1384">
+of</word>
+<word bottom="1354" left="764" right="885" top="1383">
+these</word>
+<word bottom="1353" left="929" right="1074" top="1383">
+events</word>
+<word bottom="1347" left="1116" right="1190" top="1376">
+may</word>
+<word bottom="1354" left="1231" right="1279" top="1383">
+be</word>
+<word bottom="1353" left="1322" right="1468" top="1383">
+caused</word>
+<word bottom="1346" left="1509" right="1559" top="1382">
+by</word>
+<word bottom="1353" left="1603" right="1774" top="1383">
+several</word>
+<word bottom="1353" left="1819" right="1863" top="1383">
+of</word>
+<word bottom="1353" left="1908" right="1978" top="1383">
+the</word>
+<word bottom="1346" left="2020" right="2263" top="1385">
+initiating</word>
+<word bottom="1303" left="445" right="607" top="1332">
+events.</word>
+<word bottom="1304" left="666" right="692" top="1333">
+A</word>
+<word bottom="1303" left="718" right="967" top="1332">
+one-to-one</word>
+<word bottom="1303" left="996" right="1265" top="1334">
+correlation</word>
+<word bottom="1302" left="1292" right="1436" top="1325">
+across</word>
+<word bottom="1302" left="1467" right="1538" top="1332">
+the</word>
+<word bottom="1302" left="1568" right="1689" top="1332">
+table</word>
+<word bottom="1303" left="1720" right="1763" top="1334">
+is</word>
+<word bottom="1302" left="1792" right="1865" top="1331">
+not</word>
+<word bottom="1296" left="1896" right="2082" top="1334">
+implied.</word>
+<word bottom="906" left="542" right="715" top="937">
+Neither</word>
+<word bottom="906" left="754" right="826" top="935">
+the</word>
+<word bottom="904" left="866" right="1209" top="937">
+identification</word>
+<word bottom="904" left="1244" right="1318" top="926">
+nor</word>
+<word bottom="905" left="1357" right="1427" top="934">
+the</word>
+<word bottom="899" left="1466" right="1662" top="935">
+analyses</word>
+<word bottom="906" left="1702" right="1747" top="936">
+of</word>
+<word bottom="905" left="1789" right="1859" top="935">
+the</word>
+<word bottom="906" left="1898" right="1993" top="935">
+
+DBAs
+</word>
+<word bottom="905" left="2030" right="2177" top="935">
+needed</word>
+<word bottom="904" left="2216" right="2261" top="933">
+to</word>
+<word bottom="848" left="421" right="616" top="887">
+identify</word>
+<word bottom="848" left="652" right="904" top="887">
+mitigating</word>
+<word bottom="854" left="946" right="1138" top="884">
+features</word>
+<word bottom="854" left="1178" right="1249" top="883">
+has</word>
+<word bottom="853" left="1289" right="1388" top="883">
+been</word>
+<word bottom="847" left="1430" right="1669" top="884">
+completed.</word>
+<word bottom="855" left="1743" right="2090" top="887">
+Identification</word>
+<word bottom="854" left="2129" right="2174" top="885">
+of</word>
+<word bottom="854" left="2216" right="2263" top="876">
+an</word>
+<word bottom="804" left="422" right="589" top="836">
+initial</word>
+<word bottom="805" left="620" right="690" top="834">
+set</word>
+<word bottom="805" left="719" right="764" top="835">
+of</word>
+<word bottom="798" left="792" right="1041" top="837">
+mitigating</word>
+<word bottom="803" left="1070" right="1262" top="835">
+features</word>
+<word bottom="803" left="1294" right="1336" top="834">
+is</word>
+<word bottom="804" left="1367" right="1589" top="835">
+scheduled</word>
+<word bottom="804" left="1619" right="1690" top="836">
+for</word>
+<word bottom="805" left="1718" right="1790" top="835">
+the</word>
+<word bottom="804" left="1816" right="1908" top="833">
+
+ACD.
+</word>
+<word bottom="805" left="1967" right="2062" top="836">
+This</word>
+<word bottom="803" left="2093" right="2263" top="835">
+section</word>
+<word bottom="754" left="420" right="639" top="785">
+discusses</word>
+<word bottom="756" left="675" right="746" top="785">
+the</word>
+<word bottom="755" left="774" right="948" top="785">
+methods</word>
+<word bottom="748" left="979" right="1149" top="784">
+planned</word>
+<word bottom="754" left="1181" right="1252" top="784">
+for</word>
+<word bottom="747" left="1283" right="1552" top="787">
+identifying</word>
+<word bottom="755" left="1585" right="1656" top="784">
+and</word>
+<word bottom="748" left="1688" right="1983" top="787">
+establishing</word>
+<word bottom="755" left="2016" right="2086" top="784">
+the</word>
+<word bottom="746" left="2117" right="2263" top="785">
+design</word>
+<word bottom="697" left="420" right="714" top="736">
+requirements</word>
+<word bottom="706" left="754" right="799" top="736">
+of</word>
+<word bottom="705" left="841" right="1034" top="736">
+features</word>
+<word bottom="704" left="1072" right="1219" top="733">
+needed</word>
+<word bottom="703" left="1257" right="1302" top="733">
+to</word>
+<word bottom="696" left="1339" right="1512" top="734">
+prevent</word>
+<word bottom="705" left="1552" right="1599" top="727">
+or</word>
+<word bottom="698" left="1634" right="1834" top="737">
+mitigate</word>
+<word bottom="704" left="1873" right="2067" top="735">
+releases</word>
+<word bottom="704" left="2107" right="2152" top="733">
+to</word>
+<word bottom="704" left="2191" right="2262" top="733">
+the</word>
+<word bottom="654" left="421" right="665" top="686">
+accessible</word>
+<word bottom="655" left="694" right="984" top="688">
+environment.</word>
+<word bottom="554" left="421" right="588" top="584">
+
+6.2.2.2
+</word>
+<word bottom="555" left="641" right="814" top="585">
+Methods</word>
+<word bottom="555" left="846" right="916" top="586">
+for</word>
+<word bottom="549" left="945" right="1214" top="586">
+Identifying</word>
+<word bottom="549" left="1240" right="1487" top="586">
+Mitigating</word>
+<word bottom="554" left="1515" right="1711" top="583">
+Features</word>
+<word bottom="2750" left="1288" right="1432" top="2779">
+Events</word>
+<word bottom="2750" left="1465" right="1509" top="2782">
+in</word>
+<word bottom="2751" left="1537" right="1610" top="2780">
+the</word>
+<word bottom="2744" left="1638" right="1838" top="2783">
+Facility</word>
+<word bottom="2751" left="1865" right="1962" top="2781">
+That</word>
+<word bottom="2743" left="1989" right="2063" top="2779">
+May</word>
+<word bottom="2751" left="2089" right="2236" top="2781">
+Result</word>
+<word bottom="2701" left="1438" right="1536" top="2732">
+from</word>
+<word bottom="2702" left="1564" right="1635" top="2731">
+the</word>
+<word bottom="2698" left="1665" right="1911" top="2734">
+Initiating</word>
+<word bottom="2702" left="1941" right="2086" top="2731">
+Event*</word>
+<word bottom="2610" left="1293" right="1305" top="2622">
+
+•
+</word>
+<word bottom="2602" left="1363" right="1460" top="2632">
+Cask</word>
+<word bottom="2595" left="1487" right="1584" top="2631">
+drop</word>
+<word bottom="2602" left="1616" right="1662" top="2634">
+in</word>
+<word bottom="2596" left="1689" right="1913" top="2635">
+receiving</word>
+<word bottom="2595" left="1940" right="2013" top="2632">
+bay</word>
+<word bottom="2602" left="2041" right="2087" top="2624">
+or</word>
+<word bottom="2603" left="2116" right="2213" top="2632">
+cask</word>
+<word bottom="2545" left="1362" right="1637" top="2584">
+preparation</word>
+<word bottom="2553" left="1665" right="1763" top="2575">
+area</word>
+<word bottom="2159" left="1294" right="1306" top="2171">
+
+•
+</word>
+<word bottom="2151" left="1363" right="1458" top="2179">
+Loss</word>
+<word bottom="2151" left="1489" right="1533" top="2181">
+of</word>
+<word bottom="2151" left="1562" right="1661" top="2181">
+
+HVAC
+</word>
+<word bottom="2151" left="1692" right="1738" top="2183">
+in</word>
+<word bottom="2152" left="1767" right="1865" top="2181">
+such</word>
+<word bottom="2152" left="1895" right="2111" top="2183">
+locations</word>
+<word bottom="2151" left="2142" right="2186" top="2174">
+as</word>
+<word bottom="2094" left="1364" right="1504" top="2130">
+ducts,</word>
+<word bottom="2095" left="1539" right="1680" top="2131">
+vault,</word>
+<word bottom="2101" left="1716" right="1788" top="2132">
+and</word>
+<word bottom="2095" left="1818" right="1989" top="2130">
+storage</word>
+<word bottom="2101" left="2018" right="2136" top="2131">
+racks</word>
+<word bottom="2009" left="1295" right="1307" top="2020">
+
+•
+</word>
+<word bottom="2001" left="1364" right="1613" top="2032">
+Detonation</word>
+<word bottom="2001" left="1642" right="1686" top="2031">
+of</word>
+<word bottom="1995" left="1713" right="1864" top="2034">
+mining</word>
+<word bottom="1995" left="1893" right="2137" top="2033">
+explosives</word>
+<word bottom="1910" left="1295" right="1306" top="1922">
+
+•
+</word>
+<word bottom="1902" left="1363" right="1484" top="1934">
+Fires</word>
+<word bottom="1902" left="1517" right="1562" top="1934">
+in</word>
+<word bottom="1903" left="1591" right="1711" top="1925">
+areas</word>
+<word bottom="1897" left="1743" right="1989" top="1935">
+containing</word>
+<word bottom="1903" left="2018" right="2188" top="1933">
+combus-</word>
+<word bottom="1853" left="1415" right="1537" top="1885">
+tible</word>
+<word bottom="1854" left="1562" right="1787" top="1886">
+materials</word>
+<word bottom="1812" left="1364" right="1385" top="1817">
+
+-
+</word>
+<word bottom="1804" left="1415" right="1512" top="1836">
+fire</word>
+<word bottom="1805" left="1542" right="1588" top="1836">
+in</word>
+<word bottom="1798" left="1614" right="1963" top="1837">
+waste-handling</word>
+<word bottom="1798" left="1991" right="2206" top="1837">
+building,</word>
+<word bottom="1755" left="1413" right="1537" top="1783">
+waste</word>
+<word bottom="1755" left="1566" right="1789" top="1784">
+treatment</word>
+<word bottom="1748" left="1816" right="2032" top="1787">
+building,</word>
+<word bottom="1756" left="2068" right="2138" top="1785">
+and</word>
+<word bottom="1705" left="1413" right="1537" top="1734">
+waste</word>
+<word bottom="1699" left="1567" right="1839" top="1735">
+emplacement</word>
+<word bottom="1700" left="1868" right="1983" top="1728">
+area;</word>
+<word bottom="1663" left="1365" right="1387" top="1668">
+
+-
+</word>
+<word bottom="1655" left="1417" right="1513" top="1687">
+fire</word>
+<word bottom="1656" left="1543" right="1590" top="1687">
+in</word>
+<word bottom="1655" left="1618" right="1915" top="1687">
+contaminated</word>
+<word bottom="1654" left="1944" right="2015" top="1687">
+air</word>
+<word bottom="1655" left="2044" right="2213" top="1687">
+filtra-</word>
+<word bottom="1605" left="1416" right="1513" top="1637">
+tion</word>
+<word bottom="1598" left="1542" right="1707" top="1635">
+system;</word>
+<word bottom="1563" left="1365" right="1387" top="1568">
+
+-
+</word>
+<word bottom="1555" left="1415" right="1562" top="1587">
+diesel</word>
+<word bottom="1554" left="1592" right="1662" top="1587">
+oil</word>
+<word bottom="1549" left="1693" right="1808" top="1586">
+fire;</word>
+<word bottom="1554" left="1843" right="1914" top="1584">
+and</word>
+<word bottom="1513" left="1366" right="1387" top="1518">
+
+-
+</word>
+<word bottom="1497" left="1417" right="1689" top="1537">
+criticality</word>
+<word bottom="1497" left="1722" right="1982" top="1535">
+(possibly).</word>
+<word bottom="455" left="544" right="616" top="484">
+The</word>
+<word bottom="448" left="655" right="827" top="478">
+process</word>
+<word bottom="454" left="870" right="1116" top="486">
+envisioned</word>
+<word bottom="455" left="1157" right="1202" top="483">
+to</word>
+<word bottom="453" left="1243" right="1463" top="486">
+determine</word>
+<word bottom="454" left="1504" right="1575" top="483">
+the</word>
+<word bottom="447" left="1617" right="1764" top="486">
+design</word>
+<word bottom="453" left="1806" right="2000" top="484">
+features</word>
+<word bottom="447" left="2039" right="2263" top="476">
+necessary</word>
+<word bottom="405" left="422" right="493" top="435">
+for</word>
+<word bottom="405" left="534" right="604" top="435">
+the</word>
+<word bottom="398" left="642" right="893" top="436">
+prevention</word>
+<word bottom="405" left="933" right="980" top="427">
+or</word>
+<word bottom="398" left="1017" right="1265" top="437">
+mitigation</word>
+<word bottom="403" left="1305" right="1349" top="434">
+of</word>
+<word bottom="404" left="1392" right="1563" top="436">
+
+offsite
+</word>
+<word bottom="404" left="1605" right="1800" top="434">
+releases</word>
+<word bottom="403" left="1845" right="1887" top="435">
+is</word>
+<word bottom="403" left="1931" right="2174" top="435">
+summarized</word>
+<word bottom="404" left="2218" right="2263" top="436">
+in</word>
+<word bottom="349" left="419" right="566" top="388">
+Figure</word>
+<word bottom="357" left="600" right="688" top="386">
+
+6-3.
+</word>
+<word bottom="356" left="753" right="826" top="386">
+The</word>
+<word bottom="349" left="860" right="1081" top="388">
+objective</word>
+<word bottom="356" left="1117" right="1159" top="387">
+is</word>
+<word bottom="356" left="1194" right="1238" top="385">
+to</word>
+<word bottom="349" left="1274" right="1486" top="388">
+identify,</word>
+<word bottom="348" left="1523" right="1573" top="384">
+by</word>
+<word bottom="347" left="1604" right="1853" top="387">
+performing</word>
+<word bottom="348" left="1887" right="2080" top="384">
+analyses</word>
+<word bottom="355" left="2113" right="2157" top="385">
+of</word>
+<word bottom="355" left="2190" right="2261" top="385">
+all</word>
+</words>
+</ocrresult>
+

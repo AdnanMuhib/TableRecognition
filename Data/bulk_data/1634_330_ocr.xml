@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544012536.png" width="2560"/>
+<words>
+<word bottom="3079" left="1209" right="1276" top="3112">
+
+314
+</word>
+<word bottom="2899" left="296" right="437" top="2933">
+
+12.7.2
+</word>
+<word bottom="2894" left="490" right="863" top="2935">
+Fluid-dependent</word>
+<word bottom="2903" left="894" right="1116" top="2934">
+Corrosion</word>
+<word bottom="2896" left="1145" right="1392" top="2934">
+Properties</word>
+<word bottom="2900" left="1429" right="1542" top="2938">
+(Unit</word>
+<word bottom="2905" left="1572" right="1638" top="2936">
+No.</word>
+<word bottom="2901" left="1675" right="1739" top="2941">
+
+41)
+</word>
+<word bottom="2749" left="297" right="485" top="2783">
+
+12.7.2.1
+</word>
+<word bottom="2745" left="541" right="815" top="2783">
+Description</word>
+<word bottom="2601" left="442" right="588" top="2633">
+Please</word>
+<word bottom="2602" left="624" right="745" top="2634">
+refer</word>
+<word bottom="2602" left="781" right="825" top="2628">
+to</word>
+<word bottom="2602" left="860" right="1082" top="2633">
+Corrosion</word>
+<word bottom="2603" left="1113" right="1236" top="2635">
+Model</word>
+<word bottom="2603" left="1269" right="1542" top="2635">
+Performance</word>
+<word bottom="2597" left="1577" right="1922" top="2637">
+Specifications</word>
+<word bottom="2602" left="1963" right="2153" top="2641">
+(Section</word>
+<word bottom="2604" left="2188" right="2276" top="2641">
+
+6.1)
+</word>
+<word bottom="2527" left="296" right="363" top="2556">
+for</word>
+<word bottom="2519" left="391" right="682" top="2556">
+descriptions</word>
+<word bottom="2527" left="712" right="756" top="2556">
+of</word>
+<word bottom="2526" left="789" right="856" top="2556">
+the</word>
+<word bottom="2519" left="886" right="1247" top="2557">
+fluid-dependent</word>
+<word bottom="2526" left="1277" right="1495" top="2555">
+corrosion</word>
+<word bottom="2527" left="1522" right="1617" top="2556">
+data</word>
+<word bottom="2520" left="1645" right="1882" top="2556">
+variables,</word>
+<word bottom="2527" left="1915" right="1984" top="2557">
+and</word>
+<word bottom="2526" left="2017" right="2132" top="2556">
+their</word>
+<word bottom="2526" left="2161" right="2231" top="2547">
+use</word>
+<word bottom="2449" left="298" right="341" top="2478">
+in</word>
+<word bottom="2450" left="365" right="485" top="2480">
+model</word>
+<word bottom="2442" left="517" right="752" top="2479">
+equations.</word>
+<word bottom="2299" left="297" right="488" top="2333">
+
+12.7.2.2
+</word>
+<word bottom="2150" left="292" right="438" top="2182">
+Record</word>
+<word bottom="2301" left="543" right="765" top="2333">
+Variables</word>
+<word bottom="2151" left="543" right="714" top="2183">
+Columns</word>
+<word bottom="2151" left="845" right="991" top="2182">
+Format</word>
+<word bottom="2152" left="1070" right="1268" top="2185">
+Variable</word>
+<word bottom="2146" left="1372" right="1646" top="2184">
+Description</word>
+<word bottom="2156" left="2101" right="2222" top="2187">
+Units</word>
+<word bottom="2000" left="346" right="364" top="2031">
+
+1
+</word>
+<word bottom="2000" left="571" right="667" top="2032">
+
+1-80
+</word>
+<word bottom="2000" left="873" right="1019" top="2033">
+
+8F10.0
+</word>
+<word bottom="1993" left="1323" right="1596" top="2033">
+Temperature</word>
+<word bottom="2004" left="1624" right="1772" top="2036">
+values</word>
+<word bottom="2006" left="2131" right="2174" top="2040">
+
+°C
+</word>
+<word bottom="1850" left="346" right="364" top="1880">
+
+2
+</word>
+<word bottom="1849" left="571" right="667" top="1881">
+
+1-80
+</word>
+<word bottom="1850" left="873" right="1019" top="1883">
+
+8F10.0
+</word>
+<word bottom="1851" left="1073" right="1222" top="1883">
+
+SICORA
+</word>
+<word bottom="1853" left="1322" right="1444" top="1883">
+Anode</word>
+<word bottom="1853" left="1475" right="1697" top="1883">
+corrosion</word>
+<word bottom="1853" left="1728" right="1846" top="1880">
+rates</word>
+<word bottom="1847" left="2125" right="2223" top="1889">
+m/yr</word>
+<word bottom="1699" left="347" right="365" top="1732">
+
+3
+</word>
+<word bottom="1700" left="572" right="667" top="1732">
+
+1-80
+</word>
+<word bottom="1700" left="874" right="1019" top="1733">
+
+8F10.0
+</word>
+<word bottom="1694" left="1324" right="1621" top="1732">
+Temperatures</word>
+<word bottom="1706" left="2130" right="2172" top="1740">
+
+°C
+</word>
+<word bottom="1550" left="347" right="366" top="1581">
+
+4
+</word>
+<word bottom="1549" left="573" right="668" top="1582">
+
+1-80
+</word>
+<word bottom="1550" left="874" right="1020" top="1583">
+
+8F10.0
+</word>
+<word bottom="1552" left="1076" right="1221" top="1582">
+
+SPTRAT
+</word>
+<word bottom="1552" left="1324" right="1394" top="1583">
+Pit</word>
+<word bottom="1544" left="1425" right="1547" top="1584">
+depth</word>
+<word bottom="1552" left="1577" right="1799" top="1583">
+corrosion</word>
+<word bottom="1554" left="1827" right="1947" top="1579">
+rates</word>
+<word bottom="1546" left="2126" right="2223" top="1589">
+m/yr</word>
+<word bottom="1398" left="348" right="366" top="1430">
+
+5
+</word>
+<word bottom="1400" left="574" right="669" top="1431">
+
+1-80
+</word>
+<word bottom="1400" left="874" right="1020" top="1433">
+
+8F10.0
+</word>
+<word bottom="1393" left="1324" right="1622" top="1433">
+Temperatures</word>
+<word bottom="1405" left="2132" right="2174" top="1439">
+
+°C
+</word>
+<word bottom="1250" left="349" right="368" top="1282">
+
+6
+</word>
+<word bottom="1250" left="575" right="670" top="1283">
+
+1-80
+</word>
+<word bottom="1251" left="876" right="1022" top="1283">
+
+8F10.0
+</word>
+<word bottom="1252" left="1077" right="1222" top="1283">
+
+SAREAP
+</word>
+<word bottom="1245" left="1325" right="1497" top="1283">
+Average</word>
+<word bottom="1253" left="1527" right="1622" top="1275">
+area</word>
+<word bottom="1245" left="1652" right="1723" top="1276">
+per</word>
+<word bottom="1245" left="1752" right="1823" top="1284">
+pit</word>
+<word bottom="1256" left="2125" right="2151" top="1277">
+
+m
+</word>
+<word bottom="1281" left="2156" right="2173" top="1312">
+
+2
+</word>
+<word bottom="1100" left="350" right="367" top="1131">
+
+7
+</word>
+<word bottom="1100" left="575" right="671" top="1133">
+
+1-80
+</word>
+<word bottom="1101" left="876" right="1022" top="1134">
+
+8F10.0
+</word>
+<word bottom="1095" left="1325" right="1622" top="1133">
+Temperatures</word>
+<word bottom="1106" left="2132" right="2175" top="1140">
+
+°C
+</word>
+<word bottom="949" left="349" right="368" top="981">
+
+8
+</word>
+<word bottom="950" left="576" right="671" top="982">
+
+1-80
+</word>
+<word bottom="950" left="876" right="1023" top="983">
+
+8F10.0
+</word>
+<word bottom="952" left="1077" right="1148" top="982">
+
+SNO
+</word>
+<word bottom="944" left="1326" right="1498" top="982">
+Average</word>
+<word bottom="944" left="1526" right="1597" top="982">
+pit</word>
+<word bottom="945" left="1628" right="1799" top="984">
+density</word>
+<word bottom="956" left="2127" right="2151" top="977">
+
+m
+</word>
+<word bottom="981" left="2155" right="2200" top="1012">
+
+-2
+</word>
+<word bottom="799" left="351" right="370" top="831">
+
+9
+</word>
+<word bottom="800" left="578" right="672" top="832">
+
+1-80
+</word>
+<word bottom="801" left="878" right="1024" top="834">
+
+8F10.0
+</word>
+<word bottom="794" left="1327" right="1624" top="833">
+Temperatures</word>
+<word bottom="806" left="2133" right="2174" top="840">
+
+°C
+</word>
+<word bottom="650" left="327" right="373" top="682">
+
+10
+</word>
+<word bottom="651" left="578" right="673" top="683">
+
+1-80
+</word>
+<word bottom="651" left="879" right="1025" top="684">
+
+8F10.0
+</word>
+<word bottom="653" left="1079" right="1225" top="683">
+
+SCRVRT
+</word>
+<word bottom="653" left="1327" right="1499" top="684">
+Crevice</word>
+<word bottom="654" left="1530" right="1752" top="684">
+corrosion</word>
+<word bottom="655" left="1782" right="1875" top="680">
+rate</word>
+<word bottom="647" left="2127" right="2225" top="690">
+m/yr</word>
+<word bottom="500" left="329" right="373" top="532">
+
+11
+</word>
+<word bottom="501" left="580" right="674" top="534">
+
+1-80
+</word>
+<word bottom="502" left="879" right="1025" top="534">
+
+8F10.0
+</word>
+<word bottom="496" left="1328" right="1624" top="534">
+Temperatures</word>
+<word bottom="506" left="2134" right="2176" top="541">
+
+°C
+</word>
+</words>
+</ocrresult>
+

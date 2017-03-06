@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490745192.png" width="2544"/>
+<words>
+<word bottom="214" left="1380" right="1477" top="245">
+A-21</word>
+<word bottom="2924" left="538" right="688" top="2952">
+SANDIA</word>
+<word bottom="2925" left="718" right="818" top="2952">
+
+DPBM
+</word>
+<word bottom="2935" left="846" right="867" top="2941">
+
+-
+</word>
+<word bottom="2925" left="897" right="1048" top="2952">
+MASTER</word>
+<word bottom="2924" left="1075" right="1247" top="2951">
+
+DR,M
+
+qING
+</word>
+<word bottom="2923" left="1275" right="1372" top="2951">
+LIST</word>
+<word bottom="2929" left="1885" right="2010" top="2956">
+SHEET</word>
+<word bottom="2928" left="2035" right="2078" top="2958">
+
+19
+</word>
+<word bottom="2930" left="2113" right="2161" top="2957">
+OF</word>
+<word bottom="2927" left="2215" right="2260" top="2957">
+
+28
+</word>
+<word bottom="2837" left="538" right="740" top="2864">
+ASSEMBLY</word>
+<word bottom="2837" left="769" right="916" top="2863">
+TITLE:</word>
+<word bottom="2807" left="1019" right="1116" top="2835">
+MUCK</word>
+<word bottom="2808" left="1144" right="1242" top="2835">
+TUBE</word>
+<word bottom="2817" left="1272" right="1292" top="2824">
+
+-
+</word>
+<word bottom="2808" left="1321" right="1473" top="2835">
+DRIVER</word>
+<word bottom="2763" left="541" right="714" top="2789">
+DRAWING</word>
+<word bottom="2762" left="744" right="813" top="2789">
+NO:</word>
+<word bottom="2765" left="917" right="1065" top="2792">
+
+D36662
+</word>
+<word bottom="2677" left="542" right="717" top="2704">
+DRAWING</word>
+<word bottom="2678" left="745" right="813" top="2704">
+NO.</word>
+<word bottom="2667" left="1005" right="1077" top="2692">
+REV</word>
+<word bottom="2642" left="1379" right="1504" top="2669">
+TITLE</word>
+<word bottom="2663" left="2093" right="2266" top="2691">
+RELEASE</word>
+<word bottom="2604" left="496" right="513" top="2632">
+
+1
+</word>
+<word bottom="2583" left="546" right="790" top="2657">
+
+2131415161
+</word>
+<word bottom="2625" left="2145" right="2241" top="2651">
+DATE</word>
+<word bottom="2506" left="531" right="680" top="2535">
+
+D36662
+</word>
+<word bottom="2508" left="1124" right="1222" top="2534">
+MUCK</word>
+<word bottom="2506" left="1249" right="1346" top="2534">
+TUBE</word>
+<word bottom="2516" left="1377" right="1399" top="2522">
+
+-
+</word>
+<word bottom="2507" left="1428" right="1583" top="2534">
+DRIVER</word>
+<word bottom="2509" left="2097" right="2294" top="2538">
+
+10.25.85
+</word>
+<word bottom="2419" left="584" right="735" top="2449">
+8
+36114
+</word>
+<word bottom="2422" left="1124" right="1272" top="2448">
+FLANGE</word>
+<word bottom="2429" left="1301" right="1323" top="2437">
+
+-
+</word>
+<word bottom="2421" left="1350" right="1504" top="2448">
+FEMALE</word>
+<word bottom="2423" left="2098" right="2296" top="2452">
+
+10.25.85
+</word>
+<word bottom="2333" left="585" right="735" top="2361">
+
+836115
+</word>
+<word bottom="2334" left="1127" right="1273" top="2362">
+FLANGE</word>
+<word bottom="2343" left="1303" right="1325" top="2350">
+
+-
+</word>
+<word bottom="2335" left="1352" right="1454" top="2361">
+MALE</word>
+<word bottom="2337" left="2099" right="2297" top="2365">
+
+10.25.85
+</word>
+<word bottom="2247" left="584" right="736" top="2275">
+
+A36109
+</word>
+<word bottom="2248" left="1125" right="1250" top="2275">
+WHEEL</word>
+<word bottom="2247" left="1277" right="1454" top="2275">
+BRACKET</word>
+<word bottom="2250" left="2101" right="2298" top="2279">
+
+10.25.85
+</word>
+<word bottom="2160" left="586" right="739" top="2189">
+
+A36108
+</word>
+<word bottom="2162" left="1126" right="1251" top="2189">
+WHEEL</word>
+<word bottom="2164" left="2101" right="2299" top="2194">
+
+10.25.85
+</word>
+<word bottom="2074" left="589" right="739" top="2103">
+8
+36137
+</word>
+<word bottom="2076" left="1129" right="1252" top="2103">
+CABLE</word>
+<word bottom="2075" left="1280" right="1457" top="2103">
+SUPPORT</word>
+<word bottom="2076" left="1485" right="1664" top="2104">
+BRACKET</word>
+<word bottom="2078" left="2103" right="2301" top="2107">
+
+10.25.85
+</word>
+<word bottom="1988" left="589" right="741" top="2017">
+
+D36664
+</word>
+<word bottom="1990" left="1131" right="1251" top="2017">
+DRIVE</word>
+<word bottom="1989" left="1282" right="1406" top="2016">
+PLATE</word>
+<word bottom="1992" left="2104" right="2301" top="2021">
+
+10.25.85
+</word>
+<word bottom="459" left="649" right="654" top="474">
+I</word>
+<word bottom="396" left="527" right="727" top="425">
+COMPILED</word>
+<word bottom="397" left="756" right="824" top="424">
+BY:</word>
+<word bottom="411" left="1523" right="1642" top="439">
+DATE:</word>
+<word bottom="409" left="1778" right="1844" top="435">
+NO.</word>
+<word bottom="412" left="2235" right="2309" top="439">
+REV</word>
+<word bottom="354" left="939" right="1061" top="381">
+Peter</word>
+<word bottom="355" left="1091" right="1131" top="379">
+
+8:
+</word>
+<word bottom="352" left="1166" right="1313" top="381">
+
+Dowden
+</word>
+<word bottom="354" left="1535" right="1700" top="383">
+
+10.25.85
+</word>
+<word bottom="354" left="1872" right="1997" top="382">
+
+A35926
+</word>
+<word bottom="368" left="2252" right="2273" top="374">
+
+-
+</word>
+</words>
+</ocrresult>
+

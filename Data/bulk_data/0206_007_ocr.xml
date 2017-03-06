@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490503805.png" width="2544"/>
+<words>
+<word bottom="3221" left="1105" right="1408" top="3255">
+CONSULTATION</word>
+<word bottom="3221" left="1437" right="1561" top="3254">
+DRAFT</word>
+<word bottom="2969" left="1105" right="1230" top="3003">
+TABLE</word>
+<word bottom="2969" left="1258" right="1306" top="3003">
+OF</word>
+<word bottom="2969" left="1335" right="1535" top="3003">
+CONTENTS</word>
+<word bottom="2868" left="1206" right="1358" top="2903">
+VOLUME</word>
+<word bottom="2868" left="1387" right="1459" top="2902">
+III</word>
+<word bottom="2754" left="2198" right="2298" top="2799">
+Page</word>
+<word bottom="2664" left="347" right="521" top="2699">
+CHAPTER</word>
+<word bottom="2665" left="550" right="571" top="2698">
+
+6
+</word>
+<word bottom="2665" left="625" right="875" top="2699">
+CONCEPTUAL</word>
+<word bottom="2666" left="903" right="1053" top="2700">
+DESIGN</word>
+<word bottom="2667" left="1082" right="1128" top="2700">
+OF</word>
+<word bottom="2667" left="1155" right="1179" top="2700">
+A</word>
+<word bottom="2666" left="1206" right="1461" top="2701">
+REPOSITORY</word>
+<word bottom="2664" left="2176" right="2220" top="2697">
+
+6-
+</word>
+<word bottom="2664" left="2277" right="2295" top="2696">
+
+1
+</word>
+<word bottom="2613" left="348" right="648" top="2649">
+INTRODUCTION</word>
+<word bottom="2614" left="2175" right="2221" top="2647">
+
+6-
+</word>
+<word bottom="2613" left="2277" right="2295" top="2646">
+
+1
+</word>
+<word bottom="2563" left="349" right="419" top="2596">
+
+6.1
+</word>
+<word bottom="2555" left="474" right="624" top="2597">
+Design</word>
+<word bottom="2564" left="651" right="773" top="2599">
+basis</word>
+<word bottom="2564" left="2176" right="2220" top="2596">
+
+6-
+</word>
+<word bottom="2563" left="2276" right="2297" top="2596">
+
+6
+</word>
+<word bottom="2512" left="399" right="520" top="2545">
+
+6.1.1
+</word>
+<word bottom="2505" left="575" right="824" top="2547">
+Repository</word>
+<word bottom="2505" left="854" right="1002" top="2549">
+design</word>
+<word bottom="2506" left="1031" right="1331" top="2545">
+requirements</word>
+<word bottom="2512" left="2175" right="2221" top="2545">
+
+6-
+</word>
+<word bottom="2512" left="2276" right="2298" top="2545">
+
+6
+</word>
+<word bottom="2462" left="451" right="621" top="2495">
+
+6.1.1.1
+</word>
+<word bottom="2454" left="675" right="798" top="2498">
+Legal</word>
+<word bottom="2454" left="828" right="1128" top="2497">
+requirements</word>
+<word bottom="2462" left="2176" right="2220" top="2495">
+
+6-
+</word>
+<word bottom="2462" left="2276" right="2298" top="2495">
+
+6
+</word>
+<word bottom="2411" left="451" right="624" top="2445">
+
+6.1.1.2
+</word>
+<word bottom="2403" left="677" right="927" top="2447">
+Department</word>
+<word bottom="2413" left="954" right="999" top="2448">
+of</word>
+<word bottom="2405" left="1029" right="1179" top="2447">
+Energy</word>
+<word bottom="2413" left="1209" right="1458" top="2449">
+functional</word>
+<word bottom="2405" left="1489" right="1789" top="2447">
+requirements</word>
+<word bottom="2411" left="2176" right="2221" top="2444">
+
+6-
+</word>
+<word bottom="2411" left="2275" right="2298" top="2444">
+
+8
+</word>
+<word bottom="2361" left="451" right="624" top="2394">
+
+6.1.1.3
+</word>
+<word bottom="2362" left="676" right="801" top="2397">
+Mined</word>
+<word bottom="2354" left="828" right="1029" top="2397">
+geologic</word>
+<word bottom="2355" left="1056" right="1254" top="2398">
+disposal</word>
+<word bottom="2354" left="1286" right="1435" top="2393">
+system</word>
+<word bottom="2363" left="1464" right="1536" top="2398">
+for</word>
+<word bottom="2363" left="1563" right="1687" top="2393">
+waste</word>
+<word bottom="2361" left="2176" right="2220" top="2394">
+
+6-
+</word>
+<word bottom="2361" left="2253" right="2298" top="2395">
+
+17
+</word>
+<word bottom="2311" left="502" right="722" top="2345">
+
+6.1.1.3.1
+</word>
+<word bottom="2312" left="778" right="875" top="2346">
+Site</word>
+<word bottom="2310" left="2176" right="2221" top="2343">
+
+6-
+</word>
+<word bottom="2310" left="2250" right="2298" top="2343">
+
+25
+</word>
+<word bottom="2261" left="502" right="725" top="2295">
+
+6.1.1.3.2
+</word>
+<word bottom="2253" left="777" right="1028" top="2296">
+Repository</word>
+<word bottom="2260" left="2175" right="2221" top="2293">
+
+6-
+</word>
+<word bottom="2260" left="2250" right="2298" top="2293">
+
+25
+</word>
+<word bottom="2211" left="500" right="723" top="2244">
+
+6.1.1.3.3
+</word>
+<word bottom="2211" left="777" right="900" top="2245">
+Waste</word>
+<word bottom="2203" left="929" right="1103" top="2247">
+package</word>
+<word bottom="2210" left="2175" right="2220" top="2242">
+
+6-
+</word>
+<word bottom="2210" left="2249" right="2297" top="2243">
+
+26
+</word>
+<word bottom="2161" left="450" right="623" top="2193">
+
+6.1.1.4
+</word>
+<word bottom="2161" left="674" right="825" top="2196">
+Public</word>
+<word bottom="2152" left="854" right="1002" top="2196">
+safety</word>
+<word bottom="2161" left="1032" right="1382" top="2197">
+considerations</word>
+<word bottom="2159" left="2175" right="2220" top="2192">
+
+6-
+</word>
+<word bottom="2159" left="2249" right="2296" top="2193">
+
+27
+</word>
+<word bottom="2110" left="500" right="721" top="2144">
+
+6.1.1.4.1
+</word>
+<word bottom="2102" left="776" right="1077" top="2146">
+Radiological</word>
+<word bottom="2103" left="1107" right="1358" top="2144">
+protection</word>
+<word bottom="2103" left="1386" right="1536" top="2145">
+design</word>
+<word bottom="2102" left="1565" right="1864" top="2145">
+requirements</word>
+<word bottom="2109" left="2175" right="2220" top="2142">
+
+6-
+</word>
+<word bottom="2109" left="2249" right="2297" top="2142">
+
+28
+</word>
+<word bottom="2060" left="500" right="724" top="2093">
+
+6.1.1.4.2
+</word>
+<word bottom="2051" left="776" right="928" top="2094">
+Design</word>
+<word bottom="2060" left="956" right="1331" top="2095">
+classifications</word>
+<word bottom="2059" left="2175" right="2220" top="2091">
+
+6-
+</word>
+<word bottom="2058" left="2249" right="2297" top="2091">
+
+28
+</word>
+<word bottom="2009" left="500" right="724" top="2043">
+
+6.1.1.4.3
+</word>
+<word bottom="2001" left="778" right="926" top="2044">
+Safety</word>
+<word bottom="2001" left="955" right="1105" top="2044">
+design</word>
+<word bottom="2010" left="1133" right="1484" top="2044">
+considerations</word>
+<word bottom="2008" left="2175" right="2219" top="2040">
+
+6-
+</word>
+<word bottom="2008" left="2249" right="2297" top="2041">
+
+28
+</word>
+<word bottom="1959" left="449" right="623" top="1992">
+
+6.1.1.5
+</word>
+<word bottom="1959" left="677" right="773" top="1994">
+Site</word>
+<word bottom="1959" left="806" right="1078" top="1998">
+constraints</word>
+<word bottom="1958" left="2175" right="2219" top="1990">
+
+6-
+</word>
+<word bottom="1957" left="2249" right="2296" top="1990">
+
+29
+</word>
+<word bottom="1908" left="449" right="623" top="1942">
+
+6.1.1.6
+</word>
+<word bottom="1899" left="678" right="926" top="1943">
+Operations</word>
+<word bottom="1901" left="956" right="1205" top="1944">
+scheduling</word>
+<word bottom="1907" left="2175" right="2219" top="1940">
+
+6-
+</word>
+<word bottom="1907" left="2249" right="2295" top="1940">
+
+29
+</word>
+<word bottom="1858" left="499" right="722" top="1891">
+
+6.1.1.6.1
+</word>
+<word bottom="1858" left="779" right="1079" top="1892">
+Construction</word>
+<word bottom="1859" left="1109" right="1306" top="1894">
+schedule</word>
+<word bottom="1856" left="2174" right="2219" top="1889">
+
+6-
+</word>
+<word bottom="1856" left="2249" right="2294" top="1889">
+
+31
+</word>
+<word bottom="1807" left="500" right="725" top="1841">
+
+6.1.1.6.2
+</word>
+<word bottom="1808" left="777" right="901" top="1841">
+Waste</word>
+<word bottom="1800" left="931" right="1130" top="1843">
+handling</word>
+<word bottom="1809" left="1159" right="1231" top="1843">
+and</word>
+<word bottom="1799" left="1259" right="1458" top="1843">
+disposal</word>
+<word bottom="1808" left="1490" right="1687" top="1843">
+schedule</word>
+<word bottom="1805" left="2174" right="2219" top="1839">
+
+6-
+</word>
+<word bottom="1805" left="2249" right="2294" top="1839">
+
+31
+</word>
+<word bottom="1757" left="501" right="725" top="1790">
+
+6.1.1.6.3
+</word>
+<word bottom="1758" left="779" right="1003" top="1792">
+Caretaker</word>
+<word bottom="1758" left="1032" right="1106" top="1793">
+and</word>
+<word bottom="1758" left="1134" right="1306" top="1793">
+closure</word>
+<word bottom="1757" left="1337" right="1535" top="1793">
+schedule</word>
+<word bottom="1755" left="2174" right="2219" top="1788">
+
+6-
+</word>
+<word bottom="1755" left="2249" right="2294" top="1788">
+
+31
+</word>
+<word bottom="1707" left="501" right="726" top="1740">
+
+6.1.1.6.4
+</word>
+<word bottom="1707" left="777" right="902" top="1741">
+Waste</word>
+<word bottom="1707" left="931" right="1154" top="1743">
+retrieval</word>
+<word bottom="1707" left="1185" right="1382" top="1743">
+schedule</word>
+<word bottom="1705" left="2175" right="2219" top="1738">
+
+6-
+</word>
+<word bottom="1705" left="2249" right="2297" top="1738">
+
+33
+</word>
+<word bottom="1657" left="451" right="623" top="1690">
+
+6.1.1.7
+</word>
+<word bottom="1648" left="677" right="1232" top="1693">
+Retrievability-related</word>
+<word bottom="1648" left="1259" right="1409" top="1692">
+design</word>
+<word bottom="1657" left="1439" right="1640" top="1690">
+criteria</word>
+<word bottom="1655" left="2174" right="2219" top="1687">
+
+6-
+</word>
+<word bottom="1655" left="2249" right="2297" top="1687">
+
+33
+</word>
+<word bottom="1606" left="450" right="622" top="1639">
+
+6.1.1.8
+</word>
+<word bottom="1606" left="676" right="799" top="1641">
+Waste</word>
+<word bottom="1606" left="830" right="1105" top="1640">
+containment</word>
+<word bottom="1607" left="1133" right="1205" top="1642">
+and</word>
+<word bottom="1606" left="1236" right="1663" top="1641">
+isolation-related</word>
+<word bottom="1547" left="677" right="826" top="1590">
+design</word>
+<word bottom="1556" left="856" right="1055" top="1589">
+criteria</word>
+<word bottom="1553" left="2174" right="2218" top="1586">
+
+6-
+</word>
+<word bottom="1553" left="2248" right="2296" top="1586">
+
+34
+</word>
+<word bottom="1505" left="400" right="522" top="1538">
+
+6.1.2
+</word>
+<word bottom="1505" left="575" right="799" top="1540">
+Reference</word>
+<word bottom="1496" left="829" right="979" top="1540">
+design</word>
+<word bottom="1505" left="1006" right="1106" top="1540">
+data</word>
+<word bottom="1506" left="1133" right="1229" top="1540">
+base</word>
+<word bottom="1503" left="2173" right="2219" top="1535">
+
+6-
+</word>
+<word bottom="1503" left="2248" right="2296" top="1536">
+
+36
+</word>
+<word bottom="1454" left="451" right="621" top="1487">
+
+6.1.2.1
+</word>
+<word bottom="1454" left="678" right="774" top="1489">
+Site</word>
+<word bottom="1445" left="804" right="978" top="1489">
+geology</word>
+<word bottom="1452" left="2174" right="2219" top="1485">
+
+6-
+</word>
+<word bottom="1452" left="2248" right="2295" top="1486">
+
+37
+</word>
+<word bottom="1404" left="502" right="722" top="1437">
+
+6.1.2.1.1
+</word>
+<word bottom="1395" left="778" right="1028" top="1438">
+Topography</word>
+<word bottom="1405" left="1059" right="1129" top="1439">
+and</word>
+<word bottom="1404" left="1159" right="1332" top="1435">
+terrain</word>
+<word bottom="1402" left="2174" right="2219" top="1434">
+
+6-
+</word>
+<word bottom="1402" left="2248" right="2295" top="1435">
+
+37
+</word>
+<word bottom="1353" left="502" right="725" top="1386">
+
+6.1.2.1.2
+</word>
+<word bottom="1353" left="778" right="877" top="1387">
+Near</word>
+<word bottom="1353" left="907" right="1078" top="1388">
+surface</word>
+<word bottom="1354" left="1110" right="1204" top="1388">
+soil</word>
+<word bottom="1354" left="1235" right="1307" top="1388">
+and</word>
+<word bottom="1353" left="1336" right="1434" top="1388">
+rock</word>
+<word bottom="1351" left="2174" right="2218" top="1384">
+
+6-
+</word>
+<word bottom="1351" left="2248" right="2296" top="1384">
+
+40
+</word>
+<word bottom="1303" left="502" right="725" top="1336">
+
+6.1.2.1.3
+</word>
+<word bottom="1294" left="779" right="1079" top="1338">
+
+Stratigraphy
+</word>
+<word bottom="1304" left="1110" right="1180" top="1338">
+and</word>
+<word bottom="1294" left="1211" right="1432" top="1338">
+
+lithology
+</word>
+<word bottom="1301" left="2174" right="2218" top="1333">
+
+6-
+</word>
+<word bottom="1301" left="2248" right="2296" top="1333">
+
+40
+</word>
+<word bottom="1252" left="502" right="726" top="1285">
+
+6.1.2.1.4
+</word>
+<word bottom="1252" left="779" right="1002" top="1286">
+Structure</word>
+<word bottom="1250" left="2174" right="2218" top="1282">
+
+6-
+</word>
+<word bottom="1250" left="2248" right="2296" top="1282">
+
+44
+</word>
+<word bottom="1202" left="502" right="725" top="1235">
+
+6.1.2.1.5
+</word>
+<word bottom="1202" left="778" right="1204" top="1237">
+Three-dimensional</word>
+<word bottom="1192" left="1234" right="1686" top="1237">
+thermal/mechanical</word>
+<word bottom="1142" left="781" right="1078" top="1185">
+
+stratigraphy
+</word>
+<word bottom="1152" left="1108" right="1229" top="1186">
+model</word>
+<word bottom="1149" left="2174" right="2218" top="1181">
+
+6-
+</word>
+<word bottom="1149" left="2248" right="2296" top="1181">
+
+44
+</word>
+<word bottom="1101" left="451" right="624" top="1133">
+
+6.1.2.2
+</word>
+<word bottom="1100" left="679" right="726" top="1135">
+In</word>
+<word bottom="1100" left="756" right="853" top="1133">
+situ</word>
+<word bottom="1100" left="882" right="1129" top="1135">
+conditions</word>
+<word bottom="1098" left="2174" right="2218" top="1130">
+
+6-
+</word>
+<word bottom="1098" left="2248" right="2296" top="1130">
+
+44
+</word>
+<word bottom="1050" left="501" right="722" top="1083">
+
+6.1.2.2.1
+</word>
+<word bottom="1041" left="779" right="1052" top="1083">
+Temperature</word>
+<word bottom="1047" left="2172" right="2217" top="1079">
+
+6-
+</word>
+<word bottom="1047" left="2247" right="2294" top="1079">
+
+46
+</word>
+<word bottom="999" left="501" right="724" top="1032">
+
+6.1.2.2.2
+</word>
+<word bottom="999" left="779" right="925" top="1032">
+Stress</word>
+<word bottom="997" left="2173" right="2217" top="1029">
+
+6-
+</word>
+<word bottom="996" left="2247" right="2294" top="1029">
+
+46
+</word>
+<word bottom="949" left="450" right="623" top="982">
+
+6.1.2.3
+</word>
+<word bottom="948" left="678" right="976" top="983">
+
+Geotechnical
+</word>
+<word bottom="949" left="1006" right="1106" top="983">
+data</word>
+<word bottom="946" left="2173" right="2217" top="978">
+
+6-
+</word>
+<word bottom="946" left="2247" right="2294" top="979">
+
+47
+</word>
+<word bottom="898" left="501" right="722" top="931">
+
+6.1.2.3.1
+</word>
+<word bottom="889" left="777" right="976" top="932">
+Physical</word>
+<word bottom="889" left="1007" right="1254" top="932">
+properties</word>
+<word bottom="895" left="2173" right="2217" top="927">
+
+6-
+</word>
+<word bottom="895" left="2248" right="2295" top="927">
+
+54
+</word>
+<word bottom="847" left="501" right="724" top="880">
+
+6.1.2.3.2
+</word>
+<word bottom="839" left="777" right="1104" top="882">
+
+Deformability
+</word>
+<word bottom="839" left="1133" right="1380" top="880">
+properties</word>
+<word bottom="845" left="2172" right="2217" top="877">
+
+6-
+</word>
+<word bottom="845" left="2247" right="2294" top="877">
+
+55
+</word>
+<word bottom="797" left="501" right="724" top="830">
+
+6.1.2.3.3
+</word>
+<word bottom="788" left="778" right="978" top="831">
+Strength</word>
+<word bottom="788" left="1006" right="1254" top="830">
+properties</word>
+<word bottom="794" left="2172" right="2217" top="826">
+
+6-
+</word>
+<word bottom="794" left="2247" right="2294" top="827">
+
+56
+</word>
+<word bottom="747" left="501" right="724" top="779">
+
+6.1.2.3.4
+</word>
+<word bottom="747" left="779" right="1002" top="779">
+Geometric</word>
+<word bottom="746" left="1033" right="1407" top="781">
+characteristics</word>
+<word bottom="747" left="1437" right="1482" top="781">
+of</word>
+<word bottom="745" left="1513" right="1887" top="781">
+discontinuities</word>
+<word bottom="744" left="2172" right="2217" top="776">
+
+6-
+</word>
+<word bottom="744" left="2248" right="2293" top="776">
+
+59
+</word>
+<word bottom="697" left="450" right="623" top="729">
+
+6.1.2.4
+</word>
+<word bottom="696" left="676" right="849" top="730">
+Thermal</word>
+<word bottom="687" left="879" right="1128" top="729">
+properties</word>
+<word bottom="694" left="2172" right="2217" top="725">
+
+6-
+</word>
+<word bottom="694" left="2249" right="2295" top="726">
+
+60
+</word>
+<word bottom="646" left="501" right="721" top="679">
+
+6.1.2.4.1
+</word>
+<word bottom="646" left="777" right="950" top="680">
+Thermal</word>
+<word bottom="637" left="982" right="1205" top="679">
+expansion</word>
+<word bottom="645" left="1235" right="1509" top="679">
+coefficient</word>
+<word bottom="643" left="2172" right="2216" top="675">
+
+6-
+</word>
+<word bottom="643" left="2248" right="2295" top="675">
+
+60
+</word>
+<word bottom="595" left="500" right="723" top="628">
+
+6.1.2.4.2
+</word>
+<word bottom="595" left="777" right="950" top="629">
+Thermal</word>
+<word bottom="587" left="982" right="1280" top="629">
+conductivity</word>
+<word bottom="592" left="2172" right="2216" top="624">
+
+6-
+</word>
+<word bottom="592" left="2248" right="2293" top="624">
+
+65
+</word>
+<word bottom="545" left="500" right="723" top="578">
+
+6.1.2.4.3
+</word>
+<word bottom="545" left="777" right="949" top="579">
+Thermal</word>
+<word bottom="536" left="982" right="1253" top="578">
+capacitance</word>
+<word bottom="542" left="2172" right="2216" top="574">
+
+6-
+</word>
+<word bottom="542" left="2247" right="2293" top="574">
+
+65
+</word>
+<word bottom="495" left="449" right="622" top="528">
+
+6.1.2.5
+</word>
+<word bottom="485" left="676" right="927" top="529">
+Hydrologic</word>
+<word bottom="494" left="956" right="1304" top="528">
+considerations</word>
+<word bottom="491" left="2172" right="2215" top="523">
+
+6-
+</word>
+<word bottom="491" left="2247" right="2292" top="524">
+
+66
+</word>
+<word bottom="444" left="499" right="720" top="477">
+
+6.1.2.5.1
+</word>
+<word bottom="444" left="777" right="948" top="478">
+Surface</word>
+<word bottom="444" left="978" right="1102" top="474">
+water</word>
+<word bottom="441" left="2171" right="2215" top="473">
+
+6-
+</word>
+<word bottom="441" left="2246" right="2291" top="473">
+
+66
+</word>
+<word bottom="394" left="499" right="722" top="427">
+
+6.1.2.5.2
+</word>
+<word bottom="393" left="777" right="925" top="428">
+Ground</word>
+<word bottom="394" left="952" right="1076" top="423">
+water</word>
+<word bottom="391" left="2171" right="2215" top="423">
+
+6-
+</word>
+<word bottom="391" left="2246" right="2291" top="423">
+
+66
+</word>
+<word bottom="344" left="448" right="620" top="377">
+
+6.1.2.6
+</word>
+<word bottom="343" left="674" right="799" top="378">
+Flood</word>
+<word bottom="343" left="828" right="1202" top="377">
+characteristics</word>
+<word bottom="340" left="2170" right="2214" top="372">
+
+6-
+</word>
+<word bottom="341" left="2246" right="2291" top="373">
+
+68
+</word>
+</words>
+</ocrresult>
+

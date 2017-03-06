@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543932832.png" width="2560"/>
+<words>
+<word bottom="583" left="309" right="360" top="612">
+Fig.</word>
+<word bottom="588" left="373" right="388" top="612">
+
+5
+</word>
+<word bottom="586" left="550" right="571" top="609">
+
+0
+</word>
+<word bottom="604" left="871" right="892" top="627">
+
+0
+</word>
+<word bottom="741" left="885" right="906" top="763">
+
+0
+</word>
+<word bottom="2236" left="293" right="383" top="2267">
+Blast</word>
+<word bottom="2229" left="400" right="563" top="2267">
+planning</word>
+<word bottom="2190" left="297" right="321" top="2220">
+
+lt
+</word>
+<word bottom="2191" left="340" right="362" top="2213">
+is</word>
+<word bottom="2190" left="382" right="442" top="2215">
+not</word>
+<word bottom="2190" left="460" right="604" top="2221">
+unusual</word>
+<word bottom="2190" left="621" right="675" top="2222">
+for</word>
+<word bottom="2191" left="693" right="812" top="2221">
+tunnel</word>
+<word bottom="2189" left="828" right="1063" top="2218">
+constructors</word>
+<word bottom="2191" left="1080" right="1117" top="2217">
+to</word>
+<word bottom="2191" left="1135" right="1194" top="2223">
+fail</word>
+<word bottom="2191" left="1213" right="1250" top="2218">
+to</word>
+<word bottom="2143" left="293" right="451" top="2174">
+consider</word>
+<word bottom="2144" left="468" right="526" top="2174">
+the</word>
+<word bottom="2144" left="542" right="668" top="2176">
+effects</word>
+<word bottom="2145" left="684" right="720" top="2176">
+of</word>
+<word bottom="2145" left="739" right="795" top="2175">
+the</word>
+<word bottom="2137" left="812" right="950" top="2175">
+charges</word>
+<word bottom="2145" left="967" right="997" top="2177">
+in</word>
+<word bottom="2145" left="1015" right="1072" top="2177">
+the</word>
+<word bottom="2145" left="1089" right="1179" top="2168">
+rows</word>
+<word bottom="2092" left="294" right="451" top="2129">
+adjacent</word>
+<word bottom="2098" left="469" right="505" top="2123">
+to</word>
+<word bottom="2098" left="523" right="580" top="2129">
+the</word>
+<word bottom="2098" left="596" right="696" top="2130">
+often</word>
+<word bottom="2093" left="714" right="952" top="2129">
+well-planned</word>
+<word bottom="2098" left="970" right="1109" top="2130">
+smooth</word>
+<word bottom="2098" left="1128" right="1263" top="2131">
+blasted</word>
+<word bottom="2051" left="294" right="442" top="2077">
+contour</word>
+<word bottom="2053" left="459" right="540" top="2074">
+row.</word>
+<word bottom="2044" left="560" right="726" top="2084">
+Charging</word>
+<word bottom="2052" left="743" right="801" top="2083">
+the</word>
+<word bottom="2046" left="817" right="975" top="2084">
+adjacent</word>
+<word bottom="2052" left="990" right="1077" top="2075">
+rows</word>
+<word bottom="2053" left="1091" right="1176" top="2084">
+with</word>
+<word bottom="2052" left="1194" right="1212" top="2075">
+a</word>
+<word bottom="2000" left="295" right="401" top="2037">
+heavy</word>
+<word bottom="1999" left="418" right="539" top="2037">
+charge</word>
+<word bottom="2006" left="554" right="675" top="2037">
+results</word>
+<word bottom="2006" left="694" right="724" top="2037">
+in</word>
+<word bottom="2006" left="742" right="858" top="2037">
+cracks</word>
+<word bottom="1999" left="874" right="1052" top="2039">
+spreading</word>
+<word bottom="2007" left="1068" right="1205" top="2041">
+further</word>
+<word bottom="1961" left="295" right="367" top="1991">
+into</word>
+<word bottom="1960" left="384" right="443" top="1990">
+the</word>
+<word bottom="1953" left="460" right="646" top="1991">
+remaining</word>
+<word bottom="1961" left="664" right="746" top="1991">
+rock</word>
+<word bottom="1961" left="764" right="844" top="1992">
+than</word>
+<word bottom="1961" left="862" right="952" top="1993">
+from</word>
+<word bottom="1961" left="970" right="1027" top="1993">
+the</word>
+<word bottom="1961" left="1043" right="1187" top="1992">
+smooth</word>
+<word bottom="1914" left="293" right="425" top="1946">
+blasted</word>
+<word bottom="1915" left="442" right="525" top="1937">
+row.</word>
+<word bottom="1914" left="546" right="571" top="1946">
+It</word>
+<word bottom="1915" left="591" right="614" top="1946">
+is</word>
+<word bottom="1915" left="630" right="743" top="1947">
+better</word>
+<word bottom="1916" left="760" right="796" top="1941">
+to</word>
+<word bottom="1910" left="812" right="978" top="1947">
+optimize</word>
+<word bottom="1916" left="995" right="1053" top="1947">
+the</word>
+<word bottom="1908" left="1068" right="1192" top="1947">
+charge</word>
+<word bottom="1869" left="293" right="516" top="1901">
+calculations</word>
+<word bottom="1868" left="534" right="616" top="1901">
+such</word>
+<word bottom="1870" left="634" right="708" top="1901">
+that</word>
+<word bottom="1870" left="726" right="783" top="1900">
+the</word>
+<word bottom="1862" left="799" right="939" top="1901">
+damage</word>
+<word bottom="1869" left="956" right="1043" top="1892">
+zone</word>
+<word bottom="1869" left="1059" right="1151" top="1901">
+from</word>
+<word bottom="1862" left="1168" right="1237" top="1892">
+any</word>
+<word bottom="1823" left="293" right="370" top="1854">
+hole</word>
+<word bottom="1824" left="389" right="419" top="1853">
+in</word>
+<word bottom="1823" left="439" right="495" top="1854">
+the</word>
+<word bottom="1822" left="512" right="624" top="1854">
+round</word>
+<word bottom="1823" left="642" right="707" top="1854">
+will</word>
+<word bottom="1823" left="726" right="787" top="1848">
+not</word>
+<word bottom="1823" left="804" right="931" top="1854">
+exceed</word>
+<word bottom="1823" left="949" right="1006" top="1854">
+the</word>
+<word bottom="1815" left="1023" right="1165" top="1853">
+damage</word>
+<word bottom="1822" left="1181" right="1272" top="1846">
+zone</word>
+<word bottom="1777" left="294" right="382" top="1808">
+from</word>
+<word bottom="1777" left="400" right="458" top="1807">
+the</word>
+<word bottom="1776" left="476" right="625" top="1802">
+contour</word>
+<word bottom="1777" left="644" right="749" top="1808">
+holes.</word>
+<word bottom="1778" left="767" right="846" top="1809">
+This</word>
+<word bottom="1777" left="861" right="922" top="1800">
+can</word>
+<word bottom="1770" left="940" right="1042" top="1809">
+easily</word>
+<word bottom="1777" left="1061" right="1102" top="1807">
+be</word>
+<word bottom="1776" left="1118" right="1212" top="1807">
+done</word>
+<word bottom="1770" left="1230" right="1276" top="1807">
+by</word>
+<word bottom="1730" left="292" right="350" top="1753">
+use</word>
+<word bottom="1730" left="366" right="404" top="1762">
+of</word>
+<word bottom="1722" left="422" right="490" top="1763">
+Fig.</word>
+<word bottom="1724" left="508" right="596" top="1762">
+
+2(a),
+</word>
+<word bottom="1731" left="613" right="725" top="1761">
+where</word>
+<word bottom="1731" left="743" right="800" top="1761">
+the</word>
+<word bottom="1723" left="816" right="957" top="1761">
+damage</word>
+<word bottom="1730" left="972" right="1060" top="1754">
+zone</word>
+<word bottom="1730" left="1077" right="1102" top="1762">
+is</word>
+<word bottom="1723" left="1117" right="1216" top="1761">
+given</word>
+<word bottom="1685" left="293" right="347" top="1717">
+for</word>
+<word bottom="1684" left="363" right="529" top="1716">
+different</word>
+<word bottom="1678" left="545" right="667" top="1715">
+charge</word>
+<word bottom="1684" left="682" right="976" top="1716">
+concentrations.</word>
+<word bottom="1634" left="336" right="441" top="1668">
+Table</word>
+<word bottom="1635" left="458" right="478" top="1667">
+
+2
+</word>
+<word bottom="1635" left="494" right="654" top="1668">
+contains</word>
+<word bottom="1637" left="669" right="938" top="1669">
+recommended</word>
+<word bottom="1638" left="956" right="1104" top="1670">
+burdens</word>
+<word bottom="1639" left="1120" right="1176" top="1671">
+for</word>
+<word bottom="1638" left="1193" right="1293" top="1663">
+some</word>
+<word bottom="1587" left="287" right="441" top="1620">
+Swedish</word>
+<word bottom="1584" left="456" right="649" top="1621">
+explosives</word>
+<word bottom="1591" left="666" right="720" top="1623">
+for</word>
+<word bottom="1591" left="737" right="794" top="1613">
+use</word>
+<word bottom="1593" left="812" right="842" top="1623">
+in</word>
+<word bottom="1591" left="860" right="1001" top="1624">
+smooth</word>
+<word bottom="1585" left="1017" right="1175" top="1624">
+blasting.</word>
+<word bottom="1593" left="1196" right="1263" top="1626">
+For</word>
+<word bottom="1542" left="287" right="303" top="1564">
+a</word>
+<word bottom="1543" left="322" right="398" top="1573">
+hole</word>
+<word bottom="1542" left="415" right="584" top="1574">
+diameter</word>
+<word bottom="1544" left="599" right="637" top="1577">
+of</word>
+<word bottom="1544" left="653" right="700" top="1578">
+
+48
+</word>
+<word bottom="1546" left="716" right="785" top="1567">
+
+mm
+</word>
+<word bottom="1545" left="802" right="868" top="1576">
+and</word>
+<word bottom="1546" left="890" right="1016" top="1578">
+
+17-mm
+</word>
+<word bottom="1546" left="1034" right="1127" top="1578">
+
+GUR
+</word>
+<word bottom="1548" left="1137" right="1177" top="1580">
+
+lT
+</word>
+<word bottom="1539" left="1194" right="1277" top="1579">
+pipe</word>
+<word bottom="1488" left="288" right="436" top="1528">
+charges,</word>
+<word bottom="1497" left="454" right="469" top="1520">
+a</word>
+<word bottom="1496" left="488" right="619" top="1528">
+burden</word>
+<word bottom="1497" left="637" right="673" top="1530">
+of</word>
+<word bottom="1498" left="691" right="750" top="1532">
+
+0.8
+</word>
+<word bottom="1500" left="768" right="798" top="1521">
+
+m
+</word>
+<word bottom="1499" left="818" right="841" top="1531">
+is</word>
+<word bottom="1499" left="857" right="1000" top="1531">
+normal.</word>
+<word bottom="1500" left="1021" right="1120" top="1533">
+From</word>
+<word bottom="1491" left="1141" right="1210" top="1534">
+Fig.</word>
+<word bottom="1449" left="289" right="359" top="1484">
+
+2(a)
+</word>
+<word bottom="1451" left="378" right="428" top="1472">
+we</word>
+<word bottom="1452" left="446" right="520" top="1483">
+find</word>
+<word bottom="1451" left="539" right="612" top="1482">
+that</word>
+<word bottom="1452" left="628" right="696" top="1483">
+this</word>
+<word bottom="1446" left="712" right="831" top="1483">
+charge</word>
+<word bottom="1454" left="849" right="914" top="1485">
+will</word>
+<word bottom="1453" left="932" right="1035" top="1484">
+result</word>
+<word bottom="1455" left="1053" right="1082" top="1485">
+in</word>
+<word bottom="1453" left="1101" right="1117" top="1476">
+a</word>
+<word bottom="1446" left="1134" right="1281" top="1485">
+damage</word>
+<word bottom="1404" left="288" right="375" top="1428">
+zone</word>
+<word bottom="1405" left="392" right="429" top="1436">
+of</word>
+<word bottom="1404" left="447" right="555" top="1435">
+about</word>
+<word bottom="1405" left="572" right="630" top="1439">
+
+0.3
+</word>
+<word bottom="1406" left="648" right="691" top="1428">
+
+m.
+</word>
+<word bottom="1399" left="709" right="883" top="1439">
+Choosing</word>
+<word bottom="1407" left="899" right="915" top="1430">
+a</word>
+<word bottom="1400" left="932" right="1019" top="1439">
+fully</word>
+<word bottom="1400" left="1035" right="1181" top="1440">
+charged</word>
+<word bottom="1408" left="1201" right="1280" top="1440">
+hole</word>
+<word bottom="1358" left="288" right="326" top="1390">
+of</word>
+<word bottom="1360" left="342" right="465" top="1392">
+
+ANFO
+</word>
+<word bottom="1357" left="486" right="545" top="1392">
+
+(1=
+</word>
+<word bottom="1359" left="569" right="622" top="1392">
+
+1.6
+</word>
+<word bottom="1351" left="639" right="748" top="1394">
+kg/m)</word>
+<word bottom="1362" left="769" right="798" top="1392">
+in</word>
+<word bottom="1360" left="817" right="875" top="1392">
+the</word>
+<word bottom="1360" left="890" right="975" top="1387">
+next</word>
+<word bottom="1361" left="990" right="1061" top="1384">
+row</word>
+<word bottom="1364" left="1077" right="1161" top="1395">
+with</word>
+<word bottom="1362" left="1176" right="1194" top="1386">
+a</word>
+<word bottom="1305" left="290" right="430" top="1343">
+damage</word>
+<word bottom="1313" left="446" right="535" top="1336">
+zone</word>
+<word bottom="1313" left="551" right="589" top="1346">
+of</word>
+<word bottom="1313" left="609" right="663" top="1346">
+
+1.5
+</word>
+<word bottom="1315" left="680" right="712" top="1337">
+
+m
+</word>
+<word bottom="1315" left="731" right="755" top="1346">
+is</word>
+<word bottom="1315" left="771" right="807" top="1347">
+of</word>
+<word bottom="1315" left="826" right="870" top="1338">
+no</word>
+<word bottom="1315" left="886" right="983" top="1346">
+value</word>
+<word bottom="1315" left="999" right="1144" top="1348">
+because</word>
+<word bottom="1316" left="1160" right="1231" top="1349">
+this</word>
+<word bottom="1266" left="291" right="411" top="1296">
+results</word>
+<word bottom="1268" left="427" right="460" top="1298">
+in</word>
+<word bottom="1268" left="475" right="493" top="1290">
+a</word>
+<word bottom="1259" left="508" right="651" top="1298">
+damage</word>
+<word bottom="1268" left="666" right="756" top="1292">
+zone</word>
+<word bottom="1269" left="771" right="846" top="1301">
+that</word>
+<word bottom="1269" left="862" right="1009" top="1301">
+extends</word>
+<word bottom="1269" left="1023" right="1082" top="1303">
+
+0.4
+</word>
+<word bottom="1271" left="1098" right="1131" top="1293">
+
+m
+</word>
+<word bottom="1270" left="1148" right="1287" top="1303">
+further</word>
+<word bottom="1221" left="291" right="365" top="1252">
+into</word>
+<word bottom="1221" left="382" right="440" top="1252">
+the</word>
+<word bottom="1221" left="456" right="540" top="1253">
+rock</word>
+<word bottom="1218" left="559" right="822" top="1256">
+
+(1.5-0.8-0.3
+</word>
+<word bottom="1235" left="837" right="858" top="1246">
+
+=
+</word>
+<word bottom="1223" left="874" right="935" top="1256">
+
+0.4
+</word>
+<word bottom="1221" left="951" right="997" top="1257">
+
+m)
+</word>
+<word bottom="1224" left="1016" right="1097" top="1254">
+than</word>
+<word bottom="1224" left="1114" right="1176" top="1255">
+the</word>
+<word bottom="1167" left="289" right="431" top="1206">
+damage</word>
+<word bottom="1175" left="448" right="536" top="1199">
+zone</word>
+<word bottom="1176" left="551" right="642" top="1208">
+from</word>
+<word bottom="1176" left="659" right="719" top="1208">
+the</word>
+<word bottom="1177" left="734" right="875" top="1210">
+
+GURIT
+</word>
+<word bottom="1170" left="891" right="1038" top="1209">
+charges.</word>
+<word bottom="1178" left="1059" right="1086" top="1209">
+it</word>
+<word bottom="1178" left="1102" right="1221" top="1211">
+would</word>
+<word bottom="1179" left="1239" right="1282" top="1211">
+be</word>
+<word bottom="1129" left="292" right="403" top="1160">
+better</word>
+<word bottom="1130" left="419" right="457" top="1156">
+to</word>
+<word bottom="1129" left="474" right="532" top="1153">
+use</word>
+<word bottom="1129" left="548" right="564" top="1152">
+a</word>
+<word bottom="1122" left="581" right="701" top="1163">
+charge</word>
+<word bottom="1130" left="719" right="982" top="1163">
+concentration</word>
+<word bottom="1131" left="1000" right="1074" top="1163">
+that</word>
+<word bottom="1131" left="1091" right="1215" top="1164">
+results</word>
+<word bottom="1133" left="1233" right="1264" top="1165">
+in</word>
+<word bottom="1084" left="292" right="307" top="1106">
+a</word>
+<word bottom="1077" left="323" right="465" top="1115">
+damage</word>
+<word bottom="1084" left="481" right="570" top="1107">
+zone</word>
+<word bottom="1078" left="586" right="685" top="1117">
+equal</word>
+<word bottom="1085" left="702" right="739" top="1112">
+to</word>
+<word bottom="1086" left="757" right="831" top="1117">
+that</word>
+<word bottom="1085" left="846" right="970" top="1118">
+caused</word>
+<word bottom="1079" left="988" right="1033" top="1119">
+by</word>
+<word bottom="1086" left="1049" right="1107" top="1118">
+the</word>
+<word bottom="1087" left="1123" right="1220" top="1120">
+
+GUR
+</word>
+<word bottom="1088" left="1230" right="1270" top="1121">
+IT</word>
+<word bottom="1030" left="292" right="367" top="1068">
+plus</word>
+<word bottom="1038" left="382" right="441" top="1069">
+the</word>
+<word bottom="1033" left="457" right="603" top="1070">
+burden,</word>
+<word bottom="1039" left="622" right="673" top="1070">
+i.e.</word>
+<word bottom="1039" left="694" right="749" top="1072">
+
+1.2
+</word>
+<word bottom="1041" left="765" right="797" top="1063">
+
+m
+</word>
+<word bottom="1032" left="817" right="900" top="1072">
+(Fig.</word>
+<word bottom="1036" left="917" right="953" top="1073">
+
+5)
+</word>
+<word bottom="1050" left="972" right="1001" top="1055">
+
+-
+</word>
+<word bottom="1039" left="1017" right="1099" top="1072">
+such</word>
+<word bottom="1041" left="1116" right="1134" top="1064">
+a</word>
+<word bottom="1033" left="1150" right="1275" top="1073">
+charge</word>
+<word bottom="991" left="290" right="415" top="1024">
+should</word>
+<word bottom="992" left="433" right="516" top="1024">
+have</word>
+<word bottom="993" left="530" right="576" top="1024">
+
+1
+
+=
+</word>
+<word bottom="992" left="594" right="750" top="1027">
+
+0.8-1.2
+</word>
+<word bottom="987" left="767" right="872" top="1028">
+kg/m.</word>
+<word bottom="496" left="351" right="375" top="528">
+It</word>
+<word bottom="497" left="394" right="416" top="528">
+is</word>
+<word bottom="491" left="434" right="601" top="525">
+apparent</word>
+<word bottom="499" left="616" right="707" top="532">
+from</word>
+<word bottom="499" left="724" right="791" top="531">
+this</word>
+<word bottom="492" left="807" right="965" top="531">
+example</word>
+<word bottom="500" left="981" right="1055" top="531">
+that</word>
+<word bottom="500" left="1071" right="1087" top="523">
+a</word>
+<word bottom="499" left="1105" right="1291" top="533">
+reduction</word>
+<word bottom="452" left="296" right="333" top="484">
+of</word>
+<word bottom="452" left="350" right="408" top="483">
+the</word>
+<word bottom="445" left="424" right="567" top="483">
+damage</word>
+<word bottom="453" left="583" right="670" top="478">
+zone</word>
+<word bottom="455" left="686" right="749" top="477">
+can</word>
+<word bottom="455" left="768" right="807" top="486">
+be</word>
+<word bottom="454" left="824" right="988" top="486">
+obtained</word>
+<word bottom="447" left="1006" right="1052" top="486">
+by</word>
+<word bottom="455" left="1067" right="1083" top="477">
+a</word>
+<word bottom="454" left="1101" right="1288" top="487">
+reduction</word>
+<word bottom="406" left="298" right="333" top="438">
+of</word>
+<word bottom="406" left="350" right="409" top="437">
+the</word>
+<word bottom="399" left="425" right="546" top="438">
+charge</word>
+<word bottom="406" left="563" right="828" top="441">
+concentration</word>
+<word bottom="402" left="845" right="901" top="432">
+per</word>
+<word bottom="408" left="920" right="1026" top="434">
+metre</word>
+<word bottom="408" left="1044" right="1223" top="441">
+borehole.</word>
+<word bottom="361" left="298" right="377" top="393">
+This</word>
+<word bottom="354" left="391" right="577" top="392">
+obviously</word>
+<word bottom="362" left="593" right="714" top="394">
+results</word>
+<word bottom="363" left="730" right="761" top="394">
+in</word>
+<word bottom="362" left="782" right="952" top="394">
+increased</word>
+<word bottom="362" left="968" right="1061" top="388">
+costs</word>
+<word bottom="363" left="1077" right="1132" top="395">
+for</word>
+<word bottom="363" left="1147" right="1224" top="395">
+drill</word>
+<word bottom="363" left="1239" right="1310" top="395">
+and</word>
+<word bottom="314" left="298" right="385" top="347">
+blast</word>
+<word bottom="309" left="401" right="597" top="348">
+operation,</word>
+<word bottom="317" left="613" right="677" top="349">
+but</word>
+<word bottom="318" left="693" right="789" top="349">
+these</word>
+<word bottom="318" left="804" right="858" top="341">
+are</word>
+<word bottom="316" left="875" right="1039" top="349">
+balanced</word>
+<word bottom="310" left="1056" right="1102" top="349">
+by</word>
+<word bottom="317" left="1118" right="1180" top="349">
+the</word>
+<word bottom="261" left="297" right="485" top="301">
+advantage</word>
+<word bottom="270" left="500" right="539" top="303">
+of</word>
+<word bottom="270" left="554" right="572" top="294">
+a</word>
+<word bottom="270" left="587" right="678" top="303">
+safer</word>
+<word bottom="271" left="691" right="773" top="304">
+roof</word>
+<word bottom="272" left="787" right="854" top="303">
+and</word>
+<word bottom="270" left="869" right="1050" top="303">
+decreased</word>
+<word bottom="271" left="1067" right="1164" top="298">
+costs</word>
+<word bottom="271" left="1179" right="1236" top="304">
+for</word>
+<word bottom="215" left="298" right="457" top="255">
+grouting</word>
+<word bottom="224" left="472" right="539" top="256">
+and</word>
+<word bottom="225" left="556" right="808" top="258">
+maintenance.</word>
+<word bottom="123" left="300" right="636" top="162">
+Acknowledgment</word>
+<word bottom="83" left="299" right="378" top="117">
+This</word>
+<word bottom="84" left="392" right="488" top="115">
+work</word>
+<word bottom="84" left="507" right="532" top="116">
+is</word>
+<word bottom="83" left="548" right="565" top="107">
+a</word>
+<word bottom="77" left="581" right="657" top="110">
+part</word>
+<word bottom="84" left="671" right="711" top="118">
+of</word>
+<word bottom="84" left="726" right="784" top="115">
+the</word>
+<word bottom="84" left="801" right="881" top="115">
+rock</word>
+<word bottom="76" left="900" right="1044" top="116">
+blasting</word>
+<word bottom="77" left="1061" right="1281" top="109">
+programme</word>
+<word bottom="37" left="295" right="333" top="71">
+of</word>
+<word bottom="37" left="347" right="407" top="69">
+the</word>
+<word bottom="37" left="424" right="578" top="71">
+Swedish</word>
+<word bottom="37" left="594" right="745" top="72">
+
+Detonic
+</word>
+<word bottom="38" left="763" right="929" top="72">
+Research</word>
+<word bottom="31" left="947" right="1184" top="73">
+Foundation,</word>
+<word bottom="3" left="296" right="379" top="16">
+
+•.,..
+</word>
+<word bottom="3" left="388" right="487" top="25">
+nomad</word>
+<word bottom="2" left="503" right="549" top="24">
+loaf</word>
+<word bottom="2" left="565" right="718" top="26">
+
+Castnrlith
+</word>
+<word bottom="1" left="735" right="892" top="25">
+inducers/</word>
+<word bottom="1" left="909" right="940" top="25">
+in</word>
+<word bottom="0" left="955" right="1187" top="25">
+
+rnrtnoratirin
+</word>
+<word bottom="2238" left="1361" right="1447" top="2269">
+with</word>
+<word bottom="2236" left="1464" right="1524" top="2268">
+the</word>
+<word bottom="2236" left="1541" right="1694" top="2269">
+Swedish</word>
+<word bottom="2235" left="1713" right="1821" top="2268">
+Board</word>
+<word bottom="2234" left="1838" right="1892" top="2266">
+for</word>
+<word bottom="2234" left="1908" right="2091" top="2267">
+Technical</word>
+<word bottom="2227" left="2112" right="2367" top="2266">
+Development</word>
+<word bottom="2188" left="1365" right="1431" top="2224">
+(ST</word>
+<word bottom="2187" left="1437" right="1493" top="2223">
+U).</word>
+<word bottom="2080" left="1362" right="1550" top="2108">
+Bibliography</word>
+<word bottom="2043" left="1365" right="1387" top="2067">
+
+1.
+</word>
+<word bottom="2043" left="1421" right="1528" top="2067">
+Persson</word>
+<word bottom="2042" left="1541" right="1565" top="2066">
+P.</word>
+<word bottom="2042" left="1579" right="1609" top="2065">
+A.</word>
+<word bottom="2038" left="1625" right="1763" top="2066">
+
+Holmberg
+</word>
+<word bottom="2042" left="1775" right="1804" top="2065">
+R.</word>
+<word bottom="2042" left="1817" right="1866" top="2063">
+and</word>
+<word bottom="2041" left="1879" right="1983" top="2065">
+Persson</word>
+<word bottom="2041" left="1997" right="2028" top="2066">
+G.</word>
+<word bottom="2041" left="2042" right="2146" top="2064">
+Careful</word>
+<word bottom="2034" left="2159" right="2271" top="2062">
+
+btasting
+</word>
+<word bottom="2039" left="2283" right="2311" top="2062">
+of</word>
+<word bottom="1999" left="1361" right="1449" top="2023">
+slopes</word>
+<word bottom="2004" left="1461" right="1485" top="2018">
+in</word>
+<word bottom="2000" left="1498" right="1569" top="2019">
+o
+pen
+</word>
+<word bottom="1998" left="1580" right="1619" top="2020">
+pit</word>
+<word bottom="2002" left="1631" right="1722" top="2019">
+mines.</word>
+<word bottom="1998" left="1735" right="1795" top="2024">
+Rep.</word>
+<word bottom="2000" left="1808" right="1925" top="2025">
+Swedish</word>
+<word bottom="2000" left="1936" right="2051" top="2024">
+Deform
+.
+</word>
+<word bottom="2000" left="2064" right="2120" top="2023">
+Res.</word>
+<word bottom="1998" left="2137" right="2309" top="2023">
+Foundation</word>
+<word bottom="1962" left="1364" right="1404" top="1986">
+DS</word>
+<word bottom="1958" left="1421" right="1531" top="1985">
+
+1977:4,
+</word>
+<word bottom="1960" left="1547" right="1625" top="1984">
+
+1977.
+</word>
+<word bottom="1960" left="1642" right="1765" top="1985">
+(Swedish</word>
+<word bottom="1959" left="1777" right="1844" top="1982">
+text)</word>
+<word bottom="1924" left="1369" right="1393" top="1948">
+
+2.
+</word>
+<word bottom="1921" left="1421" right="1579" top="1946">
+
+Ambrasevs
+</word>
+<word bottom="1924" left="1592" right="1622" top="1945">
+N.</word>
+<word bottom="1923" left="1636" right="1666" top="1946">
+N.</word>
+<word bottom="1923" left="1678" right="1727" top="1944">
+and</word>
+<word bottom="1923" left="1741" right="1863" top="1944">
+
+Hendron
+</word>
+<word bottom="1923" left="1876" right="1907" top="1944">
+A.</word>
+<word bottom="1921" left="1919" right="1941" top="1944">
+J.</word>
+<word bottom="1922" left="1954" right="1987" top="1944">
+Jr.</word>
+<word bottom="1918" left="2002" right="2131" top="1945">
+Dynamic</word>
+<word bottom="1920" left="2144" right="2288" top="1942">
+behaviour</word>
+<word bottom="1920" left="2301" right="2329" top="1942">
+of</word>
+<word bottom="1883" left="1368" right="1430" top="1904">
+rock</word>
+<word bottom="1882" left="1444" right="1548" top="1899">
+masses.</word>
+<word bottom="1882" left="1563" right="1590" top="1903">
+In</word>
+<word bottom="1881" left="1603" right="1674" top="1905">
+Rock</word>
+<word bottom="1881" left="1688" right="1834" top="1903">
+mechanics</word>
+<word bottom="1881" left="1846" right="1870" top="1902">
+in</word>
+<word bottom="1874" left="1883" right="2047" top="1902">
+engineering</word>
+<word bottom="1876" left="2056" right="2175" top="1896">
+practice</word>
+<word bottom="1873" left="2188" right="2266" top="1901">
+Stagg</word>
+<word bottom="1878" left="2278" right="2308" top="1901">
+K.</word>
+<word bottom="1877" left="2323" right="2354" top="1902">
+G.</word>
+<word bottom="1841" left="1368" right="1419" top="1863">
+and</word>
+<word bottom="1840" left="1431" right="1605" top="1865">
+
+Zienkiewicz
+</word>
+<word bottom="1839" left="1619" right="1650" top="1865">
+
+0.
+</word>
+<word bottom="1840" left="1662" right="1690" top="1864">
+C.</word>
+<word bottom="1840" left="1703" right="1746" top="1862">
+
+eds
+</word>
+<word bottom="1836" left="1761" right="1890" top="1862">
+(London,</word>
+<word bottom="1838" left="1903" right="1961" top="1857">
+etc.:</word>
+<word bottom="1834" left="1977" right="2066" top="1861">
+Wiley,</word>
+<word bottom="1834" left="2083" right="2176" top="1860">
+
+19681,
+</word>
+<word bottom="1835" left="2189" right="2316" top="1860">
+
+203-36.
+</word>
+<word bottom="1795" left="1362" right="1386" top="1820">
+
+3.
+</word>
+<word bottom="1795" left="1421" right="1553" top="1818">
+
+Vorob'ev
+</word>
+<word bottom="1793" left="1567" right="1583" top="1816">
+I,</word>
+<word bottom="1793" left="1597" right="1624" top="1818">
+T.</word>
+<word bottom="1794" left="1636" right="1662" top="1813">
+et</word>
+<word bottom="1793" left="1671" right="1702" top="1816">
+al.</word>
+<word bottom="1793" left="1719" right="1838" top="1817">
+Features</word>
+<word bottom="1793" left="1850" right="1876" top="1815">
+of</word>
+<word bottom="1792" left="1891" right="1934" top="1815">
+the</word>
+<word bottom="1790" left="1946" right="2133" top="1814">
+development</word>
+<word bottom="1792" left="2147" right="2197" top="1813">
+and</word>
+<word bottom="1749" left="1362" right="1536" top="1775">
+pro
+pagation
+</word>
+<word bottom="1752" left="1550" right="1577" top="1775">
+of</word>
+<word bottom="1752" left="1592" right="1635" top="1775">
+the</word>
+<word bottom="1746" left="1649" right="1770" top="1776">
+Rayleigh</word>
+<word bottom="1750" left="1783" right="1881" top="1773">
+surface</word>
+<word bottom="1750" left="1895" right="1962" top="1767">
+wave</word>
+<word bottom="1752" left="1975" right="2000" top="1773">
+in</word>
+<word bottom="1751" left="2013" right="2056" top="1772">
+the</word>
+<word bottom="1744" left="2071" right="2261" top="1774">
+
+Dzhezkazgan
+</word>
+<word bottom="1711" left="1364" right="1481" top="1738">
+deposit.</word>
+<word bottom="1712" left="1492" right="1638" top="1737">
+
+Fiz.-Tekh.
+</word>
+<word bottom="1712" left="1652" right="1734" top="1736">
+
+Probl.
+</word>
+<word bottom="1711" left="1749" right="1809" top="1734">
+
+Raz.
+</word>
+<word bottom="1710" left="1821" right="1904" top="1733">
+
+Polez.
+</word>
+<word bottom="1707" left="1918" right="1979" top="1732">
+
+Isk.,
+</word>
+<word bottom="1706" left="1990" right="2016" top="1734">
+
+8,
+</word>
+<word bottom="1710" left="2029" right="2064" top="1726">
+no</word>
+<word bottom="1710" left="2076" right="2092" top="1733">
+
+6
+</word>
+<word bottom="1707" left="2108" right="2190" top="1732">
+
+1972.
+</word>
+<word bottom="1706" left="2202" right="2311" top="1732">
+
+36-43:
+</word>
+<word bottom="1672" left="1365" right="1456" top="1695">
+Soviet</word>
+<word bottom="1671" left="1468" right="1528" top="1694">
+Min.</word>
+<word bottom="1667" left="1543" right="1605" top="1695">
+
+Sci.,
+</word>
+<word bottom="1667" left="1617" right="1642" top="1694">
+
+8,
+</word>
+<word bottom="1666" left="1657" right="1735" top="1694">
+
+1972,
+</word>
+<word bottom="1668" left="1746" right="1852" top="1692">
+
+634-9.
+</word>
+<word bottom="1626" left="1365" right="1390" top="1648">
+
+4.
+</word>
+<word bottom="1625" left="1423" right="1563" top="1649">
+
+D'Andrea
+</word>
+<word bottom="1625" left="1576" right="1606" top="1649">
+D.</word>
+<word bottom="1625" left="1619" right="1650" top="1648">
+V.</word>
+<word bottom="1625" left="1664" right="1764" top="1649">
+Fischer</word>
+<word bottom="1625" left="1777" right="1807" top="1648">
+R.</word>
+<word bottom="1624" left="1823" right="1847" top="1647">
+
+L
+</word>
+<word bottom="1623" left="1859" right="1909" top="1647">
+and</word>
+<word bottom="1623" left="1923" right="2103" top="1647">
+Hendrickson</word>
+<word bottom="1624" left="2118" right="2149" top="1646">
+A.</word>
+<word bottom="1623" left="2165" right="2195" top="1647">
+D.</word>
+<word bottom="1623" left="2208" right="2297" top="1647">
+Crater</word>
+<word bottom="1580" left="1365" right="1461" top="1606">
+scaling</word>
+<word bottom="1585" left="1476" right="1500" top="1605">
+in</word>
+<word bottom="1579" left="1512" right="1610" top="1601">
+granite</word>
+<word bottom="1583" left="1624" right="1664" top="1607">
+for</word>
+<word bottom="1583" left="1675" right="1747" top="1605">
+small</word>
+<word bottom="1577" left="1758" right="1871" top="1604">
+charges.</word>
+<word bottom="1577" left="1882" right="1944" top="1606">
+Rep.</word>
+<word bottom="1582" left="1960" right="2051" top="1604">
+Invest.</word>
+<word bottom="1581" left="2067" right="2124" top="1604">
+U.S.</word>
+<word bottom="1581" left="2141" right="2199" top="1605">
+Bur.</word>
+<word bottom="1581" left="2214" right="2298" top="1604">
+Mines</word>
+<word bottom="1539" left="1368" right="1447" top="1566">
+
+7409,
+</word>
+<word bottom="1538" left="1464" right="1543" top="1566">
+
+1970,
+</word>
+<word bottom="1539" left="1557" right="1628" top="1566">
+
+28p.
+</word>
+<word bottom="1500" left="1366" right="1390" top="1525">
+
+5.
+</word>
+<word bottom="1499" left="1423" right="1504" top="1524">
+Olson</word>
+<word bottom="1499" left="1518" right="1540" top="1523">
+J.</word>
+<word bottom="1498" left="1553" right="1575" top="1522">
+J.</word>
+<word bottom="1499" left="1587" right="1613" top="1517">
+et</word>
+<word bottom="1499" left="1623" right="1656" top="1519">
+al.</word>
+<word bottom="1499" left="1670" right="1743" top="1523">
+Rock</word>
+<word bottom="1492" left="1755" right="1860" top="1521">
+damage</word>
+<word bottom="1498" left="1873" right="1940" top="1521">
+from</word>
+<word bottom="1498" left="1953" right="2024" top="1519">
+small</word>
+<word bottom="1492" left="2038" right="2132" top="1520">
+charge</word>
+<word bottom="1492" left="2144" right="2257" top="1520">
+blasting</word>
+<word bottom="1498" left="2270" right="2293" top="1520">
+in</word>
+<word bottom="1452" left="1362" right="1470" top="1479">
+granite.</word>
+<word bottom="1454" left="1484" right="1547" top="1480">
+Rep.</word>
+<word bottom="1456" left="1564" right="1653" top="1478">
+Invest.</word>
+<word bottom="1455" left="1671" right="1725" top="1479">
+U.S.</word>
+<word bottom="1455" left="1740" right="1796" top="1478">
+Bur.</word>
+<word bottom="1454" left="1810" right="1893" top="1477">
+Mines</word>
+<word bottom="1450" left="1906" right="1985" top="1477">
+
+7751,
+</word>
+<word bottom="1450" left="2002" right="2129" top="1477">
+1973,
+44
+</word>
+<word bottom="1450" left="2142" right="2166" top="1470">
+
+p.
+</word>
+<word bottom="1415" left="1366" right="1390" top="1439">
+
+6.
+</word>
+<word bottom="1415" left="1424" right="1527" top="1439">
+
+Siskind
+</word>
+<word bottom="1413" left="1543" right="1572" top="1439">
+D.</word>
+<word bottom="1414" left="1587" right="1610" top="1438">
+E.</word>
+<word bottom="1410" left="1626" right="1746" top="1440">
+
+Steckley
+</word>
+<word bottom="1414" left="1760" right="1789" top="1437">
+R.</word>
+<word bottom="1413" left="1802" right="1829" top="1438">
+C.</word>
+<word bottom="1413" left="1842" right="1890" top="1435">
+and</word>
+<word bottom="1413" left="1903" right="1983" top="1438">
+Olson</word>
+<word bottom="1412" left="1997" right="2019" top="1435">
+J.</word>
+<word bottom="1413" left="2032" right="2053" top="1435">
+.1.</word>
+<word bottom="1407" left="2069" right="2220" top="1436">
+Fracturing</word>
+<word bottom="1414" left="2235" right="2258" top="1435">
+in</word>
+<word bottom="1412" left="2273" right="2316" top="1435">
+the</word>
+<word bottom="1374" left="1365" right="1433" top="1391">
+zone</word>
+<word bottom="1373" left="1445" right="1547" top="1395">
+around</word>
+<word bottom="1372" left="1559" right="1572" top="1389">
+a</word>
+<word bottom="1369" left="1583" right="1723" top="1395">
+
+blasthole,
+</word>
+<word bottom="1372" left="1733" right="1815" top="1394">
+White</word>
+<word bottom="1367" left="1827" right="1896" top="1394">
+Pine,</word>
+<word bottom="1370" left="1908" right="1985" top="1395">
+Mich.</word>
+<word bottom="1368" left="1997" right="2061" top="1395">
+Rep.</word>
+<word bottom="1371" left="2077" right="2170" top="1393">
+Invest.</word>
+<word bottom="1370" left="2186" right="2244" top="1394">
+U.S.</word>
+<word bottom="1370" left="2258" right="2317" top="1395">
+Bur.</word>
+<word bottom="1331" left="1365" right="1450" top="1353">
+Mines</word>
+<word bottom="1327" left="1462" right="1545" top="1355">
+
+7753,
+</word>
+<word bottom="1326" left="1558" right="1638" top="1354">
+
+1973,
+</word>
+<word bottom="1330" left="1650" right="1685" top="1354">
+
+20
+</word>
+<word bottom="1326" left="1696" right="1722" top="1347">
+
+p.
+</word>
+<word bottom="1289" left="1366" right="1391" top="1314">
+
+7.
+</word>
+<word bottom="1289" left="1424" right="1529" top="1313">
+
+Siskind
+</word>
+<word bottom="1288" left="1542" right="1573" top="1313">
+
+0.
+</word>
+<word bottom="1288" left="1587" right="1615" top="1312">
+E.</word>
+<word bottom="1287" left="1626" right="1676" top="1310">
+and</word>
+<word bottom="1287" left="1690" right="1807" top="1312">
+
+Fumanti
+</word>
+<word bottom="1287" left="1820" right="1852" top="1311">
+R.</word>
+<word bottom="1286" left="1865" right="1895" top="1311">
+R.</word>
+<word bottom="1284" left="1909" right="2125" top="1311">
+Blast-produced</word>
+<word bottom="1286" left="2138" right="2268" top="1310">
+fractures</word>
+<word bottom="1286" left="2280" right="2303" top="1308">
+in</word>
+<word bottom="1247" left="1370" right="1491" top="1270">
+
+Lithonia
+</word>
+<word bottom="1243" left="1502" right="1611" top="1269">
+granite.</word>
+<word bottom="1242" left="1623" right="1685" top="1271">
+Rep.</word>
+<word bottom="1245" left="1701" right="1790" top="1268">
+Invest.</word>
+<word bottom="1244" left="1805" right="1860" top="1268">
+U.S.</word>
+<word bottom="1244" left="1875" right="1932" top="1268">
+Bur.</word>
+<word bottom="1244" left="1946" right="2030" top="1268">
+Mines</word>
+<word bottom="1242" left="2045" right="2125" top="1269">
+
+7901,
+</word>
+<word bottom="1242" left="2142" right="2221" top="1269">
+
+1974,
+</word>
+<word bottom="1244" left="2234" right="2270" top="1269">
+
+38
+</word>
+<word bottom="1241" left="2280" right="2307" top="1262">
+P.</word>
+<word bottom="1205" left="1365" right="1391" top="1229">
+
+8.
+</word>
+<word bottom="1205" left="1424" right="1542" top="1228">
+Nicholls</word>
+<word bottom="1204" left="1557" right="1586" top="1227">
+H.</word>
+<word bottom="1204" left="1599" right="1629" top="1228">
+R.</word>
+<word bottom="1203" left="1642" right="1758" top="1227">
+Johnson</word>
+<word bottom="1203" left="1772" right="1798" top="1226">
+C.</word>
+<word bottom="1203" left="1813" right="1838" top="1227">
+F.</word>
+<word bottom="1202" left="1851" right="1900" top="1225">
+and</word>
+<word bottom="1202" left="1914" right="2003" top="1226">
+Duvall</word>
+<word bottom="1203" left="2016" right="2051" top="1226">
+W.</word>
+<word bottom="1204" left="2067" right="2083" top="1225">
+I.</word>
+<word bottom="1197" left="2099" right="2212" top="1226">
+Blasting</word>
+<word bottom="1203" left="2224" right="2368" top="1226">
+vibrations</word>
+<word bottom="1164" left="1366" right="1417" top="1185">
+and</word>
+<word bottom="1164" left="1430" right="1496" top="1186">
+their</word>
+<word bottom="1162" left="1509" right="1604" top="1187">
+effects</word>
+<word bottom="1162" left="1617" right="1649" top="1180">
+on</word>
+<word bottom="1161" left="1663" right="1811" top="1180">
+structures.</word>
+<word bottom="1160" left="1832" right="1895" top="1184">
+Bull.</word>
+<word bottom="1160" left="1910" right="1965" top="1185">
+U.S.</word>
+<word bottom="1160" left="1981" right="2039" top="1185">
+Bur.</word>
+<word bottom="1161" left="2053" right="2138" top="1184">
+Mines</word>
+<word bottom="1156" left="2151" right="2216" top="1184">
+
+656,
+</word>
+<word bottom="1157" left="2230" right="2310" top="1185">
+
+1971,
+</word>
+<word bottom="1121" left="1370" right="1421" top="1146">
+
+105
+</word>
+<word bottom="1119" left="1433" right="1460" top="1139">
+is.</word>
+<word bottom="1079" left="1366" right="1391" top="1103">
+
+9.
+</word>
+<word bottom="1073" left="1427" right="1567" top="1102">
+Holmberg</word>
+<word bottom="1078" left="1581" right="1611" top="1102">
+R.</word>
+<word bottom="1078" left="1624" right="1672" top="1101">
+and</word>
+<word bottom="1078" left="1686" right="1789" top="1102">
+Persson</word>
+<word bottom="1077" left="1804" right="1827" top="1101">
+P.</word>
+<word bottom="1076" left="1841" right="1870" top="1099">
+A.</word>
+<word bottom="1076" left="1882" right="1935" top="1101">
+The</word>
+<word bottom="1076" left="1949" right="2064" top="1100">
+Swedish</word>
+<word bottom="1074" left="2076" right="2212" top="1099">
+approach</word>
+<word bottom="1077" left="2225" right="2254" top="1096">
+to</word>
+<word bottom="1037" left="1365" right="1482" top="1056">
+contour</word>
+<word bottom="1031" left="1493" right="1614" top="1059">
+blasting.</word>
+<word bottom="1032" left="1627" right="1705" top="1061">
+Paper</word>
+<word bottom="1033" left="1716" right="1852" top="1057">
+presented</word>
+<word bottom="1035" left="1864" right="1893" top="1053">
+to</word>
+<word bottom="1034" left="1905" right="2067" top="1059">
+Conference</word>
+<word bottom="1036" left="2079" right="2115" top="1052">
+on</word>
+<word bottom="1033" left="2129" right="2277" top="1057">
+explosives</word>
+<word bottom="1035" left="2288" right="2339" top="1057">
+and</word>
+<word bottom="989" left="1365" right="1478" top="1019">
+blasting</word>
+<word bottom="990" left="1491" right="1643" top="1022">
+technique,</word>
+<word bottom="989" left="1656" right="1760" top="1017">
+Society</word>
+<word bottom="993" left="1771" right="1800" top="1017">
+of</word>
+<word bottom="990" left="1812" right="1961" top="1018">
+Explosives</word>
+<word bottom="988" left="1973" right="2123" top="1018">
+Engineers,</word>
+<word bottom="995" left="2138" right="2203" top="1017">
+New</word>
+<word bottom="992" left="2213" right="2332" top="1019">
+Orleans.</word>
+<word bottom="950" left="1371" right="1518" top="976">
+Louisiana,</word>
+<word bottom="948" left="1530" right="1635" top="976">
+U.S.A.,</word>
+<word bottom="948" left="1647" right="1775" top="976">
+February</word>
+<word bottom="952" left="1790" right="1800" top="974">
+
+1
+</word>
+<word bottom="951" left="1815" right="1844" top="971">
+to</word>
+<word bottom="947" left="1856" right="1881" top="975">
+
+3,
+</word>
+<word bottom="950" left="1895" right="1973" top="976">
+
+1978.
+</word>
+<word bottom="911" left="1370" right="1412" top="935">
+
+10.
+</word>
+<word bottom="911" left="1442" right="1587" top="935">
+Svanholm</word>
+<word bottom="911" left="1600" right="1627" top="934">
+B.</word>
+<word bottom="909" left="1639" right="1670" top="934">
+
+0.
+</word>
+<word bottom="910" left="1682" right="1789" top="935">
+Persson</word>
+<word bottom="909" left="1800" right="1825" top="933">
+P.</word>
+<word bottom="909" left="1837" right="1867" top="932">
+A.</word>
+<word bottom="909" left="1879" right="1929" top="932">
+and</word>
+<word bottom="909" left="1945" right="2052" top="932">
+Larsson</word>
+<word bottom="910" left="2066" right="2093" top="934">
+B.</word>
+<word bottom="909" left="2107" right="2223" top="933">
+Smooth</word>
+<word bottom="903" left="2235" right="2349" top="933">
+blasting</word>
+<word bottom="869" left="1367" right="1409" top="892">
+for</word>
+<word bottom="869" left="1421" right="1526" top="891">
+reliable</word>
+<word bottom="864" left="1540" right="1723" top="891">
+underground</word>
+<word bottom="862" left="1735" right="1867" top="884">
+openings,</word>
+<word bottom="868" left="1883" right="1908" top="890">
+In</word>
+<word bottom="867" left="1921" right="2068" top="891">
+
+Rocksrore
+</word>
+<word bottom="869" left="2082" right="2127" top="891">
+
+77:
+</word>
+<word bottom="862" left="2141" right="2251" top="891">
+Storage</word>
+<word bottom="868" left="2263" right="2288" top="891">
+in</word>
+<word bottom="828" left="1367" right="1512" top="849">
+excavated</word>
+<word bottom="826" left="1522" right="1586" top="849">
+rock</word>
+<word bottom="825" left="1598" right="1709" top="844">
+caverns,</word>
+<word bottom="821" left="1720" right="1890" top="848">
+
+proceedings
+</word>
+<word bottom="826" left="1901" right="1931" top="848">
+of</word>
+<word bottom="826" left="1944" right="1986" top="848">
+the</word>
+<word bottom="826" left="1999" right="2055" top="849">
+first</word>
+<word bottom="825" left="2069" right="2259" top="848">
+international</word>
+<word bottom="782" left="1366" right="1541" top="808">
+symposium,</word>
+<word bottom="782" left="1554" right="1719" top="809">
+Stockholm,</word>
+<word bottom="785" left="1738" right="1803" top="808">
+
+1977
+</word>
+<word bottom="778" left="1817" right="1939" top="807">
+Bergman</word>
+<word bottom="784" left="1953" right="1986" top="807">
+M.</word>
+<word bottom="784" left="2007" right="2049" top="806">
+ed.</word>
+<word bottom="779" left="2065" right="2191" top="808">
+(Oxford,</word>
+<word bottom="783" left="2204" right="2264" top="803">
+etc.:</word>
+<word bottom="739" left="1369" right="1521" top="767">
+
+Pergamon,
+</word>
+<word bottom="741" left="1537" right="1629" top="768">
+
+1977),
+</word>
+<word bottom="743" left="1640" right="1690" top="765">
+vol.</word>
+<word bottom="740" left="1702" right="1727" top="767">
+
+3,
+</word>
+<word bottom="743" left="1740" right="1843" top="766">
+
+573-9.
+</word>
+<word bottom="704" left="1369" right="1410" top="726">
+
+11.
+</word>
+<word bottom="703" left="1442" right="1550" top="727">
+Persson</word>
+<word bottom="702" left="1562" right="1588" top="726">
+P.</word>
+<word bottom="702" left="1601" right="1632" top="725">
+A.</word>
+<word bottom="702" left="1645" right="1697" top="725">
+The</word>
+<word bottom="702" left="1711" right="1840" top="724">
+influence</word>
+<word bottom="701" left="1852" right="1879" top="724">
+of</word>
+<word bottom="697" left="1891" right="2001" top="724">
+blasting</word>
+<word bottom="701" left="2013" right="2048" top="718">
+on</word>
+<word bottom="701" left="2062" right="2107" top="722">
+the</word>
+<word bottom="696" left="2120" right="2264" top="724">
+remaining</word>
+<word bottom="700" left="2275" right="2349" top="723">
+rock.</word>
+<word bottom="657" left="1369" right="1432" top="684">
+Rep.</word>
+<word bottom="660" left="1445" right="1565" top="684">
+Swedish</word>
+<word bottom="659" left="1577" right="1691" top="684">
+
+Detonic
+</word>
+<word bottom="659" left="1703" right="1758" top="683">
+Res.</word>
+<word bottom="658" left="1771" right="1937" top="684">
+Foundation</word>
+<word bottom="660" left="1953" right="1993" top="684">
+DS</word>
+<word bottom="656" left="2008" right="2140" top="684">
+
+1973:15,
+</word>
+<word bottom="659" left="2156" right="2236" top="684">
+
+1973.
+</word>
+<word bottom="659" left="2251" right="2378" top="684">
+(Swedish</word>
+<word bottom="618" left="1369" right="1438" top="643">
+text)</word>
+<word bottom="577" left="1372" right="1413" top="600">
+
+12.
+</word>
+<word bottom="571" left="1447" right="1588" top="600">
+Holmberg</word>
+<word bottom="577" left="1601" right="1630" top="601">
+R.</word>
+<word bottom="574" left="1644" right="1786" top="600">
+Computer</word>
+<word bottom="575" left="1797" right="1965" top="598">
+calculations</word>
+<word bottom="576" left="1977" right="2004" top="599">
+of</word>
+<word bottom="571" left="2017" right="2121" top="599">
+drilling</word>
+<word bottom="573" left="2133" right="2252" top="595">
+patterns</word>
+<word bottom="576" left="2263" right="2306" top="600">
+for</word>
+<word bottom="535" left="1368" right="1468" top="559">
+surface</word>
+<word bottom="536" left="1481" right="1533" top="558">
+and</word>
+<word bottom="530" left="1546" right="1729" top="559">
+underground</word>
+<word bottom="529" left="1741" right="1869" top="558">
+
+blastings.
+</word>
+<word bottom="534" left="1885" right="1910" top="557">
+In</word>
+<word bottom="529" left="1923" right="2015" top="558">
+Design</word>
+<word bottom="535" left="2028" right="2154" top="557">
+methods</word>
+<word bottom="536" left="2166" right="2191" top="558">
+in</word>
+<word bottom="535" left="2204" right="2269" top="557">
+rock</word>
+<word bottom="493" left="1365" right="1517" top="515">
+mechanics</word>
+<word bottom="491" left="1531" right="1661" top="517">
+Fairhurst</word>
+<word bottom="492" left="1672" right="1701" top="516">
+C.</word>
+<word bottom="492" left="1713" right="1763" top="513">
+and</word>
+<word bottom="486" left="1774" right="1875" top="515">
+
+Crough
+</word>
+<word bottom="490" left="1889" right="1913" top="514">
+S.</word>
+<word bottom="491" left="1926" right="1970" top="514">
+
+eds
+</word>
+<word bottom="490" left="1985" right="2058" top="515">
+(New</word>
+<word bottom="492" left="2073" right="2154" top="514">
+York:</word>
+<word bottom="491" left="2171" right="2310" top="513">
+American</word>
+<word bottom="449" left="1365" right="1472" top="474">
+Societ
+y
+</word>
+<word bottom="452" left="1486" right="1514" top="475">
+of</word>
+<word bottom="452" left="1528" right="1589" top="476">
+Civil</word>
+<word bottom="446" left="1604" right="1749" top="476">
+Engineers,</word>
+<word bottom="446" left="1765" right="1853" top="474">
+
+1977)
+
+,
+</word>
+<word bottom="449" left="1867" right="1988" top="474">
+
+357-64.
+</word>
+<word bottom="449" left="2004" right="2084" top="475">
+
+(Proc.
+</word>
+<word bottom="451" left="2105" right="2167" top="474">
+
+16th
+</word>
+<word bottom="446" left="2180" right="2269" top="474">
+Symp.</word>
+<word bottom="449" left="2285" right="2360" top="474">
+Rock</word>
+<word bottom="409" left="1364" right="1519" top="435">
+Mechanics,</word>
+<word bottom="410" left="1539" right="1618" top="436">
+
+7975)
+</word>
+<word bottom="369" left="1372" right="1413" top="392">
+
+13.
+</word>
+<word bottom="364" left="1447" right="1588" top="392">
+Holmberg</word>
+<word bottom="368" left="1600" right="1631" top="393">
+R.</word>
+<word bottom="368" left="1641" right="1693" top="391">
+and</word>
+<word bottom="368" left="1706" right="1797" top="392">
+
+Kraula
+</word>
+<word bottom="367" left="1811" right="1833" top="384">
+ii</word>
+<word bottom="366" left="1849" right="1877" top="389">
+
+.4.
+</word>
+<word bottom="367" left="1892" right="2076" top="391">
+Examination</word>
+<word bottom="368" left="2089" right="2117" top="391">
+of</word>
+<word bottom="369" left="2131" right="2175" top="391">
+the</word>
+<word bottom="367" left="2187" right="2265" top="391">
+crack</word>
+<word bottom="324" left="1368" right="1515" top="350">
+frequency</word>
+<word bottom="327" left="1528" right="1618" top="350">
+before</word>
+<word bottom="326" left="1631" right="1680" top="349">
+and</word>
+<word bottom="327" left="1692" right="1758" top="349">
+after</word>
+<word bottom="327" left="1770" right="1783" top="343">
+a</word>
+<word bottom="325" left="1793" right="1859" top="348">
+
+bia
+
+..
+</word>
+<word bottom="325" left="1871" right="1932" top="348">
+with</word>
+<word bottom="325" left="1974" right="2028" top="350">
+
+250
+</word>
+<word bottom="327" left="2039" right="2094" top="343">
+
+mm
+</word>
+<word bottom="327" left="2108" right="2181" top="348">
+holes</word>
+<word bottom="326" left="2195" right="2218" top="348">
+in</word>
+<word bottom="326" left="2232" right="2276" top="349">
+the</word>
+<word bottom="326" left="2289" right="2362" top="349">
+
+Aitik
+</word>
+<word bottom="281" left="1370" right="1440" top="301">
+open</word>
+<word bottom="281" left="1452" right="1491" top="303">
+pit</word>
+<word bottom="285" left="1503" right="1583" top="309">
+mine.</word>
+<word bottom="281" left="1595" right="1658" top="310">
+Rep.</word>
+<word bottom="284" left="1671" right="1785" top="309">
+Swedish</word>
+<word bottom="284" left="1798" right="1911" top="308">
+
+Deionic
+</word>
+<word bottom="284" left="1922" right="1979" top="308">
+Res.</word>
+<word bottom="284" left="1994" right="2166" top="308">
+Foundation</word>
+<word bottom="285" left="2181" right="2222" top="309">
+DS</word>
+<word bottom="280" left="2236" right="2367" top="310">
+
+1977:12,
+</word>
+<word bottom="244" left="1372" right="1452" top="267">
+
+1977.
+</word>
+<word bottom="242" left="1467" right="1593" top="267">
+(Swedish</word>
+<word bottom="241" left="1606" right="1674" top="267">
+text)</word>
+<word bottom="202" left="1373" right="1414" top="225">
+
+14.
+</word>
+<word bottom="196" left="1450" right="1588" top="225">
+
+Lundborg
+</word>
+<word bottom="202" left="1601" right="1631" top="225">
+N.</word>
+<word bottom="196" left="1647" right="1783" top="224">
+Holmberg</word>
+<word bottom="200" left="1796" right="1825" top="224">
+R.</word>
+<word bottom="200" left="1838" right="1887" top="222">
+and</word>
+<word bottom="200" left="1900" right="2005" top="224">
+Persson</word>
+<word bottom="199" left="2019" right="2044" top="224">
+P.</word>
+<word bottom="201" left="2058" right="2088" top="223">
+A.</word>
+<word bottom="200" left="2103" right="2224" top="223">
+Relation</word>
+<word bottom="200" left="2239" right="2358" top="223">
+between</word>
+<word bottom="157" left="1368" right="1509" top="182">
+vibration,</word>
+<word bottom="159" left="1521" right="1636" top="182">
+distance</word>
+<word bottom="159" left="1648" right="1699" top="182">
+and</word>
+<word bottom="154" left="1711" right="1800" top="181">
+charge</word>
+<word bottom="153" left="1813" right="1915" top="181">
+weight.</word>
+<word bottom="154" left="1927" right="1989" top="182">
+Rep.</word>
+<word bottom="157" left="2003" right="2123" top="182">
+Swedish</word>
+<word bottom="158" left="2137" right="2248" top="182">
+Council</word>
+<word bottom="158" left="2260" right="2302" top="182">
+for</word>
+<word bottom="114" left="1371" right="1490" top="141">
+Building</word>
+<word bottom="118" left="1504" right="1560" top="142">
+Res.</word>
+<word bottom="120" left="1576" right="1596" top="142">
+
+R
+</word>
+<word bottom="113" left="1613" right="1740" top="142">
+
+'1:1978,
+</word>
+<word bottom="115" left="1755" right="1831" top="141">
+
+1978.
+</word>
+<word bottom="115" left="1857" right="1970" top="140">
+Swedish</word>
+<word bottom="116" left="1983" right="2052" top="140">
+text)</word>
+<word bottom="79" left="1367" right="1410" top="102">
+
+15.
+</word>
+<word bottom="74" left="1445" right="1584" top="102">
+Holmberg</word>
+<word bottom="80" left="1597" right="1627" top="103">
+R.</word>
+<word bottom="79" left="1641" right="1742" top="103">
+Results</word>
+<word bottom="79" left="1754" right="1821" top="101">
+from</word>
+<word bottom="78" left="1834" right="1844" top="94">
+
+s
+</word>
+<word bottom="73" left="1856" right="1911" top="100">
+
+ngle
+</word>
+<word bottom="77" left="1923" right="1982" top="100">
+shot</word>
+<word bottom="72" left="1994" right="2097" top="99">
+ground</word>
+<word bottom="77" left="2109" right="2239" top="101">
+vibration</word>
+<word bottom="37" left="1365" right="1581" top="56">
+measurements.</word>
+<word bottom="34" left="1592" right="1655" top="62">
+Rep.</word>
+<word bottom="37" left="1669" right="1784" top="62">
+Swedish</word>
+<word bottom="37" left="1796" right="1847" top="61">
+Der</word>
+<word bottom="36" left="1856" right="1909" top="59">
+
+mic
+</word>
+<word bottom="35" left="1919" right="1978" top="60">
+Res.</word>
+<word bottom="36" left="1990" right="2164" top="61">
+Foundation</word>
+<word bottom="35" left="2178" right="2220" top="60">
+DS</word>
+<word bottom="31" left="2233" right="2347" top="60">
+
+1977:9,
+</word>
+<word bottom="0" left="1368" right="1447" top="20">
+
+11:1177.
+</word>
+<word bottom="0" left="1463" right="1590" top="20">
+(Swedish</word>
+<word bottom="0" left="1602" right="1670" top="21">
+
+terri
+</word>
+<word bottom="3179" left="290" right="393" top="3213">
+Table</word>
+<word bottom="3181" left="410" right="430" top="3213">
+
+2
+</word>
+<word bottom="3181" left="484" right="588" top="3213">
+Some</word>
+<word bottom="3181" left="606" right="768" top="3205">
+common</word>
+<word bottom="3179" left="786" right="978" top="3216">
+explosives</word>
+<word bottom="3185" left="994" right="1074" top="3216">
+used</word>
+<word bottom="3185" left="1092" right="1147" top="3218">
+for</word>
+<word bottom="3179" left="1165" right="1359" top="3219">
+tunnelling</word>
+<word bottom="3187" left="1379" right="1410" top="3218">
+in</word>
+<word bottom="3186" left="1428" right="1575" top="3217">
+Sweden</word>
+<word bottom="3084" left="293" right="427" top="3110">
+Explosive</word>
+<word bottom="3088" left="739" right="872" top="3114">
+Dynamite</word>
+<word bottom="3093" left="887" right="904" top="3116">
+
+13
+</word>
+<word bottom="3094" left="1338" right="1435" top="3118">
+
+ANFO
+</word>
+<word bottom="3096" left="1543" right="1646" top="3119">
+
+NAB1T
+</word>
+<word bottom="3092" left="1742" right="1846" top="3116">
+
+GUR/T
+</word>
+<word bottom="3004" left="294" right="355" top="3025">
+Hole</word>
+<word bottom="3002" left="366" right="502" top="3026">
+diameter,</word>
+<word bottom="3007" left="513" right="566" top="3023">
+
+mm
+</word>
+<word bottom="3007" left="738" right="773" top="3030">
+
+45
+</word>
+<word bottom="3008" left="936" right="970" top="3032">
+
+4.5
+</word>
+<word bottom="3011" left="1134" right="1170" top="3033">
+
+45
+</word>
+<word bottom="3012" left="1339" right="1374" top="3035">
+
+45
+</word>
+<word bottom="3011" left="1543" right="1577" top="3035">
+
+45
+</word>
+<word bottom="3010" left="1742" right="1776" top="3032">
+
+45
+</word>
+<word bottom="2958" left="293" right="386" top="2985">
+Charge</word>
+<word bottom="2959" left="398" right="534" top="2984">
+diameter,</word>
+<word bottom="2965" left="545" right="599" top="2981">
+
+mm
+</word>
+<word bottom="2965" left="738" right="773" top="2987">
+
+45
+</word>
+<word bottom="2966" left="936" right="971" top="2989">
+
+40
+</word>
+<word bottom="2968" left="1135" right="1169" top="2992">
+
+32
+</word>
+<word bottom="2969" left="1338" right="1375" top="2992">
+
+45
+</word>
+<word bottom="2968" left="1543" right="1578" top="2993">
+
+22
+</word>
+<word bottom="2968" left="1745" right="1776" top="2990">
+
+17
+</word>
+<word bottom="2919" left="293" right="427" top="2943">
+Ex
+plosive
+</word>
+<word bottom="2919" left="438" right="551" top="2943">
+density,</word>
+<word bottom="2917" left="564" right="667" top="2950">
+
+kg/dm3
+</word>
+<word bottom="2923" left="742" right="800" top="2947">
+
+1.15
+</word>
+<word bottom="2923" left="940" right="998" top="2948">
+
+1.45
+</word>
+<word bottom="2927" left="1137" right="1200" top="2951">
+
+1.45
+</word>
+<word bottom="2926" left="1338" right="1402" top="2952">
+
+0.95
+</word>
+<word bottom="2927" left="1546" right="1584" top="2951">
+
+1.1
+</word>
+<word bottom="2926" left="1744" right="1786" top="2950">
+
+1.2
+</word>
+<word bottom="2876" left="290" right="386" top="2903">
+Weight</word>
+<word bottom="2876" left="398" right="514" top="2901">
+strength</word>
+<word bottom="2882" left="741" right="800" top="2905">
+
+1.14
+</word>
+<word bottom="2882" left="939" right="999" top="2906">
+
+1.14
+</word>
+<word bottom="2885" left="1137" right="1199" top="2909">
+
+1.14
+</word>
+<word bottom="2885" left="1341" right="1384" top="2909">
+
+1.0
+</word>
+<word bottom="2885" left="1545" right="1606" top="2910">
+
+1,09
+</word>
+<word bottom="2884" left="1742" right="1803" top="2908">
+
+0.83
+</word>
+<word bottom="2835" left="293" right="385" top="2862">
+Charge</word>
+<word bottom="2840" left="400" right="598" top="2858">
+concentration</word>
+<word bottom="2795" left="340" right="398" top="2819">
+real,</word>
+<word bottom="2794" left="412" right="483" top="2819">
+
+kg/m
+</word>
+<word bottom="2797" left="739" right="781" top="2822">
+
+2.0
+</word>
+<word bottom="2799" left="939" right="980" top="2823">
+
+1.6
+</word>
+<word bottom="2802" left="1137" right="1198" top="2826">
+
+1.12
+</word>
+<word bottom="2801" left="1340" right="1383" top="2826">
+
+1.5
+</word>
+<word bottom="2801" left="1542" right="1606" top="2827">
+
+0,40
+</word>
+<word bottom="2801" left="1741" right="1804" top="2825">
+
+0.24
+</word>
+<word bottom="2753" left="343" right="370" top="2778">
+kg</word>
+<word bottom="2758" left="384" right="517" top="2781">
+
+ANFO/m
+</word>
+<word bottom="2756" left="741" right="782" top="2779">
+
+2.3
+</word>
+<word bottom="2758" left="940" right="999" top="2782">
+
+1.82
+</word>
+<word bottom="2760" left="1138" right="1199" top="2784">
+
+1.28
+</word>
+<word bottom="2759" left="1341" right="1383" top="2784">
+
+15
+</word>
+<word bottom="2760" left="1543" right="1607" top="2785">
+
+0.44
+</word>
+<word bottom="2759" left="1742" right="1804" top="2783">
+
+0.29
+</word>
+<word bottom="2714" left="291" right="417" top="2737">
+Borehole</word>
+<word bottom="2713" left="429" right="545" top="2731">
+pressure</word>
+<word bottom="2674" left="341" right="383" top="2695">
+bar</word>
+<word bottom="2674" left="739" right="773" top="2696">
+
+55
+</word>
+<word bottom="2674" left="783" right="837" top="2697">
+
+000
+</word>
+<word bottom="2675" left="937" right="970" top="2698">
+
+32
+</word>
+<word bottom="2675" left="981" right="1035" top="2699">
+
+000
+</word>
+<word bottom="2677" left="1138" right="1169" top="2699">
+
+13
+</word>
+<word bottom="2676" left="1181" right="1236" top="2700">
+
+000
+</word>
+<word bottom="2676" left="1339" right="1369" top="2700">
+
+21
+</word>
+<word bottom="2676" left="1386" right="1442" top="2699">
+
+000
+</word>
+<word bottom="2676" left="1543" right="1558" top="2700">
+
+3
+</word>
+<word bottom="2676" left="1572" right="1625" top="2700">
+
+300
+</word>
+<word bottom="2676" left="1741" right="1794" top="2699">
+
+900
+</word>
+<word bottom="2631" left="341" right="399" top="2654">
+
+MPa
+</word>
+<word bottom="2632" left="757" right="772" top="2654">
+
+5
+</word>
+<word bottom="2633" left="785" right="836" top="2655">
+
+500
+</word>
+<word bottom="2633" left="955" right="970" top="2656">
+
+3
+</word>
+<word bottom="2633" left="983" right="1034" top="2657">
+
+200
+</word>
+<word bottom="2636" left="1156" right="1164" top="2656">
+
+1
+</word>
+<word bottom="2633" left="1182" right="1236" top="2658">
+
+300
+</word>
+<word bottom="2634" left="1358" right="1374" top="2658">
+
+2
+</word>
+<word bottom="2634" left="1390" right="1442" top="2657">
+
+100
+</word>
+<word bottom="2631" left="1572" right="1626" top="2656">
+
+330
+</word>
+<word bottom="2633" left="1760" right="1794" top="2657">
+so</word>
+<word bottom="2547" left="291" right="423" top="2570">
+Drill-hole</word>
+<word bottom="2504" left="291" right="422" top="2528">
+diameter,</word>
+<word bottom="2508" left="437" right="489" top="2523">
+
+mm
+</word>
+<word bottom="2545" left="739" right="833" top="2570">
+Charge</word>
+<word bottom="2546" left="846" right="1053" top="2568">
+concentration,</word>
+<word bottom="2503" left="739" right="769" top="2529">
+kg</word>
+<word bottom="2508" left="780" right="824" top="2530">
+AN</word>
+<word bottom="2507" left="832" right="914" top="2530">
+
+FO/m
+</word>
+<word bottom="2544" left="1134" right="1233" top="2572">
+Charge</word>
+<word bottom="2546" left="1244" right="1309" top="2568">
+type</word>
+<word bottom="2546" left="1441" right="1555" top="2573">
+Burden,</word>
+<word bottom="2550" left="1567" right="1593" top="2566">
+
+m
+</word>
+<word bottom="2509" left="1135" right="1185" top="2531">
+and</word>
+<word bottom="2507" left="1198" right="1248" top="2530">
+size</word>
+<word bottom="2549" left="1743" right="1806" top="2570">
+Hobe</word>
+<word bottom="2543" left="1819" right="1930" top="2564">
+spacing,</word>
+<word bottom="2423" left="291" right="385" top="2446">
+
+25-32
+</word>
+<word bottom="2424" left="738" right="800" top="2447">
+
+0.08
+</word>
+<word bottom="2425" left="1137" right="1236" top="2447">
+
+11-mm
+</word>
+<word bottom="2424" left="1248" right="1357" top="2449">
+
+GURIT
+</word>
+<word bottom="2424" left="1442" right="1595" top="2448">
+
+0.30-0.45
+</word>
+<word bottom="2424" left="1742" right="1892" top="2448">
+
+0.25
+
+-0.35
+</word>
+<word bottom="2381" left="289" right="386" top="2405">
+
+25-48
+</word>
+<word bottom="2382" left="737" right="801" top="2405">
+
+0.20
+</word>
+<word bottom="2383" left="1138" right="1236" top="2405">
+
+17-mm
+</word>
+<word bottom="2383" left="1249" right="1270" top="2406">
+
+G
+</word>
+<word bottom="2382" left="1276" right="1321" top="2406">
+UR</word>
+<word bottom="2383" left="1328" right="1358" top="2407">
+IT</word>
+<word bottom="2382" left="1442" right="1597" top="2406">
+
+0.70-0.90
+</word>
+<word bottom="2382" left="1742" right="1894" top="2406">
+
+0.50-0.70
+</word>
+<word bottom="2340" left="289" right="385" top="2363">
+
+51-6.4
+</word>
+<word bottom="2340" left="737" right="800" top="2363">
+
+0.44
+</word>
+<word bottom="2341" left="1135" right="1236" top="2364">
+
+22-mm
+</word>
+<word bottom="2341" left="1249" right="1318" top="2364">
+NAB</word>
+<word bottom="2341" left="1326" right="1355" top="2365">
+IT</word>
+<word bottom="2340" left="1446" right="1597" top="2364">
+
+1.00-1.10
+</word>
+<word bottom="2340" left="1741" right="1894" top="2364">
+
+0.80-0.90
+</word>
+</words>
+</ocrresult>
+

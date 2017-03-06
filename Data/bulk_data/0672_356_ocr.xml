@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543811167.png" width="2560"/>
+<words>
+<word bottom="3063" left="254" right="374" top="3098">
+Finding</word>
+<word bottom="3070" left="387" right="531" top="3098">
+Direction</word>
+<word bottom="3071" left="545" right="663" top="3098">
+Cosines</word>
+<word bottom="3071" left="676" right="720" top="3098">
+for</word>
+<word bottom="3071" left="731" right="747" top="3089">
+a</word>
+<word bottom="3069" left="760" right="851" top="3097">
+Given</word>
+<word bottom="3069" left="865" right="950" top="3097">
+Plane</word>
+<word bottom="2921" left="253" right="272" top="2953">
+
+S
+</word>
+<word bottom="2922" left="288" right="341" top="2953">
+
+50°
+</word>
+<word bottom="2923" left="356" right="390" top="2954">
+E.</word>
+<word bottom="2923" left="406" right="605" top="2955">
+Coordinate</word>
+<word bottom="2923" left="619" right="693" top="2945">
+axes</word>
+<word bottom="2923" left="707" right="770" top="2955">
+will</word>
+<word bottom="2923" left="784" right="824" top="2954">
+be</word>
+<word bottom="2923" left="837" right="935" top="2954">
+taken</word>
+<word bottom="2923" left="950" right="985" top="2945">
+as</word>
+<word bottom="2923" left="999" right="1138" top="2955">
+follows:</word>
+<word bottom="2923" left="1152" right="1173" top="2944">
+
+x
+</word>
+<word bottom="2923" left="1188" right="1214" top="2954">
+is</word>
+<word bottom="2922" left="1229" right="1410" top="2954">
+horizontal</word>
+<word bottom="2922" left="1424" right="1458" top="2948">
+to</word>
+<word bottom="2922" left="1473" right="1527" top="2953">
+the</word>
+<word bottom="2915" left="1541" right="1621" top="2946">
+east;</word>
+<word bottom="2913" left="1635" right="1655" top="2941">
+
+y
+</word>
+<word bottom="2921" left="1668" right="1694" top="2952">
+is</word>
+<word bottom="2873" left="253" right="435" top="2904">
+horizontal</word>
+<word bottom="2870" left="448" right="559" top="2905">
+north;</word>
+<word bottom="2874" left="572" right="637" top="2906">
+and</word>
+<word bottom="2874" left="650" right="667" top="2895">
+
+z
+</word>
+<word bottom="2874" left="680" right="706" top="2905">
+is</word>
+<word bottom="2866" left="720" right="862" top="2905">
+upward.</word>
+<word bottom="2824" left="293" right="361" top="2854">
+The</word>
+<word bottom="2816" left="382" right="514" top="2856">
+bearing</word>
+<word bottom="2825" left="533" right="569" top="2856">
+of</word>
+<word bottom="2825" left="586" right="638" top="2856">
+the</word>
+<word bottom="2816" left="659" right="792" top="2855">
+upward</word>
+<word bottom="2825" left="813" right="940" top="2855">
+normal</word>
+<word bottom="2824" left="962" right="995" top="2851">
+to</word>
+<word bottom="2825" left="1017" right="1070" top="2855">
+the</word>
+<word bottom="2816" left="1090" right="1186" top="2855">
+plane</word>
+<word bottom="2824" left="1206" right="1232" top="2855">
+is</word>
+<word bottom="2823" left="1253" right="1305" top="2855">
+the</word>
+<word bottom="2823" left="1325" right="1413" top="2845">
+same</word>
+<word bottom="2823" left="1433" right="1469" top="2845">
+as</word>
+<word bottom="2823" left="1488" right="1542" top="2853">
+the</word>
+<word bottom="2813" left="1563" right="1695" top="2854">
+bearing</word>
+<word bottom="2773" left="254" right="290" top="2805">
+of</word>
+<word bottom="2774" left="304" right="342" top="2805">
+its</word>
+<word bottom="2766" left="359" right="426" top="2805">
+dip,</word>
+<word bottom="2775" left="442" right="506" top="2806">
+and</word>
+<word bottom="2775" left="524" right="547" top="2806">
+it</word>
+<word bottom="2775" left="565" right="640" top="2806">
+rises</word>
+<word bottom="2775" left="658" right="689" top="2800">
+at</word>
+<word bottom="2775" left="708" right="727" top="2796">
+a</word>
+<word bottom="2775" left="745" right="873" top="2806">
+vertical</word>
+<word bottom="2767" left="892" right="984" top="2806">
+angle</word>
+<word bottom="2766" left="1001" right="1220" top="2806">
+complement</word>
+<word bottom="2774" left="1237" right="1272" top="2801">
+to</word>
+<word bottom="2773" left="1288" right="1343" top="2805">
+the</word>
+<word bottom="2773" left="1360" right="1495" top="2799">
+amount</word>
+<word bottom="2773" left="1513" right="1550" top="2804">
+of</word>
+<word bottom="2764" left="1563" right="1627" top="2804">
+dip.</word>
+<word bottom="2773" left="1644" right="1694" top="2803">
+To</word>
+<word bottom="2715" left="253" right="348" top="2755">
+apply</word>
+<word bottom="2716" left="365" right="544" top="2756">
+Equations</word>
+<word bottom="2725" left="560" right="659" top="2756">
+
+A1.16
+</word>
+<word bottom="2725" left="675" right="709" top="2751">
+to</word>
+<word bottom="2725" left="725" right="881" top="2757">
+calculate</word>
+<word bottom="2725" left="896" right="950" top="2757">
+the</word>
+<word bottom="2725" left="966" right="1095" top="2752">
+stresses</word>
+<word bottom="2725" left="1112" right="1220" top="2747">
+across</word>
+<word bottom="2725" left="1236" right="1289" top="2756">
+the</word>
+<word bottom="2716" left="1304" right="1396" top="2755">
+given</word>
+<word bottom="2716" left="1413" right="1516" top="2754">
+plane,</word>
+<word bottom="2715" left="1533" right="1624" top="2755">
+given</word>
+<word bottom="2723" left="1641" right="1694" top="2755">
+the</word>
+<word bottom="2674" left="254" right="336" top="2705">
+local</word>
+<word bottom="2674" left="349" right="430" top="2701">
+state</word>
+<word bottom="2675" left="444" right="481" top="2706">
+of</word>
+<word bottom="2669" left="489" right="592" top="2701">
+stress,</word>
+<word bottom="2676" left="606" right="652" top="2697">
+we</word>
+<word bottom="2675" left="664" right="808" top="2707">
+describe</word>
+<word bottom="2675" left="822" right="901" top="2707">
+each</word>
+<word bottom="2676" left="914" right="951" top="2707">
+of</word>
+<word bottom="2676" left="960" right="1014" top="2706">
+the</word>
+<word bottom="2675" left="1027" right="1101" top="2697">
+axes</word>
+<word bottom="2669" left="1115" right="1155" top="2706">
+
+x',
+</word>
+<word bottom="2667" left="1167" right="1205" top="2706">
+
+y',
+</word>
+<word bottom="2674" left="1219" right="1244" top="2706">
+
+z'
+</word>
+<word bottom="2666" left="1258" right="1299" top="2705">
+by</word>
+<word bottom="2674" left="1312" right="1331" top="2696">
+a</word>
+<word bottom="2674" left="1344" right="1526" top="2706">
+horizontal</word>
+<word bottom="2666" left="1540" right="1633" top="2704">
+angle</word>
+<word bottom="2666" left="1645" right="1694" top="2705">
+(ß
+)
+</word>
+<word bottom="2624" left="254" right="316" top="2656">
+and</word>
+<word bottom="2625" left="330" right="349" top="2646">
+a</word>
+<word bottom="2625" left="362" right="491" top="2657">
+vertical</word>
+<word bottom="2617" left="504" right="596" top="2657">
+angle</word>
+<word bottom="2619" left="608" right="656" top="2658">
+
+(6)
+</word>
+<word bottom="2626" left="668" right="703" top="2648">
+as</word>
+<word bottom="2626" left="716" right="829" top="2658">
+shown</word>
+<word bottom="2626" left="842" right="875" top="2658">
+in</word>
+<word bottom="2618" left="889" right="1005" top="2658">
+Figure</word>
+<word bottom="2621" left="1017" right="1131" top="2657">
+
+A1.13;
+</word>
+<word bottom="2618" left="1145" right="1166" top="2658">
+
+#
+</word>
+<word bottom="2625" left="1179" right="1205" top="2656">
+is</word>
+<word bottom="2625" left="1218" right="1272" top="2657">
+the</word>
+<word bottom="2624" left="1284" right="1589" top="2655">
+counterclockwise</word>
+<word bottom="2616" left="1602" right="1694" top="2655">
+angle</word>
+<word bottom="2574" left="254" right="337" top="2603">
+from</word>
+<word bottom="2575" left="352" right="373" top="2595">
+
+x
+</word>
+<word bottom="2575" left="390" right="423" top="2601">
+to</word>
+<word bottom="2575" left="440" right="493" top="2606">
+the</word>
+<word bottom="2575" left="508" right="688" top="2607">
+horizontal</word>
+<word bottom="2568" left="704" right="883" top="2607">
+projection</word>
+<word bottom="2576" left="900" right="937" top="2607">
+of</word>
+<word bottom="2576" left="949" right="1002" top="2607">
+the</word>
+<word bottom="2576" left="1017" right="1084" top="2607">
+axis</word>
+<word bottom="2575" left="1100" right="1132" top="2606">
+in</word>
+<word bottom="2567" left="1148" right="1298" top="2606">
+question</word>
+<word bottom="2574" left="1314" right="1407" top="2606">
+while</word>
+<word bottom="2575" left="1422" right="1440" top="2606">
+
+(5
+</word>
+<word bottom="2574" left="1456" right="1482" top="2605">
+is</word>
+<word bottom="2574" left="1497" right="1550" top="2606">
+the</word>
+<word bottom="2574" left="1566" right="1695" top="2605">
+vertical</word>
+<word bottom="2516" left="254" right="346" top="2556">
+angle</word>
+<word bottom="2525" left="358" right="500" top="2556">
+between</word>
+<word bottom="2525" left="512" right="565" top="2557">
+the</word>
+<word bottom="2525" left="576" right="644" top="2557">
+axis</word>
+<word bottom="2526" left="654" right="719" top="2557">
+and</word>
+<word bottom="2526" left="731" right="770" top="2558">
+its</word>
+<word bottom="2526" left="782" right="965" top="2558">
+horizontal</word>
+<word bottom="2517" left="976" right="1165" top="2557">
+projection.</word>
+<word bottom="2525" left="1177" right="1246" top="2557">
+The</word>
+<word bottom="2525" left="1257" right="1319" top="2556">
+line</word>
+<word bottom="2524" left="1329" right="1381" top="2556">
+
+Ox'
+</word>
+<word bottom="2524" left="1393" right="1418" top="2555">
+is</word>
+<word bottom="2524" left="1429" right="1462" top="2555">
+in</word>
+<word bottom="2524" left="1473" right="1527" top="2556">
+the</word>
+<word bottom="2524" left="1538" right="1694" top="2556">
+direction</word>
+<word bottom="2476" left="255" right="290" top="2508">
+of</word>
+<word bottom="2476" left="297" right="349" top="2508">
+the</word>
+<word bottom="2469" left="360" right="493" top="2509">
+upward</word>
+<word bottom="2478" left="504" right="639" top="2510">
+normal.</word>
+<word bottom="2479" left="651" right="677" top="2509">
+It</word>
+<word bottom="2470" left="689" right="804" top="2501">
+proves</word>
+<word bottom="2478" left="815" right="1006" top="2509">
+convenient</word>
+<word bottom="2479" left="1018" right="1052" top="2505">
+to</word>
+<word bottom="2478" left="1064" right="1138" top="2509">
+take</word>
+<word bottom="2469" left="1147" right="1175" top="2509">
+
+y'
+</word>
+<word bottom="2469" left="1187" right="1323" top="2508">
+positive</word>
+<word bottom="2477" left="1333" right="1425" top="2507">
+when</word>
+<word bottom="2476" left="1436" right="1576" top="2507">
+directed</word>
+<word bottom="2467" left="1588" right="1632" top="2497">
+up</word>
+<word bottom="2475" left="1642" right="1695" top="2507">
+the</word>
+<word bottom="2418" left="254" right="389" top="2453">
+steepest</word>
+<word bottom="2419" left="400" right="490" top="2458">
+slope</word>
+<word bottom="2427" left="500" right="536" top="2459">
+of</word>
+<word bottom="2427" left="542" right="596" top="2459">
+the</word>
+<word bottom="2419" left="605" right="709" top="2460">
+plane,</word>
+<word bottom="2428" left="719" right="788" top="2460">
+that</word>
+<word bottom="2423" left="799" right="834" top="2459">
+is,</word>
+<word bottom="2419" left="844" right="995" top="2460">
+opposite</word>
+<word bottom="2428" left="1005" right="1039" top="2454">
+to</word>
+<word bottom="2428" left="1050" right="1104" top="2459">
+the</word>
+<word bottom="2419" left="1113" right="1170" top="2460">
+dip</word>
+<word bottom="2422" left="1181" right="1299" top="2454">
+vector,</word>
+<word bottom="2427" left="1308" right="1373" top="2458">
+and</word>
+<word bottom="2427" left="1383" right="1408" top="2458">
+
+z'
+</word>
+<word bottom="2419" left="1419" right="1516" top="2458">
+along</word>
+<word bottom="2427" left="1526" right="1579" top="2458">
+the</word>
+<word bottom="2420" left="1590" right="1695" top="2458">
+strike,</word>
+<word bottom="2376" left="255" right="290" top="2398">
+as</word>
+<word bottom="2377" left="304" right="417" top="2408">
+shown</word>
+<word bottom="2377" left="432" right="464" top="2408">
+in</word>
+<word bottom="2369" left="479" right="594" top="2409">
+Figure</word>
+<word bottom="2379" left="608" right="694" top="2409">
+
+A1.9.
+</word>
+<word bottom="2379" left="711" right="775" top="2409">
+For</word>
+<word bottom="2378" left="790" right="843" top="2410">
+the</word>
+<word bottom="2378" left="858" right="1020" top="2410">
+indicated</word>
+<word bottom="2369" left="1035" right="1177" top="2410">
+bedding</word>
+<word bottom="2369" left="1191" right="1287" top="2409">
+plane</word>
+<word bottom="2372" left="1301" right="1386" top="2409">
+then,</word>
+<word bottom="2377" left="1401" right="1454" top="2409">
+the</word>
+<word bottom="2368" left="1469" right="1616" top="2408">
+bearings</word>
+<word bottom="2377" left="1631" right="1695" top="2408">
+and</word>
+<word bottom="2327" left="256" right="315" top="2358">
+rise</word>
+<word bottom="2319" left="328" right="437" top="2358">
+angles</word>
+<word bottom="2328" left="451" right="486" top="2359">
+of</word>
+<word bottom="2328" left="497" right="549" top="2359">
+the</word>
+<word bottom="2329" left="563" right="650" top="2359">
+three</word>
+<word bottom="2329" left="663" right="737" top="2351">
+axes</word>
+<word bottom="2329" left="751" right="805" top="2351">
+are</word>
+<word bottom="2320" left="818" right="948" top="2360">
+(Figure</word>
+<word bottom="2322" left="962" right="1088" top="2360">
+
+A1.12):
+</word>
+<word bottom="896" left="863" right="879" top="909">
+
+x
+</word>
+<word bottom="895" left="912" right="964" top="916">
+East</word>
+<word bottom="829" left="868" right="966" top="863">
+Figure</word>
+<word bottom="837" left="985" right="1075" top="864">
+
+A1.13
+</word>
+<word bottom="1227" left="1028" right="1158" top="1254">
+Projection</word>
+<word bottom="1232" left="1170" right="1196" top="1254">
+of</word>
+<word bottom="1199" left="1089" right="1116" top="1214">
+
+ax
+</word>
+<word bottom="1199" left="1122" right="1137" top="1220">
+is</word>
+<word bottom="1321" left="1274" right="1348" top="1343">
+North</word>
+<word bottom="3070" left="1629" right="1689" top="3102">
+
+347
+</word>
+<word bottom="1595" left="2335" right="2346" top="1613">
+
+:j.
+</word>
+<word bottom="2212" left="557" right="718" top="2250">
+Compass</word>
+<word bottom="2219" left="1152" right="1227" top="2251">
+Rise</word>
+<word bottom="2211" left="1240" right="1344" top="2251">
+Angle</word>
+<word bottom="2212" left="1358" right="1404" top="2252">
+
+(6)
+</word>
+<word bottom="2168" left="395" right="472" top="2200">
+Line</word>
+<word bottom="2161" left="569" right="705" top="2200">
+Bearing</word>
+<word bottom="2162" left="837" right="886" top="2201">
+
+(0)
+</word>
+<word bottom="2162" left="1007" right="1160" top="2201">
+(Positive</word>
+<word bottom="2170" left="1173" right="1201" top="2201">
+if</word>
+<word bottom="2169" left="1210" right="1326" top="2200">
+Above</word>
+<word bottom="2161" left="1340" right="1546" top="2200">
+Horizontal)</word>
+<word bottom="2069" left="416" right="449" top="2099">
+
+x'
+</word>
+<word bottom="2071" left="562" right="582" top="2101">
+
+S
+</word>
+<word bottom="2070" left="597" right="651" top="2101">
+
+50°
+</word>
+<word bottom="2071" left="665" right="690" top="2102">
+
+E
+</word>
+<word bottom="2071" left="830" right="920" top="2101">
+_4Ø0</word>
+<word bottom="2071" left="1252" right="1304" top="2101">
+
+550
+</word>
+<word bottom="2010" left="414" right="446" top="2048">
+
+y'
+</word>
+<word bottom="2020" left="562" right="593" top="2050">
+
+N
+</word>
+<word bottom="2020" left="609" right="662" top="2050">
+
+50°
+</word>
+<word bottom="2020" left="676" right="715" top="2051">
+
+W
+</word>
+<word bottom="2020" left="849" right="920" top="2051">
+
+1400
+</word>
+<word bottom="2019" left="1251" right="1305" top="2050">
+
+35°
+</word>
+<word bottom="1969" left="416" right="443" top="1999">
+
+z'
+</word>
+<word bottom="1970" left="562" right="582" top="2001">
+
+S
+</word>
+<word bottom="1970" left="595" right="651" top="2001">
+
+40°
+</word>
+<word bottom="1971" left="664" right="704" top="2001">
+
+W
+</word>
+<word bottom="1971" left="809" right="920" top="2001">
+—130°</word>
+<word bottom="1971" left="1270" right="1289" top="2001">
+
+0
+</word>
+</words>
+</ocrresult>
+

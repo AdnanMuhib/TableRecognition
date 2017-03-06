@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2544" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490679297.png" width="3312"/>
+<words>
+<word bottom="1810" left="420" right="494" top="1833">
+
+Core
+</word>
+<word bottom="1733" left="402" right="531" top="1758">
+
+G4-1502
+</word>
+<word bottom="1930" left="1009" right="1120" top="1954">
+Traced</word>
+<word bottom="1890" left="781" right="893" top="1914">
+Traced</word>
+<word bottom="1891" left="1028" right="1102" top="1915">
+Feed</word>
+<word bottom="1851" left="800" right="874" top="1875">
+Feed</word>
+<word bottom="1852" left="952" right="1198" top="1876">
+Concentration</word>
+<word bottom="1848" left="1239" right="1387" top="1878">
+Sorption</word>
+<word bottom="1811" left="591" right="721" top="1835">
+Element</word>
+<word bottom="1806" left="804" right="872" top="1838">
+(pH)</word>
+<word bottom="1810" left="1051" right="1100" top="1840">
+
+(M)
+</word>
+<word bottom="1816" left="1275" right="1349" top="1839">
+Time</word>
+<word bottom="1728" left="649" right="684" top="1758">
+
+Np
+</word>
+<word bottom="1505" left="652" right="687" top="1528">
+Pu</word>
+<word bottom="1390" left="651" right="687" top="1414">
+
+Tc
+</word>
+<word bottom="1063" left="407" right="424" top="1080">
+a</word>
+<word bottom="1043" left="426" right="576" top="1067">
+Fraction</word>
+<word bottom="1044" left="598" right="671" top="1068">
+size</word>
+<word bottom="1044" left="694" right="727" top="1068">
+is</word>
+<word bottom="1045" left="751" right="785" top="1069">
+
+75
+</word>
+<word bottom="1045" left="809" right="842" top="1066">
+to</word>
+<word bottom="1045" left="865" right="918" top="1069">
+
+500
+</word>
+<word bottom="1041" left="939" right="991" top="1062">
+pm.</word>
+<word bottom="987" left="409" right="425" top="1011">
+
+b
+</word>
+<word bottom="967" left="427" right="556" top="991">
+Numbers</word>
+<word bottom="968" left="580" right="614" top="990">
+in</word>
+<word bottom="962" left="636" right="841" top="991">
+parentheses</word>
+<word bottom="968" left="865" right="918" top="985">
+are</word>
+<word bottom="970" left="941" right="1089" top="994">
+standard</word>
+<word bottom="970" left="1112" right="1298" top="994">
+deviations</word>
+<word bottom="972" left="1322" right="1355" top="995">
+of</word>
+<word bottom="972" left="1380" right="1432" top="996">
+the</word>
+<word bottom="973" left="1453" right="1544" top="990">
+mean.</word>
+<word bottom="2088" left="1464" right="1558" top="2111">
+TABLE</word>
+<word bottom="2089" left="1581" right="1614" top="2112">
+II</word>
+<word bottom="2086" left="1639" right="1746" top="2115">
+
+(cont)
+</word>
+<word bottom="1966" left="1562" right="1711" top="1995">
+Sorption</word>
+<word bottom="1973" left="1731" right="1841" top="1996">
+Ratios</word>
+<word bottom="1929" left="1679" right="1784" top="1961">
+(Wig)</word>
+<word bottom="1889" left="1465" right="1692" top="1919">
+Experimental</word>
+<word bottom="1880" left="1808" right="1940" top="1921">
+Average</word>
+<word bottom="1857" left="1523" right="1616" top="1879">
+Value</word>
+<word bottom="1858" left="1827" right="1920" top="1882">
+Value</word>
+<word bottom="1811" left="1546" right="1614" top="1844">
+(pH)</word>
+<word bottom="1813" left="1851" right="1918" top="1846">
+(pH)</word>
+<word bottom="1738" left="995" right="1005" top="1761">
+
+1
+</word>
+<word bottom="1737" left="1029" right="1046" top="1753">
+
+x
+</word>
+<word bottom="1738" left="1071" right="1103" top="1762">
+
+10
+</word>
+<word bottom="1760" left="1106" right="1139" top="1782">
+
+-1
+</word>
+<word bottom="1759" left="1144" right="1160" top="1781">
+
+0
+</word>
+<word bottom="1736" left="822" right="893" top="1761">
+
+8.72
+</word>
+<word bottom="1739" left="1261" right="1275" top="1764">
+
+6
+</word>
+<word bottom="1739" left="1293" right="1386" top="1763">
+weeks</word>
+<word bottom="1740" left="1468" right="1523" top="1766">
+
+4.6
+</word>
+<word bottom="1742" left="1622" right="1674" top="1767">
+
+3.5
+</word>
+<word bottom="1743" left="1792" right="1845" top="1768">
+
+4.0
+</word>
+<word bottom="1740" left="1871" right="1919" top="1769">
+
+(1)
+</word>
+<word bottom="1699" left="1452" right="1558" top="1728">
+
+(8.33)
+</word>
+<word bottom="1699" left="1605" right="1711" top="1729">
+
+(8.32)
+</word>
+<word bottom="1626" left="1260" right="1275" top="1650">
+
+3
+</word>
+<word bottom="1626" left="1295" right="1407" top="1649">
+months</word>
+<word bottom="1627" left="1469" right="1520" top="1651">
+
+5.1
+</word>
+<word bottom="1628" left="1623" right="1675" top="1653">
+
+3.4
+</word>
+<word bottom="1629" left="1793" right="1846" top="1654">
+
+4.3
+</word>
+<word bottom="1625" left="1871" right="1920" top="1655">
+
+(1)
+</word>
+<word bottom="1585" left="1452" right="1559" top="1614">
+
+(8.66)
+</word>
+<word bottom="1586" left="1606" right="1711" top="1615">
+
+(8.70)
+</word>
+<word bottom="1506" left="824" right="895" top="1531">
+
+8.65
+</word>
+<word bottom="1507" left="997" right="1048" top="1531">
+
+1.5
+</word>
+<word bottom="1507" left="1069" right="1086" top="1524">
+
+x
+</word>
+<word bottom="1509" left="1111" right="1144" top="1532">
+
+10
+</word>
+<word bottom="1529" left="1147" right="1179" top="1552">
+
+-7
+</word>
+<word bottom="1510" left="1263" right="1278" top="1535">
+
+6
+</word>
+<word bottom="1510" left="1295" right="1389" top="1534">
+weeks</word>
+<word bottom="1511" left="1490" right="1526" top="1536">
+
+56
+</word>
+<word bottom="1512" left="1644" right="1677" top="1537">
+
+62
+</word>
+<word bottom="1513" left="1776" right="1810" top="1537">
+
+59
+</word>
+<word bottom="1510" left="1835" right="1921" top="1539">
+
+(3.4)
+</word>
+<word bottom="1469" left="1454" right="1560" top="1499">
+
+(8.72)
+</word>
+<word bottom="1470" left="1606" right="1713" top="1501">
+
+(8.69)
+</word>
+<word bottom="1393" left="996" right="1011" top="1417">
+
+8
+</word>
+<word bottom="1393" left="1031" right="1049" top="1409">
+
+x
+</word>
+<word bottom="1394" left="1073" right="1106" top="1417">
+
+10
+</word>
+<word bottom="1415" left="1108" right="1163" top="1438">
+
+-10
+</word>
+<word bottom="1392" left="825" right="896" top="1417">
+
+8.74
+</word>
+<word bottom="1395" left="1264" right="1279" top="1420">
+
+6
+</word>
+<word bottom="1396" left="1297" right="1390" top="1420">
+weeks</word>
+<word bottom="1397" left="1470" right="1563" top="1422">
+
+0.042
+</word>
+<word bottom="1398" left="1605" right="1715" top="1422">
+
+-0.003
+</word>
+<word bottom="1399" left="1794" right="1867" top="1423">
+
+0.02
+</word>
+<word bottom="1396" left="1892" right="1998" top="1426">
+
+(0.02)
+</word>
+<word bottom="1354" left="1456" right="1561" top="1383">
+
+(8.60)
+</word>
+<word bottom="1355" left="1608" right="1713" top="1385">
+
+(8.60)
+</word>
+<word bottom="1281" left="1247" right="1278" top="1305">
+
+13
+</word>
+<word bottom="1281" left="1298" right="1391" top="1304">
+weeks</word>
+<word bottom="1281" left="1471" right="1546" top="1307">
+
+0.06
+</word>
+<word bottom="1283" left="1606" right="1717" top="1307">
+
+-0.038
+</word>
+<word bottom="1284" left="1796" right="1867" top="1308">
+
+0.01
+</word>
+<word bottom="1281" left="1894" right="2000" top="1310">
+
+(0.05)
+</word>
+<word bottom="1239" left="1456" right="1526" top="1269">
+
+(9.0
+</word>
+<word bottom="1240" left="1551" right="1562" top="1269">
+
+)
+</word>
+<word bottom="1241" left="1608" right="1714" top="1270">
+
+(8.81)
+</word>
+<word bottom="1855" left="2038" right="2226" top="1883">
+Desorption</word>
+<word bottom="1823" left="2094" right="2168" top="1845">
+Time</word>
+<word bottom="1745" left="2042" right="2057" top="1769">
+
+6
+</word>
+<word bottom="1745" left="2075" right="2168" top="1769">
+weeks</word>
+<word bottom="1515" left="2044" right="2060" top="1539">
+
+6
+</word>
+<word bottom="1515" left="2077" right="2170" top="1539">
+weeks</word>
+<word bottom="1975" left="2360" right="2549" top="2003">
+Desorption</word>
+<word bottom="1981" left="2570" right="2680" top="2004">
+Ratios</word>
+<word bottom="1934" left="2479" right="2584" top="1967">
+
+(110,/g)
+</word>
+<word bottom="1895" left="2303" right="2529" top="1925">
+Experimental</word>
+<word bottom="1886" left="2607" right="2739" top="1925">
+
+Averagg
+</word>
+<word bottom="1862" left="2380" right="2473" top="1886">
+Value</word>
+<word bottom="1863" left="2627" right="2719" top="1887">
+Value</word>
+<word bottom="1819" left="2384" right="2452" top="1851">
+(pH)</word>
+<word bottom="1819" left="2651" right="2718" top="1852">
+(pH)</word>
+<word bottom="1748" left="2329" right="2359" top="1771">
+
+13
+</word>
+<word bottom="1748" left="2500" right="2531" top="1771">
+
+10
+</word>
+<word bottom="1750" left="2652" right="2681" top="1773">
+
+11
+</word>
+<word bottom="1746" left="2709" right="2757" top="1774">
+
+(2)
+</word>
+<word bottom="1705" left="2291" right="2397" top="1735">
+
+(8.1
+
+1)
+</word>
+<word bottom="1707" left="2462" right="2568" top="1736">
+
+(8.70)
+</word>
+<word bottom="1518" left="2309" right="2363" top="1542">
+
+260
+</word>
+<word bottom="1518" left="2483" right="2534" top="1542">
+
+190
+</word>
+<word bottom="1519" left="2633" right="2686" top="1543">
+
+230
+</word>
+<word bottom="1517" left="2711" right="2778" top="1545">
+
+(34)
+</word>
+<word bottom="1475" left="2292" right="2398" top="1504">
+
+(8.69)
+</word>
+<word bottom="1477" left="2463" right="2570" top="1506">
+
+(8.69)
+</word>
+<word bottom="1364" left="2289" right="2343" top="1387">
+Not</word>
+<word bottom="1359" left="2365" right="2553" top="1389">
+Applicable</word>
+</words>
+</ocrresult>
+

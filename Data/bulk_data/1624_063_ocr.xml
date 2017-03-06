@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490618850.png" width="2544"/>
+<words>
+<word bottom="2988" left="339" right="514" top="3024">
+Columns</word>
+<word bottom="2886" left="364" right="489" top="2921">
+
+66-70
+</word>
+<word bottom="2886" left="691" right="917" top="2925">
+Stiffness</word>
+<word bottom="2886" left="945" right="1094" top="2924">
+matrix</word>
+<word bottom="2881" left="1122" right="1269" top="2924">
+option</word>
+<word bottom="2884" left="1299" right="1464" top="2929">
+
+[SMOPT]
+</word>
+<word bottom="2984" left="1247" right="1443" top="3026">
+Quantity</word>
+<word bottom="2990" left="2173" right="2322" top="3026">
+Format</word>
+<word bottom="2761" left="742" right="860" top="2800">
+
+EQ.1:
+</word>
+<word bottom="2754" left="895" right="1045" top="2798">
+Hughes</word>
+<word bottom="2764" left="1072" right="1096" top="2805">
+
+B
+</word>
+<word bottom="2762" left="1127" right="1342" top="2806">
+(default)</word>
+<word bottom="2612" left="742" right="863" top="2651">
+
+EQ.2:
+</word>
+<word bottom="2614" left="897" right="972" top="2650">
+old</word>
+<word bottom="2613" left="999" right="1150" top="2650">
+
+NIKE2D
+</word>
+<word bottom="2612" left="1178" right="1446" top="2650">
+formulation</word>
+<word bottom="2459" left="368" right="490" top="2496">
+
+71-75
+</word>
+<word bottom="2461" left="692" right="842" top="2497">
+Number</word>
+<word bottom="2461" left="871" right="921" top="2499">
+of</word>
+<word bottom="2452" left="948" right="1219" top="2498">
+
+eigenvalues
+</word>
+<word bottom="2461" left="1248" right="1320" top="2499">
+and</word>
+<word bottom="2453" left="1346" right="1642" top="2499">
+
+eigenvectors
+</word>
+<word bottom="2462" left="1671" right="1719" top="2499">
+to</word>
+<word bottom="2456" left="1749" right="1891" top="2501">
+[NEIG]</word>
+<word bottom="2389" left="694" right="743" top="2424">
+be</word>
+<word bottom="2388" left="770" right="999" top="2425">
+extracted</word>
+<word bottom="2891" left="2175" right="2221" top="2926">
+
+15
+</word>
+<word bottom="2465" left="2173" right="2220" top="2501">
+
+15
+</word>
+<word bottom="2242" left="369" right="495" top="2277">
+
+76-80
+</word>
+<word bottom="2241" left="694" right="795" top="2277">
+Load</word>
+<word bottom="2240" left="823" right="948" top="2268">
+curve</word>
+<word bottom="2240" left="975" right="1124" top="2276">
+number</word>
+<word bottom="2240" left="1153" right="1223" top="2276">
+for</word>
+<word bottom="2232" left="1249" right="1446" top="2278">
+magnetic</word>
+<word bottom="2233" left="1472" right="1570" top="2277">
+body</word>
+<word bottom="2240" left="1600" right="1721" top="2277">
+force</word>
+<word bottom="2239" left="1750" right="1871" top="2280">
+loads</word>
+<word bottom="2240" left="1900" right="1949" top="2278">
+if</word>
+<word bottom="2233" left="1974" right="2047" top="2268">
+any</word>
+<word bottom="2242" left="2175" right="2219" top="2277">
+
+15
+</word>
+<word bottom="2160" left="697" right="841" top="2206">
+
+[MBFL]
+</word>
+<word bottom="2015" left="475" right="520" top="2050">
+If</word>
+<word bottom="2013" left="548" right="570" top="2040">
+a</word>
+<word bottom="2005" left="601" right="822" top="2050">
+frequency</word>
+<word bottom="2005" left="851" right="1050" top="2049">
+analysis</word>
+<word bottom="2011" left="1080" right="1126" top="2048">
+is</word>
+<word bottom="2005" left="1153" right="1344" top="2048">
+desired,</word>
+<word bottom="2014" left="1375" right="1525" top="2049">
+
+NIKE2D
+</word>
+<word bottom="2013" left="1550" right="1648" top="2050">
+will</word>
+<word bottom="2006" left="1676" right="1850" top="2049">
+compute</word>
+<word bottom="2013" left="1878" right="1950" top="2049">
+the</word>
+<word bottom="2014" left="1977" right="2148" top="2050">
+desired</word>
+<word bottom="1938" left="346" right="493" top="1973">
+number</word>
+<word bottom="1938" left="522" right="571" top="1974">
+of</word>
+<word bottom="1929" left="598" right="871" top="1974">
+
+eigenvalues
+</word>
+<word bottom="1938" left="901" right="975" top="1973">
+and</word>
+<word bottom="1930" left="1003" right="1297" top="1974">
+
+eigenvectors
+</word>
+<word bottom="1939" left="1325" right="1397" top="1975">
+and</word>
+<word bottom="1940" left="1423" right="1520" top="1977">
+will</word>
+<word bottom="1940" left="1549" right="1792" top="1977">
+terminate.</word>
+<word bottom="1942" left="1850" right="1923" top="1977">
+The</word>
+<word bottom="1943" left="1950" right="2196" top="1980">
+normalized</word>
+<word bottom="1856" left="348" right="645" top="1902">
+
+eigenvectors
+</word>
+<word bottom="1861" left="675" right="748" top="1889">
+are</word>
+<word bottom="1862" left="775" right="952" top="1899">
+written</word>
+<word bottom="1861" left="981" right="1078" top="1898">
+into</word>
+<word bottom="1861" left="1106" right="1178" top="1897">
+the</word>
+<word bottom="1854" left="1204" right="1350" top="1898">
+binary</word>
+<word bottom="1855" left="1377" right="1594" top="1900">
+
+plotfile.
+</word>
+<word bottom="1864" left="1651" right="1776" top="1899">
+ORION</word>
+<word bottom="1863" left="1801" right="1900" top="1900">
+will</word>
+<word bottom="1857" left="1928" right="2025" top="1901">
+plot</word>
+<word bottom="1865" left="2053" right="2124" top="1900">
+the</word>
+<word bottom="1866" left="2150" right="2248" top="1901">
+mode</word>
+<word bottom="1780" left="348" right="494" top="1821">
+shapes</word>
+<word bottom="1786" left="524" right="571" top="1822">
+if</word>
+<word bottom="1786" left="599" right="670" top="1821">
+the</word>
+<word bottom="1786" left="698" right="796" top="1813">
+user</word>
+<word bottom="1779" left="825" right="1024" top="1823">
+requests</word>
+<word bottom="1786" left="1054" right="1250" top="1823">
+deformed</word>
+<word bottom="1781" left="1278" right="1399" top="1822">
+shape</word>
+<word bottom="1781" left="1425" right="1567" top="1824">
+plots.</word>
+<word bottom="1788" left="1626" right="1698" top="1825">
+The</word>
+<word bottom="1788" left="1726" right="1924" top="1826">
+circular</word>
+<word bottom="1784" left="1954" right="2174" top="1828">
+frequency</word>
+<word bottom="1706" left="349" right="673" top="1751">
+corresponding</word>
+<word bottom="1714" left="701" right="748" top="1750">
+to</word>
+<word bottom="1714" left="777" right="850" top="1750">
+the</word>
+<word bottom="1714" left="877" right="979" top="1749">
+mode</word>
+<word bottom="1706" left="1006" right="1129" top="1748">
+shape</word>
+<word bottom="1712" left="1157" right="1203" top="1749">
+is</word>
+<word bottom="1705" left="1230" right="1402" top="1750">
+printed</word>
+<word bottom="1713" left="1429" right="1476" top="1750">
+in</word>
+<word bottom="1706" left="1502" right="1627" top="1751">
+place</word>
+<word bottom="1713" left="1654" right="1704" top="1751">
+of</word>
+<word bottom="1713" left="1729" right="1803" top="1750">
+the</word>
+<word bottom="1715" left="1830" right="1927" top="1752">
+time</word>
+<word bottom="1716" left="1954" right="2053" top="1752">
+word</word>
+<word bottom="1716" left="2080" right="2126" top="1744">
+on</word>
+<word bottom="1718" left="2153" right="2251" top="1752">
+each</word>
+<word bottom="1631" left="349" right="467" top="1673">
+plot.</word>
+<word bottom="1487" left="1232" right="1331" top="1523">
+Card</word>
+<word bottom="1488" left="1357" right="1379" top="1523">
+
+3
+</word>
+<word bottom="1414" left="352" right="525" top="1450">
+Columns</word>
+<word bottom="1408" left="1258" right="1454" top="1449">
+Quantity</word>
+<word bottom="1417" left="2180" right="2328" top="1453">
+Format</word>
+<word bottom="1338" left="404" right="476" top="1373">
+
+1-5
+</word>
+<word bottom="1330" left="702" right="902" top="1373">
+Geometry</word>
+<word bottom="1329" left="932" right="1029" top="1373">
+type</word>
+<word bottom="1332" left="1060" right="1226" top="1376">
+[PLANE]</word>
+<word bottom="1345" left="2182" right="2227" top="1381">
+
+15
+</word>
+<word bottom="1234" left="755" right="873" top="1272">
+
+EQ.0:
+</word>
+<word bottom="1227" left="908" right="1208" top="1272">
+
+axisymmetric
+</word>
+<word bottom="1131" left="753" right="872" top="1170">
+
+EQ.1:
+</word>
+<word bottom="1127" left="906" right="1031" top="1170">
+plane</word>
+<word bottom="1133" left="1058" right="1207" top="1170">
+strain</word>
+<word bottom="1036" left="402" right="503" top="1071">
+
+6-10
+</word>
+<word bottom="1035" left="705" right="933" top="1071">
+Bandwidth</word>
+<word bottom="1033" left="959" right="1259" top="1071">
+minimization</word>
+<word bottom="1025" left="1289" right="1384" top="1071">
+flag</word>
+<word bottom="1029" left="1412" right="1554" top="1074">
+
+[BWMO]
+</word>
+<word bottom="1042" left="2187" right="2232" top="1077">
+
+15
+</word>
+<word bottom="930" left="755" right="874" top="967">
+
+EQ.0:
+</word>
+<word bottom="932" left="908" right="1133" top="969">
+bandwidth</word>
+<word bottom="931" left="1163" right="1207" top="969">
+is</word>
+<word bottom="932" left="1235" right="1306" top="969">
+not</word>
+<word bottom="933" left="1332" right="1555" top="972">
+minimized</word>
+<word bottom="831" left="757" right="876" top="868">
+
+EQ.1:
+</word>
+<word bottom="832" left="910" right="1136" top="868">
+bandwidth</word>
+<word bottom="830" left="1164" right="1210" top="867">
+is</word>
+<word bottom="830" left="1237" right="1460" top="868">
+minimized</word>
+</words>
+</ocrresult>
+

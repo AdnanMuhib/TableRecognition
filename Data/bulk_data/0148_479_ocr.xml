@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543722710.png" width="2560"/>
+<words>
+<word bottom="2904" left="592" right="632" top="2933">
+To</word>
+<word bottom="2904" left="657" right="799" top="2931">
+convert</word>
+<word bottom="2897" left="825" right="966" top="2934">
+English</word>
+<word bottom="2905" left="992" right="1029" top="2932">
+to</word>
+<word bottom="2900" left="1052" right="1191" top="2934">
+metric,</word>
+<word bottom="2896" left="1218" right="1384" top="2933">
+multiply</word>
+<word bottom="2896" left="1408" right="1461" top="2933">
+by:</word>
+<word bottom="2815" left="1054" right="1195" top="2851">
+English</word>
+<word bottom="2820" left="1469" right="1591" top="2849">
+Metric</word>
+<word bottom="2820" left="1909" right="2030" top="2849">
+Factor</word>
+<word bottom="2759" left="990" right="1071" top="2781">
+acre</word>
+<word bottom="2758" left="1450" right="1486" top="2787">
+ha</word>
+<word bottom="2758" left="1845" right="1944" top="2787">
+
+0.405
+</word>
+<word bottom="2697" left="990" right="1050" top="2726">
+BTU</word>
+<word bottom="2695" left="1448" right="1530" top="2725">
+
+W-hr
+</word>
+<word bottom="2696" left="1845" right="1961" top="2726">
+
+0.2931
+</word>
+<word bottom="2630" left="991" right="1175" top="2664">
+
+BTU/lb-°F
+</word>
+<word bottom="2626" left="1448" right="1634" top="2663">
+
+W-s/kg-°C
+</word>
+<word bottom="2633" left="1844" right="1925" top="2663">
+
+4187
+</word>
+<word bottom="2568" left="991" right="1237" top="2602">
+
+BTU/hr-ft-°F
+</word>
+<word bottom="2566" left="1448" right="1571" top="2601">
+
+W/m-°C
+</word>
+<word bottom="2571" left="1847" right="1945" top="2601">
+
+1.735
+</word>
+<word bottom="2511" left="992" right="1029" top="2540">
+
+°F
+</word>
+<word bottom="2508" left="1451" right="1488" top="2540">
+
+°C
+</word>
+<word bottom="2503" left="1849" right="1984" top="2543">
+
+(°F-32)
+</word>
+<word bottom="2509" left="2012" right="2029" top="2530">
+
+x
+</word>
+<word bottom="2505" left="2055" right="2113" top="2539">
+
+5/9
+</word>
+<word bottom="2447" left="991" right="1030" top="2477">
+ft</word>
+<word bottom="2446" left="1448" right="1468" top="2468">
+
+m
+</word>
+<word bottom="2446" left="1845" right="1967" top="2476">
+
+0.3048
+</word>
+<word bottom="2385" left="991" right="1029" top="2414">
+
+ft
+</word>
+<word bottom="2406" left="1032" right="1048" top="2435">
+
+2
+</word>
+<word bottom="2384" left="1448" right="1468" top="2405">
+
+m
+</word>
+<word bottom="2404" left="1470" right="1486" top="2433">
+
+2
+</word>
+<word bottom="2383" left="1845" right="1966" top="2413">
+
+0.0929
+</word>
+<word bottom="2323" left="991" right="1030" top="2352">
+
+ft
+</word>
+<word bottom="2342" left="1032" right="1049" top="2371">
+
+3
+</word>
+<word bottom="2321" left="1447" right="1468" top="2342">
+
+m
+</word>
+<word bottom="2340" left="1471" right="1487" top="2370">
+
+3
+</word>
+<word bottom="2320" left="1845" right="1966" top="2351">
+
+0.0283
+</word>
+<word bottom="2253" left="991" right="1045" top="2290">
+gal</word>
+<word bottom="2258" left="1450" right="1467" top="2284">
+
+9,
+</word>
+<word bottom="2259" left="1846" right="1945" top="2289">
+
+3.785
+</word>
+<word bottom="2191" left="991" right="1044" top="2228">
+gal</word>
+<word bottom="2196" left="1448" right="1468" top="2218">
+
+m
+</word>
+<word bottom="2216" left="1471" right="1487" top="2246">
+
+3
+</word>
+<word bottom="2196" left="1846" right="1945" top="2226">
+
+3.785
+</word>
+<word bottom="2196" left="1970" right="1988" top="2218">
+
+x
+</word>
+<word bottom="2197" left="2013" right="2050" top="2227">
+
+10
+</word>
+<word bottom="2217" left="2056" right="2091" top="2246">
+
+-3
+</word>
+<word bottom="2134" left="993" right="1111" top="2164">
+inches</word>
+<word bottom="2133" left="1450" right="1489" top="2155">
+cm</word>
+<word bottom="2134" left="1846" right="1946" top="2164">
+
+2.540
+</word>
+<word bottom="2072" left="993" right="1030" top="2102">
+lb</word>
+<word bottom="2063" left="1451" right="1487" top="2100">
+kg</word>
+<word bottom="2071" left="1845" right="1966" top="2101">
+
+0.4536
+</word>
+<word bottom="2009" left="990" right="1071" top="2039">
+mile</word>
+<word bottom="2008" left="1451" right="1489" top="2038">
+km</word>
+<word bottom="2009" left="1847" right="1946" top="2038">
+
+1.609
+</word>
+<word bottom="1947" left="991" right="1072" top="1976">
+
+MFBM
+</word>
+<word bottom="1946" left="1447" right="1468" top="1967">
+
+m
+</word>
+<word bottom="1966" left="1471" right="1487" top="1995">
+
+3
+</word>
+<word bottom="1946" left="1846" right="1946" top="1976">
+
+2.360
+</word>
+<word bottom="1884" left="992" right="1050" top="1912">
+ton</word>
+<word bottom="1882" left="1449" right="1488" top="1912">
+MT</word>
+<word bottom="1884" left="1846" right="1946" top="1914">
+
+1.103
+</word>
+<word bottom="1815" left="989" right="1029" top="1851">
+
+yd
+</word>
+<word bottom="1842" left="1033" right="1050" top="1872">
+
+3
+</word>
+<word bottom="1821" left="1448" right="1468" top="1842">
+
+m
+</word>
+<word bottom="1841" left="1471" right="1488" top="1870">
+
+3
+</word>
+<word bottom="1821" left="1845" right="1966" top="1851">
+
+0.7646
+</word>
+</words>
+</ocrresult>
+

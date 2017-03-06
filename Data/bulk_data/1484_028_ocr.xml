@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490596678.png" width="2544"/>
+<words>
+<word bottom="2860" left="1113" right="1239" top="2890">
+TABLE</word>
+<word bottom="2861" left="1266" right="1287" top="2892">
+
+3
+</word>
+<word bottom="2787" left="588" right="716" top="2816">
+LINER</word>
+<word bottom="2782" left="741" right="937" top="2817">
+STRESSES</word>
+<word bottom="2787" left="964" right="1042" top="2816">
+FOR</word>
+<word bottom="2788" left="1063" right="1091" top="2816">
+A</word>
+<word bottom="2787" left="1116" right="1239" top="2816">
+SHAFT</word>
+<word bottom="2787" left="1264" right="1439" top="2816">
+LOCATED</word>
+<word bottom="2788" left="1465" right="1515" top="2817">
+IN</word>
+<word bottom="2788" left="1538" right="1615" top="2817">
+THE</word>
+<word bottom="2787" left="1640" right="1793" top="2817">
+CENTER</word>
+<word bottom="2744" left="914" right="965" top="2780">
+OF</word>
+<word bottom="2750" left="987" right="1016" top="2779">
+A</word>
+<word bottom="2750" left="1041" right="1113" top="2782">
+
+200
+</word>
+<word bottom="2751" left="1137" right="1167" top="2772">
+
+m
+</word>
+<word bottom="2750" left="1191" right="1314" top="2780">
+SHAFT</word>
+<word bottom="2749" left="1339" right="1491" top="2780">
+PILLAR</word>
+<word bottom="2369" left="938" right="1061" top="2409">
+Angle</word>
+<word bottom="2373" left="1095" right="1157" top="2409">
+
+(8)
+</word>
+<word bottom="2379" left="1191" right="1386" top="2409">
+relative</word>
+<word bottom="2379" left="1418" right="1462" top="2404">
+to</word>
+<word bottom="2379" left="1490" right="1715" top="2409">
+direction</word>
+<word bottom="2379" left="1742" right="1790" top="2410">
+of</word>
+<word bottom="2370" left="1820" right="2014" top="2409">
+in-plane</word>
+<word bottom="2340" left="265" right="408" top="2369">
+STRESS</word>
+<word bottom="2341" left="1213" right="1461" top="2372">
+horizontal</word>
+<word bottom="2338" left="1492" right="1636" top="2367">
+stress</word>
+<word bottom="2323" left="1666" right="1714" top="2361">
+
+ax
+</word>
+<word bottom="2266" left="1064" right="1158" top="2298">
+
+8-0
+
+0
+</word>
+<word bottom="2265" left="1817" right="1935" top="2297">
+
+8-90°
+</word>
+<word bottom="2173" left="792" right="912" top="2202">
+Inner</word>
+<word bottom="2171" left="941" right="1062" top="2204">
+Fiber</word>
+<word bottom="2173" left="1140" right="1262" top="2202">
+Outer</word>
+<word bottom="2173" left="1291" right="1412" top="2204">
+Fiber</word>
+<word bottom="2173" left="1568" right="1689" top="2202">
+Inner</word>
+<word bottom="2173" left="1718" right="1840" top="2204">
+Fiber</word>
+<word bottom="2172" left="1917" right="2040" top="2201">
+Outer</word>
+<word bottom="2171" left="2069" right="2189" top="2202">
+Fiber</word>
+<word bottom="2022" left="186" right="334" top="2053">
+Radial</word>
+<word bottom="2022" left="365" right="509" top="2051">
+Stress</word>
+<word bottom="2016" left="545" right="656" top="2053">
+
+(MPa)
+</word>
+<word bottom="2022" left="870" right="987" top="2054">
+
+-0.00
+</word>
+<word bottom="2022" left="1241" right="1337" top="2054">
+
+0.20
+</word>
+<word bottom="2023" left="1667" right="1739" top="2054">
+
+0.0
+</word>
+<word bottom="2021" left="2020" right="2113" top="2052">
+
+1.79
+</word>
+<word bottom="1865" left="187" right="283" top="1902">
+Hoop</word>
+<word bottom="1874" left="314" right="459" top="1903">
+Stress</word>
+<word bottom="1868" left="494" right="605" top="1905">
+
+(MPa)
+</word>
+<word bottom="1874" left="870" right="986" top="1905">
+
+-3.29
+</word>
+<word bottom="1872" left="1241" right="1336" top="1905">
+
+0.21
+</word>
+<word bottom="1873" left="1643" right="1763" top="1904">
+
+17.31
+</word>
+<word bottom="1872" left="1995" right="2114" top="1903">
+
+11.82
+</word>
+<word bottom="1724" left="186" right="309" top="1754">
+Axial</word>
+<word bottom="1724" left="339" right="484" top="1752">
+Stress</word>
+<word bottom="1717" left="519" right="631" top="1755">
+
+(MPa)
+</word>
+<word bottom="1723" left="871" right="986" top="1755">
+
+-9.93
+</word>
+<word bottom="1722" left="1221" right="1336" top="1755">
+
+-9.38
+</word>
+<word bottom="1722" left="1647" right="1765" top="1754">
+
+-6.84
+</word>
+<word bottom="1721" left="1999" right="2115" top="1752">
+
+-7.40
+</word>
+</words>
+</ocrresult>
+

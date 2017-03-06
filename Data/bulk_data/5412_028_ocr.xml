@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490869831.png" width="2544"/>
+<words>
+<word bottom="2632" left="313" right="410" top="2670">
+Type</word>
+<word bottom="2640" left="439" right="485" top="2671">
+of</word>
+<word bottom="2640" left="516" right="608" top="2665">
+test</word>
+<word bottom="2564" left="364" right="435" top="2595">
+and</word>
+<word bottom="2564" left="463" right="529" top="2594">
+No.</word>
+<word bottom="2915" left="614" right="734" top="2946">
+Table</word>
+<word bottom="2914" left="764" right="1033" top="2949">
+
+10.--Static
+</word>
+<word bottom="2915" left="1060" right="1184" top="2946">
+water</word>
+<word bottom="2915" left="1215" right="1356" top="2950">
+levels</word>
+<word bottom="2906" left="1385" right="1533" top="2951">
+during</word>
+<word bottom="2907" left="1561" right="1782" top="2952">
+hydraulic</word>
+<word bottom="2907" left="1814" right="1984" top="2951">
+testing</word>
+<word bottom="2839" left="1111" right="1185" top="2875">
+and</word>
+<word bottom="2840" left="1210" right="1508" top="2876">
+construction</word>
+<word bottom="2688" left="789" right="984" top="2719">
+Interval</word>
+<word bottom="2614" left="815" right="959" top="2644">
+tested</word>
+<word bottom="2532" left="794" right="978" top="2572">
+(meters)</word>
+<word bottom="2707" left="1262" right="1385" top="2745">
+Depth</word>
+<word bottom="2715" left="1415" right="1457" top="2741">
+to</word>
+<word bottom="2640" left="1290" right="1433" top="2669">
+static</word>
+<word bottom="2564" left="1234" right="1358" top="2589">
+water</word>
+<word bottom="2564" left="1389" right="1507" top="2596">
+level</word>
+<word bottom="2608" left="1612" right="1808" top="2646">
+Geologic</word>
+<word bottom="2615" left="1837" right="1934" top="2644">
+unit</word>
+<word bottom="2615" left="1965" right="2109" top="2645">
+tested</word>
+<word bottom="634" left="487" right="500" top="661">
+
+1
+</word>
+<word bottom="606" left="511" right="659" top="645">
+Nearly</word>
+<word bottom="613" left="687" right="907" top="643">
+recovered</word>
+<word bottom="613" left="939" right="981" top="638">
+to</word>
+<word bottom="612" left="1013" right="1156" top="642">
+static</word>
+<word bottom="613" left="1184" right="1307" top="639">
+water</word>
+<word bottom="614" left="1337" right="1456" top="645">
+level</word>
+<word bottom="614" left="1486" right="1607" top="645">
+after</word>
+<word bottom="614" left="1638" right="1707" top="644">
+
+270
+</word>
+<word bottom="613" left="1733" right="1926" top="642">
+minutes.</word>
+<word bottom="230" left="1245" right="1289" top="260">
+
+21
+</word>
+<word bottom="2484" left="1268" right="1453" top="2522">
+(meters)</word>
+<word bottom="2362" left="715" right="833" top="2395">
+
+282.2
+</word>
+<word bottom="2372" left="864" right="885" top="2378">
+
+-
+</word>
+<word bottom="2362" left="965" right="1084" top="2394">
+
+334.1
+</word>
+<word bottom="2363" left="1264" right="1383" top="2394">
+
+282.2
+</word>
+<word bottom="2356" left="1537" right="1709" top="2394">
+
+Topopah
+</word>
+<word bottom="2357" left="1738" right="1884" top="2393">
+Spring</word>
+<word bottom="2364" left="1911" right="2058" top="2393">
+Member</word>
+<word bottom="2283" left="312" right="485" top="2319">
+Pumping</word>
+<word bottom="2290" left="515" right="534" top="2320">
+
+1
+</word>
+<word bottom="2288" left="715" right="834" top="2321">
+
+282.5
+</word>
+<word bottom="2298" left="863" right="884" top="2303">
+
+-
+</word>
+<word bottom="2287" left="964" right="1084" top="2319">
+
+451.1
+</word>
+<word bottom="2289" left="1265" right="1383" top="2320">
+
+282.5
+</word>
+<word bottom="2289" left="1587" right="1652" top="2317">
+Do.</word>
+<word bottom="2207" left="311" right="485" top="2244">
+Pumping</word>
+<word bottom="2215" left="515" right="533" top="2246">
+
+2
+</word>
+<word bottom="2212" left="715" right="834" top="2245">
+
+282.7
+</word>
+<word bottom="2222" left="863" right="884" top="2227">
+
+-
+</word>
+<word bottom="2212" left="964" right="1084" top="2244">
+
+451.1
+</word>
+<word bottom="2213" left="1265" right="1382" top="2245">
+
+282.7
+</word>
+<word bottom="2214" left="1587" right="1652" top="2241">
+Do.</word>
+<word bottom="2132" left="314" right="536" top="2169">
+Injection</word>
+<word bottom="2138" left="565" right="610" top="2170">
+
+19
+</word>
+<word bottom="2137" left="714" right="833" top="2169">
+
+471.2
+</word>
+<word bottom="2147" left="864" right="884" top="2152">
+
+-
+</word>
+<word bottom="2136" left="964" right="1084" top="2168">
+
+502.0
+</word>
+<word bottom="2138" left="1264" right="1383" top="2169">
+
+282.5
+</word>
+<word bottom="2138" left="1537" right="1783" top="2169">
+
+Tuffaceous
+</word>
+<word bottom="2139" left="1813" right="1908" top="2169">
+beds</word>
+<word bottom="2138" left="1939" right="1983" top="2168">
+of</word>
+<word bottom="2137" left="2014" right="2158" top="2168">
+Calico</word>
+<word bottom="2064" left="1586" right="1708" top="2094">
+Hills</word>
+<word bottom="1982" left="314" right="510" top="2020">
+Swabbing</word>
+<word bottom="1988" left="540" right="584" top="2020">
+
+19
+</word>
+<word bottom="1987" left="714" right="833" top="2019">
+
+471.2
+</word>
+<word bottom="1998" left="864" right="885" top="2003">
+
+-
+</word>
+<word bottom="1987" left="965" right="1085" top="2018">
+
+502.0
+</word>
+<word bottom="1988" left="1265" right="1383" top="2020">
+
+282.3
+</word>
+<word bottom="1988" left="1588" right="1652" top="2016">
+Do.</word>
+<word bottom="1907" left="315" right="536" top="1945">
+Injection</word>
+<word bottom="1914" left="565" right="609" top="1946">
+
+16
+</word>
+<word bottom="1912" left="715" right="835" top="1945">
+
+501.1
+</word>
+<word bottom="1923" left="864" right="885" top="1929">
+
+-
+</word>
+<word bottom="1912" left="965" right="1084" top="1944">
+
+562.1
+</word>
+<word bottom="1914" left="1265" right="1384" top="1945">
+
+282.4
+</word>
+<word bottom="1914" left="1537" right="1783" top="1945">
+
+Tuffaceous
+</word>
+<word bottom="1914" left="1813" right="1908" top="1944">
+beds</word>
+<word bottom="1915" left="1939" right="1983" top="1945">
+of</word>
+<word bottom="1914" left="2014" right="2158" top="1943">
+Calico</word>
+<word bottom="1839" left="1586" right="1707" top="1870">
+Hills</word>
+<word bottom="1840" left="1738" right="1808" top="1870">
+and</word>
+<word bottom="1840" left="1837" right="1937" top="1868">
+Prow</word>
+<word bottom="1839" left="1962" right="2058" top="1867">
+Pass</word>
+<word bottom="1839" left="2085" right="2234" top="1869">
+Member</word>
+<word bottom="1759" left="315" right="510" top="1797">
+Swabbing</word>
+<word bottom="1766" left="540" right="585" top="1797">
+
+18
+</word>
+<word bottom="1764" left="715" right="834" top="1795">
+
+501.1
+</word>
+<word bottom="1773" left="864" right="885" top="1779">
+
+-
+</word>
+<word bottom="1763" left="965" right="1084" top="1795">
+
+562.1
+</word>
+<word bottom="1764" left="1264" right="1383" top="1796">
+
+282.2
+</word>
+<word bottom="1765" left="1587" right="1653" top="1793">
+Do.</word>
+<word bottom="1684" left="314" right="510" top="1722">
+Swabbing</word>
+<word bottom="1692" left="540" right="558" top="1723">
+
+2
+</word>
+<word bottom="1689" left="714" right="833" top="1721">
+
+471.2
+</word>
+<word bottom="1699" left="864" right="884" top="1704">
+
+-
+</word>
+<word bottom="1689" left="965" right="1084" top="1722">
+
+612.6
+</word>
+<word bottom="1690" left="1264" right="1384" top="1722">
+
+282.0
+</word>
+<word bottom="1690" left="1537" right="1783" top="1721">
+
+Tuffaceous
+</word>
+<word bottom="1690" left="1813" right="1908" top="1720">
+beds</word>
+<word bottom="1691" left="1939" right="1984" top="1720">
+of</word>
+<word bottom="1689" left="2016" right="2158" top="1719">
+Calico</word>
+<word bottom="1607" left="1586" right="1727" top="1645">
+Hills,</word>
+<word bottom="1615" left="1763" right="1861" top="1642">
+Prow</word>
+<word bottom="1614" left="1887" right="1983" top="1642">
+Pass</word>
+<word bottom="1606" left="2011" right="2177" top="1644">
+Member,</word>
+<word bottom="1540" left="1587" right="1658" top="1570">
+and</word>
+<word bottom="1539" left="1689" right="1933" top="1570">
+
+tuffaceous
+</word>
+<word bottom="1538" left="1965" right="2184" top="1569">
+sandstone</word>
+<word bottom="1458" left="314" right="509" top="1496">
+Swabbing</word>
+<word bottom="1466" left="539" right="557" top="1496">
+
+3
+</word>
+<word bottom="1464" left="714" right="833" top="1496">
+
+471.2
+</word>
+<word bottom="1473" left="864" right="885" top="1478">
+
+-
+</word>
+<word bottom="1462" left="965" right="1084" top="1495">
+
+612.6
+</word>
+<word bottom="1464" left="1264" right="1382" top="1495">
+
+282.4
+</word>
+<word bottom="1464" left="1587" right="1652" top="1492">
+Do.</word>
+<word bottom="1382" left="314" right="509" top="1420">
+Swabbing</word>
+<word bottom="1390" left="540" right="558" top="1421">
+
+6
+</word>
+<word bottom="1388" left="713" right="833" top="1420">
+
+471.2
+</word>
+<word bottom="1398" left="863" right="884" top="1404">
+
+-
+</word>
+<word bottom="1387" left="965" right="1083" top="1420">
+
+661.4
+</word>
+<word bottom="1387" left="1264" right="1384" top="1420">
+
+282.1
+</word>
+<word bottom="1388" left="1537" right="1782" top="1419">
+
+Tuffaceous
+</word>
+<word bottom="1389" left="1812" right="1907" top="1419">
+beds</word>
+<word bottom="1389" left="1938" right="1982" top="1419">
+of</word>
+<word bottom="1387" left="2013" right="2158" top="1418">
+Calico</word>
+<word bottom="1306" left="1586" right="1728" top="1345">
+Hills,</word>
+<word bottom="1315" left="1762" right="1861" top="1342">
+Prow</word>
+<word bottom="1314" left="1887" right="1983" top="1343">
+Pass</word>
+<word bottom="1307" left="2013" right="2178" top="1343">
+Member,</word>
+<word bottom="1239" left="1590" right="1832" top="1270">
+
+tuffaceous
+</word>
+<word bottom="1231" left="1865" right="2102" top="1269">
+sandstone,</word>
+<word bottom="1238" left="2137" right="2206" top="1267">
+and</word>
+<word bottom="1156" left="1586" right="1783" top="1194">
+Bullfrog</word>
+<word bottom="1163" left="1810" right="1958" top="1193">
+Member</word>
+<word bottom="1082" left="315" right="535" top="1120">
+Injection</word>
+<word bottom="1089" left="564" right="607" top="1120">
+
+15
+</word>
+<word bottom="1088" left="714" right="833" top="1120">
+
+584.6
+</word>
+<word bottom="1098" left="863" right="883" top="1103">
+
+-
+</word>
+<word bottom="1087" left="964" right="1083" top="1119">
+
+645.6
+</word>
+<word bottom="1086" left="1264" right="1383" top="1119">
+
+282.4
+</word>
+<word bottom="1086" left="1536" right="1635" top="1116">
+Prow</word>
+<word bottom="1088" left="1661" right="1757" top="1117">
+Pass</word>
+<word bottom="1080" left="1784" right="1953" top="1116">
+Member,</word>
+<word bottom="1086" left="1989" right="2232" top="1117">
+
+tuffaceous
+</word>
+<word bottom="1005" left="1588" right="1828" top="1043">
+sandstone,</word>
+<word bottom="1012" left="1863" right="1932" top="1042">
+and</word>
+<word bottom="1003" left="1963" right="2158" top="1043">
+Bullfrog</word>
+<word bottom="937" left="1586" right="1733" top="967">
+Member</word>
+<word bottom="857" left="313" right="509" top="896">
+Swabbing</word>
+<word bottom="865" left="538" right="583" top="895">
+
+11
+</word>
+<word bottom="863" left="715" right="832" top="894">
+
+772.7
+</word>
+<word bottom="872" left="864" right="884" top="878">
+
+-
+</word>
+<word bottom="862" left="963" right="1083" top="894">
+
+803.1
+</word>
+<word bottom="863" left="1236" right="1431" top="907">
+
+1283.6+2
+</word>
+<word bottom="862" left="1536" right="1635" top="892">
+Tram</word>
+<word bottom="863" left="1661" right="1756" top="893">
+unit</word>
+<word bottom="782" left="313" right="509" top="821">
+Swabbing</word>
+<word bottom="789" left="538" right="583" top="821">
+
+20
+</word>
+<word bottom="787" left="714" right="833" top="820">
+
+819.9
+</word>
+<word bottom="797" left="862" right="883" top="802">
+
+-
+</word>
+<word bottom="780" left="913" right="1083" top="819">
+
+1,063.1
+</word>
+<word bottom="788" left="1264" right="1383" top="819">
+
+283.3
+</word>
+<word bottom="788" left="1536" right="1635" top="816">
+Tram</word>
+<word bottom="780" left="1662" right="1777" top="817">
+unit,</word>
+<word bottom="788" left="1811" right="1957" top="818">
+bedded</word>
+<word bottom="780" left="1989" right="2103" top="818">
+tuff,</word>
+<word bottom="714" left="1587" right="1657" top="745">
+and</word>
+<word bottom="714" left="1686" right="1782" top="744">
+Tuff</word>
+<word bottom="714" left="1812" right="1856" top="743">
+of</word>
+<word bottom="712" left="1886" right="2031" top="743">
+
+Lithic
+</word>
+<word bottom="704" left="2061" right="2183" top="743">
+Ridge</word>
+</words>
+</ocrresult>
+
