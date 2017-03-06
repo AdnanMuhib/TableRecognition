@@ -279,7 +279,31 @@ def objects_to_array(arr):
         return_arr[index].append(arr[i].table)
         index = index + 1
     return return_arr
-
+# writing the objects and there values to csv
+# for training and testing purposes
+def write_to_arff(arr):
+    return_arr = []  
+    index = 0
+    # start of the loop
+    for i in range(0, len(arr)):
+        return_arr.append([])
+        return_arr[index].append(arr[i].word)
+        return_arr[index].append(arr[i].x)
+        return_arr[index].append(arr[i].y)
+        return_arr[index].append(arr[i].x_1_dist)
+        return_arr[index].append(arr[i].x_m_1_dist)
+        return_arr[index].append(arr[i].y_1_dist)
+        return_arr[index].append(arr[i].y_m_1_dist)
+        return_arr[index].append(arr[i].width)
+        return_arr[index].append(arr[i].height)
+        return_arr[index].append(arr[i].table)
+        index = index + 1
+    # end of the loop
+    arff.dump("test.arff", return_arr, relation="wordlist",
+              names=["word", "x", "y", "x_1_dist", "x_m_1_dist",
+                     "y_1_dist", "y_m_1_dist", "width", "height",
+                     "table"])
+    return
 # writing the objects and there values to csv
 # for training and testing purposes
 def write_to_csv(arr):
