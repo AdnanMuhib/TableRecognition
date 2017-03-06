@@ -201,22 +201,22 @@ def sort_array_by_x(new_sorted_array):
 
 # calculating the distance of one objects from other
 def calculate_dist():
-    for i in range(len(arr_of_objects)):
+    for i in range(len(my_sorted_array)):
         if i==0:
-            arr_of_objects[i].x_1_dist=abs(arr_of_objects[i+1].x-arr_of_objects[i].x)
-            arr_of_objects[i].y_1_dist=abs(arr_of_objects[i+1].y-arr_of_objects[i].y)
-            arr_of_objects[i].x_m_1_dist=0
-            arr_of_objects[i].y_m_1_dist=0
-        elif(i==len(arr_of_objects)-1):
-            arr_of_objects[i].x_1_dist=0
-            arr_of_objects[i].y_1_dist=0
-            arr_of_objects[i].x_m_1_dist=abs(arr_of_objects[i].x-arr_of_objects[i-1].x)
-            arr_of_objects[i].y_m_1_dist=abs(arr_of_objects[i].y-arr_of_objects[i-1].y)
+            my_sorted_array[i].x_1_dist=abs(my_sorted_array[i+1].x-my_sorted_array[i].x)
+            my_sorted_array[i].y_1_dist=abs(my_sorted_array[i+1].y-my_sorted_array[i].y)
+            my_sorted_array[i].x_m_1_dist=0
+            my_sorted_array[i].y_m_1_dist=0
+        elif(i==len(my_sorted_array)-1):
+            my_sorted_array[i].x_1_dist=0
+            my_sorted_array[i].y_1_dist=0
+            my_sorted_array[i].x_m_1_dist=abs(my_sorted_array[i].x-my_sorted_array[i-1].x)
+            my_sorted_array[i].y_m_1_dist=abs(my_sorted_array[i].y-my_sorted_array[i-1].y)
         else:
-            arr_of_objects[i].x_1_dist=abs(arr_of_objects[i+1].x-arr_of_objects[i].x)
-            arr_of_objects[i].y_1_dist=abs(arr_of_objects[i+1].y-arr_of_objects[i].y)
-            arr_of_objects[i].x_m_1_dist=abs(arr_of_objects[i].x-arr_of_objects[i-1].x)
-            arr_of_objects[i].y_m_1_dist=abs(arr_of_objects[i].y-arr_of_objects[i-1].y)
+            my_sorted_array[i].x_1_dist=abs(my_sorted_array[i+1].x-my_sorted_array[i].x)
+            my_sorted_array[i].y_1_dist=abs(my_sorted_array[i+1].y-my_sorted_array[i].y)
+            my_sorted_array[i].x_m_1_dist=abs(my_sorted_array[i].x-my_sorted_array[i-1].x)
+            my_sorted_array[i].y_m_1_dist=abs(my_sorted_array[i].y-my_sorted_array[i-1].y)
     return
 
 
@@ -244,16 +244,23 @@ def main(table, img, ocr):
         print ("x : ", my_sorted_array[x].x,"y : ",
                my_sorted_array[x].y,"word : ",
                my_sorted_array[x].word)
+    for i in range(len(my_sorted_array)):
+        print("x_1_dist : " ,  my_sorted_array[i].x_1_dist,
+              "x_m_1_dist: " , my_sorted_array[i].x_m_1_dist,
+              "y_1_dist : " ,my_sorted_array[i].y_1_dist, 
+              "y_m_1_dist : " ,my_sorted_array[i].y_m_1_dist)
+
     return
+
 # deciding which words are in the table and which 
 # are not by looping through all the elements of 
 # the word and see if its x and y are equal to that
 # of other arrays
 
 if __name__ == "__main__":
-    main("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
-         "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv-table-png\\0110_099.png",
-         "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
+    main("C:\\tablerecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
+         "C:\\tablerecognition\\Data\\unlv-table-png\\0110_099.png",
+         "C:\\tablerecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
 ########################################################
 ####################End of File#########################
 ########################################################
