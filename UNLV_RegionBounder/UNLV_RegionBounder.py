@@ -9,6 +9,8 @@ import numpy as np
 import unicodedata
 # importing the class of FeatureExtraction
 import Class_DataCollector as DC
+#importing writing to csv library
+import csv
 
 ################################################
 ##############Array of Object###################
@@ -199,7 +201,7 @@ def sort_array_by_x(new_sorted_array):
                     changed = True
     return new_sorted_array
 
-# calculating the distance of one objects from other
+# calculating the distance of one object from other
 def calculate_dist():
     for i in range(len(my_sorted_array)):
         if i==0:
@@ -219,6 +221,45 @@ def calculate_dist():
             my_sorted_array[i].y_m_1_dist=abs(my_sorted_array[i].y-my_sorted_array[i-1].y)
     return
 
+# copying all the objects value to an array
+# for further writing it to the csv file
+def objects_to_array(arr):
+    return_arr = []
+    return_arr.append([])
+    return_arr[0].append("word")
+    return_arr[0].append("x")
+    return_arr[0].append("y")
+    return_arr[0].append("x+1 dist")
+    return_arr[0].append("x-1 dist")
+    return_arr[0].append("y+1 dist")
+    return_arr[0].append("y-1 dist")
+    return_arr[0].append("width")
+    return_arr[0].append("height")
+    return_arr[0].append("table")
+
+    index = 1
+    for i in range(0, len(arr)):
+        return_arr.append([])
+        return_arr[index].append(arr[i].word)
+        return_arr[index].append(arr[i].x)
+        return_arr[index].append(arr[i].y)
+        return_arr[index].append(arr[i].x_1_dist)
+        return_arr[index].append(arr[i].x_m_1_dist)
+        return_arr[index].append(arr[i].y_1_dist)
+        return_arr[index].append(arr[i].y_m_1_dist)
+        return_arr[index].append(arr[i].width)
+        return_arr[index].append(arr[i].height)
+        return_arr[index].append(arr[i].table)
+        index = index + 1
+    return return_arr
+
+# writing the objects and there values to csv
+# for training and testing purposes
+def write_to_csv(arr):
+    with open("test.csv", "wb") as f:
+        write = csv.writer(f)
+        write.writerows(arr)
+    return
 
 # main driver for the file
 def main(table, img, ocr):
@@ -239,16 +280,22 @@ def main(table, img, ocr):
     my_sorted_array = eliminate_y_diff(my_sorted_array)
     my_sorted_array = sort_array_by_x(my_sorted_array)
     calculate_dist()
+    arr = objects_to_array(my_sorted_array)
+    write_to_csv(arr)
+    #for x in range(0,len(my_sorted_array)):
+     #   print ("x : ", my_sorted_array[x].x,"y : ",
+      #         my_sorted_array[x].y,"word : ",
+       #        my_sorted_array[x].word)
 
-    for x in range(0,len(my_sorted_array)):
-        print ("x : ", my_sorted_array[x].x,"y : ",
-               my_sorted_array[x].y,"word : ",
-               my_sorted_array[x].word)
-    for i in range(len(my_sorted_array)):
-        print("x_1_dist : " ,  my_sorted_array[i].x_1_dist,
-              "x_m_1_dist: " , my_sorted_array[i].x_m_1_dist,
-              "y_1_dist : " ,my_sorted_array[i].y_1_dist, 
-              "y_m_1_dist : " ,my_sorted_array[i].y_m_1_dist)
+    #for i in range(len(my_sorted_array)):
+     #   print("x_1_dist : " ,  my_sorted_array[i].x_1_dist, 
+      #        "word at x_1_dist : ", my_sorted_array[i].word)
+       # print("x_m_1_dist: " , my_sorted_array[i].x_m_1_dist,  
+        #      "word at x_m_1_dist : ", my_sorted_array[i].word)
+        #print("y_1_dist : " ,my_sorted_array[i].y_1_dist,
+         #     "word at y_1_dist : ", my_sorted_array[i].word)
+        #print("y_m_1_dist : " ,my_sorted_array[i].y_m_1_dist,
+         #     "word at y_m_1_dist : ", my_sorted_array[i].word)
 
     return
 
@@ -258,9 +305,9 @@ def main(table, img, ocr):
 # of other arrays
 
 if __name__ == "__main__":
-    main("C:\\tablerecognition\\Data\\unlv\\unlv_xml_gt\\0110_099.xml",
-         "C:\\tablerecognition\\Data\\unlv-table-png\\0110_099.png",
-         "C:\\tablerecognition\\Data\\unlv\\unlv_xml_ocr\\0110_099.xml")
+    main("F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0101_003.xml",
+         "F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv-table-png\\0101_003.png",
+         "F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0101_003.xml")
 ########################################################
 ####################End of File#########################
 ########################################################
