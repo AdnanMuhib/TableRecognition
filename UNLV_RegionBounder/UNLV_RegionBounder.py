@@ -1,5 +1,7 @@
 ﻿# xml parser library
 import xml.dom.minidom as minidom
+# math library
+import math
 # image processing libraries
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
@@ -203,22 +205,47 @@ def sort_array_by_x(new_sorted_array):
 
 # calculating the distance of one object from other
 def calculate_dist():
+    
+    # by using the formula distance=sqrt((x2-x1)^2+(y2-y1)^2))
+    # x+1 and x-1 distance
     for i in range(len(my_sorted_array)):
         if i==0:
-            my_sorted_array[i].x_1_dist=abs(my_sorted_array[i+1].x-my_sorted_array[i].x)
-            my_sorted_array[i].y_1_dist=abs(my_sorted_array[i+1].y-my_sorted_array[i].y)
-            my_sorted_array[i].x_m_1_dist=0
-            my_sorted_array[i].y_m_1_dist=0
+            my_sorted_array[i].x_1_dist = math.ceil( math.sqrt(pow((my_sorted_array[i+1].x-my_sorted_array[i].x),2)+
+                                                      pow( (my_sorted_array[i+1].y-my_sorted_array[i].y),2) ) )
+            my_sorted_array[i].x_m_1_dist= 0
         elif(i==len(my_sorted_array)-1):
-            my_sorted_array[i].x_1_dist=0
-            my_sorted_array[i].y_1_dist=0
-            my_sorted_array[i].x_m_1_dist=abs(my_sorted_array[i].x-my_sorted_array[i-1].x)
-            my_sorted_array[i].y_m_1_dist=abs(my_sorted_array[i].y-my_sorted_array[i-1].y)
+            my_sorted_array[i].x_1_dist= 0
+            my_sorted_array[i].x_m_1_dist = math.ceil( math.sqrt(pow((my_sorted_array[i].x-my_sorted_array[i-1].x),2)+
+                                                      pow((my_sorted_array[i].y-my_sorted_array[i-1].y),2)) )
         else:
-            my_sorted_array[i].x_1_dist=abs(my_sorted_array[i+1].x-my_sorted_array[i].x)
-            my_sorted_array[i].y_1_dist=abs(my_sorted_array[i+1].y-my_sorted_array[i].y)
-            my_sorted_array[i].x_m_1_dist=abs(my_sorted_array[i].x-my_sorted_array[i-1].x)
-            my_sorted_array[i].y_m_1_dist=abs(my_sorted_array[i].y-my_sorted_array[i-1].y)
+            my_sorted_array[i].x_1_dist= math.ceil( math.sqrt(pow((my_sorted_array[i+1].x-my_sorted_array[i].x),2)+
+                                                      pow((my_sorted_array[i+1].y-my_sorted_array[i].y),2)) )
+            my_sorted_array[i].x_m_1_dist=math.ceil( math.sqrt(pow((my_sorted_array[i].x-my_sorted_array[i-1].x),2)+
+                                                      pow((my_sorted_array[i].y-my_sorted_array[i-1].y),2)) )
+    # for y+1 and y-1 distance
+    words_in_row = 0
+    total_words = 0
+    line_index=0
+    y_m_1_dist = 0
+    row_y_position=my_sorted_array[0].y
+    row_x_position=my_sorted_array[0].x
+    for i in range ( len(my_sorted_array) ):
+        total_words += 1
+        if row_y_position == my_sorted_array[i].y:
+            words_in_row += 1
+            my_sorted_array[i].y_m_1_dist = y_m_1_dist
+        else:
+            #print("Total Words in the row are : ",words_in_row_counter)
+            y_m_1_dist = math.ceil( math.sqrt(pow((my_sorted_array[i].x-row_x_position),2)+
+                                                      pow((my_sorted_array[i].y-row_y_position),2)) )
+            row_y_position = my_sorted_array[i].y
+            row_x_position = my_sorted_array[i].x
+            for j in range(line_index,(line_index+words_in_row)):
+                my_sorted_array[j].y_1_dist = y_m_1_dist
+            line_index=total_words
+            my_sorted_array[i].y_m_1_dist = y_m_1_dist
+            my_sorted_array[i].y_1_dist = y_m_1_dist
+            words_in_row=0
     return
 
 # copying all the objects value to an array
