@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Class_DataCollector.py" />
+    <Compile Include="CSV_Merger.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="UNLV_RegionBounder.py" />
   </ItemGroup>
   <PropertyGroup>
