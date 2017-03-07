@@ -11,9 +11,15 @@ import numpy as np
 import unicodedata
 # importing the class of FeatureExtraction
 import Class_DataCollector as DC
-#importing writing to csv library
+# importing writing to csv library
 import csv
-
+# file handling libraries for batch processing
+import os
+import re
+import fnmatch
+import locale
+locale.setlocale(locale.LC_ALL, "")
+locale.setlocale(locale.LC_NUMERIC, "C")
 ################################################
 ##############Array of Object###################
 ################################################
@@ -306,15 +312,50 @@ def write_to_arff(arr):
     return
 # writing the objects and there values to csv
 # for training and testing purposes
-def write_to_csv(arr):
-    with open("test.csv", "wb") as f:
+def write_to_csv(arr, name_of_file):
+    print "writing file : ", name_of_file
+    name_of_file = name_of_file + '.csv'
+    with open(name_of_file, "wb") as f:
         write = csv.writer(f)
         write.writerows(arr)
     return
 
 # main driver for the file
-def main(table, img, ocr):
+def main(table, img, ocr, name_of_file):
     global my_sorted_array
+    global no_of_tables
+    global no_of_words 
+    global total_width
+    global total_height
+    global words
+    global word_X
+    global word_Y
+    global word_Width
+    global word_Height
+    global objects_in_table
+    global arr_of_objects
+    # clearing the memory to write
+    my_sorted_array = 0
+    no_of_tables = 0
+    no_of_words = 0
+    total_width = 0
+    total_height = 0
+    words = []
+    word_X = []
+    word_Y = []
+    word_Width = []
+    word_Height = []
+    arr_of_objects = []
+    objects_in_table = []
+    no_of_tables = 0
+    X = []
+    Y = []
+    X_1 = []
+    Y_1 = []
+    Width = []
+    Height = []
+    word_part_of_table = []
+
     # read table xml file and  calculate the
     # line spaces
     table_to_array(table)
@@ -332,7 +373,7 @@ def main(table, img, ocr):
     my_sorted_array = sort_array_by_x(my_sorted_array)
     calculate_dist()
     arr = objects_to_array(my_sorted_array)
-    write_to_csv(arr)
+    write_to_csv(arr, name_of_file)
     #for x in range(0,len(my_sorted_array)):
      #   print ("x : ", my_sorted_array[x].x,"y : ",
       #         my_sorted_array[x].y,"word : ",
@@ -355,10 +396,29 @@ def main(table, img, ocr):
 # the word and see if its x and y are equal to that
 # of other arrays
 
+def batch_processor():
+    dir = raw_input("Please Input the directory")
+    extension = "*.png"
+    file_list = []
+    # accessing all the files and storing it into
+    # the file_list
+    for r, d, f in os.walk(dir):
+        for file in fnmatch.filter(f, extension):
+            file_list.append(os.path.join(r, file))
+    
+    # calling the main function with the files
+    for file in file_list:
+        img = file
+        name_of_file = re.split('.png', file)[0]
+        ocr = name_of_file + '_ocr.xml'
+        table = name_of_file + '.xml'
+        main(table, img, ocr, name_of_file)
+
+    # end of the batch processing
+    return
+
 if __name__ == "__main__":
-    main("F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv\\unlv_xml_gt\\0101_003.xml",
-         "F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv-table-png\\0101_003.png",
-         "F:\\KICS - Research Officer\\CVML\\RegionBounder\\UNLV_RegionBounder\\TableRecognition\\Data\\unlv\\unlv_xml_ocr\\0101_003.xml")
+    batch_processor()
 ########################################################
 ####################End of File#########################
 ########################################################
