@@ -70,11 +70,11 @@ def word_to_array(file):
         word_Width.append(abs(left - right))
         word_Height.append(abs(top - bottom))
         
-        for x in range(0, len(X)):
-            if ((X[x] < left < X_1[x]) and (Y[x] < abs(total_height - top) < Y_1[x])):
-                objects_in_table.append(1)
-            else:
-                objects_in_table.append(0)         
+        #for x in range(0, len(X)):
+        #    if ((X[x] <= left <= X_1[x]) and (Y[x] <= abs(total_height - top) <= Y_1[x])):
+        #        objects_in_table.append(1)
+        #    else:
+        #        objects_in_table.append(0)         
     y = 0
 
     for word in words:
@@ -185,8 +185,17 @@ def assigning_values_to_the_struct():
         arr_of_objects.append(DC.DataCollector(word_X[x], word_Y[x],
                     word_Width[x],
                     word_Height[x],
-                    words[x], objects_in_table[x]))
+                    words[x], part_of_table(word_X[x], word_Y[x])))
     return
+
+def part_of_table(x, y):
+    table = 0
+    for i in range(0, len(X)):
+        if ((X[i] <= x <= X_1[i]) and (Y[i] <= y <= Y_1[i])):
+            table = 1
+        else: table = 0
+    return table
+
 #sorting the array of objects with respect to y values
 def sort_array(new_array_of_objects):
     changed = True
@@ -355,7 +364,6 @@ def main(table, img, ocr, name_of_file):
     Width = []
     Height = []
     word_part_of_table = []
-
     # read table xml file and  calculate the
     # line spaces
     table_to_array(table)
@@ -418,7 +426,19 @@ def batch_processor():
     return
 
 if __name__ == "__main__":
-    batch_processor()
+    #for i in range(421, 425):
+     #   dir = "F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data"
+      #  table = dir + "\\" + str(i) + ".xml"
+       # ocr = dir + "\\" + str(i) + "_ocr.xml"
+       # img = dir + "\\" + str(i) + ".png"
+       # name = dir + "\\" + str(i) + "_csv"
+       # main(table, img, ocr, name)
+    #batch_processor()
+    main("F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.xml",
+      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.png",
+      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_ocr.xml",
+      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_csv ")
+    
 ########################################################
 ####################End of File#########################
 ########################################################

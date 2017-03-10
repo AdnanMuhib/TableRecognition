@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GroundTruth InputFile="Z:\dataset\skew_corrected\unlv_tables_bin_train\0651_008.png">
+<Tables>
+<Table x0="300" x1="1990" y0="523" y1="783">
+<Row x0="300" x1="1990" y0="636" y1="636"/>
+<Column x0="1794" x1="1794" y0="523" y1="783"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="300" x1="1794" y0="523" y1="636">(64769,257,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="0" startCol="1" startRow="0" x0="1794" x1="1990" y0="523" y1="636">(64769,257,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="1" startCol="0" startRow="1" x0="300" x1="1794" y0="636" y1="783">(64769,514,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="1" startCol="1" startRow="1" x0="1794" x1="1990" y0="636" y1="783">(64769,514,514)</Cell>
+</Table>
+</Tables>
+</GroundTruth>

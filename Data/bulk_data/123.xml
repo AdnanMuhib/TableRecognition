@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GroundTruth InputFile="Z:\dataset\skew_corrected\unlv_tables_bin_train\1896_369.png">
+<Tables>
+<Table x0="430" x1="1823" y0="1636" y1="1993">
+<Row x0="430" x1="1823" y0="1710" y1="1710"/>
+<Row x0="430" x1="1823" y0="1791" y1="1791"/>
+<Row x0="430" x1="1823" y0="1835" y1="1835"/>
+<Row x0="430" x1="1823" y0="1892" y1="1892"/>
+<Row x0="430" x1="1823" y0="1941" y1="1941"/>
+<Column x0="1092" x1="1092" y0="1636" y1="1993"/>
+<Cell dontCare="false" endCol="0" endRow="0" startCol="0" startRow="0" x0="430" x1="1092" y0="1636" y1="1710">(64769,257,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="0" startCol="1" startRow="0" x0="1092" x1="1823" y0="1636" y1="1710">(64769,257,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="1" startCol="0" startRow="1" x0="430" x1="1092" y0="1710" y1="1791">(64769,514,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="1" startCol="1" startRow="1" x0="1092" x1="1823" y0="1710" y1="1791">(64769,514,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="2" startCol="0" startRow="2" x0="430" x1="1092" y0="1791" y1="1835">(64769,771,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="2" startCol="1" startRow="2" x0="1092" x1="1823" y0="1791" y1="1835">(64769,771,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="3" startCol="0" startRow="3" x0="430" x1="1092" y0="1835" y1="1892">(64769,1028,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="3" startCol="1" startRow="3" x0="1092" x1="1823" y0="1835" y1="1892">(64769,1028,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="4" startCol="0" startRow="4" x0="430" x1="1092" y0="1892" y1="1941">(64769,1285,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="4" startCol="1" startRow="4" x0="1092" x1="1823" y0="1892" y1="1941">(64769,1285,514)</Cell>
+<Cell dontCare="false" endCol="0" endRow="5" startCol="0" startRow="5" x0="430" x1="1092" y0="1941" y1="1993">(64769,1542,257)</Cell>
+<Cell dontCare="false" endCol="1" endRow="5" startCol="1" startRow="5" x0="1092" x1="1823" y0="1941" y1="1993">(64769,1542,514)</Cell>
+</Table>
+</Tables>
+</GroundTruth>
