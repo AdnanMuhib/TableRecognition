@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490760073.png" width="2544"/>
+<words>
+<word bottom="2877" left="540" right="630" top="2903">
+Table</word>
+<word bottom="2878" left="654" right="870" top="2904">
+
+4.--Material
+</word>
+<word bottom="2873" left="899" right="1080" top="2904">
+properties</word>
+<word bottom="2879" left="1104" right="1362" top="2906">
+determinations</word>
+<word bottom="2881" left="1386" right="1420" top="2906">
+of</word>
+<word bottom="2882" left="1442" right="1530" top="2901">
+cores</word>
+<word bottom="2881" left="1556" right="1626" top="2907">
+from</word>
+<word bottom="2881" left="1649" right="1775" top="2907">
+
+UE25a-3
+</word>
+<word bottom="2882" left="1798" right="1883" top="2908">
+drill</word>
+<word bottom="2881" left="1913" right="1982" top="2907">
+hole</word>
+<word bottom="2796" left="583" right="818" top="2830">
+[Measurements</word>
+<word bottom="2797" left="843" right="875" top="2828">
+by</word>
+<word bottom="2802" left="897" right="1005" top="2828">
+Holmes</word>
+<word bottom="2802" left="1031" right="1082" top="2828">
+and</word>
+<word bottom="2800" left="1105" right="1229" top="2827">
+Narver,</word>
+<word bottom="2800" left="1258" right="1342" top="2828">
+Inc.,</word>
+<word bottom="2800" left="1367" right="1511" top="2829">
+Mercury,</word>
+<word bottom="2805" left="1536" right="1659" top="2831">
+Nevada.</word>
+<word bottom="2805" left="1705" right="1851" top="2832">
+Measured</word>
+<word bottom="2806" left="1876" right="1907" top="2830">
+at</word>
+<word bottom="2764" left="711" right="781" top="2783">
+zero</word>
+<word bottom="2758" left="805" right="970" top="2790">
+confining</word>
+<word bottom="2759" left="994" right="1153" top="2784">
+pressure.</word>
+<word bottom="2765" left="1201" right="1325" top="2791">
+Leaders</word>
+<word bottom="2761" left="1353" right="1435" top="2795">
+
+(---)
+</word>
+<word bottom="2767" left="1464" right="1607" top="2793">
+indicate</word>
+<word bottom="2768" left="1631" right="1663" top="2786">
+no</word>
+<word bottom="2762" left="1687" right="1774" top="2796">
+data]</word>
+<word bottom="1747" left="436" right="578" top="1777">
+'Elastic</word>
+<word bottom="1747" left="602" right="766" top="1772">
+constants</word>
+<word bottom="1749" left="788" right="861" top="1768">
+were</word>
+<word bottom="1748" left="884" right="1067" top="1774">
+calculated</word>
+<word bottom="1749" left="1090" right="1123" top="1772">
+at</word>
+<word bottom="1749" left="1147" right="1180" top="1775">
+
+50
+</word>
+<word bottom="1743" left="1204" right="1330" top="1774">
+percent</word>
+<word bottom="1750" left="1353" right="1387" top="1776">
+of</word>
+<word bottom="1750" left="1411" right="1536" top="1777">
+failure</word>
+<word bottom="1751" left="1561" right="1681" top="1775">
+stress.</word>
+<word bottom="1691" left="433" right="523" top="1720">
+
+2Bulk
+</word>
+<word bottom="1691" left="544" right="672" top="1717">
+modulus</word>
+<word bottom="1686" left="696" right="841" top="1717">
+equation</word>
+<word bottom="1667" left="865" right="988" top="1701">
+
+3(1-2v)
+</word>
+<word bottom="1596" left="437" right="543" top="1627">
+
+3Shear
+</word>
+<word bottom="1596" left="563" right="691" top="1622">
+modulus</word>
+<word bottom="1591" left="716" right="861" top="1623">
+equation</word>
+<word bottom="1573" left="885" right="990" top="1607">
+
+2(l
+
++v)
+</word>
+<word bottom="1520" left="454" right="616" top="1546">
+
+E
+
+=modulus
+</word>
+<word bottom="1521" left="642" right="675" top="1547">
+of</word>
+<word bottom="1516" left="697" right="881" top="1548">
+elasticity</word>
+<word bottom="1464" left="453" right="654" top="1491">
+
+v=Poisson's
+</word>
+<word bottom="1464" left="681" right="769" top="1490">
+ratio</word>
+<word bottom="432" left="1224" right="1257" top="457">
+
+29
+</word>
+<word bottom="3163" left="2091" right="2213" top="3219">
+
+oqi
+</word>
+<word bottom="2625" left="394" right="557" top="2658">
+
+Lithology
+</word>
+<word bottom="2593" left="411" right="520" top="2619">
+number</word>
+<word bottom="2625" left="637" right="725" top="2657">
+Depth</word>
+<word bottom="2594" left="578" right="687" top="2618">
+meters</word>
+<word bottom="2594" left="712" right="782" top="2619">
+feet</word>
+<word bottom="2632" left="805" right="890" top="2658">
+Axial</word>
+<word bottom="2632" left="919" right="1025" top="2656">
+stress</word>
+<word bottom="2595" left="823" right="857" top="2619">
+at</word>
+<word bottom="2594" left="881" right="1007" top="2621">
+failure</word>
+<word bottom="2557" left="880" right="932" top="2582">
+
+MPa
+</word>
+<word bottom="2632" left="1068" right="1194" top="2659">
+Modulus</word>
+<word bottom="2633" left="1215" right="1249" top="2659">
+of</word>
+<word bottom="2589" left="1068" right="1252" top="2621">
+elasticity</word>
+<word bottom="2557" left="1088" right="1157" top="2591">
+
+X103
+</word>
+<word bottom="2557" left="1180" right="1234" top="2582">
+
+MPa
+</word>
+<word bottom="2633" left="1276" right="1438" top="2661">
+Poisson's</word>
+<word bottom="2596" left="1313" right="1402" top="2622">
+ratio</word>
+<word bottom="2552" left="1334" right="1379" top="2587">
+
+(v)
+</word>
+<word bottom="2635" left="1482" right="1552" top="2661">
+Bulk</word>
+<word bottom="2597" left="1460" right="1603" top="2631">
+
+modulus
+
+2
+</word>
+<word bottom="2560" left="1463" right="1533" top="2593">
+
+X103
+</word>
+<word bottom="2559" left="1555" right="1608" top="2585">
+
+MPa
+</word>
+<word bottom="2634" left="1651" right="1741" top="2660">
+Shear</word>
+<word bottom="2597" left="1648" right="1792" top="2627">
+
+modulus3
+</word>
+<word bottom="2560" left="1651" right="1720" top="2593">
+
+X10
+
+3
+</word>
+<word bottom="2560" left="1744" right="1796" top="2585">
+
+MPa
+</word>
+<word bottom="2628" left="1895" right="2059" top="2661">
+
+Lithology
+</word>
+<word bottom="2477" left="430" right="519" top="2507">
+
+2,177
+</word>
+<word bottom="2480" left="580" right="670" top="2507">
+
+293.2
+</word>
+<word bottom="2480" left="732" right="782" top="2506">
+
+962
+</word>
+<word bottom="2481" left="863" right="953" top="2507">
+
+12.55
+</word>
+<word bottom="2482" left="1145" right="1215" top="2507">
+
+9.79
+</word>
+<word bottom="2482" left="1331" right="1396" top="2508">
+
+0.31
+</word>
+<word bottom="2483" left="1520" right="1589" top="2509">
+
+8.63
+</word>
+<word bottom="2483" left="1687" right="1759" top="2509">
+
+3.74
+</word>
+<word bottom="2477" left="1895" right="2059" top="2510">
+
+Argillite
+</word>
+<word bottom="2421" left="431" right="521" top="2450">
+
+2,184
+</word>
+<word bottom="2424" left="581" right="671" top="2450">
+
+398.4
+</word>
+<word bottom="2420" left="710" right="792" top="2450">
+
+1,307
+</word>
+<word bottom="2425" left="882" right="952" top="2451">
+
+9.10
+</word>
+<word bottom="2425" left="1145" right="1215" top="2451">
+
+4.34
+</word>
+<word bottom="2426" left="1355" right="1403" top="2452">
+
+.15
+</word>
+<word bottom="2427" left="1520" right="1592" top="2453">
+
+2.08
+</word>
+<word bottom="2428" left="1691" right="1760" top="2453">
+
+1.88
+</word>
+<word bottom="2427" left="1972" right="2018" top="2452">
+Do.</word>
+<word bottom="2364" left="431" right="520" top="2394">
+
+2,185
+</word>
+<word bottom="2368" left="581" right="670" top="2394">
+
+425.2
+</word>
+<word bottom="2364" left="709" right="793" top="2394">
+
+1,395
+</word>
+<word bottom="2368" left="863" right="952" top="2394">
+
+37.50
+</word>
+<word bottom="2370" left="1126" right="1216" top="2395">
+
+46.40
+</word>
+<word bottom="2371" left="1355" right="1402" top="2396">
+
+.22
+</word>
+<word bottom="2371" left="1502" right="1589" top="2397">
+
+27.17
+</word>
+<word bottom="2372" left="1672" right="1760" top="2397">
+
+19.10
+</word>
+<word bottom="2372" left="1895" right="2022" top="2397">
+Altered</word>
+<word bottom="2327" left="1897" right="2060" top="2360">
+
+argillite
+</word>
+<word bottom="2271" left="431" right="521" top="2300">
+
+2,186
+</word>
+<word bottom="2275" left="581" right="671" top="2300">
+
+441.9
+</word>
+<word bottom="2271" left="707" right="794" top="2301">
+
+1,450
+</word>
+<word bottom="2276" left="864" right="953" top="2301">
+
+15.40
+</word>
+<word bottom="2276" left="1144" right="1215" top="2302">
+
+4.36
+</word>
+<word bottom="2278" left="1355" right="1403" top="2303">
+
+.22
+</word>
+<word bottom="2278" left="1520" right="1590" top="2304">
+
+2.57
+</word>
+<word bottom="2278" left="1691" right="1760" top="2304">
+
+1.79
+</word>
+<word bottom="2278" left="1972" right="2018" top="2303">
+Do.</word>
+<word bottom="2215" left="431" right="519" top="2244">
+
+2,187
+</word>
+<word bottom="2218" left="581" right="671" top="2244">
+
+466.0
+</word>
+<word bottom="2214" left="707" right="794" top="2245">
+
+1,529
+</word>
+<word bottom="2219" left="863" right="952" top="2245">
+
+88.25
+</word>
+<word bottom="2220" left="1125" right="1216" top="2246">
+
+42.20
+</word>
+<word bottom="2221" left="1355" right="1403" top="2246">
+
+.15
+</word>
+<word bottom="2222" left="1503" right="1590" top="2248">
+
+19.93
+</word>
+<word bottom="2222" left="1672" right="1754" top="2248">
+
+18.41
+</word>
+<word bottom="2222" left="1971" right="2018" top="2247">
+Do.</word>
+<word bottom="2158" left="431" right="521" top="2188">
+
+2,188
+</word>
+<word bottom="2162" left="582" right="665" top="2188">
+
+505.1
+</word>
+<word bottom="2158" left="708" right="793" top="2188">
+
+1,657
+</word>
+<word bottom="2162" left="863" right="953" top="2188">
+
+23.99
+</word>
+<word bottom="2163" left="1127" right="1215" top="2189">
+
+29.37
+</word>
+<word bottom="2165" left="1355" right="1403" top="2190">
+
+.22
+</word>
+<word bottom="2166" left="1504" right="1592" top="2191">
+
+17.58
+</word>
+<word bottom="2166" left="1672" right="1760" top="2191">
+
+11.99
+</word>
+<word bottom="2165" left="1972" right="2019" top="2190">
+Do.</word>
+<word bottom="2101" left="431" right="521" top="2131">
+
+2,189
+</word>
+<word bottom="2104" left="583" right="670" top="2131">
+
+523.3
+</word>
+<word bottom="2101" left="705" right="792" top="2132">
+
+1,717
+</word>
+<word bottom="2106" left="865" right="952" top="2131">
+
+19.03
+</word>
+<word bottom="2106" left="1132" right="1216" top="2132">
+
+15.93
+</word>
+<word bottom="2108" left="1356" right="1404" top="2133">
+
+.22
+</word>
+<word bottom="2108" left="1521" right="1585" top="2134">
+
+9.31
+</word>
+<word bottom="2108" left="1690" right="1760" top="2134">
+
+6.56
+</word>
+<word bottom="2108" left="1971" right="2019" top="2133">
+Do.</word>
+<word bottom="2045" left="432" right="516" top="2075">
+
+2,191
+</word>
+<word bottom="2048" left="582" right="671" top="2074">
+
+591.3
+</word>
+<word bottom="2045" left="706" right="794" top="2075">
+
+1,940
+</word>
+<word bottom="2049" left="864" right="948" top="2075">
+
+67.91
+</word>
+<word bottom="2050" left="1126" right="1216" top="2076">
+
+43.44
+</word>
+<word bottom="2051" left="1356" right="1404" top="2076">
+
+.14
+</word>
+<word bottom="2052" left="1503" right="1591" top="2078">
+
+19.86
+</word>
+<word bottom="2052" left="1672" right="1760" top="2078">
+
+19.17
+</word>
+<word bottom="2052" left="1972" right="2018" top="2077">
+Do.</word>
+<word bottom="1989" left="432" right="521" top="2018">
+
+2,192
+</word>
+<word bottom="1992" left="582" right="672" top="2018">
+
+634.9
+</word>
+<word bottom="1989" left="705" right="794" top="2018">
+
+2,083
+</word>
+<word bottom="1993" left="864" right="953" top="2019">
+
+60.05
+</word>
+<word bottom="1994" left="1126" right="1216" top="2020">
+
+45.09
+</word>
+<word bottom="1995" left="1356" right="1404" top="2020">
+
+.19
+</word>
+<word bottom="1995" left="1503" right="1591" top="2022">
+
+23.86
+</word>
+<word bottom="1995" left="1673" right="1761" top="2021">
+
+19.03
+</word>
+<word bottom="1996" left="1877" right="2117" top="2021">
+
+Metasandstone
+</word>
+<word bottom="1933" left="432" right="521" top="1962">
+
+2,193
+</word>
+<word bottom="1936" left="582" right="666" top="1962">
+
+675.1
+</word>
+<word bottom="1932" left="705" right="794" top="1962">
+
+2,215
+</word>
+<word bottom="1936" left="864" right="948" top="1962">
+
+23.51
+</word>
+<word bottom="1938" left="1128" right="1217" top="1963">
+
+16.48
+</word>
+<word bottom="1938" left="1356" right="1404" top="1964">
+
+.13
+</word>
+<word bottom="1939" left="1521" right="1592" top="1965">
+
+7.38
+</word>
+<word bottom="1939" left="1690" right="1755" top="1965">
+
+7.31
+</word>
+<word bottom="1939" left="1896" right="2023" top="1965">
+Altered</word>
+<word bottom="1895" left="1896" right="2061" top="1928">
+
+argillite
+</word>
+<word bottom="1839" left="432" right="523" top="1868">
+
+2,194
+</word>
+<word bottom="1842" left="582" right="672" top="1868">
+
+700.4
+</word>
+<word bottom="1838" left="705" right="796" top="1868">
+
+2,298
+</word>
+<word bottom="1842" left="864" right="954" top="1868">
+
+84.80
+</word>
+<word bottom="1843" left="1128" right="1216" top="1869">
+
+46.06
+</word>
+<word bottom="1844" left="1356" right="1404" top="1869">
+
+.33
+</word>
+<word bottom="1845" left="1503" right="1592" top="1871">
+
+45.99
+</word>
+<word bottom="1845" left="1674" right="1755" top="1871">
+
+17.31
+</word>
+<word bottom="1845" left="1973" right="2019" top="1870">
+Do.</word>
+</words>
+</ocrresult>
+

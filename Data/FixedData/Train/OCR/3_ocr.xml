@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490475924.png" width="2544"/>
+<words>
+<word bottom="2997" left="1047" right="1246" top="3023">
+CONTENTS</word>
+<word bottom="2994" left="1282" right="1542" top="3027">
+(Continued)</word>
+<word bottom="160" left="1284" right="1328" top="189">
+xi</word>
+<word bottom="2891" left="2135" right="2231" top="2922">
+Page</word>
+<word bottom="2791" left="461" right="532" top="2821">
+
+4.9
+</word>
+<word bottom="2792" left="612" right="887" top="2822">
+Alternative</word>
+<word bottom="2792" left="918" right="1090" top="2821">
+Methods</word>
+<word bottom="2793" left="1124" right="1168" top="2821">
+of</word>
+<word bottom="2787" left="1200" right="1625" top="2822">
+Human-Reliability</word>
+<word bottom="2787" left="1653" right="1849" top="2823">
+Analysis</word>
+<word bottom="2795" left="2136" right="2229" top="2824">
+
+4-66
+</word>
+<word bottom="2743" left="612" right="724" top="2773">
+
+4.9.1
+</word>
+<word bottom="2738" left="815" right="1245" top="2774">
+Human-Reliability</word>
+<word bottom="2738" left="1272" right="1467" top="2774">
+Analysis</word>
+<word bottom="2745" left="1500" right="1546" top="2774">
+in</word>
+<word bottom="2746" left="1578" right="1645" top="2774">
+the</word>
+<word bottom="2745" left="1675" right="1824" top="2772">
+Oconee</word>
+<word bottom="2746" left="1854" right="1929" top="2772">
+PRA</word>
+<word bottom="2747" left="2135" right="2229" top="2776">
+
+4-66
+</word>
+<word bottom="2692" left="612" right="733" top="2722">
+
+4.9.2
+</word>
+<word bottom="2693" left="815" right="887" top="2721">
+The</word>
+<word bottom="2685" left="918" right="1295" top="2722">
+Operator-Action</word>
+<word bottom="2694" left="1324" right="1420" top="2720">
+Tree</word>
+<word bottom="2696" left="2135" right="2229" top="2725">
+
+4-68
+</word>
+<word bottom="2643" left="611" right="731" top="2673">
+
+4.9.3
+</word>
+<word bottom="2644" left="814" right="1015" top="2673">
+Accident</word>
+<word bottom="2644" left="1045" right="1293" top="2674">
+Initiation</word>
+<word bottom="2645" left="1324" right="1393" top="2672">
+and</word>
+<word bottom="2638" left="1422" right="1697" top="2674">
+Progression</word>
+<word bottom="2639" left="1726" right="1927" top="2675">
+Analysis</word>
+<word bottom="2647" left="2134" right="2229" top="2676">
+
+4-70
+</word>
+<word bottom="2591" left="610" right="732" top="2621">
+
+4.9.4
+</word>
+<word bottom="2592" left="814" right="1088" top="2621">
+Conclusions</word>
+<word bottom="2595" left="2134" right="2227" top="2624">
+
+4-72
+</word>
+<word bottom="2541" left="461" right="554" top="2570">
+
+4.10
+</word>
+<word bottom="2541" left="611" right="833" top="2568">
+Assurance</word>
+<word bottom="2541" left="866" right="910" top="2569">
+of</word>
+<word bottom="2541" left="940" right="1166" top="2570">
+Technical</word>
+<word bottom="2534" left="1195" right="1372" top="2571">
+Quality</word>
+<word bottom="2544" left="2135" right="2228" top="2573">
+
+4-73
+</word>
+<word bottom="2491" left="357" right="605" top="2520">
+References</word>
+<word bottom="2494" left="2134" right="2227" top="2523">
+
+4-74
+</word>
+<word bottom="2388" left="357" right="377" top="2417">
+
+5
+</word>
+<word bottom="2387" left="458" right="683" top="2414">
+DATA-BASE</word>
+<word bottom="2387" left="711" right="989" top="2414">
+DEVELOPMENT</word>
+<word bottom="2391" left="2134" right="2195" top="2419">
+
+5-1
+</word>
+<word bottom="2339" left="459" right="521" top="2370">
+
+5.1
+</word>
+<word bottom="2340" left="611" right="912" top="2370">
+Introduction</word>
+<word bottom="2344" left="2133" right="2195" top="2372">
+
+5-1
+</word>
+<word bottom="2288" left="458" right="527" top="2318">
+
+5.2
+</word>
+<word bottom="2288" left="608" right="810" top="2318">
+Overview</word>
+<word bottom="2293" left="2133" right="2200" top="2320">
+
+5-2
+</word>
+<word bottom="2238" left="458" right="527" top="2268">
+
+5.3
+</word>
+<word bottom="2238" left="609" right="732" top="2265">
+Event</word>
+<word bottom="2238" left="761" right="907" top="2267">
+Models</word>
+<word bottom="2238" left="940" right="1011" top="2267">
+and</word>
+<word bottom="2238" left="1041" right="1164" top="2269">
+Their</word>
+<word bottom="2239" left="1193" right="1267" top="2265">
+Use</word>
+<word bottom="2242" left="2133" right="2202" top="2271">
+
+5-4
+</word>
+<word bottom="2187" left="610" right="722" top="2217">
+
+5.3.1
+</word>
+<word bottom="2181" left="811" right="1240" top="2218">
+Component-Failure</word>
+<word bottom="2188" left="1271" right="1415" top="2217">
+Models</word>
+<word bottom="2192" left="2134" right="2201" top="2220">
+
+5-4
+</word>
+<word bottom="2137" left="811" right="976" top="2167">
+
+5.3.1.1
+</word>
+<word bottom="2138" left="1066" right="1365" top="2167">
+Time-Related</word>
+<word bottom="2139" left="1396" right="1543" top="2167">
+Models</word>
+<word bottom="2141" left="2132" right="2201" top="2170">
+
+5-4
+</word>
+<word bottom="2086" left="812" right="983" top="2117">
+
+5.3.1.2
+</word>
+<word bottom="2088" left="1064" right="1216" top="2116">
+Demand</word>
+<word bottom="2088" left="1246" right="1367" top="2116">
+Model</word>
+<word bottom="2091" left="2133" right="2219" top="2119">
+
+5-11
+</word>
+<word bottom="2036" left="811" right="982" top="2067">
+
+5.3.1.3
+</word>
+<word bottom="2038" left="1064" right="1214" top="2066">
+Demand</word>
+<word bottom="2038" left="1244" right="1364" top="2066">
+Model</word>
+<word bottom="2038" left="1397" right="1462" top="2060">
+vs.</word>
+<word bottom="2039" left="1496" right="1871" top="2069">
+Time-to-Failure</word>
+<word bottom="2040" left="1903" right="2073" top="2068">
+Model  </word>
+<word bottom="2041" left="2132" right="2219" top="2069">
+
+5-11
+</word>
+<word bottom="1983" left="607" right="728" top="2014">
+
+5.3.2
+</word>
+<word bottom="1985" left="811" right="910" top="2012">
+Test</word>
+<word bottom="1985" left="938" right="1263" top="2014">
+Contributions</word>
+<word bottom="1985" left="1298" right="1342" top="2012">
+to</word>
+<word bottom="1979" left="1370" right="1595" top="2013">
+Component</word>
+<word bottom="1980" left="1624" right="2072" top="2016">
+Unavailability  </word>
+<word bottom="1988" left="2132" right="2224" top="2016">
+
+5-12
+</word>
+<word bottom="1934" left="608" right="727" top="1964">
+
+5.3.3
+</word>
+<word bottom="1935" left="810" right="1086" top="1964">
+Maintenance</word>
+<word bottom="1935" left="1115" right="1438" top="1965">
+Contributions</word>
+<word bottom="1936" left="1471" right="1518" top="1963">
+to</word>
+<word bottom="1930" left="1546" right="1773" top="1963">
+Component</word>
+<word bottom="1879" left="811" right="1164" top="1915">
+Unavailability</word>
+<word bottom="1889" left="2132" right="2223" top="1918">
+
+5-13
+</word>
+<word bottom="1834" left="606" right="727" top="1864">
+
+5.3.4
+</word>
+<word bottom="1828" left="811" right="1215" top="1865">
+Initiating-Event</word>
+<word bottom="1836" left="1242" right="1389" top="1864">
+Models</word>
+<word bottom="1839" left="2131" right="2225" top="1867">
+
+5-14
+</word>
+<word bottom="1784" left="456" right="526" top="1814">
+
+5.4
+</word>
+<word bottom="1785" left="606" right="705" top="1812">
+Data</word>
+<word bottom="1778" left="734" right="959" top="1814">
+Gathering</word>
+<word bottom="1789" left="2132" right="2224" top="1817">
+
+5-15
+</word>
+<word bottom="1734" left="607" right="720" top="1765">
+
+5.4.1
+</word>
+<word bottom="1729" left="810" right="1009" top="1765">
+Existing</word>
+<word bottom="1735" left="1037" right="1136" top="1762">
+Data</word>
+<word bottom="1736" left="1167" right="1339" top="1763">
+Sources</word>
+<word bottom="1739" left="2131" right="2224" top="1768">
+
+5-15
+</word>
+<word bottom="1681" left="606" right="727" top="1711">
+
+5.4.2
+</word>
+<word bottom="1675" left="808" right="1162" top="1710">
+Component-Data</word>
+<word bottom="1682" left="1192" right="1440" top="1712">
+Collection</word>
+<word bottom="1683" left="1472" right="1568" top="1712">
+from</word>
+<word bottom="1684" left="1596" right="1769" top="1712">
+Nuclear</word>
+<word bottom="1685" left="1800" right="1922" top="1711">
+Power</word>
+<word bottom="1633" left="808" right="958" top="1661">
+Plants</word>
+<word bottom="1636" left="2131" right="2226" top="1665">
+
+5-18
+</word>
+<word bottom="1581" left="809" right="974" top="1613">
+
+5.4.2.1
+</word>
+<word bottom="1583" left="1063" right="1262" top="1613">
+Periodic</word>
+<word bottom="1583" left="1294" right="1391" top="1610">
+Test</word>
+<word bottom="1577" left="1419" right="1589" top="1611">
+Reports</word>
+<word bottom="1585" left="1623" right="1693" top="1613">
+and</word>
+<word bottom="1584" left="1723" right="2071" top="1613">
+Procedures  </word>
+<word bottom="1586" left="2131" right="2223" top="1615">
+
+5-19
+</word>
+<word bottom="1531" left="808" right="978" top="1561">
+
+5.4.2.2
+</word>
+<word bottom="1532" left="1062" right="1337" top="1562">
+Maintenance</word>
+<word bottom="1525" left="1367" right="1540" top="1559">
+Reports</word>
+<word bottom="1535" left="2129" right="2217" top="1564">
+
+5-21
+</word>
+<word bottom="1480" left="808" right="981" top="1511">
+
+5.4.2.3
+</word>
+<word bottom="1474" left="1062" right="1287" top="1511">
+Operating</word>
+<word bottom="1482" left="1317" right="1565" top="1511">
+Procedures</word>
+<word bottom="1485" left="2130" right="2216" top="1514">
+
+5-21
+</word>
+<word bottom="1431" left="808" right="980" top="1461">
+
+5.4.2.4
+</word>
+<word bottom="1432" left="1062" right="1363" top="1460">
+Control-Room</word>
+<word bottom="1426" left="1390" right="1465" top="1459">
+Log</word>
+<word bottom="1435" left="2130" right="2222" top="1464">
+
+5-22
+</word>
+<word bottom="1379" left="453" right="523" top="1410">
+
+5.5
+</word>
+<word bottom="1379" left="606" right="854" top="1409">
+Estimation</word>
+<word bottom="1380" left="886" right="930" top="1408">
+of</word>
+<word bottom="1379" left="961" right="1083" top="1408">
+Model</word>
+<word bottom="1379" left="1113" right="1360" top="1406">
+Parameters</word>
+<word bottom="1382" left="2130" right="2221" top="1411">
+
+5-22
+</word>
+<word bottom="1328" left="604" right="718" top="1359">
+
+5.5.1
+</word>
+<word bottom="1329" left="807" right="1083" top="1359">
+Statistical</word>
+<word bottom="1330" left="1113" right="1364" top="1360">
+Estimation</word>
+<word bottom="1332" left="2129" right="2222" top="1361">
+
+5-23
+</word>
+<word bottom="1278" left="808" right="973" top="1310">
+
+5.5.1.1
+</word>
+<word bottom="1280" left="1061" right="1187" top="1310">
+Point</word>
+<word bottom="1279" left="1217" right="1463" top="1310">
+Estimation</word>
+<word bottom="1283" left="2129" right="2221" top="1312">
+
+5-23
+</word>
+<word bottom="1228" left="807" right="977" top="1259">
+
+5.5.1.2
+</word>
+<word bottom="1229" left="1062" right="1261" top="1258">
+Standard</word>
+<word bottom="1230" left="1290" right="1437" top="1256">
+Errors</word>
+<word bottom="1232" left="2128" right="2221" top="1261">
+
+5-24
+</word>
+<word bottom="1178" left="808" right="979" top="1209">
+
+5.5.1.3
+</word>
+<word bottom="1179" left="1063" right="1261" top="1208">
+Interval</word>
+<word bottom="1179" left="1291" right="1540" top="1209">
+Estimation</word>
+<word bottom="1182" left="2129" right="2221" top="1211">
+
+5-25
+</word>
+<word bottom="1128" left="603" right="722" top="1159">
+
+5.5.2
+</word>
+<word bottom="1122" left="807" right="1006" top="1158">
+
+Bayesian
+</word>
+<word bottom="1129" left="1037" right="1287" top="1160">
+Estimation</word>
+<word bottom="1132" left="2128" right="2222" top="1161">
+
+5-28
+</word>
+<word bottom="1076" left="806" right="971" top="1108">
+
+5.5.2.1
+</word>
+<word bottom="1077" left="1061" right="1285" top="1107">
+Essential</word>
+<word bottom="1079" left="1316" right="1511" top="1107">
+Elements</word>
+<word bottom="1079" left="1544" right="1589" top="1108">
+of</word>
+<word bottom="1080" left="1622" right="1689" top="1108">
+the</word>
+<word bottom="1073" left="1722" right="1919" top="1109">
+
+Bayesian
+</word>
+<word bottom="1021" left="1060" right="1263" top="1056">
+Approach</word>
+<word bottom="1031" left="2128" right="2223" top="1059">
+
+5-29
+</word>
+<word bottom="976" left="805" right="977" top="1006">
+
+5.5.2.2
+</word>
+<word bottom="970" left="1059" right="1336" top="1006">
+Determining</word>
+<word bottom="977" left="1365" right="1486" top="1007">
+Prior</word>
+<word bottom="978" left="1516" right="1840" top="1009">
+Distributions</word>
+<word bottom="980" left="2127" right="2220" top="1009">
+
+5-33
+</word>
+<word bottom="925" left="804" right="976" top="955">
+
+5.5.2.3
+</word>
+<word bottom="919" left="1059" right="1309" top="956">
+Estimating</word>
+<word bottom="927" left="1339" right="1765" top="956">
+Failure-on-Demand</word>
+<word bottom="876" left="1059" right="1384" top="907">
+Probabilities</word>
+<word bottom="880" left="2127" right="2221" top="908">
+
+5-46
+</word>
+<word bottom="825" left="805" right="976" top="856">
+
+5.5.2.4
+</word>
+<word bottom="820" left="1060" right="1309" top="857">
+Estimating</word>
+<word bottom="827" left="1337" right="1537" top="854">
+Constant</word>
+<word bottom="828" left="1567" right="1738" top="858">
+Failure</word>
+<word bottom="828" left="1768" right="1892" top="855">
+Rates</word>
+<word bottom="830" left="2126" right="2221" top="859">
+
+5-50
+</word>
+<word bottom="773" left="805" right="976" top="804">
+
+5.5.2.5
+</word>
+<word bottom="768" left="1060" right="1252" top="803">
+Example:</word>
+<word bottom="775" left="1289" right="1459" top="804">
+Failure</word>
+<word bottom="776" left="1492" right="1536" top="804">
+of</word>
+<word bottom="776" left="1566" right="1713" top="805">
+Diesel</word>
+<word bottom="777" left="1744" right="1991" top="804">
+Generators</word>
+<word bottom="725" left="1058" right="1106" top="752">
+To</word>
+<word bottom="726" left="1136" right="1262" top="753">
+Start</word>
+<word bottom="729" left="2127" right="2219" top="758">
+
+5-52
+</word>
+<word bottom="675" left="449" right="521" top="705">
+
+5.6
+</word>
+<word bottom="674" left="602" right="851" top="704">
+Evaluation</word>
+<word bottom="675" left="883" right="927" top="704">
+of</word>
+<word bottom="668" left="957" right="1184" top="703">
+Dependent</word>
+<word bottom="675" left="1214" right="1407" top="704">
+Failures</word>
+<word bottom="678" left="2126" right="2219" top="707">
+
+5-55
+</word>
+<word bottom="624" left="599" right="713" top="653">
+
+5.6.1
+</word>
+<word bottom="624" left="801" right="1156" top="654">
+Classification</word>
+<word bottom="624" left="1187" right="1231" top="653">
+of</word>
+<word bottom="625" left="1262" right="1408" top="652">
+Events</word>
+<word bottom="627" left="2125" right="2219" top="657">
+
+5-55
+</word>
+<word bottom="573" left="600" right="720" top="603">
+
+5.6.2
+</word>
+<word bottom="574" left="802" right="1080" top="604">
+Calculation</word>
+<word bottom="574" left="1112" right="1156" top="603">
+of</word>
+<word bottom="574" left="1186" right="1432" top="601">
+Parameters</word>
+<word bottom="577" left="2126" right="2219" top="607">
+
+5-55
+</word>
+<word bottom="524" left="449" right="517" top="554">
+
+5.7
+</word>
+<word bottom="524" left="599" right="927" top="554">
+Uncertainties</word>
+<word bottom="528" left="2125" right="2220" top="557">
+
+5-56
+</word>
+<word bottom="472" left="600" right="713" top="502">
+
+5.7.1
+</word>
+<word bottom="472" left="803" right="975" top="500">
+Sources</word>
+<word bottom="473" left="1008" right="1053" top="502">
+of</word>
+<word bottom="467" left="1084" right="1359" top="502">
+Uncertainty</word>
+<word bottom="476" left="2125" right="2217" top="506">
+
+5-57
+</word>
+<word bottom="422" left="599" right="718" top="452">
+
+5.7.2
+</word>
+<word bottom="422" left="800" right="1051" top="451">
+Procedures</word>
+<word bottom="423" left="1084" right="1154" top="451">
+for</word>
+<word bottom="416" left="1184" right="1382" top="453">
+Treating</word>
+<word bottom="418" left="1412" right="1609" top="454">
+Modeling</word>
+<word bottom="424" left="1638" right="2065" top="454">
+Uncertainties  </word>
+<word bottom="426" left="2125" right="2217" top="455">
+
+5-57
+</word>
+<word bottom="372" left="598" right="720" top="402">
+
+5.7.3
+</word>
+<word bottom="373" left="802" right="1051" top="401">
+Procedures</word>
+<word bottom="373" left="1086" right="1155" top="402">
+for</word>
+<word bottom="367" left="1186" right="1383" top="403">
+Treating</word>
+<word bottom="374" left="1413" right="1636" top="401">
+Parameter</word>
+<word bottom="374" left="1666" right="2065" top="405">
+Uncertainties  </word>
+<word bottom="376" left="2125" right="2217" top="405">
+
+5-57
+</word>
+<word bottom="377" left="2199" right="2217" top="405">
+
+7
+</word>
+</words>
+</ocrresult>
+

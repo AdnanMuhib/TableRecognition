@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490471138.png" width="2544"/>
+<words>
+<word bottom="3088" left="410" right="455" top="3116">
+In</word>
+<word bottom="3079" left="485" right="677" top="3108">
+summary,</word>
+<word bottom="3088" left="713" right="783" top="3119">
+for</word>
+<word bottom="3087" left="816" right="884" top="3118">
+the</word>
+<word bottom="3087" left="917" right="1035" top="3108">
+cases</word>
+<word bottom="3082" left="1067" right="1285" top="3118">
+examined,</word>
+<word bottom="3088" left="1322" right="1390" top="3117">
+the</word>
+<word bottom="3087" left="1421" right="1540" top="3115">
+costs</word>
+<word bottom="3079" left="1573" right="1719" top="3116">
+ranged</word>
+<word bottom="3087" left="1750" right="1847" top="3118">
+from</word>
+<word bottom="3084" left="1876" right="1995" top="3125">
+
+$10.8
+</word>
+<word bottom="3087" left="2028" right="2071" top="3114">
+to</word>
+<word bottom="3084" left="2102" right="2221" top="3124">
+
+$20.5
+</word>
+<word bottom="3037" left="279" right="455" top="3068">
+billion</word>
+<word bottom="3037" left="485" right="555" top="3068">
+for</word>
+<word bottom="3037" left="588" right="656" top="3063">
+two</word>
+<word bottom="3030" left="688" right="1006" top="3069">
+repositories.</word>
+<word bottom="3037" left="1067" right="1138" top="3067">
+The</word>
+<word bottom="3037" left="1169" right="1288" top="3064">
+costs</word>
+<word bottom="3038" left="1319" right="1364" top="3069">
+of</word>
+<word bottom="3037" left="1397" right="1641" top="3069">
+individual</word>
+<word bottom="3029" left="1674" right="1970" top="3069">
+repositories</word>
+<word bottom="3029" left="2003" right="2147" top="3066">
+ranged</word>
+<word bottom="2987" left="282" right="380" top="3018">
+from</word>
+<word bottom="2984" left="409" right="504" top="3023">
+
+$5.3
+</word>
+<word bottom="2987" left="537" right="581" top="3013">
+to</word>
+<word bottom="2983" left="611" right="732" top="3024">
+
+$11.4
+</word>
+<word bottom="2988" left="761" right="956" top="3019">
+billion.</word>
+<word bottom="2987" left="1016" right="1087" top="3017">
+The</word>
+<word bottom="2979" left="1119" right="1367" top="3018">
+repository</word>
+<word bottom="2988" left="1396" right="1491" top="3014">
+cost</word>
+<word bottom="2988" left="1521" right="1565" top="3019">
+of</word>
+<word bottom="2988" left="1600" right="1667" top="3017">
+the</word>
+<word bottom="2979" left="1700" right="2197" top="3019">
+improved-performance</word>
+<word bottom="2929" left="282" right="431" top="2964">
+system</word>
+<word bottom="2937" left="461" right="503" top="2968">
+is</word>
+<word bottom="2937" left="533" right="656" top="2967">
+about</word>
+<word bottom="2934" left="687" right="783" top="2975">
+
+$1.0
+</word>
+<word bottom="2938" left="812" right="988" top="2969">
+billion</word>
+<word bottom="2937" left="1019" right="1139" top="2968">
+lower</word>
+<word bottom="2937" left="1171" right="1266" top="2967">
+than</word>
+<word bottom="2938" left="1297" right="1390" top="2968">
+that</word>
+<word bottom="2938" left="1421" right="1465" top="2969">
+of</word>
+<word bottom="2937" left="1499" right="1566" top="2967">
+the</word>
+<word bottom="2937" left="1597" right="1845" top="2968">
+authorized</word>
+<word bottom="2930" left="1876" right="2042" top="2964">
+system,</word>
+<word bottom="2938" left="2075" right="2147" top="2967">
+and</word>
+<word bottom="2938" left="2176" right="2246" top="2968">
+all</word>
+<word bottom="2887" left="281" right="325" top="2918">
+of</word>
+<word bottom="2887" left="359" right="452" top="2918">
+this</word>
+<word bottom="2887" left="484" right="732" top="2918">
+difference</word>
+<word bottom="2888" left="766" right="807" top="2919">
+is</word>
+<word bottom="2887" left="839" right="1088" top="2919">
+attributed</word>
+<word bottom="2887" left="1121" right="1163" top="2914">
+to</word>
+<word bottom="2887" left="1196" right="1265" top="2917">
+the</word>
+<word bottom="2888" left="1296" right="1415" top="2919">
+first</word>
+<word bottom="2880" left="1448" right="1714" top="2919">
+repository.</word>
+<word bottom="2688" left="284" right="354" top="2719">
+
+5.3
+</word>
+<word bottom="2688" left="410" right="660" top="2717">
+COMPARISON</word>
+<word bottom="2689" left="687" right="785" top="2718">
+WITH</word>
+<word bottom="2688" left="816" right="1013" top="2717">
+PREVIOUS</word>
+<word bottom="2688" left="1043" right="1141" top="2717">
+COST</word>
+<word bottom="2688" left="1170" right="1392" top="2718">
+ESTIMATES</word>
+<word bottom="2589" left="410" right="481" top="2618">
+The</word>
+<word bottom="2588" left="512" right="682" top="2615">
+current</word>
+<word bottom="2581" left="715" right="1089" top="2619">
+repository-cost</word>
+<word bottom="2588" left="1120" right="1341" top="2619">
+estimates</word>
+<word bottom="2589" left="1371" right="1467" top="2610">
+were</word>
+<word bottom="2581" left="1498" right="1720" top="2619">
+developed</word>
+<word bottom="2580" left="1753" right="2073" top="2620">
+independently</word>
+<word bottom="2589" left="2102" right="2145" top="2620">
+of</word>
+<word bottom="2538" left="285" right="378" top="2569">
+last</word>
+<word bottom="2530" left="410" right="556" top="2568">
+year's</word>
+<word bottom="2533" left="588" right="858" top="2578">
+estimates,
+2
+</word>
+<word bottom="2539" left="891" right="963" top="2567">
+and</word>
+<word bottom="2538" left="996" right="1215" top="2569">
+therefore</word>
+<word bottom="2531" left="1245" right="1344" top="2560">
+many</word>
+<word bottom="2539" left="1372" right="1643" top="2570">
+differences</word>
+<word bottom="2538" left="1674" right="1820" top="2569">
+become</word>
+<word bottom="2539" left="1851" right="2021" top="2570">
+evident</word>
+<word bottom="2539" left="2050" right="2149" top="2569">
+when</word>
+<word bottom="2488" left="286" right="354" top="2518">
+the</word>
+<word bottom="2488" left="386" right="556" top="2515">
+current</word>
+<word bottom="2488" left="588" right="810" top="2519">
+estimates</word>
+<word bottom="2489" left="841" right="912" top="2510">
+are</word>
+<word bottom="2480" left="944" right="1140" top="2517">
+compared</word>
+<word bottom="2489" left="1169" right="1268" top="2519">
+with</word>
+<word bottom="2489" left="1299" right="1367" top="2519">
+the</word>
+<word bottom="2489" left="1400" right="1492" top="2520">
+
+1986
+</word>
+<word bottom="2489" left="1524" right="1644" top="2518">
+
+TSLCC
+</word>
+<word bottom="2488" left="1674" right="1916" top="2519">
+estimates.</word>
+<word bottom="2388" left="411" right="481" top="2417">
+The</word>
+<word bottom="2388" left="513" right="607" top="2415">
+cost</word>
+<word bottom="2388" left="639" right="912" top="2420">
+differences</word>
+<word bottom="2388" left="943" right="1014" top="2409">
+are</word>
+<word bottom="2388" left="1045" right="1292" top="2419">
+summarized</word>
+<word bottom="2390" left="1324" right="1369" top="2420">
+in</word>
+<word bottom="2389" left="1398" right="1542" top="2420">
+Tables</word>
+<word bottom="2388" left="1575" right="1644" top="2419">
+
+5-3
+</word>
+<word bottom="2388" left="1674" right="1746" top="2417">
+and</word>
+<word bottom="2388" left="1776" right="1846" top="2419">
+
+5-4
+</word>
+<word bottom="2389" left="1878" right="1947" top="2420">
+for</word>
+<word bottom="2389" left="1980" right="2046" top="2419">
+the</word>
+<word bottom="2330" left="286" right="785" top="2369">
+improved-performance</word>
+<word bottom="2331" left="817" right="966" top="2365">
+system</word>
+<word bottom="2338" left="993" right="1065" top="2367">
+and</word>
+<word bottom="2338" left="1098" right="1165" top="2368">
+the</word>
+<word bottom="2338" left="1196" right="1443" top="2370">
+authorized</word>
+<word bottom="2331" left="1474" right="1641" top="2366">
+system,</word>
+<word bottom="2330" left="1677" right="1992" top="2370">
+respectively.</word>
+<word bottom="2339" left="2052" right="2122" top="2369">
+The</word>
+<word bottom="2339" left="2154" right="2248" top="2365">
+cost</word>
+<word bottom="2288" left="284" right="556" top="2319">
+differences</word>
+<word bottom="2281" left="590" right="709" top="2310">
+range</word>
+<word bottom="2289" left="741" right="840" top="2320">
+from</word>
+<word bottom="2289" left="867" right="938" top="2320">
+
+-13
+</word>
+<word bottom="2289" left="972" right="1014" top="2315">
+to</word>
+<word bottom="2289" left="1044" right="1115" top="2320">
+
++17
+</word>
+<word bottom="2281" left="1146" right="1337" top="2316">
+percent.</word>
+<word bottom="2289" left="1398" right="1468" top="2319">
+The</word>
+<word bottom="2289" left="1500" right="1618" top="2315">
+costs</word>
+<word bottom="2289" left="1650" right="1694" top="2320">
+of</word>
+<word bottom="2289" left="1724" right="1747" top="2310">
+a</word>
+<word bottom="2280" left="1777" right="2024" top="2320">
+repository</word>
+<word bottom="2290" left="2055" right="2099" top="2320">
+in</word>
+<word bottom="2289" left="2130" right="2223" top="2320">
+tuff</word>
+<word bottom="2239" left="287" right="508" top="2269">
+increased</word>
+<word bottom="2231" left="537" right="585" top="2269">
+by</word>
+<word bottom="2239" left="617" right="632" top="2269">
+
+1
+</word>
+<word bottom="2240" left="667" right="709" top="2265">
+to</word>
+<word bottom="2239" left="740" right="760" top="2271">
+
+8
+</word>
+<word bottom="2232" left="792" right="984" top="2265">
+percent,</word>
+<word bottom="2238" left="1019" right="1091" top="2267">
+and</word>
+<word bottom="2238" left="1123" right="1242" top="2268">
+those</word>
+<word bottom="2240" left="1272" right="1315" top="2271">
+of</word>
+<word bottom="2240" left="1347" right="1369" top="2260">
+a</word>
+<word bottom="2231" left="1399" right="1647" top="2270">
+repository</word>
+<word bottom="2240" left="1677" right="1722" top="2270">
+in</word>
+<word bottom="2239" left="1752" right="1845" top="2269">
+salt</word>
+<word bottom="2239" left="1878" right="2098" top="2270">
+increased</word>
+<word bottom="2232" left="2127" right="2175" top="2269">
+by</word>
+<word bottom="2239" left="2206" right="2248" top="2270">
+
+15
+</word>
+<word bottom="2189" left="288" right="331" top="2215">
+to</word>
+<word bottom="2189" left="364" right="406" top="2220">
+
+17
+</word>
+<word bottom="2181" left="438" right="631" top="2215">
+percent;</word>
+<word bottom="2190" left="668" right="736" top="2219">
+the</word>
+<word bottom="2189" left="767" right="888" top="2216">
+costs</word>
+<word bottom="2189" left="919" right="963" top="2220">
+of</word>
+<word bottom="2189" left="994" right="1017" top="2210">
+a</word>
+<word bottom="2181" left="1047" right="1294" top="2220">
+repository</word>
+<word bottom="2190" left="1326" right="1370" top="2221">
+in</word>
+<word bottom="2190" left="1398" right="1544" top="2220">
+basalt</word>
+<word bottom="2189" left="1578" right="1797" top="2220">
+increased</word>
+<word bottom="2181" left="1825" right="1873" top="2219">
+by</word>
+<word bottom="2190" left="1903" right="1923" top="2221">
+
+0
+</word>
+<word bottom="2189" left="1956" right="1998" top="2216">
+to</word>
+<word bottom="2190" left="2031" right="2049" top="2220">
+
+2
+</word>
+<word bottom="2181" left="2079" right="2176" top="2211">
+per-</word>
+<word bottom="2139" left="286" right="402" top="2166">
+cent.</word>
+<word bottom="2139" left="463" right="533" top="2169">
+The</word>
+<word bottom="2139" left="565" right="685" top="2166">
+costs</word>
+<word bottom="2140" left="716" right="760" top="2171">
+of</word>
+<word bottom="2140" left="791" right="814" top="2161">
+a</word>
+<word bottom="2139" left="844" right="991" top="2168">
+second</word>
+<word bottom="2131" left="1022" right="1270" top="2170">
+repository</word>
+<word bottom="2140" left="1301" right="1345" top="2171">
+in</word>
+<word bottom="2140" left="1375" right="1469" top="2171">
+salt</word>
+<word bottom="2139" left="1502" right="1722" top="2171">
+increased</word>
+<word bottom="2131" left="1750" right="1798" top="2169">
+by</word>
+<word bottom="2140" left="1829" right="1922" top="2169">
+less</word>
+<word bottom="2140" left="1956" right="2050" top="2169">
+than</word>
+<word bottom="2141" left="2081" right="2098" top="2170">
+
+1
+</word>
+<word bottom="2131" left="2130" right="2227" top="2160">
+per-</word>
+<word bottom="1939" left="1187" right="1308" top="1971">
+Table</word>
+<word bottom="1940" left="1339" right="1408" top="1971">
+
+5-3
+</word>
+<word bottom="1832" left="656" right="907" top="1871">
+Comparison</word>
+<word bottom="1840" left="935" right="979" top="1871">
+of</word>
+<word bottom="1839" left="1009" right="1358" top="1870">
+Reference-Case</word>
+<word bottom="1831" left="1390" right="1789" top="1871">
+First-Repository</word>
+<word bottom="1839" left="1816" right="1937" top="1868">
+Costs</word>
+<word bottom="1789" left="541" right="611" top="1820">
+for</word>
+<word bottom="1790" left="643" right="712" top="1819">
+the</word>
+<word bottom="1782" left="746" right="1243" top="1821">
+Improved-Performance</word>
+<word bottom="1782" left="1274" right="1422" top="1819">
+System</word>
+<word bottom="1791" left="1448" right="1546" top="1821">
+with</word>
+<word bottom="1790" left="1578" right="1646" top="1819">
+the</word>
+<word bottom="1789" left="1678" right="1771" top="1820">
+
+1986
+</word>
+<word bottom="1789" left="1802" right="2047" top="1825">
+Estimates'</word>
+<word bottom="1736" left="1040" right="1257" top="1773">
+(Billions</word>
+<word bottom="1740" left="1288" right="1333" top="1771">
+of</word>
+<word bottom="1736" left="1363" right="1558" top="1774">
+dollars)</word>
+<word bottom="588" left="421" right="664" top="625">
+'Estimates</word>
+<word bottom="588" left="697" right="795" top="620">
+from</word>
+<word bottom="588" left="822" right="914" top="618">
+U.S.</word>
+<word bottom="580" left="948" right="1194" top="617">
+Department</word>
+<word bottom="588" left="1225" right="1269" top="619">
+of</word>
+<word bottom="581" left="1301" right="1467" top="618">
+Energy,</word>
+<word bottom="589" left="1501" right="1647" top="620">
+Office</word>
+<word bottom="589" left="1677" right="1721" top="620">
+of</word>
+<word bottom="588" left="1752" right="1950" top="620">
+Civilian</word>
+<word bottom="538" left="292" right="564" top="570">
+Radioactive</word>
+<word bottom="538" left="593" right="716" top="568">
+Waste</word>
+<word bottom="530" left="744" right="1015" top="568">
+Management,</word>
+<word bottom="532" left="1047" right="1244" top="569">
+Analysis</word>
+<word bottom="539" left="1275" right="1320" top="570">
+of</word>
+<word bottom="539" left="1353" right="1421" top="569">
+the</word>
+<word bottom="539" left="1451" right="1571" top="569">
+Total</word>
+<word bottom="532" left="1602" right="1750" top="568">
+System</word>
+<word bottom="539" left="1778" right="1873" top="569">
+Life</word>
+<word bottom="532" left="1903" right="2025" top="569">
+Cycle</word>
+<word bottom="537" left="2055" right="2150" top="567">
+Cost</word>
+<word bottom="537" left="2184" right="2253" top="568">
+for</word>
+<word bottom="488" left="295" right="363" top="519">
+the</word>
+<word bottom="488" left="393" right="592" top="520">
+Civilian</word>
+<word bottom="488" left="619" right="894" top="520">
+Radioactive</word>
+<word bottom="488" left="920" right="1044" top="518">
+Waste</word>
+<word bottom="481" left="1073" right="1320" top="518">
+Management</word>
+<word bottom="482" left="1351" right="1542" top="519">
+Program,</word>
+<word bottom="483" left="1576" right="1869" top="522">
+DOE/RW-0047,</word>
+<word bottom="480" left="1902" right="2023" top="519">
+April</word>
+<word bottom="487" left="2058" right="2171" top="518">
+
+1986.
+</word>
+<word bottom="460" left="424" right="439" top="479">
+
+b
+</word>
+<word bottom="438" left="445" right="515" top="468">
+The</word>
+<word bottom="438" left="548" right="641" top="469">
+
+1987
+</word>
+<word bottom="438" left="672" right="869" top="470">
+estimate</word>
+<word bottom="438" left="898" right="1019" top="469">
+minus</word>
+<word bottom="438" left="1053" right="1121" top="468">
+the</word>
+<word bottom="438" left="1153" right="1246" top="469">
+
+1986
+</word>
+<word bottom="439" left="1276" right="1492" top="470">
+estimate.</word>
+<word bottom="239" left="1251" right="1348" top="270">
+
+-87-
+</word>
+<word bottom="1532" left="288" right="538" top="1570">
+Repository</word>
+<word bottom="1539" left="568" right="662" top="1570">
+Site</word>
+<word bottom="1539" left="820" right="1120" top="1570">
+Construction</word>
+<word bottom="1532" left="1224" right="1448" top="1570">
+Operation</word>
+<word bottom="1589" left="1577" right="1748" top="1620">
+Closure</word>
+<word bottom="1589" left="1778" right="1849" top="1618">
+and</word>
+<word bottom="1533" left="1552" right="1925" top="1570">
+Decommissioning</word>
+<word bottom="1540" left="2030" right="2149" top="1570">
+Total</word>
+<word bottom="1389" left="290" right="436" top="1420">
+Basalt</word>
+<word bottom="1338" left="393" right="486" top="1370">
+
+1987
+</word>
+<word bottom="1288" left="393" right="485" top="1320">
+
+1986
+</word>
+<word bottom="1231" left="390" right="562" top="1277">
+Change'
+)
+</word>
+<word bottom="1339" left="924" right="1019" top="1370">
+
+3.04
+</word>
+<word bottom="1289" left="926" right="1019" top="1320">
+
+1.84
+</word>
+<word bottom="1339" left="1276" right="1370" top="1370">
+
+6.89
+</word>
+<word bottom="1289" left="1275" right="1370" top="1321">
+
+8.15
+</word>
+<word bottom="1339" left="1678" right="1772" top="1370">
+
+0.51
+</word>
+<word bottom="1289" left="1677" right="1775" top="1320">
+
+0.22
+</word>
+<word bottom="1339" left="2058" right="2176" top="1370">
+
+10.44
+</word>
+<word bottom="1290" left="2058" right="2174" top="1321">
+
+10.21
+</word>
+<word bottom="1239" left="898" right="1018" top="1270">
+
++1.20
+</word>
+<word bottom="1239" left="1250" right="1370" top="1270">
+
+-1.26
+</word>
+<word bottom="1239" left="1653" right="1773" top="1270">
+
++0.29
+</word>
+<word bottom="1240" left="2056" right="2175" top="1271">
+
++0.23
+</word>
+<word bottom="1139" left="291" right="385" top="1170">
+Salt</word>
+<word bottom="1088" left="395" right="487" top="1120">
+
+1987
+</word>
+<word bottom="1088" left="926" right="1018" top="1120">
+
+1.78
+</word>
+<word bottom="1089" left="1277" right="1371" top="1120">
+
+5.80
+</word>
+<word bottom="1088" left="1678" right="1772" top="1120">
+
+0.35
+</word>
+<word bottom="1089" left="2083" right="2175" top="1121">
+
+7.93
+</word>
+<word bottom="1038" left="394" right="487" top="1069">
+
+1986
+</word>
+<word bottom="1038" left="926" right="1019" top="1070">
+
+1.60
+</word>
+<word bottom="1039" left="1277" right="1372" top="1070">
+
+5.09
+</word>
+<word bottom="1038" left="1678" right="1774" top="1070">
+
+0.19
+</word>
+<word bottom="1039" left="2082" right="2176" top="1071">
+
+6.88
+</word>
+<word bottom="980" left="390" right="563" top="1027">
+Change"</word>
+<word bottom="988" left="898" right="1019" top="1019">
+
++0.18
+</word>
+<word bottom="989" left="1251" right="1371" top="1020">
+
++0.71
+</word>
+<word bottom="988" left="1655" right="1773" top="1019">
+
++0.16
+</word>
+<word bottom="989" left="2056" right="2175" top="1020">
+
++1.05
+</word>
+<word bottom="889" left="291" right="386" top="919">
+Tuff</word>
+<word bottom="838" left="395" right="489" top="869">
+
+1987
+</word>
+<word bottom="838" left="922" right="1020" top="869">
+
+0.84
+</word>
+<word bottom="839" left="1276" right="1370" top="869">
+
+4.21
+</word>
+<word bottom="839" left="1677" right="1773" top="869">
+
+0.37
+</word>
+<word bottom="839" left="2081" right="2177" top="870">
+
+5.42
+</word>
+<word bottom="788" left="396" right="488" top="819">
+
+1986
+</word>
+<word bottom="787" left="924" right="1019" top="819">
+
+0.98
+</word>
+<word bottom="788" left="1273" right="1372" top="820">
+
+4.30
+</word>
+<word bottom="789" left="1676" right="1773" top="820">
+
+0.07
+</word>
+<word bottom="789" left="2082" right="2175" top="820">
+
+5.35
+</word>
+<word bottom="730" left="393" right="564" top="777">
+
+Change
+
+b
+</word>
+<word bottom="738" left="899" right="1020" top="769">
+
+-0.14
+</word>
+<word bottom="738" left="1251" right="1371" top="769">
+
++0.09
+</word>
+<word bottom="739" left="1653" right="1773" top="770">
+
++0.30
+</word>
+<word bottom="739" left="2055" right="2176" top="770">
+
++0.07
+</word>
+</words>
+</ocrresult>
+

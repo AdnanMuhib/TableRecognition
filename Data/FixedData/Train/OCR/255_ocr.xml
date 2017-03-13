@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544590207.png" width="2544"/>
+<words>
+<word bottom="3032" left="1071" right="1192" top="3062">
+TABLE</word>
+<word bottom="3032" left="1221" right="1269" top="3061">
+OF</word>
+<word bottom="3031" left="1296" right="1491" top="3062">
+CONTENTS</word>
+<word bottom="3111" left="2115" right="2217" top="3157">
+
+007
+</word>
+<word bottom="2874" left="2129" right="2224" top="2910">
+Page</word>
+<word bottom="2784" left="259" right="457" top="2814">
+FOREWORD</word>
+<word bottom="2685" left="257" right="457" top="2715">
+ABSTRACT</word>
+<word bottom="2587" left="259" right="481" top="2616">
+EXECUTIVE</word>
+<word bottom="2586" left="509" right="681" top="2616">
+SUMMARY</word>
+<word bottom="2584" left="2206" right="2222" top="2614">
+
+1
+</word>
+<word bottom="2488" left="260" right="278" top="2518">
+
+1
+</word>
+<word bottom="2487" left="334" right="504" top="2517">
+PROCESS</word>
+<word bottom="2487" left="534" right="605" top="2516">
+FOR</word>
+<word bottom="2487" left="635" right="854" top="2517">
+SELECTING</word>
+<word bottom="2487" left="883" right="1001" top="2517">
+SITES</word>
+<word bottom="2487" left="1031" right="1102" top="2517">
+FOR</word>
+<word bottom="2486" left="1130" right="1325" top="2517">
+GEOLOGIC</word>
+<word bottom="2486" left="1355" right="1646" top="2517">
+REPOSITORIES</word>
+<word bottom="2485" left="2155" right="2222" top="2515">
+
+1-1
+</word>
+<word bottom="2438" left="336" right="403" top="2469">
+
+1.1
+</word>
+<word bottom="2437" left="463" right="755" top="2469">
+Introduction</word>
+<word bottom="2435" left="2155" right="2222" top="2466">
+
+1-1
+</word>
+<word bottom="2388" left="461" right="577" top="2419">
+
+1.1.1
+</word>
+<word bottom="2388" left="633" right="703" top="2418">
+The</word>
+<word bottom="2380" left="733" right="926" top="2418">
+geologic</word>
+<word bottom="2380" left="957" right="1202" top="2419">
+repository</word>
+<word bottom="2380" left="1230" right="1400" top="2415">
+concept</word>
+<word bottom="2386" left="2154" right="2221" top="2416">
+
+1-1
+</word>
+<word bottom="2339" left="461" right="579" top="2369">
+
+1.1.2
+</word>
+<word bottom="2339" left="633" right="703" top="2369">
+The</word>
+<word bottom="2338" left="731" right="902" top="2369">
+Nuclear</word>
+<word bottom="2338" left="929" right="1050" top="2367">
+Waste</word>
+<word bottom="2330" left="1080" right="1226" top="2369">
+Policy</word>
+<word bottom="2339" left="1253" right="1324" top="2367">
+Act</word>
+<word bottom="2339" left="1355" right="1399" top="2369">
+of</word>
+<word bottom="2338" left="1432" right="1523" top="2369">
+
+1982
+</word>
+<word bottom="2336" left="2154" right="2223" top="2367">
+
+1-2
+</word>
+<word bottom="2289" left="461" right="578" top="2320">
+
+1.1.3
+</word>
+<word bottom="2289" left="633" right="703" top="2319">
+The</word>
+<word bottom="2289" left="733" right="1049" top="2320">
+environmental</word>
+<word bottom="2289" left="1079" right="1324" top="2316">
+assessment</word>
+<word bottom="2286" left="2154" right="2222" top="2317">
+
+1-3
+</word>
+<word bottom="2241" left="336" right="405" top="2272">
+
+1.2
+</word>
+<word bottom="2231" left="460" right="630" top="2269">
+Summary</word>
+<word bottom="2240" left="658" right="702" top="2271">
+of</word>
+<word bottom="2239" left="736" right="803" top="2270">
+the</word>
+<word bottom="2239" left="832" right="999" top="2271">
+overall</word>
+<word bottom="2239" left="1030" right="1226" top="2271">
+decision</word>
+<word bottom="2231" left="1256" right="1424" top="2261">
+process</word>
+<word bottom="2237" left="2154" right="2222" top="2268">
+
+1-5
+</word>
+<word bottom="2190" left="462" right="577" top="2221">
+
+1.2.1
+</word>
+<word bottom="2190" left="634" right="728" top="2221">
+Site</word>
+<word bottom="2183" left="759" right="976" top="2221">
+screening</word>
+<word bottom="2187" left="2155" right="2221" top="2219">
+
+1-5
+</word>
+<word bottom="2141" left="462" right="579" top="2172">
+
+1.2.2
+</word>
+<word bottom="2140" left="634" right="727" top="2172">
+Salt</word>
+<word bottom="2141" left="759" right="876" top="2172">
+sites</word>
+<word bottom="2139" left="2154" right="2222" top="2170">
+
+1-7
+</word>
+<word bottom="2092" left="636" right="801" top="2123">
+
+1.2.2.1
+</word>
+<word bottom="2091" left="857" right="950" top="2122">
+Salt</word>
+<word bottom="2091" left="980" right="1098" top="2121">
+domes</word>
+<word bottom="2092" left="1132" right="1176" top="2122">
+in</word>
+<word bottom="2091" left="1207" right="1274" top="2120">
+the</word>
+<word bottom="2092" left="1305" right="1398" top="2123">
+Gulf</word>
+<word bottom="2091" left="1429" right="1546" top="2120">
+Coast</word>
+<word bottom="2091" left="1577" right="1670" top="2122">
+Salt</word>
+<word bottom="2091" left="1701" right="1795" top="2120">
+dome</word>
+<word bottom="2090" left="1824" right="1947" top="2120">
+basin</word>
+<word bottom="2041" left="856" right="900" top="2073">
+of</word>
+<word bottom="2034" left="929" right="1199" top="2073">
+Mississippi</word>
+<word bottom="2041" left="1228" right="1300" top="2071">
+and</word>
+<word bottom="2041" left="1330" right="1548" top="2073">
+Louisiana</word>
+<word bottom="2039" left="2154" right="2221" top="2070">
+
+1-8
+</word>
+<word bottom="1992" left="635" right="803" top="2023">
+
+1.2.2.2
+</word>
+<word bottom="1992" left="856" right="1000" top="2021">
+Bedded</word>
+<word bottom="1992" left="1030" right="1124" top="2023">
+salt</word>
+<word bottom="1993" left="1157" right="1201" top="2023">
+in</word>
+<word bottom="1991" left="1228" right="1348" top="2023">
+Davis</word>
+<word bottom="1984" left="1379" right="1524" top="2021">
+Canyon</word>
+<word bottom="1991" left="1550" right="1621" top="2021">
+and</word>
+<word bottom="1991" left="1650" right="1845" top="2021">
+Lavender</word>
+<word bottom="1934" left="856" right="1021" top="1972">
+Canyon,</word>
+<word bottom="1943" left="1053" right="1152" top="1972">
+Utah</word>
+<word bottom="1940" left="2153" right="2222" top="1971">
+
+1-9
+</word>
+<word bottom="1893" left="635" right="802" top="1924">
+
+1.2.2.3
+</word>
+<word bottom="1893" left="857" right="1001" top="1922">
+Bedded</word>
+<word bottom="1893" left="1031" right="1124" top="1924">
+salt</word>
+<word bottom="1894" left="1157" right="1201" top="1924">
+in</word>
+<word bottom="1893" left="1229" right="1324" top="1924">
+Deaf</word>
+<word bottom="1893" left="1355" right="1475" top="1924">
+Smith</word>
+<word bottom="1892" left="1501" right="1573" top="1922">
+and</word>
+<word bottom="1892" left="1601" right="1771" top="1924">
+Swisher</word>
+<word bottom="1838" left="856" right="1071" top="1875">
+Counties,</word>
+<word bottom="1843" left="1105" right="1223" top="1872">
+Texas</word>
+<word bottom="1841" left="2128" right="2221" top="1872">
+
+1-10
+</word>
+<word bottom="1793" left="461" right="577" top="1825">
+
+1.2.3
+</word>
+<word bottom="1793" left="634" right="751" top="1825">
+Sites</word>
+<word bottom="1795" left="784" right="829" top="1825">
+in</word>
+<word bottom="1793" left="854" right="1000" top="1825">
+basalt</word>
+<word bottom="1794" left="1029" right="1100" top="1823">
+and</word>
+<word bottom="1794" left="1132" right="1223" top="1824">
+tuff</word>
+<word bottom="1792" left="2128" right="2220" top="1822">
+
+1-11
+</word>
+<word bottom="1744" left="635" right="800" top="1776">
+
+1.2.3.1
+</word>
+<word bottom="1744" left="856" right="1000" top="1776">
+Basalt</word>
+<word bottom="1745" left="1032" right="1126" top="1775">
+lava</word>
+<word bottom="1745" left="1156" right="1201" top="1775">
+in</word>
+<word bottom="1745" left="1231" right="1299" top="1774">
+the</word>
+<word bottom="1744" left="1330" right="1448" top="1774">
+Pasco</word>
+<word bottom="1739" left="1477" right="1616" top="1775">
+Basin,</word>
+<word bottom="1735" left="1648" right="1897" top="1775">
+Washington</word>
+<word bottom="1744" left="1955" right="1965" top="1753">
+
+.
+</word>
+<word bottom="1743" left="2005" right="2014" top="1752">
+
+▪
+</word>
+<word bottom="1743" left="2128" right="2219" top="1773">
+
+1-11
+</word>
+<word bottom="1695" left="634" right="802" top="1726">
+
+1.2.3.2
+</word>
+<word bottom="1695" left="856" right="949" top="1725">
+Tuff</word>
+<word bottom="1696" left="982" right="1026" top="1726">
+in</word>
+<word bottom="1695" left="1057" right="1124" top="1724">
+the</word>
+<word bottom="1694" left="1155" right="1351" top="1724">
+Southern</word>
+<word bottom="1695" left="1378" right="1497" top="1724">
+Great</word>
+<word bottom="1689" left="1526" right="1666" top="1726">
+Basin,</word>
+<word bottom="1694" left="1698" right="1846" top="1724">
+Nevada</word>
+<word bottom="1695" left="1905" right="1915" top="1703">
+
+.
+</word>
+<word bottom="1694" left="1955" right="1964" top="1703">
+
+.
+</word>
+<word bottom="1694" left="2005" right="2014" top="1703">
+
+•
+</word>
+<word bottom="1693" left="2128" right="2221" top="1723">
+
+1-12
+</word>
+<word bottom="1645" left="460" right="578" top="1676">
+
+1.2.4
+</word>
+<word bottom="1645" left="630" right="878" top="1676">
+Nomination</word>
+<word bottom="1645" left="904" right="949" top="1676">
+of</word>
+<word bottom="1645" left="979" right="1098" top="1676">
+sites</word>
+<word bottom="1645" left="1130" right="1199" top="1676">
+for</word>
+<word bottom="1644" left="1229" right="1622" top="1676">
+characterization</word>
+<word bottom="1643" left="2127" right="2222" top="1674">
+
+1-14
+</word>
+<word bottom="1595" left="461" right="577" top="1627">
+
+1.2.5
+</word>
+<word bottom="1595" left="633" right="752" top="1627">
+Final</word>
+<word bottom="1587" left="783" right="900" top="1622">
+steps</word>
+<word bottom="1595" left="932" right="977" top="1626">
+in</word>
+<word bottom="1595" left="1007" right="1074" top="1625">
+the</word>
+<word bottom="1595" left="1105" right="1451" top="1627">
+site-selection</word>
+<word bottom="1587" left="1477" right="1643" top="1617">
+process</word>
+<word bottom="1593" left="2128" right="2220" top="1624">
+
+1-15
+</word>
+<word bottom="1546" left="335" right="404" top="1577">
+
+1.3
+</word>
+<word bottom="1545" left="458" right="704" top="1577">
+Evaluation</word>
+<word bottom="1546" left="731" right="776" top="1577">
+of</word>
+<word bottom="1537" left="807" right="1076" top="1577">
+potentially</word>
+<word bottom="1537" left="1103" right="1349" top="1577">
+acceptable</word>
+<word bottom="1545" left="1379" right="1496" top="1576">
+sites</word>
+<word bottom="1537" left="1526" right="1694" top="1576">
+against</word>
+<word bottom="1545" left="1726" right="1794" top="1575">
+the</word>
+<word bottom="1487" left="458" right="778" top="1527">
+disqualifying</word>
+<word bottom="1495" left="807" right="1049" top="1527">
+conditions</word>
+<word bottom="1496" left="1079" right="1123" top="1527">
+of</word>
+<word bottom="1495" left="1157" right="1223" top="1525">
+the</word>
+<word bottom="1487" left="1253" right="1496" top="1527">
+guidelines</word>
+<word bottom="1495" left="1525" right="1595" top="1525">
+and</word>
+<word bottom="1487" left="1625" right="1820" top="1526">
+grouping</word>
+<word bottom="1446" left="460" right="552" top="1477">
+into</word>
+<word bottom="1437" left="582" right="900" top="1477">
+
+geohydrologic
+</word>
+<word bottom="1438" left="930" right="1123" top="1477">
+settings</word>
+<word bottom="1443" left="2127" right="2219" top="1475">
+
+1-16
+</word>
+<word bottom="1396" left="460" right="575" top="1428">
+
+1.3.1
+</word>
+<word bottom="1396" left="632" right="877" top="1427">
+Evaluation</word>
+<word bottom="1388" left="904" right="1073" top="1428">
+against</word>
+<word bottom="1396" left="1106" right="1173" top="1426">
+the</word>
+<word bottom="1388" left="1203" right="1521" top="1427">
+disqualifying</word>
+<word bottom="1395" left="1550" right="1793" top="1427">
+conditions</word>
+<word bottom="1395" left="1854" right="1864" top="1404">
+
+.
+</word>
+<word bottom="1395" left="2004" right="2013" top="1405">
+
+•
+</word>
+<word bottom="1393" left="2127" right="2219" top="1425">
+
+1-16
+</word>
+<word bottom="1347" left="460" right="578" top="1378">
+
+1.3.2
+</word>
+<word bottom="1339" left="631" right="852" top="1378">
+Diversity</word>
+<word bottom="1346" left="880" right="923" top="1377">
+of</word>
+<word bottom="1338" left="953" right="1272" top="1377">
+
+geohydrologic
+</word>
+<word bottom="1339" left="1304" right="1496" top="1377">
+settings</word>
+<word bottom="1346" left="1524" right="1595" top="1376">
+and</word>
+<word bottom="1339" left="1626" right="1742" top="1373">
+types</word>
+<word bottom="1346" left="1773" right="1817" top="1377">
+of</word>
+<word bottom="1297" left="632" right="726" top="1327">
+host</word>
+<word bottom="1297" left="759" right="852" top="1327">
+rock</word>
+<word bottom="1294" left="2127" right="2219" top="1326">
+
+1-16
+</word>
+<word bottom="1248" left="634" right="801" top="1279">
+
+1.3.2.1
+</word>
+<word bottom="1239" left="855" right="1173" top="1279">
+
+Geohydrologic
+</word>
+<word bottom="1247" left="1205" right="1548" top="1279">
+classification</word>
+<word bottom="1240" left="1576" right="1722" top="1275">
+system</word>
+<word bottom="1245" left="2127" right="2220" top="1277">
+
+1-17
+</word>
+<word bottom="1198" left="634" right="802" top="1229">
+
+1.3.2.2
+</word>
+<word bottom="1197" left="855" right="1048" top="1229">
+Distinct</word>
+<word bottom="1197" left="1079" right="1347" top="1229">
+differences</word>
+<word bottom="1189" left="1377" right="1497" top="1219">
+among</word>
+<word bottom="1197" left="1528" right="1594" top="1227">
+the</word>
+<word bottom="1188" left="1624" right="1943" top="1229">
+
+geohydrologic
+</word>
+<word bottom="1140" left="856" right="1047" top="1180">
+settings</word>
+<word bottom="1148" left="1077" right="1149" top="1177">
+and</word>
+<word bottom="1147" left="1178" right="1272" top="1178">
+host</word>
+<word bottom="1148" left="1305" right="1422" top="1178">
+rocks</word>
+<word bottom="1145" left="2127" right="2220" top="1177">
+
+1-19
+</word>
+<word bottom="1098" left="255" right="501" top="1130">
+References</word>
+<word bottom="1098" left="533" right="603" top="1129">
+for</word>
+<word bottom="1090" left="631" right="802" top="1129">
+Chapter</word>
+<word bottom="1099" left="834" right="849" top="1129">
+
+1
+</word>
+<word bottom="1097" left="2126" right="2220" top="1127">
+
+1-22
+</word>
+<word bottom="1000" left="259" right="278" top="1029">
+
+2
+</word>
+<word bottom="999" left="330" right="529" top="1030">
+DECISION</word>
+<word bottom="998" left="556" right="727" top="1029">
+PROCESS</word>
+<word bottom="1000" left="756" right="804" top="1028">
+BY</word>
+<word bottom="998" left="829" right="950" top="1028">
+WHICH</word>
+<word bottom="1000" left="978" right="1050" top="1029">
+THE</word>
+<word bottom="999" left="1079" right="1174" top="1028">
+SITE</word>
+<word bottom="998" left="1203" right="1401" top="1028">
+PROPOSED</word>
+<word bottom="999" left="1428" right="1498" top="1028">
+FOR</word>
+<word bottom="998" left="1523" right="1770" top="1029">
+NOMINATION</word>
+<word bottom="998" left="1795" right="1869" top="1028">
+WAS</word>
+<word bottom="949" left="336" right="579" top="980">
+IDENTIFIED</word>
+<word bottom="947" left="2151" right="2218" top="978">
+
+2-1
+</word>
+<word bottom="900" left="334" right="402" top="931">
+
+2.1
+</word>
+<word bottom="891" left="457" right="651" top="930">
+Regional</word>
+<word bottom="891" left="682" right="851" top="930">
+setting</word>
+<word bottom="899" left="880" right="923" top="930">
+of</word>
+<word bottom="899" left="954" right="1074" top="929">
+Yucca</word>
+<word bottom="899" left="1102" right="1300" top="930">
+Mountain</word>
+<word bottom="897" left="2151" right="2220" top="928">
+
+2-3
+</word>
+<word bottom="851" left="334" right="403" top="881">
+
+2.2
+</word>
+<word bottom="849" left="460" right="803" top="881">
+Identification</word>
+<word bottom="849" left="830" right="874" top="880">
+of</word>
+<word bottom="849" left="904" right="1025" top="878">
+Yucca</word>
+<word bottom="849" left="1051" right="1249" top="880">
+Mountain</word>
+<word bottom="850" left="1276" right="1322" top="871">
+as</word>
+<word bottom="849" left="1351" right="1375" top="871">
+a</word>
+<word bottom="841" left="1403" right="1669" top="881">
+potentially</word>
+<word bottom="792" left="457" right="701" top="831">
+acceptable</word>
+<word bottom="800" left="732" right="826" top="831">
+site</word>
+<word bottom="798" left="2125" right="2218" top="829">
+
+2-11
+</word>
+<word bottom="751" left="459" right="575" top="782">
+
+2.2.1
+</word>
+<word bottom="750" left="632" right="852" top="782">
+Selection</word>
+<word bottom="750" left="879" right="923" top="781">
+of</word>
+<word bottom="751" left="955" right="1023" top="781">
+the</word>
+<word bottom="750" left="1051" right="1199" top="780">
+Nevada</word>
+<word bottom="750" left="1227" right="1322" top="779">
+Test</word>
+<word bottom="750" left="1353" right="1447" top="782">
+Site</word>
+<word bottom="750" left="1474" right="1519" top="772">
+as</word>
+<word bottom="750" left="1548" right="1594" top="771">
+an</word>
+<word bottom="750" left="1621" right="1719" top="772">
+area</word>
+<word bottom="750" left="1747" right="1791" top="781">
+of</word>
+<word bottom="693" left="634" right="951" top="732">
+investigation</word>
+<word bottom="699" left="2125" right="2218" top="730">
+
+2-11
+</word>
+<word bottom="651" left="460" right="578" top="682">
+
+2.2.2
+</word>
+<word bottom="651" left="632" right="902" top="682">
+Restriction</word>
+<word bottom="651" left="929" right="973" top="683">
+of</word>
+<word bottom="643" left="1003" right="1274" top="682">
+exploration</word>
+<word bottom="651" left="1305" right="1348" top="679">
+to</word>
+<word bottom="651" left="1380" right="1447" top="681">
+the</word>
+<word bottom="651" left="1477" right="1769" top="680">
+southwestern</word>
+<word bottom="642" left="1797" right="1892" top="677">
+part</word>
+<word bottom="601" left="632" right="676" top="633">
+of</word>
+<word bottom="601" left="709" right="776" top="631">
+the</word>
+<word bottom="601" left="804" right="950" top="630">
+Nevada</word>
+<word bottom="601" left="977" right="1073" top="631">
+Test</word>
+<word bottom="601" left="1103" right="1198" top="632">
+Site</word>
+<word bottom="601" left="1226" right="1298" top="631">
+and</word>
+<word bottom="593" left="1327" right="1520" top="632">
+adjacent</word>
+<word bottom="601" left="1548" right="1667" top="623">
+areas</word>
+<word bottom="599" left="2125" right="2219" top="630">
+
+2-12
+</word>
+<word bottom="551" left="459" right="577" top="583">
+
+2.2.3
+</word>
+<word bottom="551" left="632" right="852" top="582">
+Selection</word>
+<word bottom="551" left="879" right="923" top="582">
+of</word>
+<word bottom="551" left="953" right="1075" top="581">
+Yucca</word>
+<word bottom="551" left="1100" right="1299" top="582">
+Mountain</word>
+<word bottom="552" left="1326" right="1372" top="573">
+as</word>
+<word bottom="552" left="1405" right="1471" top="581">
+the</word>
+<word bottom="543" left="1500" right="1669" top="582">
+primary</word>
+<word bottom="550" left="1700" right="1894" top="582">
+location</word>
+<word bottom="502" left="632" right="702" top="534">
+for</word>
+<word bottom="494" left="731" right="1000" top="532">
+exploration</word>
+<word bottom="500" left="2125" right="2219" top="530">
+
+2-14
+</word>
+<word bottom="452" left="459" right="577" top="483">
+
+2.2.4
+</word>
+<word bottom="452" left="631" right="926" top="483">
+Confirmation</word>
+<word bottom="452" left="953" right="997" top="484">
+of</word>
+<word bottom="452" left="1028" right="1122" top="483">
+site</word>
+<word bottom="451" left="1153" right="1373" top="483">
+selection</word>
+<word bottom="444" left="1400" right="1448" top="482">
+by</word>
+<word bottom="452" left="1474" right="1496" top="473">
+a</word>
+<word bottom="451" left="1525" right="1665" top="483">
+formal</word>
+<word bottom="444" left="1697" right="1844" top="478">
+system</word>
+<word bottom="395" left="632" right="752" top="431">
+study</word>
+<word bottom="400" left="2124" right="2217" top="431">
+
+2-15
+</word>
+<word bottom="353" left="460" right="576" top="383">
+
+2.2.5
+</word>
+<word bottom="352" left="633" right="852" top="384">
+Selection</word>
+<word bottom="353" left="879" right="923" top="384">
+of</word>
+<word bottom="353" left="956" right="1023" top="383">
+the</word>
+<word bottom="353" left="1053" right="1147" top="383">
+host</word>
+<word bottom="353" left="1179" right="1273" top="382">
+rock</word>
+<word bottom="353" left="1304" right="1373" top="384">
+for</word>
+<word bottom="353" left="1404" right="1569" top="383">
+further</word>
+<word bottom="345" left="1599" right="1719" top="382">
+study</word>
+<word bottom="351" left="2125" right="2219" top="381">
+
+2-44
+</word>
+</words>
+</ocrresult>
+

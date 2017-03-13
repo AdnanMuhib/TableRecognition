@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544240604.png" width="2560"/>
+<words>
+<word bottom="2991" left="286" right="530" top="3019">
+GRAIN-SIZE</word>
+<word bottom="2991" left="558" right="655" top="3019">
+DATA</word>
+<word bottom="2991" left="683" right="756" top="3019">
+FOR</word>
+<word bottom="2991" left="783" right="980" top="3019">
+BASALTIC</word>
+<word bottom="2991" left="1008" right="1154" top="3019">
+
+TEPHRA
+</word>
+<word bottom="2991" left="1182" right="1279" top="3019">
+FROM</word>
+<word bottom="2991" left="1306" right="1477" top="3019">
+LATHROP</word>
+<word bottom="2991" left="1504" right="1625" top="3019">
+WELLS</word>
+<word bottom="2992" left="1654" right="1800" top="3019">
+BASALT</word>
+<word bottom="2992" left="1828" right="1976" top="3019">
+CENTER</word>
+<word bottom="2987" left="2008" right="2145" top="3024">
+
+(cont)
+</word>
+<word bottom="2836" left="262" right="404" top="2871">
+Sample</word>
+<word bottom="2843" left="434" right="599" top="2870">
+Number:</word>
+<word bottom="2843" left="658" right="754" top="2871">
+LW-8</word>
+<word bottom="2836" left="809" right="953" top="2870">
+Sample</word>
+<word bottom="2836" left="983" right="1271" top="2870">
+Description:</word>
+<word bottom="2839" left="1331" right="1645" top="2870">
+Cross-bedded,</word>
+<word bottom="2843" left="1680" right="1774" top="2870">
+fine</word>
+<word bottom="2839" left="1802" right="1895" top="2869">
+ash,</word>
+<word bottom="2787" left="261" right="530" top="2821">
+
+pyroclastic
+</word>
+<word bottom="2788" left="560" right="679" top="2816">
+surge</word>
+<word bottom="2787" left="708" right="900" top="2821">
+deposit,</word>
+<word bottom="2787" left="932" right="1105" top="2821">
+Lathrop</word>
+<word bottom="2794" left="1131" right="1251" top="2821">
+Wells</word>
+<word bottom="2793" left="1282" right="1428" top="2820">
+scoria</word>
+<word bottom="2789" left="1455" right="1571" top="2816">
+cone,</word>
+<word bottom="2786" left="1605" right="1750" top="2816">
+quarry</word>
+<word bottom="2794" left="1778" right="1874" top="2821">
+wall</word>
+<word bottom="2787" left="1904" right="2119" top="2816">
+exposure.</word>
+<word bottom="2694" left="633" right="779" top="2721">
+Moment</word>
+<word bottom="2694" left="808" right="978" top="2722">
+Measure</word>
+<word bottom="2694" left="1007" right="1252" top="2721">
+Grain-Size</word>
+<word bottom="2693" left="1282" right="1525" top="2721">
+Statistics</word>
+<word bottom="2687" left="1559" right="1671" top="2726">
+(phi)</word>
+<word bottom="2644" left="733" right="829" top="2671">
+Mean</word>
+<word bottom="2652" left="858" right="880" top="2664">
+
+=
+</word>
+<word bottom="2643" left="909" right="1003" top="2672">
+
+2.05
+</word>
+<word bottom="2596" left="733" right="930" top="2623">
+Standard</word>
+<word bottom="2596" left="957" right="1177" top="2623">
+Deviation</word>
+<word bottom="2604" left="1206" right="1227" top="2616">
+
+=
+</word>
+<word bottom="2595" left="1257" right="1350" top="2624">
+
+0.92
+</word>
+<word bottom="2547" left="734" right="927" top="2574">
+Skewness</word>
+<word bottom="2555" left="958" right="979" top="2567">
+
+=
+</word>
+<word bottom="2546" left="1007" right="1127" top="2574">
+
+-0.50
+</word>
+<word bottom="2497" left="731" right="926" top="2524">
+Kurtosis</word>
+<word bottom="2506" left="957" right="978" top="2517">
+
+=
+</word>
+<word bottom="2496" left="1008" right="1102" top="2524">
+
+0.06
+</word>
+<word bottom="2448" left="731" right="855" top="2475">
+Third</word>
+<word bottom="2448" left="882" right="1028" top="2474">
+Moment</word>
+<word bottom="2456" left="1056" right="1078" top="2468">
+
+=
+</word>
+<word bottom="2447" left="1106" right="1227" top="2475">
+
+-0.78
+</word>
+<word bottom="2450" left="1256" right="1277" top="2471">
+
++
+</word>
+<word bottom="2447" left="1307" right="1400" top="2474">
+
+0.01
+</word>
+<word bottom="2399" left="732" right="878" top="2425">
+Fourth</word>
+<word bottom="2398" left="907" right="1052" top="2425">
+Moment</word>
+<word bottom="2406" left="1081" right="1103" top="2418">
+
+=
+</word>
+<word bottom="2397" left="1131" right="1226" top="2426">
+
+0.31
+</word>
+<word bottom="2401" left="1255" right="1276" top="2422">
+
++
+</word>
+<word bottom="2398" left="1306" right="1399" top="2425">
+
+0.02
+</word>
+<word bottom="2302" left="632" right="729" top="2329">
+Folk</word>
+<word bottom="2302" left="757" right="1002" top="2329">
+Grain-Size</word>
+<word bottom="2302" left="1032" right="1274" top="2329">
+Statistics</word>
+<word bottom="2296" left="1310" right="1421" top="2334">
+(phi)</word>
+<word bottom="2254" left="731" right="778" top="2280">
+
+Mz
+</word>
+<word bottom="2261" left="807" right="828" top="2274">
+
+=
+</word>
+<word bottom="2252" left="857" right="952" top="2281">
+
+2.09
+</word>
+<word bottom="2198" left="733" right="904" top="2231">
+Sorting</word>
+<word bottom="2212" left="931" right="953" top="2224">
+
+=
+</word>
+<word bottom="2202" left="982" right="1075" top="2232">
+
+0.87
+</word>
+<word bottom="2154" left="732" right="925" top="2181">
+Skewness</word>
+<word bottom="2162" left="956" right="977" top="2174">
+
+=
+</word>
+<word bottom="2153" left="1006" right="1124" top="2182">
+
+-0.27
+</word>
+<word bottom="2105" left="730" right="926" top="2133">
+Kurtosis</word>
+<word bottom="2113" left="955" right="978" top="2125">
+
+=
+</word>
+<word bottom="2105" left="1007" right="1100" top="2133">
+
+1.12
+</word>
+<word bottom="2006" left="634" right="752" top="2033">
+Inman</word>
+<word bottom="2005" left="781" right="1026" top="2033">
+Grain-Size</word>
+<word bottom="2004" left="1056" right="1298" top="2032">
+Statistics</word>
+<word bottom="1997" left="1334" right="1444" top="2037">
+(phi)</word>
+<word bottom="1956" left="731" right="828" top="1983">
+Mean</word>
+<word bottom="1963" left="856" right="878" top="1975">
+
+=
+</word>
+<word bottom="1955" left="907" right="1000" top="1983">
+
+2.03
+</word>
+<word bottom="1900" left="732" right="853" top="1933">
+Sigma</word>
+<word bottom="1914" left="881" right="902" top="1925">
+
+=
+</word>
+<word bottom="1904" left="932" right="1026" top="1933">
+
+0.81
+</word>
+<word bottom="1857" left="732" right="925" top="1884">
+Skewness</word>
+<word bottom="1865" left="956" right="978" top="1877">
+
+=
+</word>
+<word bottom="1856" left="1006" right="1126" top="1884">
+
+-0.26
+</word>
+<word bottom="1802" left="730" right="778" top="1835">
+Kg</word>
+<word bottom="1816" left="806" right="828" top="1828">
+
+=
+</word>
+<word bottom="1807" left="857" right="951" top="1835">
+
+0.91
+</word>
+<word bottom="1751" left="731" right="854" top="1785">
+Alpha</word>
+<word bottom="1758" left="881" right="952" top="1785">
+Two</word>
+<word bottom="1766" left="980" right="1002" top="1778">
+
+=
+</word>
+<word bottom="1757" left="1030" right="1152" top="1785">
+
+-0.54
+</word>
+<word bottom="1658" left="631" right="727" top="1685">
+Folk</word>
+<word bottom="1658" left="756" right="951" top="1685">
+Textural</word>
+<word bottom="1651" left="981" right="1250" top="1685">
+Description</word>
+<word bottom="1604" left="732" right="928" top="1637">
+Slightly</word>
+<word bottom="1604" left="956" right="1152" top="1636">
+Gravelly</word>
+<word bottom="1610" left="1181" right="1277" top="1636">
+Sand</word>
+<word bottom="1556" left="731" right="977" top="1588">
+Moderately</word>
+<word bottom="1555" left="1006" right="1151" top="1587">
+Poorly</word>
+<word bottom="1561" left="1180" right="1326" top="1587">
+Sorted</word>
+<word bottom="1505" left="731" right="1002" top="1539">
+
+Leptokurtic
+</word>
+<word bottom="247" left="2214" right="2256" top="279">
+
+97
+</word>
+<word bottom="1463" left="731" right="877" top="1489">
+Coarse</word>
+<word bottom="1462" left="907" right="1053" top="1489">
+Skewed</word>
+<word bottom="1365" left="632" right="702" top="1392">
+Phi</word>
+<word bottom="1366" left="733" right="827" top="1392">
+Size</word>
+<word bottom="1365" left="1305" right="1500" top="1391">
+Fraction</word>
+<word bottom="1361" left="1534" right="1595" top="1396">
+
+(%)
+</word>
+<word bottom="1267" left="657" right="753" top="1295">
+
+-3.0
+</word>
+<word bottom="1267" left="1406" right="1500" top="1294">
+
+0.00
+</word>
+<word bottom="1218" left="657" right="777" top="1246">
+
+-2.50
+</word>
+<word bottom="1217" left="1405" right="1499" top="1245">
+
+0.00
+</word>
+<word bottom="1168" left="657" right="753" top="1196">
+
+-2.0
+</word>
+<word bottom="1167" left="1405" right="1500" top="1195">
+
+0.00
+</word>
+<word bottom="1119" left="657" right="778" top="1147">
+
+-1.50
+</word>
+<word bottom="1119" left="1406" right="1501" top="1147">
+
+0.14
+</word>
+<word bottom="1070" left="657" right="752" top="1097">
+
+-1.0
+</word>
+<word bottom="1069" left="1405" right="1498" top="1097">
+
+0.73
+</word>
+<word bottom="1019" left="657" right="777" top="1048">
+
+-0.50
+</word>
+<word bottom="1018" left="1406" right="1500" top="1047">
+
+1.08
+</word>
+<word bottom="969" left="683" right="752" top="997">
+
+0.0
+</word>
+<word bottom="969" left="1405" right="1499" top="997">
+
+1.91
+</word>
+<word bottom="919" left="683" right="778" top="947">
+
+0.50
+</word>
+<word bottom="919" left="1406" right="1500" top="948">
+
+2.71
+</word>
+<word bottom="872" left="683" right="753" top="899">
+
+1.0
+</word>
+<word bottom="871" left="1405" right="1499" top="898">
+
+5.07
+</word>
+<word bottom="822" left="684" right="777" top="850">
+
+1.50
+</word>
+<word bottom="822" left="1382" right="1499" top="851">
+
+12.02
+</word>
+<word bottom="773" left="683" right="753" top="801">
+
+2.0
+</word>
+<word bottom="773" left="1381" right="1500" top="801">
+
+16.81
+</word>
+<word bottom="724" left="683" right="778" top="752">
+
+2.50
+</word>
+<word bottom="723" left="1381" right="1499" top="752">
+
+20.35
+</word>
+<word bottom="675" left="685" right="753" top="702">
+
+3.0
+</word>
+<word bottom="675" left="1383" right="1499" top="702">
+
+30.43
+</word>
+<word bottom="626" left="684" right="778" top="654">
+
+3.50
+</word>
+<word bottom="627" left="1406" right="1499" top="654">
+
+7.12
+</word>
+<word bottom="577" left="683" right="754" top="605">
+
+4.0
+</word>
+<word bottom="577" left="1407" right="1500" top="605">
+
+1.11
+</word>
+<word bottom="527" left="683" right="778" top="556">
+
+4.50
+</word>
+<word bottom="528" left="1406" right="1500" top="556">
+
+0.31
+</word>
+<word bottom="478" left="684" right="753" top="506">
+
+5.0
+</word>
+<word bottom="478" left="1406" right="1500" top="506">
+
+0.35
+</word>
+</words>
+</ocrresult>
+

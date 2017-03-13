@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256545657191.png" width="2552"/>
+<words>
+<word bottom="3068" left="329" right="542" top="3116">
+Financial</word>
+<word bottom="3068" left="568" right="830" top="3116">
+Information</word>
+<word bottom="3069" left="854" right="922" top="3114">
+for</word>
+<word bottom="3069" left="943" right="1162" top="3110">
+Textron's</word>
+<word bottom="3068" left="1184" right="1356" top="3115">
+Finance</word>
+<word bottom="3069" left="1378" right="1453" top="3114">
+and</word>
+<word bottom="3067" left="1475" right="1693" top="3109">
+Insurance</word>
+<word bottom="3068" left="1716" right="1993" top="3116">
+Subsidiaries</word>
+<word bottom="2942" left="279" right="699" top="2974">
+
+StatementofIncome
+</word>
+<word bottom="92" left="2273" right="2310" top="120">
+
+63
+</word>
+<word bottom="2898" left="280" right="315" top="2920">
+For</word>
+<word bottom="2898" left="322" right="375" top="2920">
+each</word>
+<word bottom="2898" left="385" right="406" top="2920">
+of</word>
+<word bottom="2898" left="412" right="447" top="2920">
+the</word>
+<word bottom="2898" left="454" right="514" top="2920">
+three</word>
+<word bottom="2893" left="522" right="584" top="2914">
+years</word>
+<word bottom="2898" left="592" right="661" top="2920">
+ended</word>
+<word bottom="2898" left="671" right="788" top="2921">
+December</word>
+<word bottom="2896" left="795" right="825" top="2920">
+
+31,
+</word>
+<word bottom="2859" left="280" right="307" top="2884">
+(In</word>
+<word bottom="2858" left="316" right="408" top="2884">
+millions)</word>
+<word bottom="2858" left="1678" right="1762" top="2889">
+
+1993
+</word>
+<word bottom="2859" left="1951" right="2031" top="2892">
+
+1992
+</word>
+<word bottom="2859" left="2223" right="2303" top="2892">
+
+1991
+</word>
+<word bottom="2785" left="279" right="458" top="2813">
+Revenues</word>
+<word bottom="1198" left="279" right="360" top="1228">
+Cash</word>
+<word bottom="1196" left="1590" right="1608" top="1232">
+
+$
+</word>
+<word bottom="1200" left="1688" right="1759" top="1229">
+
+14.1
+</word>
+<word bottom="2731" left="279" right="422" top="2767">
+Interest,</word>
+<word bottom="2737" left="437" right="584" top="2768">
+discount</word>
+<word bottom="2738" left="596" right="656" top="2768">
+and</word>
+<word bottom="2738" left="668" right="782" top="2767">
+service</word>
+<word bottom="2729" left="795" right="921" top="2768">
+charges</word>
+<word bottom="2734" left="1611" right="1760" top="2771">
+
+$1,260.2
+</word>
+<word bottom="2733" left="1871" right="2031" top="2771">
+
+$1,273.2
+</word>
+<word bottom="2733" left="2142" right="2305" top="2771">
+
+$1,183.9
+</word>
+<word bottom="2687" left="279" right="388" top="2718">
+Credit</word>
+<word bottom="2682" left="400" right="464" top="2720">
+life,</word>
+<word bottom="2687" left="479" right="577" top="2718">
+credit</word>
+<word bottom="2679" left="589" right="752" top="2720">
+disability</word>
+<word bottom="2688" left="763" right="824" top="2719">
+and</word>
+<word bottom="2679" left="836" right="974" top="2718">
+casualty</word>
+<word bottom="2688" left="986" right="1147" top="2718">
+insurance</word>
+<word bottom="2679" left="1158" right="1332" top="2719">
+premiums</word>
+<word bottom="2686" left="1667" right="1761" top="2716">
+
+300.8
+</word>
+<word bottom="2686" left="1931" right="2030" top="2719">
+
+298.5
+</word>
+<word bottom="2687" left="2204" right="2303" top="2719">
+
+308.7
+</word>
+<word bottom="2637" left="279" right="560" top="2669">
+Non-cancellable</word>
+<word bottom="2629" left="570" right="734" top="2670">
+disability</word>
+<word bottom="2633" left="746" right="879" top="2668">
+income,</word>
+<word bottom="2639" left="894" right="947" top="2670">
+life</word>
+<word bottom="2639" left="959" right="1019" top="2670">
+and</word>
+<word bottom="2629" left="1031" right="1133" top="2659">
+group</word>
+<word bottom="2638" left="1146" right="1307" top="2668">
+insurance</word>
+<word bottom="2630" left="1317" right="1492" top="2669">
+premiums</word>
+<word bottom="2636" left="1666" right="1760" top="2670">
+
+836.2
+</word>
+<word bottom="2637" left="1931" right="2033" top="2669">
+
+795.0
+</word>
+<word bottom="2639" left="2202" right="2305" top="2672">
+
+764.6
+</word>
+<word bottom="2588" left="279" right="472" top="2618">
+Investment</word>
+<word bottom="2588" left="485" right="607" top="2619">
+income</word>
+<word bottom="2580" left="618" right="797" top="2620">
+(including</word>
+<word bottom="2590" left="810" right="862" top="2611">
+net</word>
+<word bottom="2589" left="874" right="1005" top="2620">
+realized</word>
+<word bottom="2589" left="1018" right="1207" top="2619">
+investment</word>
+<word bottom="2581" left="1219" right="1321" top="2619">
+gains)</word>
+<word bottom="2590" left="1665" right="1759" top="2621">
+
+406.1
+</word>
+<word bottom="2587" left="1931" right="2031" top="2622">
+
+360.8
+</word>
+<word bottom="2588" left="2203" right="2304" top="2622">
+
+354.8
+</word>
+<word bottom="2521" left="369" right="458" top="2551">
+Total</word>
+<word bottom="2521" left="470" right="616" top="2541">
+revenues</word>
+<word bottom="2517" left="1634" right="1761" top="2549">
+
+2,803.3
+</word>
+<word bottom="2516" left="1893" right="2030" top="2552">
+
+2,727.5
+</word>
+<word bottom="2517" left="2165" right="2305" top="2555">
+
+2,612.0
+</word>
+<word bottom="2452" left="280" right="376" top="2480">
+Costs</word>
+<word bottom="2452" left="385" right="455" top="2481">
+and</word>
+<word bottom="2444" left="464" right="634" top="2473">
+expenses</word>
+<word bottom="826" left="1847" right="2032" top="865">
+
+$12,870.6
+</word>
+<word bottom="2393" left="279" right="397" top="2432">
+Selling</word>
+<word bottom="2403" left="409" right="470" top="2434">
+and</word>
+<word bottom="2402" left="481" right="731" top="2433">
+administrative</word>
+<word bottom="2401" left="1666" right="1762" top="2431">
+
+789.7
+</word>
+<word bottom="2403" left="1931" right="2031" top="2434">
+
+757.8
+</word>
+<word bottom="2404" left="2203" right="2304" top="2436">
+
+702.4
+</word>
+<word bottom="2353" left="280" right="410" top="2383">
+Interest</word>
+<word bottom="2344" left="422" right="554" top="2374">
+expense</word>
+<word bottom="2351" left="1665" right="1761" top="2384">
+
+432.3
+</word>
+<word bottom="2352" left="1929" right="2032" top="2387">
+
+488.9
+</word>
+<word bottom="2353" left="2203" right="2304" top="2387">
+
+510.4
+</word>
+<word bottom="2303" left="280" right="441" top="2333">
+Provision</word>
+<word bottom="2304" left="453" right="499" top="2335">
+for</word>
+<word bottom="2303" left="511" right="604" top="2333">
+losses</word>
+<word bottom="2304" left="616" right="657" top="2324">
+on</word>
+<word bottom="2303" left="669" right="835" top="2334">
+collection</word>
+<word bottom="2304" left="847" right="883" top="2336">
+of</word>
+<word bottom="2304" left="891" right="1008" top="2335">
+finance</word>
+<word bottom="2299" left="1021" right="1216" top="2336">
+receivables,</word>
+<word bottom="2304" left="1232" right="1290" top="2335">
+less</word>
+<word bottom="2304" left="1302" right="1468" top="2334">
+recoveries</word>
+<word bottom="2303" left="1667" right="1762" top="2336">
+
+152.6
+</word>
+<word bottom="2305" left="1935" right="2033" top="2338">
+
+160.4
+</word>
+<word bottom="2302" left="2208" right="2304" top="2337">
+
+134.8
+</word>
+<word bottom="2254" left="280" right="388" top="2285">
+Credit</word>
+<word bottom="2249" left="400" right="464" top="2286">
+life,</word>
+<word bottom="2254" left="479" right="577" top="2285">
+credit</word>
+<word bottom="2245" left="589" right="752" top="2287">
+disability</word>
+<word bottom="2255" left="763" right="824" top="2286">
+and</word>
+<word bottom="2246" left="836" right="974" top="2285">
+casualty</word>
+<word bottom="2255" left="987" right="1147" top="2285">
+insurance</word>
+<word bottom="2255" left="1159" right="1252" top="2285">
+losses</word>
+<word bottom="2205" left="324" right="384" top="2235">
+and</word>
+<word bottom="2196" left="396" right="589" top="2236">
+adjustment</word>
+<word bottom="2196" left="601" right="759" top="2225">
+expenses,</word>
+<word bottom="2206" left="775" right="833" top="2235">
+less</word>
+<word bottom="2205" left="846" right="1012" top="2235">
+recoveries</word>
+<word bottom="2204" left="1667" right="1759" top="2233">
+
+132.1
+</word>
+<word bottom="2204" left="1935" right="2031" top="2236">
+
+137.2
+</word>
+<word bottom="2204" left="2207" right="2303" top="2236">
+
+130.1
+</word>
+<word bottom="2155" left="279" right="383" top="2186">
+Death</word>
+<word bottom="2155" left="395" right="455" top="2186">
+and</word>
+<word bottom="2155" left="467" right="556" top="2185">
+other</word>
+<word bottom="2155" left="568" right="729" top="2185">
+insurance</word>
+<word bottom="2156" left="741" right="871" top="2187">
+benefits</word>
+<word bottom="2153" left="1667" right="1761" top="2184">
+
+392.9
+</word>
+<word bottom="2154" left="1931" right="2033" top="2189">
+
+369.9
+</word>
+<word bottom="2154" left="2203" right="2303" top="2189">
+
+362.3
+</word>
+<word bottom="2105" left="279" right="416" top="2136">
+Increase</word>
+<word bottom="2106" left="428" right="461" top="2136">
+in</word>
+<word bottom="2106" left="473" right="635" top="2136">
+insurance</word>
+<word bottom="2097" left="645" right="750" top="2136">
+policy</word>
+<word bottom="2106" left="762" right="923" top="2138">
+liabilities</word>
+<word bottom="2104" left="1667" right="1760" top="2137">
+
+324.1
+</word>
+<word bottom="2104" left="1932" right="2031" top="2140">
+
+316.7
+</word>
+<word bottom="2105" left="2204" right="2304" top="2137">
+
+319.8
+</word>
+<word bottom="2055" left="279" right="512" top="2086">
+Amortization</word>
+<word bottom="2055" left="524" right="560" top="2087">
+of</word>
+<word bottom="2056" left="567" right="728" top="2086">
+insurance</word>
+<word bottom="2047" left="739" right="844" top="2087">
+policy</word>
+<word bottom="2047" left="855" right="1045" top="2086">
+acquisition</word>
+<word bottom="2056" left="1056" right="1139" top="2078">
+costs</word>
+<word bottom="2055" left="1667" right="1761" top="2087">
+
+143.5
+</word>
+<word bottom="2055" left="1936" right="2032" top="2087">
+
+131.8
+</word>
+<word bottom="2056" left="2208" right="2303" top="2087">
+
+128.5
+</word>
+<word bottom="1987" left="369" right="457" top="2018">
+Total</word>
+<word bottom="1987" left="469" right="550" top="2009">
+costs</word>
+<word bottom="1988" left="562" right="623" top="2019">
+and</word>
+<word bottom="1979" left="635" right="781" top="2008">
+expenses</word>
+<word bottom="1984" left="1634" right="1760" top="2020">
+
+2,367.2
+</word>
+<word bottom="1983" left="1892" right="2030" top="2022">
+
+2,362.7
+</word>
+<word bottom="1984" left="2165" right="2302" top="2019">
+
+2,288.3
+</word>
+<word bottom="1919" left="280" right="404" top="1949">
+Income</word>
+<word bottom="1919" left="416" right="520" top="1952">
+before</word>
+<word bottom="1920" left="533" right="655" top="1949">
+income</word>
+<word bottom="1920" left="667" right="749" top="1942">
+taxes</word>
+<word bottom="1918" left="1666" right="1759" top="1952">
+
+436.1
+</word>
+<word bottom="1918" left="1931" right="2032" top="1954">
+
+364.8
+</word>
+<word bottom="1918" left="2204" right="2303" top="1951">
+
+323.7
+</word>
+<word bottom="1870" left="280" right="405" top="1900">
+Income</word>
+<word bottom="1871" left="417" right="500" top="1892">
+taxes</word>
+<word bottom="1871" left="1667" right="1762" top="1903">
+
+174.6
+</word>
+<word bottom="1869" left="1935" right="2033" top="1901">
+
+138.9
+</word>
+<word bottom="1871" left="2207" right="2303" top="1901">
+
+118.1
+</word>
+<word bottom="1802" left="279" right="420" top="1829">
+Income</word>
+<word bottom="1801" left="430" right="550" top="1831">
+before</word>
+<word bottom="1802" left="561" right="768" top="1832">
+cumulative</word>
+<word bottom="1803" left="779" right="881" top="1831">
+effect</word>
+<word bottom="1802" left="889" right="930" top="1831">
+of</word>
+<word bottom="1795" left="935" right="1085" top="1831">
+changes</word>
+<word bottom="1803" left="1095" right="1134" top="1830">
+in</word>
+<word bottom="1795" left="1143" right="1351" top="1830">
+accounting</word>
+<word bottom="1744" left="323" right="512" top="1782">
+principles</word>
+<word bottom="1752" left="1666" right="1761" top="1785">
+
+261.5
+</word>
+<word bottom="1751" left="1930" right="2032" top="1784">
+
+225.9
+</word>
+<word bottom="1752" left="2203" right="2305" top="1786">
+
+205.6
+</word>
+<word bottom="1703" left="279" right="473" top="1733">
+Cumulative</word>
+<word bottom="1703" left="483" right="570" top="1735">
+effect</word>
+<word bottom="1703" left="582" right="617" top="1735">
+of</word>
+<word bottom="1694" left="622" right="751" top="1734">
+changes</word>
+<word bottom="1704" left="763" right="795" top="1733">
+in</word>
+<word bottom="1695" left="805" right="987" top="1733">
+accounting</word>
+<word bottom="1694" left="997" right="1171" top="1734">
+principles,</word>
+<word bottom="1704" left="1186" right="1236" top="1726">
+net</word>
+<word bottom="1704" left="1247" right="1282" top="1736">
+of</word>
+<word bottom="1704" left="1289" right="1407" top="1733">
+income</word>
+<word bottom="1704" left="1418" right="1498" top="1726">
+taxes</word>
+<word bottom="1700" left="1939" right="2046" top="1737">
+
+(44.7)
+</word>
+<word bottom="1635" left="278" right="341" top="1662">
+Net</word>
+<word bottom="1636" left="349" right="488" top="1662">
+income</word>
+<word bottom="1635" left="1666" right="1761" top="1667">
+
+261.5
+</word>
+<word bottom="1637" left="1935" right="2032" top="1666">
+
+181.2
+</word>
+<word bottom="1635" left="2202" right="2305" top="1669">
+
+205.6
+</word>
+<word bottom="1577" left="279" right="434" top="1616">
+Minority</word>
+<word bottom="1586" left="446" right="574" top="1616">
+interest</word>
+<word bottom="1587" left="587" right="620" top="1616">
+in</word>
+<word bottom="1587" left="633" right="684" top="1608">
+net</word>
+<word bottom="1586" left="696" right="819" top="1615">
+income</word>
+<word bottom="1587" left="1710" right="1761" top="1618">
+
+2.6
+</word>
+<word bottom="1516" left="279" right="447" top="1546">
+Textron's</word>
+<word bottom="1509" left="458" right="578" top="1545">
+equity</word>
+<word bottom="1518" left="586" right="625" top="1545">
+in</word>
+<word bottom="1518" left="634" right="695" top="1542">
+net</word>
+<word bottom="1518" left="703" right="843" top="1545">
+income</word>
+<word bottom="1515" left="1612" right="1630" top="1551">
+
+$
+</word>
+<word bottom="1516" left="1667" right="1761" top="1547">
+
+258.9
+</word>
+<word bottom="1515" left="1871" right="1889" top="1550">
+
+$
+</word>
+<word bottom="1519" left="1935" right="2031" top="1549">
+
+181.2
+</word>
+<word bottom="1515" left="2143" right="2160" top="1551">
+
+$
+</word>
+<word bottom="1517" left="2203" right="2305" top="1551">
+
+205.6
+</word>
+<word bottom="1369" left="278" right="438" top="1400">
+Balance</word>
+<word bottom="1369" left="450" right="562" top="1401">
+Sheet</word>
+<word bottom="1370" left="1505" right="1699" top="1400">
+December</word>
+<word bottom="1365" left="1710" right="1760" top="1397">
+
+31,
+</word>
+<word bottom="1370" left="1789" right="1964" top="1402">
+December</word>
+<word bottom="1365" left="1977" right="2029" top="1400">
+
+31,
+</word>
+<word bottom="1322" left="280" right="307" top="1347">
+(In</word>
+<word bottom="1322" left="316" right="408" top="1347">
+millions)</word>
+<word bottom="1322" left="1678" right="1761" top="1352">
+
+1993
+</word>
+<word bottom="1322" left="1951" right="2031" top="1355">
+
+1992
+</word>
+<word bottom="1247" left="277" right="390" top="1275">
+Assets</word>
+<word bottom="1196" left="1848" right="1865" top="1232">
+
+$
+</word>
+<word bottom="1197" left="1975" right="2032" top="1229">
+2.9</word>
+<word bottom="1148" left="279" right="487" top="1178">
+Investments</word>
+<word bottom="1145" left="1633" right="1761" top="1181">
+
+4,759.9
+</word>
+<word bottom="1144" left="1891" right="2031" top="1183">
+
+4,144.8
+</word>
+<word bottom="1099" left="280" right="411" top="1129">
+Finance</word>
+<word bottom="1099" left="423" right="606" top="1130">
+receivables</word>
+<word bottom="1108" left="618" right="641" top="1111">
+
+-
+</word>
+<word bottom="1099" left="652" right="703" top="1120">
+net</word>
+<word bottom="1095" left="1633" right="1762" top="1130">
+
+7,605.4
+</word>
+<word bottom="1095" left="1892" right="2030" top="1133">
+
+7,069.5
+</word>
+<word bottom="1040" left="279" right="438" top="1079">
+Property,</word>
+<word bottom="1041" left="452" right="541" top="1080">
+plant</word>
+<word bottom="1050" left="553" right="614" top="1081">
+and</word>
+<word bottom="1040" left="625" right="812" top="1079">
+equipment</word>
+<word bottom="1058" left="821" right="845" top="1062">
+
+-
+</word>
+<word bottom="1049" left="856" right="908" top="1071">
+net</word>
+<word bottom="1047" left="1687" right="1761" top="1078">
+
+99.0
+</word>
+<word bottom="1048" left="1953" right="2031" top="1080">
+98.3</word>
+<word bottom="1000" left="279" right="505" top="1031">
+
+Unamortized
+</word>
+<word bottom="1000" left="517" right="678" top="1030">
+insurance</word>
+<word bottom="990" left="689" right="794" top="1030">
+policy</word>
+<word bottom="991" left="805" right="995" top="1030">
+acquisition</word>
+<word bottom="1000" left="1007" right="1087" top="1022">
+costs</word>
+<word bottom="998" left="1665" right="1760" top="1029">
+
+783.5
+</word>
+<word bottom="998" left="1929" right="2030" top="1034">
+
+696.3
+</word>
+<word bottom="945" left="279" right="453" top="981">
+Goodwill,</word>
+<word bottom="950" left="468" right="526" top="981">
+less</word>
+<word bottom="950" left="538" right="755" top="982">
+accumulated</word>
+<word bottom="951" left="767" right="987" top="981">
+amortization</word>
+<word bottom="951" left="998" right="1034" top="983">
+of</word>
+<word bottom="947" left="1043" right="1167" top="984">
+
+$169.6
+</word>
+<word bottom="951" left="1179" right="1240" top="982">
+and</word>
+<word bottom="947" left="1253" right="1377" top="984">
+
+$151.0
+</word>
+<word bottom="948" left="1666" right="1759" top="979">
+
+299.1
+</word>
+<word bottom="949" left="1931" right="2030" top="981">
+
+317.7
+</word>
+<word bottom="900" left="279" right="381" top="931">
+Other</word>
+<word bottom="901" left="392" right="485" top="923">
+assets</word>
+<word bottom="902" left="1665" right="1759" top="933">
+
+660.1
+</word>
+<word bottom="900" left="1931" right="2030" top="934">
+541.1</word>
+<word bottom="830" left="368" right="457" top="861">
+Total</word>
+<word bottom="830" left="469" right="562" top="852">
+assets</word>
+<word bottom="827" left="1589" right="1759" top="865">
+
+$14,221.1
+</word>
+<word bottom="740" left="278" right="461" top="769">
+Liabilities</word>
+<word bottom="740" left="470" right="540" top="768">
+and</word>
+<word bottom="732" left="549" right="670" top="768">
+equity</word>
+<word bottom="690" left="279" right="439" top="721">
+Accounts</word>
+<word bottom="681" left="449" right="579" top="722">
+payable</word>
+<word bottom="691" left="590" right="651" top="722">
+and</word>
+<word bottom="690" left="662" right="791" top="722">
+accrued</word>
+<word bottom="691" left="803" right="964" top="723">
+liabilities</word>
+<word bottom="682" left="977" right="1155" top="722">
+(including</word>
+<word bottom="691" left="1168" right="1291" top="721">
+income</word>
+<word bottom="686" left="1303" right="1398" top="721">
+taxes)</word>
+<word bottom="688" left="1590" right="1609" top="725">
+
+$
+</word>
+<word bottom="688" left="1665" right="1762" top="719">
+
+938.7
+</word>
+<word bottom="688" left="1848" right="1866" top="725">
+
+$
+</word>
+<word bottom="692" left="1930" right="2032" top="722">
+
+817.8
+</word>
+<word bottom="641" left="279" right="443" top="671">
+Insurance</word>
+<word bottom="641" left="455" right="586" top="662">
+reserves</word>
+<word bottom="642" left="598" right="659" top="673">
+and</word>
+<word bottom="642" left="671" right="779" top="672">
+claims</word>
+<word bottom="638" left="1632" right="1760" top="673">
+
+4,091.5
+</word>
+<word bottom="637" left="1893" right="2029" top="675">
+
+3,614.5
+</word>
+<word bottom="591" left="279" right="364" top="623">
+Debt</word>
+<word bottom="588" left="1632" right="1761" top="624">
+
+6,846.7
+</word>
+<word bottom="587" left="1891" right="2030" top="625">
+
+6,439.7
+</word>
+<word bottom="532" left="279" right="405" top="572">
+Equity:</word>
+<word bottom="492" left="324" right="458" top="522">
+Textron</word>
+<word bottom="488" left="1634" right="1762" top="524">
+
+2,160.8
+</word>
+<word bottom="488" left="1897" right="2032" top="526">
+
+1,998.6
+</word>
+<word bottom="434" left="323" right="479" top="473">
+Minority</word>
+<word bottom="443" left="491" right="619" top="472">
+interest</word>
+<word bottom="442" left="1666" right="1760" top="474">
+
+183.4
+</word>
+<word bottom="375" left="369" right="457" top="406">
+Total</word>
+<word bottom="375" left="470" right="631" top="406">
+liabilities</word>
+<word bottom="375" left="643" right="703" top="406">
+and</word>
+<word bottom="366" left="715" right="824" top="405">
+equity</word>
+<word bottom="371" left="1589" right="1759" top="409">
+
+$14,221.1
+</word>
+<word bottom="371" left="1847" right="2031" top="409">
+
+$12,870.6
+</word>
+</words>
+</ocrresult>
+

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543960702.png" width="2560"/>
+<words>
+<word bottom="2803" left="1048" right="1196" top="2832">
+FIGURE</word>
+<word bottom="2803" left="1222" right="1320" top="2833">
+
+G.2b
+</word>
+<word bottom="2729" left="597" right="822" top="2758">
+GEOMETRIC</word>
+<word bottom="2731" left="848" right="949" top="2758">
+DATA</word>
+<word bottom="2730" left="974" right="1049" top="2759">
+FOR</word>
+<word bottom="2730" left="1070" right="1275" top="2759">
+VERTICAL</word>
+<word bottom="2730" left="1298" right="1573" top="2759">
+EMPLACEMENT</word>
+<word bottom="2730" left="1599" right="1749" top="2758">
+OPTION</word>
+<word bottom="1201" left="219" right="363" top="1230">
+Source</word>
+<word bottom="1201" left="393" right="658" top="1232">
+references:</word>
+<word bottom="1144" left="318" right="513" top="1184">
+
+aMansure
+</word>
+<word bottom="1145" left="544" right="616" top="1175">
+and</word>
+<word bottom="1135" left="646" right="891" top="1176">
+
+Stinebaugh
+</word>
+<word bottom="1139" left="925" right="1082" top="1176">
+
+(1985).
+</word>
+<word bottom="1107" left="315" right="337" top="1137">
+
+b
+</word>
+<word bottom="1082" left="343" right="531" top="1117">
+Parsons,</word>
+<word bottom="1082" left="568" right="883" top="1119">
+
+Brinckerhoff,
+</word>
+<word bottom="1081" left="918" right="1039" top="1117">
+
+Quade
+</word>
+<word bottom="1088" left="1070" right="1143" top="1116">
+and</word>
+<word bottom="1079" left="1170" right="1339" top="1118">
+Douglas</word>
+<word bottom="1081" left="1376" right="1534" top="1118">
+
+(1985).
+</word>
+<word bottom="1051" left="318" right="338" top="1072">
+
+c
+</word>
+<word bottom="1032" left="339" right="514" top="1061">
+
+Mansure
+</word>
+<word bottom="1033" left="543" right="617" top="1062">
+and</word>
+<word bottom="1032" left="643" right="764" top="1062">
+Ortiz</word>
+<word bottom="1026" left="799" right="958" top="1063">
+
+(1984).
+</word>
+<word bottom="976" left="317" right="513" top="1025">
+
+dMansure
+</word>
+<word bottom="977" left="544" right="617" top="1006">
+and</word>
+<word bottom="967" left="645" right="892" top="1007">
+
+Stinebaugh
+</word>
+<word bottom="970" left="925" right="1083" top="1008">
+
+(1985).
+</word>
+<word bottom="914" left="318" right="532" top="959">
+
+eParsons,
+</word>
+<word bottom="914" left="568" right="883" top="951">
+
+Brinckerhoff,
+</word>
+<word bottom="913" left="918" right="1040" top="950">
+
+Quade
+</word>
+<word bottom="921" left="1070" right="1143" top="949">
+and</word>
+<word bottom="911" left="1170" right="1340" top="951">
+Douglas</word>
+<word bottom="914" left="1376" right="1535" top="951">
+
+(1985).
+</word>
+<word bottom="2505" left="221" right="442" top="2535">
+Geometric</word>
+<word bottom="2507" left="473" right="693" top="2535">
+Parameter</word>
+<word bottom="2507" left="996" right="1117" top="2538">
+Value</word>
+<word bottom="2508" left="1146" right="1245" top="2537">
+Used</word>
+<word bottom="2507" left="1396" right="1469" top="2536">
+RIB</word>
+<word bottom="2507" left="1496" right="1619" top="2538">
+Value</word>
+<word bottom="2500" left="1655" right="1740" top="2538">
+(ft)</word>
+<word bottom="2506" left="1824" right="1896" top="2536">
+RIB</word>
+<word bottom="2506" left="1924" right="2144" top="2537">
+Reference</word>
+<word bottom="2367" left="221" right="494" top="2407">
+Emplacement</word>
+<word bottom="2377" left="522" right="644" top="2408">
+Drift</word>
+<word bottom="2377" left="672" right="896" top="2407">
+Dimension</word>
+<word bottom="2266" left="319" right="444" top="2296">
+Width</word>
+<word bottom="2266" left="950" right="1070" top="2305">
+
+18.0a
+</word>
+<word bottom="2261" left="1153" right="1314" top="2298">
+
+(5.49m)
+</word>
+<word bottom="2267" left="1500" right="1622" top="2314">
+
+180d
+</word>
+<word bottom="2258" left="1827" right="2070" top="2297">
+
+2/2/1/1-15
+</word>
+<word bottom="2200" left="319" right="467" top="2239">
+Height</word>
+<word bottom="2210" left="949" right="1069" top="2250">
+
+13.0a
+</word>
+<word bottom="2204" left="1152" right="1313" top="2242">
+
+(3.96m)
+</word>
+<word bottom="2210" left="1499" right="1621" top="2258">
+
+13.0d
+</word>
+<word bottom="2202" left="1826" right="2069" top="2241">
+
+2/2/1/1-15
+</word>
+<word bottom="2153" left="320" right="465" top="2182">
+Radius</word>
+<word bottom="2154" left="498" right="544" top="2184">
+of</word>
+<word bottom="2155" left="571" right="669" top="2185">
+Roof</word>
+<word bottom="2154" left="695" right="794" top="2184">
+Arch</word>
+<word bottom="2154" left="950" right="1041" top="2185">
+
+10.2
+</word>
+<word bottom="2174" left="1045" right="1067" top="2204">
+
+b
+</word>
+<word bottom="2148" left="1153" right="1313" top="2185">
+
+(3.11m)
+</word>
+<word bottom="2155" left="1525" right="1619" top="2193">
+
+95e
+</word>
+<word bottom="1984" left="220" right="442" top="2014">
+Container</word>
+<word bottom="1985" left="471" right="667" top="2016">
+Borehole</word>
+<word bottom="1986" left="696" right="941" top="2015">
+Dimensions</word>
+<word bottom="1874" left="317" right="440" top="1902">
+Waste</word>
+<word bottom="1875" left="471" right="669" top="1905">
+Standoff</word>
+<word bottom="1874" left="697" right="794" top="1902">
+From</word>
+<word bottom="1810" left="321" right="592" top="1849">
+Emplacement</word>
+<word bottom="1820" left="621" right="742" top="1850">
+Drift</word>
+<word bottom="1819" left="923" right="1093" top="1857">
+
+117.50a
+</word>
+<word bottom="1813" left="1127" right="1312" top="1850">
+
+(35.81m)
+</word>
+<word bottom="1819" left="1475" right="1646" top="1865">
+
+117.50d
+</word>
+<word bottom="1809" left="1826" right="2069" top="1848">
+
+2/2/1/1-15
+</word>
+<word bottom="1753" left="319" right="467" top="1793">
+Length</word>
+<word bottom="1761" left="923" right="1093" top="1802">
+
+682•
+
+00a
+</word>
+<word bottom="1755" left="1126" right="1361" top="1793">
+
+(207.87m))
+</word>
+<word bottom="1761" left="1474" right="1646" top="1810">
+
+682.00d
+</word>
+<word bottom="1751" left="1825" right="2069" top="1792">
+
+2/2/1/1-15
+</word>
+<word bottom="1707" left="319" right="517" top="1736">
+Diameter</word>
+<word bottom="1705" left="973" right="1094" top="1746">
+
+2.75a
+</word>
+<word bottom="1699" left="1152" right="1312" top="1737">
+
+(0.84m)
+</word>
+<word bottom="1705" left="1524" right="1618" top="1736">
+
+275
+</word>
+<word bottom="1724" left="1624" right="1647" top="1753">
+
+d
+</word>
+<word bottom="1695" left="1826" right="2069" top="1735">
+
+2/2/1/1-15
+</word>
+<word bottom="1537" left="218" right="338" top="1568">
+Panel</word>
+<word bottom="1536" left="368" right="614" top="1567">
+Dimensions</word>
+<word bottom="1424" left="317" right="438" top="1455">
+Panel</word>
+<word bottom="1425" left="466" right="590" top="1456">
+Width</word>
+<word bottom="1424" left="897" right="1091" top="1464">
+
+1400.00
+
+a
+</word>
+<word bottom="1418" left="1125" right="1336" top="1456">
+
+(426.72m)
+</word>
+<word bottom="1424" left="1448" right="1645" top="1472">
+
+1400.00d
+</word>
+<word bottom="1414" left="1825" right="2068" top="1454">
+
+2/2/1/1-15
+</word>
+<word bottom="1369" left="318" right="438" top="1400">
+Panel</word>
+<word bottom="1361" left="468" right="591" top="1400">
+Depth</word>
+<word bottom="1369" left="921" right="1065" top="1408">
+
+985•
+
+0
+
+c
+</word>
+<word bottom="1363" left="1125" right="1336" top="1400">
+
+(300.23m)
+</word>
+<word bottom="1369" left="1473" right="1618" top="1407">
+
+748.0e
+</word>
+</words>
+</ocrresult>
+

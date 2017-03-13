@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2550" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544156824.png" width="3312"/>
+<words>
+<word bottom="2111" left="445" right="572" top="2145">
+Primary</word>
+<word bottom="2111" left="588" right="701" top="2144">
+Impact</word>
+<word bottom="1175" left="256" right="302" top="1205">
+
+1.6
+</word>
+<word bottom="1168" left="351" right="565" top="1205">
+Consumptive</word>
+<word bottom="1176" left="577" right="628" top="1197">
+use</word>
+<word bottom="2141" left="922" right="1100" top="2175">
+Population</word>
+<word bottom="2146" left="1113" right="1146" top="2166">
+or</word>
+<word bottom="2101" left="870" right="1032" top="2129">
+Resources</word>
+<word bottom="2100" left="1045" right="1189" top="2128">
+Affected</word>
+<word bottom="1992" left="838" right="915" top="2021">
+
+1.5.2
+</word>
+<word bottom="1983" left="959" right="1080" top="2021">
+People,</word>
+<word bottom="1990" left="1092" right="1226" top="2019">
+external</word>
+<word bottom="1585" left="837" right="914" top="1614">
+
+1.5.3
+</word>
+<word bottom="1578" left="959" right="1079" top="1616">
+People,</word>
+<word bottom="1578" left="1092" right="1239" top="1615">
+ingestion</word>
+<word bottom="1174" left="841" right="914" top="1204">
+
+1.6.1
+</word>
+<word bottom="1168" left="962" right="1071" top="1206">
+People</word>
+<word bottom="834" left="832" right="911" top="864">
+
+1.6.2
+</word>
+<word bottom="826" left="956" right="1141" top="863">
+Agriculture</word>
+<word bottom="2235" left="1333" right="1457" top="2263">
+TABLE</word>
+<word bottom="2234" left="1472" right="1491" top="2263">
+
+5
+</word>
+<word bottom="2228" left="1506" right="1590" top="2265">
+(Page</word>
+<word bottom="2234" left="1603" right="1623" top="2263">
+
+6
+</word>
+<word bottom="2234" left="1635" right="1668" top="2263">
+of</word>
+<word bottom="2232" left="1684" right="1734" top="2265">
+
+15)
+</word>
+<word bottom="2115" left="1496" right="1683" top="2149">
+Description</word>
+<word bottom="1987" left="1403" right="1619" top="2017">
+Radionuclide</word>
+<word bottom="1979" left="1634" right="1782" top="2017">
+discharge</word>
+<word bottom="1979" left="1796" right="1865" top="2007">
+may</word>
+<word bottom="1941" left="1401" right="1558" top="1971">
+introduce</word>
+<word bottom="1942" left="1572" right="1588" top="1962">
+a</word>
+<word bottom="1941" left="1601" right="1748" top="1971">
+radiation</word>
+<word bottom="1942" left="1760" right="1833" top="1972">
+level</word>
+<word bottom="1897" left="1402" right="1466" top="1927">
+that</word>
+<word bottom="1897" left="1479" right="1552" top="1926">
+adds</word>
+<word bottom="1897" left="1565" right="1597" top="1923">
+to</word>
+<word bottom="1897" left="1611" right="1726" top="1928">
+natural</word>
+<word bottom="1898" left="1739" right="1826" top="1928">
+back-</word>
+<word bottom="1843" left="1401" right="1517" top="1881">
+ground</word>
+<word bottom="1851" left="1529" right="1676" top="1880">
+radiation</word>
+<word bottom="1851" left="1689" right="1737" top="1881">
+for</word>
+<word bottom="1851" left="1749" right="1840" top="1876">
+water</word>
+<word bottom="1806" left="1401" right="1492" top="1827">
+users.</word>
+<word bottom="1585" left="1399" right="1615" top="1615">
+Radionuclide</word>
+<word bottom="1577" left="1630" right="1778" top="1615">
+discharge</word>
+<word bottom="1578" left="1792" right="1861" top="1605">
+may</word>
+<word bottom="1540" left="1398" right="1555" top="1569">
+introduce</word>
+<word bottom="1540" left="1569" right="1584" top="1560">
+a</word>
+<word bottom="1540" left="1598" right="1743" top="1568">
+radiation</word>
+<word bottom="1541" left="1757" right="1830" top="1570">
+level</word>
+<word bottom="1495" left="1400" right="1460" top="1524">
+that</word>
+<word bottom="1495" left="1473" right="1547" top="1524">
+adds</word>
+<word bottom="1495" left="1559" right="1592" top="1520">
+to</word>
+<word bottom="1495" left="1605" right="1720" top="1525">
+natural</word>
+<word bottom="1495" left="1733" right="1820" top="1525">
+back-</word>
+<word bottom="1441" left="1398" right="1513" top="1479">
+ground</word>
+<word bottom="1449" left="1526" right="1673" top="1479">
+radiation</word>
+<word bottom="1450" left="1686" right="1733" top="1480">
+for</word>
+<word bottom="1450" left="1746" right="1788" top="1478">
+in-</word>
+<word bottom="1395" left="1398" right="1499" top="1433">
+gested</word>
+<word bottom="1404" left="1512" right="1588" top="1434">
+food</word>
+<word bottom="1403" left="1601" right="1659" top="1433">
+and</word>
+<word bottom="1404" left="1671" right="1773" top="1429">
+water.</word>
+<word bottom="1167" left="1399" right="1543" top="1205">
+Drinking</word>
+<word bottom="1175" left="1554" right="1646" top="1200">
+water</word>
+<word bottom="1168" left="1659" right="1788" top="1205">
+supplies</word>
+<word bottom="1130" left="1400" right="1500" top="1159">
+drawn</word>
+<word bottom="1130" left="1512" right="1592" top="1159">
+from</word>
+<word bottom="1129" left="1605" right="1655" top="1159">
+the</word>
+<word bottom="1130" left="1668" right="1759" top="1155">
+water</word>
+<word bottom="1076" left="1398" right="1482" top="1113">
+body</word>
+<word bottom="1076" left="1494" right="1564" top="1104">
+may</word>
+<word bottom="1084" left="1576" right="1612" top="1113">
+be</word>
+<word bottom="1083" left="1627" right="1816" top="1114">
+diminished.</word>
+<word bottom="829" left="1398" right="1492" top="859">
+Water</word>
+<word bottom="821" left="1504" right="1573" top="849">
+may</word>
+<word bottom="829" left="1587" right="1623" top="858">
+be</word>
+<word bottom="828" left="1636" right="1812" top="858">
+withdrawn</word>
+<word bottom="783" left="1400" right="1478" top="813">
+from</word>
+<word bottom="774" left="1491" right="1677" top="812">
+agricultural</word>
+<word bottom="774" left="1690" right="1788" top="803">
+usage,</word>
+<word bottom="738" left="1398" right="1456" top="767">
+and</word>
+<word bottom="737" left="1468" right="1519" top="758">
+use</word>
+<word bottom="737" left="1533" right="1569" top="767">
+of</word>
+<word bottom="728" left="1579" right="1741" top="765">
+remaining</word>
+<word bottom="736" left="1752" right="1844" top="762">
+water</word>
+<word bottom="684" left="1397" right="1466" top="712">
+may</word>
+<word bottom="691" left="1479" right="1515" top="721">
+be</word>
+<word bottom="683" left="1529" right="1687" top="721">
+degraded.</word>
+<word bottom="2147" left="2010" right="2080" top="2176">
+Unit</word>
+<word bottom="2146" left="2093" right="2127" top="2174">
+of</word>
+<word bottom="2101" left="1998" right="2145" top="2132">
+Measure'</word>
+<word bottom="1986" left="1950" right="2025" top="2015">
+Rem</word>
+<word bottom="1978" left="2039" right="2089" top="2006">
+per</word>
+<word bottom="1978" left="2102" right="2171" top="2005">
+year</word>
+<word bottom="1985" left="2185" right="2231" top="2014">
+for</word>
+<word bottom="1935" left="1949" right="2123" top="1970">
+individual;</word>
+<word bottom="1940" left="2134" right="2215" top="1960">
+man-</word>
+<word bottom="1895" left="1949" right="2011" top="1915">
+rem</word>
+<word bottom="1887" left="2024" right="2074" top="1915">
+per</word>
+<word bottom="1887" left="2087" right="2156" top="1915">
+year</word>
+<word bottom="1894" left="2170" right="2217" top="1924">
+for</word>
+<word bottom="1846" left="1951" right="2107" top="1875">
+estimated</word>
+<word bottom="1837" left="2120" right="2215" top="1866">
+popu-</word>
+<word bottom="1801" left="1950" right="2043" top="1831">
+lation</word>
+<word bottom="1801" left="2055" right="2085" top="1826">
+at</word>
+<word bottom="1800" left="2100" right="2149" top="1830">
+the</word>
+<word bottom="1747" left="1950" right="2099" top="1785">
+midpoint</word>
+<word bottom="1755" left="2112" right="2149" top="1785">
+of</word>
+<word bottom="1710" left="1950" right="2060" top="1738">
+station</word>
+<word bottom="1701" left="2073" right="2231" top="1737">
+operation</word>
+<word bottom="1584" left="1947" right="2022" top="1613">
+Rem</word>
+<word bottom="1576" left="2035" right="2086" top="1604">
+per</word>
+<word bottom="1576" left="2098" right="2168" top="1604">
+year</word>
+<word bottom="1583" left="2181" right="2228" top="1613">
+for</word>
+<word bottom="1538" left="1945" right="2121" top="1568">
+individuals</word>
+<word bottom="1531" left="2134" right="2245" top="1569">
+(whole</word>
+<word bottom="1486" left="1945" right="2028" top="1522">
+body</word>
+<word bottom="1493" left="2042" right="2100" top="1522">
+and</word>
+<word bottom="1485" left="2114" right="2229" top="1524">
+organ);</word>
+<word bottom="1448" left="1946" right="2089" top="1468">
+man-rem</word>
+<word bottom="1440" left="2102" right="2153" top="1468">
+per</word>
+<word bottom="1440" left="2166" right="2235" top="1467">
+year</word>
+<word bottom="1402" left="1947" right="1993" top="1432">
+for</word>
+<word bottom="1393" left="2007" right="2186" top="1431">
+population</word>
+<word bottom="1401" left="2199" right="2228" top="1426">
+at</word>
+<word bottom="1356" left="1947" right="1996" top="1386">
+the</word>
+<word bottom="1347" left="2009" right="2160" top="1385">
+midpoint</word>
+<word bottom="1355" left="2174" right="2210" top="1385">
+of</word>
+<word bottom="1310" left="1947" right="2057" top="1338">
+station</word>
+<word bottom="1301" left="2070" right="2228" top="1337">
+operation</word>
+<word bottom="1174" left="1947" right="2069" top="1204">
+Gallons</word>
+<word bottom="1166" left="2082" right="2133" top="1195">
+per</word>
+<word bottom="1166" left="2146" right="2215" top="1194">
+year</word>
+<word bottom="827" left="1946" right="2097" top="857">
+Acre-feet</word>
+<word bottom="818" left="2110" right="2161" top="847">
+per</word>
+<word bottom="818" left="2173" right="2243" top="846">
+year</word>
+<word bottom="2147" left="2408" right="2532" top="2175">
+Method</word>
+<word bottom="2147" left="2545" right="2579" top="2175">
+of</word>
+<word bottom="2096" left="2386" right="2603" top="2130">
+Computation</word>
+<word bottom="1984" left="2316" right="2387" top="2013">
+Sum</word>
+<word bottom="1984" left="2400" right="2509" top="2013">
+annual</word>
+<word bottom="1984" left="2522" right="2592" top="2013">
+dose</word>
+<word bottom="1984" left="2607" right="2828" top="2013">
+contributions</word>
+<word bottom="1939" left="2316" right="2394" top="1968">
+from</word>
+<word bottom="1938" left="2407" right="2541" top="1967">
+nuclides</word>
+<word bottom="1930" left="2553" right="2699" top="1967">
+expected</word>
+<word bottom="1938" left="2714" right="2745" top="1963">
+to</word>
+<word bottom="1938" left="2759" right="2796" top="1967">
+be</word>
+<word bottom="1938" left="2809" right="2850" top="1959">
+re-</word>
+<word bottom="1892" left="2315" right="2422" top="1922">
+leased.</word>
+<word bottom="1582" left="2312" right="2453" top="1612">
+Estimate</word>
+<word bottom="1573" left="2468" right="2626" top="1610">
+biological</word>
+<word bottom="1580" left="2639" right="2861" top="1610">
+accumulation</word>
+<word bottom="1538" left="2319" right="2349" top="1566">
+in</word>
+<word bottom="1536" left="2362" right="2451" top="1567">
+foods</word>
+<word bottom="1535" left="2464" right="2523" top="1564">
+and</word>
+<word bottom="1536" left="2538" right="2638" top="1565">
+intake</word>
+<word bottom="1528" left="2653" right="2693" top="1565">
+by</word>
+<word bottom="1535" left="2705" right="2882" top="1564">
+individuals</word>
+<word bottom="1491" left="2311" right="2370" top="1521">
+and</word>
+<word bottom="1483" left="2382" right="2573" top="1520">
+population.</word>
+<word bottom="1490" left="2585" right="2735" top="1520">
+Calculate</word>
+<word bottom="1490" left="2750" right="2835" top="1519">
+doses</word>
+<word bottom="1439" left="2311" right="2351" top="1475">
+by</word>
+<word bottom="1437" left="2364" right="2513" top="1473">
+summing</word>
+<word bottom="1445" left="2525" right="2629" top="1475">
+results</word>
+<word bottom="1445" left="2642" right="2690" top="1475">
+for</word>
+<word bottom="1436" left="2702" right="2850" top="1473">
+expected</word>
+<word bottom="1399" left="2310" right="2540" top="1430">
+radionuclides.</word>
+<word bottom="1167" left="2313" right="2413" top="1196">
+Where</word>
+<word bottom="1166" left="2427" right="2506" top="1187">
+users</word>
+<word bottom="1167" left="2519" right="2673" top="1196">
+withdraw</word>
+<word bottom="1158" left="2687" right="2824" top="1196">
+drinking</word>
+<word bottom="1121" left="2312" right="2403" top="1146">
+water</word>
+<word bottom="1113" left="2416" right="2545" top="1151">
+supplies</word>
+<word bottom="1121" left="2559" right="2638" top="1151">
+from</word>
+<word bottom="1121" left="2651" right="2701" top="1150">
+the</word>
+<word bottom="1121" left="2715" right="2848" top="1151">
+affected</word>
+<word bottom="1076" left="2313" right="2403" top="1101">
+water</word>
+<word bottom="1068" left="2416" right="2512" top="1105">
+body,</word>
+<word bottom="1076" left="2522" right="2580" top="1105">
+lost</word>
+<word bottom="1076" left="2593" right="2685" top="1101">
+water</word>
+<word bottom="1076" left="2697" right="2730" top="1101">
+to</word>
+<word bottom="1076" left="2743" right="2823" top="1096">
+users</word>
+<word bottom="1030" left="2313" right="2421" top="1060">
+should</word>
+<word bottom="1030" left="2433" right="2470" top="1060">
+be</word>
+<word bottom="1030" left="2483" right="2652" top="1059">
+estimated.</word>
+<word bottom="1030" left="2666" right="2808" top="1059">
+Relevant</word>
+<word bottom="984" left="2314" right="2460" top="1014">
+delivered</word>
+<word bottom="984" left="2474" right="2553" top="1009">
+costs</word>
+<word bottom="984" left="2566" right="2601" top="1014">
+of</word>
+<word bottom="976" left="2611" right="2812" top="1014">
+replacement</word>
+<word bottom="931" left="2314" right="2450" top="968">
+drinking</word>
+<word bottom="939" left="2461" right="2553" top="964">
+water</word>
+<word bottom="939" left="2565" right="2673" top="969">
+should</word>
+<word bottom="939" left="2686" right="2722" top="968">
+be</word>
+<word bottom="939" left="2735" right="2888" top="968">
+included.</word>
+<word bottom="825" left="2315" right="2416" top="855">
+Where</word>
+<word bottom="825" left="2430" right="2509" top="845">
+users</word>
+<word bottom="825" left="2522" right="2677" top="854">
+withdraw</word>
+<word bottom="816" left="2689" right="2841" top="852">
+irrigation</word>
+<word bottom="779" left="2315" right="2406" top="804">
+water</word>
+<word bottom="779" left="2419" right="2499" top="809">
+from</word>
+<word bottom="779" left="2512" right="2562" top="808">
+the</word>
+<word bottom="778" left="2575" right="2709" top="809">
+affected</word>
+<word bottom="778" left="2721" right="2813" top="803">
+water</word>
+<word bottom="725" left="2315" right="2411" top="763">
+body,</word>
+<word bottom="733" left="2423" right="2472" top="762">
+the</word>
+<word bottom="733" left="2485" right="2545" top="763">
+loss</word>
+<word bottom="733" left="2558" right="2666" top="762">
+should</word>
+<word bottom="732" left="2678" right="2714" top="762">
+be</word>
+<word bottom="732" left="2728" right="2824" top="762">
+evalu-</word>
+<word bottom="688" left="2316" right="2384" top="717">
+ated</word>
+<word bottom="687" left="2397" right="2427" top="708">
+as</word>
+<word bottom="687" left="2440" right="2490" top="717">
+the</word>
+<word bottom="685" left="2505" right="2570" top="708">
+sum</word>
+<word bottom="687" left="2583" right="2619" top="717">
+of</word>
+<word bottom="687" left="2629" right="2690" top="712">
+two</word>
+<word bottom="686" left="2703" right="2848" top="716">
+volumes:</word>
+<word bottom="642" left="2315" right="2365" top="671">
+the</word>
+<word bottom="642" left="2379" right="2497" top="671">
+volume</word>
+<word bottom="642" left="2511" right="2548" top="671">
+of</word>
+<word bottom="642" left="2558" right="2607" top="671">
+the</word>
+<word bottom="641" left="2620" right="2712" top="666">
+water</word>
+<word bottom="641" left="2724" right="2783" top="670">
+lost</word>
+<word bottom="641" left="2797" right="2829" top="666">
+to</word>
+<word bottom="589" left="2315" right="2502" top="626">
+agricultural</word>
+<word bottom="596" left="2514" right="2594" top="617">
+users</word>
+<word bottom="596" left="2607" right="2665" top="625">
+and</word>
+<word bottom="596" left="2678" right="2728" top="625">
+the</word>
+<word bottom="596" left="2742" right="2861" top="625">
+volume</word>
+<word bottom="552" left="2316" right="2352" top="582">
+of</word>
+<word bottom="551" left="2362" right="2491" top="581">
+dilution</word>
+<word bottom="551" left="2503" right="2594" top="576">
+water</word>
+<word bottom="542" left="2607" right="2744" top="580">
+required</word>
+<word bottom="550" left="2757" right="2790" top="575">
+to</word>
+<word bottom="551" left="2803" right="2845" top="571">
+re-</word>
+<word bottom="506" left="2316" right="2390" top="536">
+duce</word>
+<word bottom="505" left="2405" right="2647" top="533">
+concentrations</word>
+<word bottom="505" left="2661" right="2697" top="535">
+of</word>
+<word bottom="505" left="2707" right="2854" top="535">
+dissolved</word>
+<word bottom="461" left="2315" right="2405" top="491">
+solids</word>
+<word bottom="461" left="2417" right="2448" top="489">
+in</word>
+<word bottom="460" left="2461" right="2572" top="489">
+station</word>
+<word bottom="460" left="2585" right="2715" top="490">
+effluent</word>
+<word bottom="460" left="2727" right="2819" top="485">
+water</word>
+<word bottom="460" left="2831" right="2864" top="485">
+to</word>
+<word bottom="416" left="2315" right="2351" top="436">
+an</word>
+<word bottom="407" left="2365" right="2583" top="445">
+agriculturally</word>
+<word bottom="407" left="2596" right="2767" top="444">
+acceptable</word>
+<word bottom="415" left="2781" right="2865" top="444">
+level.</word>
+</words>
+</ocrresult>
+
