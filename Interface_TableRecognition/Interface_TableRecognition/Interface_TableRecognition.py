@@ -1,4 +1,4 @@
-# Table recognition user defined classes
+﻿# Table recognition user defined classes
 import Class_DataCollector as CDC
 import UNLV_RegionBounder as TableClass
 
@@ -52,7 +52,7 @@ def interface(table, img, ocr, name_of_file, junk):
     # array for writing it into csv
     array_of_objects = TableClass.objects_to_array(dist_calculted_arr)
     TableClass.write_to_csv(array_of_objects, name_of_file + "\\INPUT_CSV")
-    return no_of_words, word_Width, word_Height
+    return no_of_words, word_Width, word_Height, word_X, word_Y, arr_of_objects
 
 # bounding boxes for correct detection and wro-
 # ng detection
@@ -68,19 +68,81 @@ def region_bounder(file, no_of_words, img, word_Width, word_Height):
     marker= ['y', 'b', 'r', 'g']
     val = 0
     for i in range(0, no_of_words):
-        if (val > 3):
-            val = 0
-        # add the rectangle patches to the plot
-        # so it can be displayed to the image
-        rect = patches.Rectangle((x[i], y[i]), word_Width[i],
-                                 word_Height[i],
-                                 linewidth=1, edgecolor='r',
-                                 facecolor='none')
-        val = val + 1
-        ax.add_patch(rect)
+        if ((int(table[i]) == int(table_pre[i])) and int(table[i] == 1)):
+            # add the rectangle patches to the plot
+            # so it can be displayed to the image
+            rect = patches.Rectangle((x[i], y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='g',
+                                     facecolor='none')
+            ax.add_patch(rect)
+        elif (int(table[i]) == int(table_pre[i]) and int(table[i]) == 0):
+            # add the rectangle patches to the plot
+            # so it can be displayed to the image
+            rect = patches.Rectangle((x[i], y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='b',
+                                     facecolor='none')
+            ax.add_patch(rect)
+        elif (int(table[i]) != int(table_pre[i])):
+            # add the rectangle patches to the plot
+            # so it can be displayed to the image
+            rect = patches.Rectangle((x[i], y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='r',
+                                     facecolor='none')
+            ax.add_patch(rect)
     plt.show()
     return
 
+##### weka version
+def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr):
+    wrong_predictions = read_csv_w(file)
+    img = np.array(Image.open(img))
+    fig, ax = plt.subplots(1)
+    ax.imshow(img)
+    val = 0
+    for i in range(0, no_of_words):
+        if (wrong_predictions[i] == "+"):
+            # add the rectangle patches to the plot
+            # so it can be displayed to the image
+            rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='r',
+                                     facecolor='none')
+            arr[i].prediction = not(arr[i].table)
+            if(arr[i].prediction == True):
+                arr[i].prediction = 1
+            elif (arr[i].prediction == False):
+                arr[i].prediction = 0
+            ax.add_patch(rect)
+        else:
+            rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='g',
+                                     facecolor='none')
+            arr[i].prediction = arr[i].table
+            ax.add_patch(rect)
+    #savefig('test.png')
+    plt.show()
+    return arr
+
+###################################################
+### adnan to write code here
+def ground_truth(arr):
+    return
+
+###################################################
+
+# read csv for weka
+def read_csv_w(f):
+    plus = []
+    with open(f, "rU") as inp:
+        rd = csv.reader(inp)
+        for row in rd:
+            plus.append(row[3])
+    return plus
+# read csv for rapid miner
 def read_csv(f):
     x = []
     y = []
@@ -108,8 +170,10 @@ if __name__ == "__main__":
     dir = img.split('.png')[0]
     table = dir + ".xml"
     ocr = dir + "_ocr.xml"
-    no_of_words, width, height = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
-    region_bounder("C:\\TR_JUNK\\output_lab.csv", no_of_words, img, width, height)
+    no_of_words, width, height, x, y, objects = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
+    #region_bounder("C:\\TR_JUNK\\output_lab.csv", no_of_words, img, width, height)
+    arr = region_bounder_weka("F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Test\ARFF\\327_weka.csv", no_of_words, img, width, height, x, y, objects)
+    ground_truth(arr)
     print ("##############################################")
     print ("This is a testing version of Table Recognition")
     print ("##############################################")

@@ -1,4 +1,4 @@
-import glob
+﻿import glob
 
 interesting_files = glob.glob("*.csv") 
 
