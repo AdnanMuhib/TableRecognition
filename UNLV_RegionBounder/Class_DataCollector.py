@@ -12,6 +12,11 @@ class DataCollector:
     x_m_1_dist = None
     y_1_dist = None
     y_m_1_dist = None
+    # mention which of the neighbour is which one
+    neighbour_1 = None
+    neighbour_2 = None
+    neighbour_3 = None
+    neighbour_4 = None
 
     def __init__(self, x, y, width,
                  height, word, table):
@@ -39,6 +44,21 @@ class DataCollector:
         y_m_1_dist = x
         return
 
+    def set_neighbour_1(x):
+        neighbour_1 = x
+        return
+
+    def set_neighbour_2(x):
+        neighbour_2 = x
+        return
+
+    def set_neighbour_3(x):
+        neighbour_3 = x
+        return
+
+    def set_neighbour_4(x):
+        neighbour_4 = x
+        return
 ########################################################
 ####################End of File#########################
 ########################################################
