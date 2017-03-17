@@ -129,7 +129,22 @@ def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x,
 
 ###################################################
 ### adnan to write code here
-def ground_truth(arr):
+def ground_truth(my_sorted_array):
+        
+    # by using the formula distance=sqrt((x2-x1)^2+(y2-y1)^2))
+    # x+1 and x-1 distance
+    for i in range(len(my_sorted_array)):
+        if i==0:
+            my_sorted_array[i].neighbour_1 = my_sorted_array[i+1].prediction
+            my_sorted_array[i].neighbour_2 = 0
+            my_sorted_array[i].neighbour_3 = my_sorted_array[i+1].y
+
+        elif(i==len(my_sorted_array)-1):
+            my_sorted_array[i].neighbour_1= 0
+            my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
+        else:
+            my_sorted_array[i].neighbour_1 = my_sorted_array[i+1].prediction
+            my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
     return
 
 ###################################################
