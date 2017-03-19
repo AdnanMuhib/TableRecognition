@@ -434,11 +434,11 @@ if __name__ == "__main__":
        # name = dir + "\\" + str(i) + "_csv"
        # main(table, img, ocr, name)
     #batch_processor()
-    main("F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.xml",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.png",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_ocr.xml",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_csv ")
-    
+    main("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327.xml",
+        "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327.png",
+        "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327_ocr.xml",
+        "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327_csv ")
+ 
 ########################################################
 ####################End of File#########################
 ########################################################

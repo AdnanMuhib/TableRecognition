@@ -131,7 +131,7 @@ def calc_difference(x0, x1):
 # region bounder for bounding the tables in an
 # image
 
-def region_bounder_table(img, no_of_tables):
+def region_bounder_table(img, no_of_tables, X, Y, Width, Height):
     # for every table drawing the boundry 
     # around
     img = np.array(Image.open(img))
@@ -333,7 +333,7 @@ def main(table, img, ocr, name_of_file):
     no_of_words, total_width, total_height, words, word_X, word_Y, word_Width, word_Height = word_to_array(ocr)
     # the region bounder for the sake of 
     # display
-    #region_bounder_table(img)
+    region_bounder_table(img, no_of_table, X, Y, width, height)
     #region_bounder_word(img)
     # assigning the values to the struct object
     arr_of_objects = assigning_values_to_the_struct(no_of_words, word_X, word_Y, word_Width, word_Height, words, X, Y, X_1, Y_1)
@@ -342,7 +342,7 @@ def main(table, img, ocr, name_of_file):
     my_sorted_array = sort_array_by_x(my_sorted_array)
     my_sorted_array = calculate_dist(my_sorted_array)
     arr = objects_to_array(my_sorted_array)
-    write_to_csv(arr, name_of_file)
+    #write_to_csv(arr, name_of_file)
     #for x in range(0,len(my_sorted_array)):
      #   print ("x : ", my_sorted_array[x].x,"y : ",
       #         my_sorted_array[x].y,"word : ",
@@ -395,10 +395,10 @@ if __name__ == "__main__":
        # name = dir + "\\" + str(i) + "_csv"
        # main(table, img, ocr, name)
     #batch_processor()
-    main("F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.xml",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47.png",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_ocr.xml",
-      "F:\\KICS - Research Officer\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\bulk_data\\47_csv ")
+    main("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327.xml",
+      "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327.png",
+      "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327_ocr.xml",
+      "D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\bulk_data\\327_csv ")
     
 ########################################################
 ####################End of File#########################

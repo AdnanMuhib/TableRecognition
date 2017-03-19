@@ -52,7 +52,7 @@ def interface(table, img, ocr, name_of_file, junk):
     # array for writing it into csv
     array_of_objects = TableClass.objects_to_array(dist_calculted_arr)
     TableClass.write_to_csv(array_of_objects, name_of_file + "\\INPUT_CSV")
-    return no_of_words, word_Width, word_Height, word_X, word_Y, arr_of_objects
+    return no_of_words, word_Width, word_Height, word_X, word_Y, arr_of_objects, no_of_table
 
 # bounding boxes for correct detection and wro-
 # ng detection
@@ -96,57 +96,126 @@ def region_bounder(file, no_of_words, img, word_Width, word_Height):
     return
 
 ##### weka version
-def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr):
+def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr, file_name):
     wrong_predictions = read_csv_w(file)
     img = np.array(Image.open(img))
     fig, ax = plt.subplots(1)
     ax.imshow(img)
     val = 0
-    for i in range(0, no_of_words):
+    for i in range(0, no_of_words-1):
         if (wrong_predictions[i] == "+"):
             # add the rectangle patches to the plot
             # so it can be displayed to the image
-            rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
-                                     word_Height[i],
-                                     linewidth=1, edgecolor='r',
-                                     facecolor='none')
             arr[i].prediction = not(arr[i].table)
             if(arr[i].prediction == True):
                 arr[i].prediction = 1
+                rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='y',
+                                     facecolor='none')
+                ax.add_patch(rect)
             elif (arr[i].prediction == False):
                 arr[i].prediction = 0
-            ax.add_patch(rect)
-        else:
-            rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
                                      word_Height[i],
-                                     linewidth=1, edgecolor='g',
+                                     linewidth=1, edgecolor='b',
                                      facecolor='none')
+                ax.add_patch(rect)
+        elif (arr[i].prediction is None):
             arr[i].prediction = arr[i].table
+            if (arr[i].table == 1):
+                rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='y',
+                                     facecolor='none')
+                ax.add_patch(rect)
+            elif (arr[i].table == 0):
+                rect = patches.Rectangle((word_x[i], word_y[i]), word_Width[i],
+                                     word_Height[i],
+                                     linewidth=1, edgecolor='b',
+                                     facecolor='none')
+                ax.add_patch(rect)
+    plt.savefig(file_name + ".png", transparent=True, dpi=300)
+    plt.close()
+    return arr, wrong_predictions
+##########################################3
+def region_bounder_weka_via_arr(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr, file_name):
+# for every table drawing the boundry 
+    # around
+    img = np.array(Image.open(img))
+    fig, ax = plt.subplots(1)
+    ax.imshow(img)
+    for x in range(0, no_of_words):
+        # add the rectangle patches to the plot
+        # so it can be displayed to the image
+        if(arr[x].prediction == 1):
+            rect = patches.Rectangle((word_x[x], word_y[x]), word_Width[x],
+                                     word_Height[x],
+                                     linewidth=1, edgecolor='y',
+                                     facecolor='none')
             ax.add_patch(rect)
-    #savefig('test.png')
-    plt.show()
-    return arr
+        elif(arr[x].prediction == 0):
+            rect = patches.Rectangle((word_x[x], word_y[x]), word_Width[x],
+                                     word_Height[x],
+                                     linewidth=1, edgecolor='b',
+                                     facecolor='none')
+            ax.add_patch(rect)
+    plt.savefig(file_name + "_preprocessed.png", transparent=True, dpi=300)
+    plt.close()
 
 ###################################################
 ### adnan to write code here
-def ground_truth(my_sorted_array):
-        
-    # by using the formula distance=sqrt((x2-x1)^2+(y2-y1)^2))
-    # x+1 and x-1 distance
-    for i in range(len(my_sorted_array)):
-        if i==0:
-            my_sorted_array[i].neighbour_1 = my_sorted_array[i+1].prediction
-            my_sorted_array[i].neighbour_2 = 0
-            my_sorted_array[i].neighbour_3 = my_sorted_array[i+1].y
-
-        elif(i==len(my_sorted_array)-1):
-            my_sorted_array[i].neighbour_1= 0
-            my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
-        else:
-            my_sorted_array[i].neighbour_1 = my_sorted_array[i+1].prediction
-            my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
+def ground_truth_x(my_sorted_array, wrong_prediction):
+    for i in range(len(my_sorted_array)-1):
+        if (wrong_prediction[i] == "+"):
+            if i==0:
+                my_sorted_array[i].neighbour_1 = my_sorted_array[i+1].prediction
+                my_sorted_array[i].neighbour_2 = my_sorted_array[i+2].prediction
+                val = my_sorted_array[i].neighbour_1 and my_sorted_array[i].neighbour_2
+                my_sorted_array[i].prediction = val
+            elif(i==len(my_sorted_array)-1):
+                my_sorted_array[i].neighbour_1= 0
+                my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
+                val = my_sorted_array[i].neighbour_1 and my_sorted_array[i].neighbour_2
+                my_sorted_array[i].prediction = val
+            else:
+                my_sorted_array[i].neighbour_1 = my_sorted_array[i-2].prediction
+                my_sorted_array[i].neighbour_2 = my_sorted_array[i-1].prediction
+                val = my_sorted_array[i].neighbour_1 and my_sorted_array[i].neighbour_2
+                my_sorted_array[i].prediction = val
+    return my_sorted_array
+'''
+def ground_truth_y(my_sorted_array):
+    current_index = 0
+    x_pos = 0
+    y_pos = 0
+    y_changed = False
+    words_in_row = get_words_in_row(my_sorted_array)  
+    last_row_last_element = 0
+    for i in range(0, len(words_in_row)):
+        for j in range(last_row_last_element, last_row_last_element + words_in_row[i]):
+            print "Line ", i, "Word : ", my_sorted_array[j].word, "neighbour 4", my_sorted_array[j + last_row_last_element + words_in_row[i] + 1].word 
+        last_row_last_element = words_in_row[i]   
     return
 
+def get_words_in_row(arr):
+    words_in_row = []
+    y_changed = False
+    initial_y = arr[0].y
+    count = 0
+    j = 0
+    for i in range(0, len(arr)):
+        if (initial_y < arr[i].y):
+            y_changed = True
+            initial_y = arr[i].y
+            words_in_row.append(count)
+            j = j + 1
+            count = 0
+        elif(initial_y == arr[i].y):
+            y_changed = False
+            count = count + 1
+    return words_in_row
+'''
 ###################################################
 
 # read csv for weka
@@ -185,10 +254,12 @@ if __name__ == "__main__":
     dir = img.split('.png')[0]
     table = dir + ".xml"
     ocr = dir + "_ocr.xml"
-    no_of_words, width, height, x, y, objects = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
+    no_of_words, width, height, x, y, objects, no_of_table = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
     #region_bounder("C:\\TR_JUNK\\output_lab.csv", no_of_words, img, width, height)
-    arr = region_bounder_weka("F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Test\ARFF\\327_weka.csv", no_of_words, img, width, height, x, y, objects)
-    ground_truth(arr)
+    arr, wrong_predictions = region_bounder_weka("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\FixedData\\Test\\ARFF\\336_weka.csv", no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\336")
+    new_arr = ground_truth_x(arr, wrong_predictions)
+    arr = region_bounder_weka_via_arr(new_arr, no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\336")
+    #ground_truth_y(arr)
     print ("##############################################")
     print ("This is a testing version of Table Recognition")
     print ("##############################################")
