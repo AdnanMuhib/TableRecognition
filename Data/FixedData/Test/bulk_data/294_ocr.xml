@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544909917.png" width="2552"/>
+<words>
+<word bottom="2969" left="368" right="382" top="2990">
+"I</word>
+<word bottom="2969" left="405" right="414" top="2990">
+
+1
+
+-
+</word>
+<word bottom="2969" left="438" right="458" top="2990">
+It</word>
+<word bottom="2969" left="474" right="499" top="2990">
+NI</word>
+<word bottom="2968" left="516" right="531" top="2990">
+
+S
+</word>
+<word bottom="2969" left="574" right="624" top="2989">
+
+10
+</word>
+<word bottom="2968" left="663" right="756" top="2989">
+
+KNO
+</word>
+<word bottom="2912" left="237" right="265" top="2936">
+
+44
+</word>
+<word bottom="2919" left="285" right="296" top="2929">
+
+•
+</word>
+<word bottom="2862" left="187" right="241" top="2888">
+
+DSP
+</word>
+<word bottom="2856" left="256" right="377" top="2889">
+(DIGITAL</word>
+<word bottom="2861" left="391" right="492" top="2888">
+SIGNAL</word>
+<word bottom="2855" left="507" right="706" top="2888">
+PROCESSING):</word>
+<word bottom="2860" left="721" right="822" top="2885">
+Micro-</word>
+<word bottom="2812" left="187" right="337" top="2838">
+processors</word>
+<word bottom="2812" left="346" right="477" top="2845">
+designed</word>
+<word bottom="2819" left="486" right="516" top="2842">
+to</word>
+<word bottom="2811" left="525" right="634" top="2841">
+operate</word>
+<word bottom="2819" left="644" right="683" top="2838">
+on</word>
+<word bottom="2818" left="693" right="823" top="2844">
+electrical</word>
+<word bottom="2772" left="187" right="353" top="2804">
+waveforms,</word>
+<word bottom="2778" left="365" right="417" top="2804">
+like</word>
+<word bottom="2777" left="426" right="502" top="2802">
+voice</word>
+<word bottom="2777" left="512" right="568" top="2803">
+and</word>
+<word bottom="2777" left="577" right="665" top="2803">
+video.</word>
+<word bottom="2777" left="677" right="736" top="2802">
+
+DSP
+</word>
+<word bottom="2768" left="745" right="822" top="2803">
+chips</word>
+<word bottom="2737" left="187" right="240" top="2755">
+can</word>
+<word bottom="2728" left="255" right="378" top="2762">
+perform</word>
+<word bottom="2728" left="393" right="523" top="2762">
+multiple</word>
+<word bottom="2730" left="538" right="691" top="2762">
+functions,</word>
+<word bottom="2735" left="708" right="778" top="2761">
+such</word>
+<word bottom="2735" left="793" right="822" top="2753">
+as</word>
+<word bottom="2694" left="186" right="333" top="2720">
+
+wavetable
+</word>
+<word bottom="2687" left="344" right="484" top="2720">
+synthesis,</word>
+<word bottom="2694" left="496" right="559" top="2719">
+data</word>
+<word bottom="2693" left="568" right="757" top="2718">
+transmission</word>
+<word bottom="2693" left="767" right="823" top="2718">
+and</word>
+<word bottom="2653" left="187" right="232" top="2679">
+file</word>
+<word bottom="2645" left="244" right="438" top="2677">
+compression.</word>
+<word bottom="2644" left="452" right="616" top="2678">
+Depending</word>
+<word bottom="2652" left="627" right="667" top="2670">
+on</word>
+<word bottom="2651" left="679" right="727" top="2677">
+the</word>
+<word bottom="2651" left="739" right="822" top="2677">
+archi-</word>
+<word bottom="2606" left="187" right="297" top="2634">
+tecture,</word>
+<word bottom="2612" left="314" right="329" top="2629">
+a</word>
+<word bottom="2611" left="345" right="404" top="2636">
+
+DSP
+</word>
+<word bottom="2603" left="418" right="484" top="2637">
+chip</word>
+<word bottom="2611" left="499" right="552" top="2629">
+can</word>
+<word bottom="2610" left="567" right="663" top="2636">
+switch</word>
+<word bottom="2610" left="678" right="751" top="2636">
+from</word>
+<word bottom="2610" left="766" right="822" top="2628">
+one</word>
+<word bottom="2570" left="187" right="245" top="2595">
+task</word>
+<word bottom="2570" left="257" right="286" top="2592">
+to</word>
+<word bottom="2570" left="300" right="415" top="2595">
+another</word>
+<word bottom="2564" left="428" right="463" top="2588">
+or,</word>
+<word bottom="2570" left="477" right="507" top="2594">
+in</word>
+<word bottom="2569" left="521" right="597" top="2588">
+some</word>
+<word bottom="2564" left="610" right="689" top="2587">
+cases,</word>
+<word bottom="2560" left="703" right="822" top="2594">
+perform</word>
+<word bottom="2528" left="187" right="242" top="2550">
+two</word>
+<word bottom="2528" left="254" right="324" top="2553">
+tasks</word>
+<word bottom="2519" left="337" right="565" top="2553">
+simultaneously.</word>
+<word bottom="2527" left="579" right="638" top="2552">
+
+DSP
+</word>
+<word bottom="2526" left="649" right="822" top="2553">
+functionali-</word>
+<word bottom="2478" left="187" right="216" top="2508">
+ty</word>
+<word bottom="2486" left="223" right="275" top="2504">
+can</word>
+<word bottom="2486" left="283" right="316" top="2512">
+be</word>
+<word bottom="2486" left="324" right="469" top="2511">
+enhanced</word>
+<word bottom="2486" left="476" right="544" top="2511">
+with</word>
+<word bottom="2485" left="552" right="674" top="2511">
+software</word>
+<word bottom="2477" left="682" right="820" top="2510">
+upgrades.</word>
+<word bottom="2439" left="187" right="325" top="2469">
+However,</word>
+<word bottom="2444" left="342" right="397" top="2470">
+this</word>
+<word bottom="2444" left="412" right="434" top="2469">
+is</word>
+<word bottom="2444" left="449" right="501" top="2466">
+not</word>
+<word bottom="2444" left="515" right="564" top="2470">
+the</word>
+<word bottom="2444" left="579" right="639" top="2462">
+case</word>
+<word bottom="2444" left="653" right="722" top="2469">
+with</word>
+<word bottom="2443" left="737" right="822" top="2469">
+fixed-</word>
+<word bottom="2403" left="187" right="314" top="2428">
+function</word>
+<word bottom="2403" left="324" right="402" top="2427">
+
+DSPs.
+</word>
+<word bottom="2320" left="187" right="229" top="2346">
+FM</word>
+<word bottom="2319" left="245" right="415" top="2346">
+SYNTHESIS:</word>
+<word bottom="2319" left="432" right="454" top="2344">
+A</word>
+<word bottom="2319" left="469" right="592" top="2344">
+method</word>
+<word bottom="2319" left="608" right="639" top="2344">
+of</word>
+<word bottom="2310" left="654" right="822" top="2342">
+generating</word>
+<word bottom="2155" left="361" right="383" top="2176">
+
+H
+</word>
+<word bottom="2155" left="400" right="421" top="2176">
+
+O
+</word>
+<word bottom="2155" left="443" right="450" top="2176">
+
+I
+</word>
+<word bottom="2155" left="495" right="513" top="2175">
+
+l'
+</word>
+<word bottom="2155" left="564" right="586" top="2175">
+
+0
+</word>
+<word bottom="2154" left="601" right="616" top="2175">
+
+S
+</word>
+<word bottom="2154" left="732" right="753" top="2175">
+
+T
+</word>
+<word bottom="1876" left="192" right="356" top="1923">
+
+4MERICAN
+</word>
+<word bottom="1886" left="366" right="553" top="1915">
+
+MEGATRENDS
+</word>
+<word bottom="1849" left="252" right="360" top="1877">
+
+DIA•TEL
+</word>
+<word bottom="1811" left="248" right="317" top="1836">
+
+erican
+</word>
+<word bottom="1806" left="327" right="463" top="1837">
+
+Megatrends
+</word>
+<word bottom="1771" left="325" right="402" top="1799">
+
+Y-AMI,
+</word>
+<word bottom="1773" left="411" right="576" top="1800">
+
+404-263-8181
+</word>
+<word bottom="1731" left="279" right="340" top="1765">
+
+0638
+</word>
+<word bottom="1682" left="209" right="279" top="1710">
+BEST</word>
+<word bottom="1683" left="289" right="357" top="1710">
+DATA</word>
+<word bottom="1681" left="369" right="516" top="1709">
+PRODUCTS</word>
+<word bottom="1644" left="207" right="261" top="1671">
+ACE</word>
+<word bottom="1643" left="273" right="341" top="1671">
+
+5000
+</word>
+<word bottom="1607" left="209" right="258" top="1631">
+Best</word>
+<word bottom="1607" left="267" right="318" top="1631">
+Data</word>
+<word bottom="1600" left="327" right="431" top="1631">
+Prom</word>
+<word bottom="1560" left="207" right="497" top="1603">
+
+800-632-23**B-773-
+</word>
+<word bottom="1524" left="159" right="272" top="1557">
+
+,t4licle
+</word>
+<word bottom="1518" left="498" right="503" top="1524">
+
+•
+</word>
+<word bottom="1477" left="208" right="283" top="1505">
+BOCA</word>
+<word bottom="1465" left="293" right="570" top="1513">
+
+SOUNDEXPRIMOMM
+</word>
+<word bottom="1440" left="208" right="324" top="1466">
+
+14.4VSP
+</word>
+<word bottom="1401" left="209" right="264" top="1426">
+Boca</word>
+<word bottom="1401" left="274" right="379" top="1427">
+Research</word>
+<word bottom="1360" left="208" right="381" top="1389">
+
+407-997-6227,
+</word>
+<word bottom="1364" left="389" right="424" top="1389">
+fax</word>
+<word bottom="1355" left="431" right="601" top="1394">
+
+40-90-0918
+</word>
+<word bottom="1327" left="208" right="271" top="1352">
+Circle</word>
+<word bottom="1326" left="279" right="339" top="1351">
+
+#640
+</word>
+<word bottom="1271" left="207" right="342" top="1299">
+CREATIVE</word>
+<word bottom="1271" left="352" right="422" top="1299">
+LABS</word>
+<word bottom="1232" left="206" right="300" top="1262">
+PHONE</word>
+<word bottom="1221" left="310" right="436" top="1262">
+BLASTER,</word>
+<word bottom="1196" left="201" right="301" top="1228">
+
+7061250e
+</word>
+<word bottom="1196" left="309" right="363" top="1222">
+Labs</word>
+<word bottom="1152" left="194" right="385" top="1187">
+
+.400-9981.ABS,
+</word>
+<word bottom="1154" left="395" right="566" top="1184">
+
+408-428-6EI0
+
+,
+</word>
+<word bottom="1121" left="208" right="271" top="1148">
+Circle</word>
+<word bottom="1122" left="279" right="334" top="1146">
+
+/641
+</word>
+<word bottom="1067" left="208" right="338" top="1095">
+DIAMOND</word>
+<word bottom="1066" left="347" right="524" top="1096">
+MULTIMEDIA</word>
+<word bottom="982" left="182" right="311" top="1023">
+
+'-44amond
+</word>
+<word bottom="990" left="321" right="449" top="1016">
+Multimedia</word>
+<word bottom="986" left="458" right="557" top="1016">
+Systems</word>
+<word bottom="945" left="198" right="382" top="987">
+
+100014846,
+</word>
+<word bottom="953" left="389" right="556" top="979">
+
+406
+
+-325-7000
+</word>
+<word bottom="913" left="224" right="272" top="946">
+
+Iitle
+</word>
+<word bottom="916" left="279" right="338" top="942">
+
+#589
+</word>
+<word bottom="856" left="196" right="390" top="891">
+
+MEDIAMAGIC
+</word>
+<word bottom="899" left="215" right="219" top="907">
+
+,
+</word>
+<word bottom="849" left="401" right="631" top="890">
+
+TELENIETRUM;'::
+</word>
+<word bottom="813" left="191" right="360" top="856">
+
+410diaMagloi
+</word>
+<word bottom="778" left="200" right="381" top="822">
+
+*00-624-8604,
+</word>
+<word bottom="778" left="390" right="593" top="814">
+
+512-3341010D';:':
+</word>
+<word bottom="748" left="222" right="271" top="774">
+
+lrcIe
+</word>
+<word bottom="749" left="279" right="338" top="774">
+
+#642
+</word>
+<word bottom="766" left="471" right="473" top="768">
+
+•
+</word>
+<word bottom="758" left="491" right="503" top="771">
+
+;,
+</word>
+<word bottom="760" left="542" right="545" top="771">
+
+'
+</word>
+<word bottom="725" left="210" right="214" top="729">
+
+.
+</word>
+<word bottom="727" left="240" right="244" top="730">
+
+.
+</word>
+<word bottom="683" left="191" right="589" top="728">
+
+•:,11108X,IMILTIMED1k0404"
+</word>
+<word bottom="645" left="170" right="345" top="687">
+
+i!f:flialANAGER
+</word>
+<word bottom="613" left="225" right="277" top="652">
+
+OJIX
+</word>
+<word bottom="618" left="287" right="414" top="644">
+Multimedia</word>
+<word bottom="640" left="435" right="437" top="642">
+
+•
+</word>
+<word bottom="572" left="198" right="379" top="609">
+
+300-854-6211,
+</word>
+<word bottom="579" left="390" right="557" top="607">
+
+617-466-8720
+</word>
+<word bottom="543" left="222" right="272" top="569">
+
+irc
+
+Ie
+</word>
+<word bottom="544" left="278" right="337" top="569">
+
+/643
+</word>
+<word bottom="183" left="161" right="213" top="208">
+
+186
+</word>
+<word bottom="474" left="197" right="359" top="528">
+
+ISIgaum
+</word>
+<word bottom="480" left="370" right="524" top="521">
+
+oFFICE:tix
+</word>
+<word bottom="442" left="297" right="545" top="479">
+
+RPARS:11:ocototott,
+</word>
+<word bottom="459" left="558" right="562" top="462">
+
+-
+</word>
+<word bottom="410" left="305" right="556" top="447">
+
+411fitt:.0044E1442
+</word>
+<word bottom="403" left="714" right="772" top="432">
+
+$349
+</word>
+<word bottom="274" left="212" right="323" top="299">
+*Software</word>
+<word bottom="268" left="333" right="456" top="297">
+
+upgradable
+</word>
+<word bottom="273" left="463" right="486" top="296">
+to</word>
+<word bottom="268" left="494" right="600" top="297">
+
+28.8Kbps
+</word>
+<word bottom="1957" left="706" right="776" top="1984">
+PRICE</word>
+<word bottom="2860" left="874" right="971" top="2885">
+sound</word>
+<word bottom="2852" left="987" right="1117" top="2885">
+through</word>
+<word bottom="2850" left="1133" right="1293" top="2885">
+frequency</word>
+<word bottom="2858" left="1309" right="1507" top="2883">
+modulation.</word>
+<word bottom="2818" left="873" right="962" top="2843">
+While</word>
+<word bottom="2818" left="974" right="1021" top="2842">
+FM</word>
+<word bottom="2810" left="1032" right="1165" top="2843">
+synthesis</word>
+<word bottom="2809" left="1176" right="1301" top="2842">
+provides</word>
+<word bottom="2816" left="1312" right="1397" top="2838">
+stereo</word>
+<word bottom="2811" left="1409" right="1507" top="2841">
+sound,</word>
+<word bottom="2776" left="873" right="1027" top="2802">
+
+wavetable
+</word>
+<word bottom="2768" left="1043" right="1184" top="2801">
+synthesis</word>
+<word bottom="2767" left="1199" right="1330" top="2800">
+provides</word>
+<word bottom="2774" left="1345" right="1435" top="2800">
+better</word>
+<word bottom="2774" left="1450" right="1508" top="2799">
+and</word>
+<word bottom="2734" left="873" right="950" top="2753">
+more</word>
+<word bottom="2734" left="959" right="1071" top="2760">
+realistic</word>
+<word bottom="2734" left="1081" right="1178" top="2760">
+sound.</word>
+<word bottom="2651" left="874" right="936" top="2678">
+MIDI</word>
+<word bottom="2645" left="951" right="1086" top="2678">
+(MUSICAL</word>
+<word bottom="2650" left="1101" right="1280" top="2677">
+INSTRUMENT</word>
+<word bottom="2649" left="1295" right="1401" top="2676">
+DIGITAL</word>
+<word bottom="2649" left="1416" right="1507" top="2675">
+INTER-</word>
+<word bottom="2604" left="873" right="961" top="2636">
+FACE):</word>
+<word bottom="2610" left="973" right="995" top="2634">
+A</word>
+<word bottom="2601" left="1006" right="1129" top="2634">
+protocol</word>
+<word bottom="2609" left="1141" right="1182" top="2635">
+for</word>
+<word bottom="2608" left="1193" right="1430" top="2632">
+communication</word>
+<word bottom="2607" left="1441" right="1508" top="2633">
+with</word>
+<word bottom="2568" left="873" right="929" top="2593">
+and</word>
+<word bottom="2568" left="940" right="1047" top="2593">
+control</word>
+<word bottom="2568" left="1058" right="1088" top="2593">
+of</word>
+<word bottom="2559" left="1097" right="1351" top="2592">
+MIDI-compatible</word>
+<word bottom="2566" left="1362" right="1453" top="2591">
+sound</word>
+<word bottom="2566" left="1464" right="1508" top="2591">
+de-</word>
+<word bottom="2521" left="872" right="951" top="2550">
+vices,</word>
+<word bottom="2526" left="967" right="1034" top="2551">
+such</word>
+<word bottom="2526" left="1049" right="1077" top="2544">
+as</word>
+<word bottom="2518" left="1091" right="1239" top="2551">
+keyboards</word>
+<word bottom="2524" left="1253" right="1308" top="2549">
+and</word>
+<word bottom="2516" left="1323" right="1507" top="2549">
+synthesizers.</word>
+<word bottom="2484" left="873" right="931" top="2509">
+Not</word>
+<word bottom="2484" left="947" right="983" top="2510">
+all</word>
+<word bottom="2476" left="999" right="1269" top="2509">
+MIDI-compatible</word>
+<word bottom="2482" left="1285" right="1365" top="2508">
+cards</word>
+<word bottom="2482" left="1381" right="1454" top="2507">
+have</word>
+<word bottom="2482" left="1470" right="1507" top="2500">
+an</word>
+<word bottom="2434" left="873" right="986" top="2468">
+adapter</word>
+<word bottom="2442" left="1000" right="1062" top="2468">
+that</word>
+<word bottom="2442" left="1077" right="1170" top="2468">
+allows</word>
+<word bottom="2442" left="1185" right="1241" top="2468">
+this</word>
+<word bottom="2440" left="1256" right="1507" top="2465">
+communication.</word>
+<word bottom="2401" left="873" right="953" top="2426">
+Some</word>
+<word bottom="2401" left="963" right="1015" top="2419">
+can</word>
+<word bottom="2393" left="1025" right="1092" top="2426">
+only</word>
+<word bottom="2392" left="1100" right="1163" top="2425">
+play</word>
+<word bottom="2400" left="1171" right="1240" top="2425">
+back</word>
+<word bottom="2399" left="1248" right="1325" top="2425">
+MIDI</word>
+<word bottom="2399" left="1336" right="1400" top="2424">
+files.</word>
+<word bottom="2318" left="873" right="935" top="2344">
+
+TAPI
+</word>
+<word bottom="2311" left="950" right="1123" top="2344">
+(TELEPHONY</word>
+<word bottom="2315" left="1137" right="1340" top="2344">
+APPLICATIONS</word>
+<word bottom="2315" left="1356" right="1507" top="2342">
+PROGRAM-</word>
+<word bottom="1995" left="907" right="987" top="2022">
+SOW</word>
+<word bottom="1957" left="869" right="1026" top="1984">
+TECHNOLOGY</word>
+<word bottom="1810" left="715" right="773" top="1840">
+
+$399
+</word>
+<word bottom="1822" left="882" right="1006" top="1861">
+
+'-Viavetable
+</word>
+<word bottom="1825" left="1102" right="1151" top="1849">
+
+19.2
+</word>
+<word bottom="1824" left="1161" right="1218" top="1849">
+data/</word>
+<word bottom="1782" left="892" right="1001" top="1814">
+
+wnthesis
+</word>
+<word bottom="1790" left="1114" right="1163" top="1813">
+
+14.4
+</word>
+<word bottom="1789" left="1172" right="1206" top="1813">
+fax</word>
+<word bottom="1599" left="714" right="772" top="1628">
+
+$299
+</word>
+<word bottom="1395" left="714" right="772" top="1424">
+
+$199
+</word>
+<word bottom="1192" left="668" right="726" top="1221">
+
+$249
+</word>
+<word bottom="1189" left="736" right="817" top="1219">
+(street)</word>
+<word bottom="611" left="714" right="771" top="640">
+
+$379
+</word>
+<word bottom="1572" left="888" right="1001" top="1618">
+
+Sinitlesis
+</word>
+<word bottom="1419" left="929" right="963" top="1444">
+FM</word>
+<word bottom="1378" left="877" right="1013" top="1408">
+
+synthesis!'*
+</word>
+<word bottom="1216" left="929" right="964" top="1241">
+FM</word>
+<word bottom="1175" left="877" right="1018" top="1206">
+
+synthesis**'
+</word>
+<word bottom="1012" left="690" right="797" top="1042">
+
+14.4Kbps
+</word>
+<word bottom="978" left="697" right="789" top="1006">
+modem,</word>
+<word bottom="972" left="892" right="1000" top="1003">
+synthesis</word>
+<word bottom="991" left="1088" right="1137" top="1015">
+
+14.4
+</word>
+<word bottom="991" left="1146" right="1170" top="1009">
+or</word>
+<word bottom="990" left="1179" right="1229" top="1015">
+
+28.8
+</word>
+<word bottom="943" left="669" right="726" top="972">
+
+$229
+</word>
+<word bottom="940" left="736" right="815" top="970">
+(street)</word>
+<word bottom="816" left="855" right="1005" top="848">
+
+-
+
+..Wavetable
+</word>
+<word bottom="819" left="1101" right="1150" top="843">
+
+19.2
+</word>
+<word bottom="819" left="1160" right="1217" top="843">
+data/</word>
+<word bottom="789" left="714" right="772" top="818">
+
+$279
+</word>
+<word bottom="778" left="886" right="1000" top="812">
+
+,synthesis
+</word>
+<word bottom="784" left="1112" right="1161" top="808">
+
+14.4
+</word>
+<word bottom="783" left="1170" right="1204" top="808">
+fax</word>
+<word bottom="272" left="655" right="710" top="297">
+
+•Has
+</word>
+<word bottom="271" left="718" right="842" top="295">
+connectors</word>
+<word bottom="271" left="848" right="882" top="296">
+for</word>
+<word bottom="271" left="889" right="1000" top="296">
+
+wavetable
+</word>
+<word bottom="266" left="1008" right="1155" top="296">
+
+daughtercard
+</word>
+<word bottom="1601" left="1126" right="1188" top="1625">
+
+14.4*
+</word>
+<word bottom="1599" left="1349" right="1389" top="1623">
+Yes</word>
+<word bottom="1398" left="1134" right="1183" top="1422">
+
+14.4
+</word>
+<word bottom="1395" left="1349" right="1389" top="1420">
+Yes</word>
+<word bottom="1194" left="1133" right="1183" top="1218">
+
+14.4
+</word>
+<word bottom="1192" left="1349" right="1389" top="1216">
+Yes</word>
+<word bottom="987" left="1349" right="1390" top="1013">
+Yes</word>
+<word bottom="800" left="1349" right="1389" top="825">
+Yes</word>
+<word bottom="621" left="1126" right="1188" top="645">
+
+14.4*
+</word>
+<word bottom="622" left="1349" right="1389" top="647">
+Yes</word>
+<word bottom="413" left="1126" right="1188" top="437">
+
+14.4*
+</word>
+<word bottom="415" left="1349" right="1390" top="439">
+Yes</word>
+<word bottom="181" left="940" right="1081" top="205">
+WINDOWS</word>
+<word bottom="180" left="1092" right="1235" top="205">
+MAGAZINE</word>
+<word bottom="186" left="1246" right="1259" top="199">
+
+•
+</word>
+<word bottom="175" left="1268" right="1335" top="205">
+JUNE</word>
+<word bottom="179" left="1349" right="1419" top="204">
+
+1995
+</word>
+<word bottom="2857" left="1560" right="1632" top="2884">
+MING</word>
+<word bottom="2851" left="1641" right="1810" top="2884">
+INTERFACE):</word>
+<word bottom="2857" left="1820" right="1842" top="2882">
+A</word>
+<word bottom="2857" left="1850" right="1977" top="2883">
+standard</word>
+<word bottom="2857" left="1985" right="2045" top="2883">
+that</word>
+<word bottom="2849" left="2052" right="2195" top="2881">
+integrates</word>
+<word bottom="2815" left="1559" right="1709" top="2841">
+Windows</word>
+<word bottom="2815" left="1725" right="1782" top="2840">
+PCs</word>
+<word bottom="2815" left="1797" right="1870" top="2841">
+with</word>
+<word bottom="2808" left="1885" right="2046" top="2841">
+telephone</word>
+<word bottom="2808" left="2063" right="2194" top="2838">
+systems.</word>
+<word bottom="2774" left="1558" right="1628" top="2799">
+TAN</word>
+<word bottom="2774" left="1642" right="1697" top="2792">
+was</word>
+<word bottom="2766" left="1711" right="1864" top="2799">
+developed</word>
+<word bottom="2766" left="1878" right="1915" top="2799">
+by</word>
+<word bottom="2773" left="1929" right="2070" top="2799">
+Microsoft</word>
+<word bottom="2774" left="2085" right="2115" top="2798">
+in</word>
+<word bottom="2773" left="2130" right="2194" top="2791">
+con-</word>
+<word bottom="2724" left="1560" right="1686" top="2757">
+junction</word>
+<word bottom="2732" left="1697" right="1765" top="2758">
+with</word>
+<word bottom="2732" left="1776" right="1844" top="2758">
+Intel</word>
+<word bottom="2732" left="1856" right="1912" top="2757">
+and</word>
+<word bottom="2732" left="1924" right="2022" top="2757">
+several</word>
+<word bottom="2724" left="2035" right="2122" top="2756">
+major</word>
+<word bottom="2732" left="2134" right="2194" top="2757">
+tele-</word>
+<word bottom="2683" left="1559" right="1655" top="2716">
+phone</word>
+<word bottom="2682" left="1667" right="1828" top="2714">
+equipment</word>
+<word bottom="2685" left="1840" right="2060" top="2716">
+manufacturers,</word>
+<word bottom="2690" left="2074" right="2130" top="2715">
+and</word>
+<word bottom="2690" left="2141" right="2195" top="2715">
+will</word>
+<word bottom="2649" left="1558" right="1593" top="2674">
+be</word>
+<word bottom="2641" left="1602" right="1713" top="2674">
+directly</word>
+<word bottom="2648" left="1722" right="1851" top="2674">
+included</word>
+<word bottom="2649" left="1860" right="1890" top="2672">
+in</word>
+<word bottom="2648" left="1899" right="2038" top="2673">
+Windows</word>
+<word bottom="2648" left="2048" right="2091" top="2673">
+
+95.
+</word>
+<word bottom="2649" left="2102" right="2124" top="2673">
+A</word>
+<word bottom="2648" left="2133" right="2195" top="2674">
+card</word>
+<word bottom="2607" left="1559" right="1619" top="2633">
+that</word>
+<word bottom="2607" left="1630" right="1652" top="2632">
+is</word>
+<word bottom="2607" left="1663" right="1714" top="2629">
+not</word>
+<word bottom="2607" left="1725" right="1793" top="2632">
+
+TAPI
+</word>
+<word bottom="2599" left="1805" right="1957" top="2632">
+compliant</word>
+<word bottom="2599" left="1968" right="2032" top="2625">
+may</word>
+<word bottom="2607" left="2043" right="2118" top="2632">
+work</word>
+<word bottom="2607" left="2128" right="2195" top="2632">
+with</word>
+<word bottom="2566" left="1559" right="1699" top="2591">
+Windows</word>
+<word bottom="2560" left="1709" right="1752" top="2590">
+
+95,
+</word>
+<word bottom="2566" left="1762" right="1812" top="2591">
+but</word>
+<word bottom="2565" left="1821" right="1897" top="2591">
+there</word>
+<word bottom="2565" left="1906" right="1949" top="2583">
+are</word>
+<word bottom="2565" left="1959" right="1998" top="2583">
+no</word>
+<word bottom="2557" left="2008" right="2172" top="2587">
+guarantees.</word>
+<word bottom="2482" left="1559" right="1725" top="2508">
+
+WAVETABLE
+</word>
+<word bottom="2481" left="1740" right="1903" top="2509">
+SYNTHESIS:</word>
+<word bottom="2482" left="1919" right="1941" top="2506">
+A</word>
+<word bottom="2482" left="1956" right="2074" top="2507">
+method</word>
+<word bottom="2482" left="2088" right="2119" top="2507">
+of</word>
+<word bottom="2474" left="2133" right="2194" top="2500">
+syn-</word>
+<word bottom="2432" left="1559" right="1693" top="2466">
+thesizing</word>
+<word bottom="2440" left="1701" right="1791" top="2466">
+sound</word>
+<word bottom="2432" left="1799" right="1879" top="2464">
+using</word>
+<word bottom="2440" left="1887" right="1962" top="2466">
+short</word>
+<word bottom="2432" left="1971" right="2086" top="2465">
+samples</word>
+<word bottom="2434" left="2096" right="2194" top="2466">
+(stored</word>
+<word bottom="2399" left="1559" right="1598" top="2417">
+on</word>
+<word bottom="2399" left="1608" right="1656" top="2424">
+the</word>
+<word bottom="2399" left="1667" right="1728" top="2424">
+card</word>
+<word bottom="2399" left="1738" right="1769" top="2416">
+or</word>
+<word bottom="2399" left="1779" right="1808" top="2423">
+in</word>
+<word bottom="2393" left="1819" right="1951" top="2424">
+software)</word>
+<word bottom="2398" left="1962" right="1993" top="2424">
+of</word>
+<word bottom="2399" left="2001" right="2088" top="2424">
+actual</word>
+<word bottom="2398" left="2099" right="2194" top="2422">
+instru-</word>
+<word bottom="2357" left="1559" right="1659" top="2379">
+ments.</word>
+<word bottom="2357" left="1675" right="1830" top="2382">
+
+Wavetable
+</word>
+<word bottom="2349" left="1845" right="1982" top="2382">
+synthesis</word>
+<word bottom="2357" left="1997" right="2102" top="2382">
+sounds</word>
+<word bottom="2356" left="2117" right="2194" top="2375">
+more</word>
+<word bottom="2315" left="1559" right="1671" top="2340">
+realistic</word>
+<word bottom="2315" left="1680" right="1749" top="2340">
+than</word>
+<word bottom="2315" left="1759" right="1806" top="2339">
+FM</word>
+<word bottom="2307" left="1816" right="1957" top="2340">
+synthesis.</word>
+<word bottom="2028" left="1299" right="1468" top="2076">
+
+TELEPHONEsst
+</word>
+<word bottom="1993" left="1088" right="1134" top="2021">
+FAX</word>
+<word bottom="1993" left="1142" right="1234" top="2021">
+MODEM</word>
+<word bottom="1993" left="1286" right="1457" top="2021">
+MANAGEMENT</word>
+<word bottom="1992" left="1519" right="1616" top="2019">
+CD-ROM</word>
+<word bottom="1992" left="1625" right="1696" top="2019">
+DRIVE</word>
+<word bottom="1956" left="1078" right="1155" top="1984">
+SPEED</word>
+<word bottom="1950" left="1163" right="1243" top="1983">
+
+(11BPS)
+</word>
+<word bottom="1952" left="1290" right="1452" top="1982">
+CAPABILITIES</word>
+<word bottom="1954" left="1508" right="1638" top="1982">
+INTERFACE</word>
+<word bottom="1955" left="1646" right="1708" top="1981">
+TYPE</word>
+<word bottom="266" left="1202" right="1315" top="295">
+
+TSoftware
+</word>
+<word bottom="265" left="1324" right="1448" top="293">
+
+upgradable
+</word>
+<word bottom="269" left="1455" right="1477" top="292">
+to</word>
+<word bottom="269" left="1485" right="1595" top="293">
+
+wavetable
+</word>
+<word bottom="264" left="1604" right="1709" top="293">
+synthesis</word>
+<word bottom="1991" left="1905" right="2035" top="2019">
+SOFTWARE</word>
+<word bottom="1954" left="1924" right="2017" top="1981">
+BUNDLE</word>
+<word bottom="1835" left="1558" right="1657" top="1863">
+
+Mitsumi,
+</word>
+<word bottom="1839" left="1772" right="1869" top="1865">
+
+MidiSoft
+</word>
+<word bottom="1839" left="1877" right="1951" top="1865">
+
+SOund
+</word>
+<word bottom="1833" left="1962" right="2097" top="1863">
+Impression,</word>
+<word bottom="1839" left="2106" right="2156" top="1863">
+
+tele-
+</word>
+<word bottom="1799" left="1510" right="1633" top="1827">
+Panasonic,</word>
+<word bottom="1797" left="1644" right="1705" top="1827">
+Sony,</word>
+<word bottom="1798" left="1778" right="1854" top="1829">
+phony,</word>
+<word bottom="1803" left="1862" right="1898" top="1829">
+fax</word>
+<word bottom="1803" left="1906" right="1948" top="1827">
+and</word>
+<word bottom="1803" left="1957" right="2149" top="1828">
+communications</word>
+<word bottom="1768" left="1589" right="1627" top="1792">
+IDE</word>
+<word bottom="1762" left="1894" right="2032" top="1793">
+applications</word>
+<word bottom="1631" left="1557" right="1656" top="1658">
+
+Mitsumi,
+</word>
+<word bottom="1595" left="1509" right="1632" top="1623">
+Panasonic,</word>
+<word bottom="1593" left="1643" right="1704" top="1623">
+Sony,</word>
+<word bottom="1564" left="1589" right="1592" top="1587">
+I</word>
+<word bottom="1564" left="1596" right="1626" top="1587">
+DE</word>
+<word bottom="1616" left="1830" right="1898" top="1642">
+Smith</word>
+<word bottom="1616" left="1907" right="1973" top="1642">
+Micro</word>
+<word bottom="1616" left="1982" right="2096" top="1642">
+
+QuickLink
+</word>
+<word bottom="1577" left="1870" right="1973" top="1607">
+Message</word>
+<word bottom="1582" left="1981" right="2056" top="1607">
+Center</word>
+<word bottom="1426" left="1557" right="1656" top="1454">
+
+Mitsumi,
+</word>
+<word bottom="1414" left="1774" right="1965" top="1439">
+
+SofNetFaxWorks
+</word>
+<word bottom="1411" left="1975" right="2151" top="1439">
+
+Fax/Data/Voice,
+</word>
+<word bottom="1391" left="1509" right="1632" top="1419">
+Panasonic,</word>
+<word bottom="1389" left="1643" right="1704" top="1419">
+Sony,</word>
+<word bottom="1379" left="1804" right="1901" top="1404">
+
+MidiSoft
+</word>
+<word bottom="1379" left="1909" right="1983" top="1404">
+Sound</word>
+<word bottom="1374" left="1994" right="2122" top="1403">
+Impression</word>
+<word bottom="1359" left="1588" right="1626" top="1383">
+
+IDE
+</word>
+<word bottom="1192" left="1588" right="1626" top="1216">
+IDE</word>
+<word bottom="1018" left="1557" right="1656" top="1046">
+
+Mitsumi,
+</word>
+<word bottom="983" left="1509" right="1632" top="1010">
+Panasonic,</word>
+<word bottom="981" left="1643" right="1704" top="1011">
+Sony,</word>
+<word bottom="951" left="1588" right="1626" top="975">
+
+IDE
+</word>
+<word bottom="832" left="1557" right="1656" top="860">
+
+Mitsumi,
+</word>
+<word bottom="797" left="1509" right="1632" top="825">
+Panasonic,</word>
+<word bottom="795" left="1643" right="1704" top="825">
+Sony,</word>
+<word bottom="765" left="1588" right="1626" top="789">
+
+IDE
+</word>
+<word bottom="616" left="1540" right="1602" top="646">
+Sony,</word>
+<word bottom="621" left="1613" right="1672" top="645">
+
+Funai
+</word>
+<word bottom="408" left="1511" right="1635" top="436">
+Panasonic,</word>
+<word bottom="406" left="1645" right="1703" top="436">
+Sony</word>
+<word bottom="1265" left="1811" right="1897" top="1290">
+Kalman</word>
+<word bottom="1265" left="1905" right="1981" top="1290">
+
+Ancilla
+</word>
+<word bottom="1259" left="1991" right="2114" top="1290">
+(integrated</word>
+<word bottom="1231" left="1783" right="2017" top="1256">
+telecommunications</word>
+<word bottom="1225" left="2025" right="2140" top="1256">
+software),</word>
+<word bottom="1196" left="1771" right="1862" top="1221">
+Creative</word>
+<word bottom="1196" left="1873" right="1927" top="1221">
+Labs</word>
+<word bottom="1196" left="1935" right="2052" top="1221">
+
+TextAssist
+</word>
+<word bottom="1191" left="2061" right="2154" top="1221">
+(text-to-</word>
+<word bottom="1157" left="1765" right="1862" top="1187">
+speech),</word>
+<word bottom="1162" left="1872" right="1964" top="1188">
+Creative</word>
+<word bottom="1161" left="1974" right="2028" top="1187">
+Labs</word>
+<word bottom="1162" left="2037" right="2100" top="1187">
+audio</word>
+<word bottom="1162" left="2109" right="2160" top="1186">
+utili-</word>
+<word bottom="1125" left="1786" right="1832" top="1151">
+ties,</word>
+<word bottom="1128" left="1842" right="1922" top="1153">
+on-tine</word>
+<word bottom="1127" left="1930" right="2011" top="1152">
+service</word>
+<word bottom="1128" left="2019" right="2063" top="1152">
+trial</word>
+<word bottom="1123" left="2073" right="2138" top="1152">
+packs</word>
+<word bottom="1068" left="1797" right="1802" top="1074">
+
+,
+</word>
+<word bottom="1037" left="1777" right="1889" top="1068">
+
+Voceltech
+</word>
+<word bottom="1037" left="1898" right="2010" top="1068">
+(supports</word>
+<word bottom="1042" left="2018" right="2078" top="1067">
+voice</word>
+<word bottom="1042" left="2087" right="2147" top="1061">
+con-</word>
+<word bottom="1018" left="1745" right="1748" top="1022">
+-</word>
+<word bottom="1007" left="1829" right="1957" top="1031">
+
+munication
+</word>
+<word bottom="1007" left="1966" right="1998" top="1031">
+via</word>
+<word bottom="1007" left="2008" right="2096" top="1031">
+Internet</word>
+<word bottom="991" left="1799" right="1802" top="995">
+
+'
+</word>
+<word bottom="965" left="1814" right="1958" top="996">
+Connection),</word>
+<word bottom="968" left="1968" right="2021" top="996">
+PIM,</word>
+<word bottom="971" left="2031" right="2110" top="996">
+on-line</word>
+<word bottom="935" left="1858" right="1940" top="960">
+service</word>
+<word bottom="936" left="1948" right="1991" top="960">
+trial</word>
+<word bottom="931" left="2000" right="2066" top="960">
+packs</word>
+<word bottom="900" left="1826" right="1828" top="911">
+
+:
+</word>
+<word bottom="908" left="1847" right="1849" top="910">
+
+•
+</word>
+<word bottom="901" left="1856" right="1859" top="912">
+
+,
+</word>
+<word bottom="895" left="1866" right="1871" top="903">
+
+,
+</word>
+<word bottom="900" left="1877" right="1889" top="908">
+
+,
+</word>
+<word bottom="904" left="1937" right="1939" top="906">
+
+•
+</word>
+<word bottom="904" left="1946" right="1948" top="906">
+
+•
+</word>
+<word bottom="848" left="1801" right="1883" top="879">
+
+Syncro
+</word>
+<word bottom="853" left="1892" right="2020" top="879">
+Multimedia</word>
+<word bottom="853" left="2029" right="2124" top="878">
+Connect</word>
+<word bottom="812" left="1764" right="1877" top="843">
+(universal</word>
+<word bottom="813" left="1889" right="1991" top="837">
+message</word>
+<word bottom="812" left="1999" right="2158" top="842">
+management)</word>
+<word bottom="782" left="1770" right="1812" top="807">
+arid</word>
+<word bottom="776" left="1822" right="1901" top="807">
+Impact</word>
+<word bottom="776" left="1910" right="2061" top="807">
+(presentation</word>
+<word bottom="782" left="2070" right="2154" top="807">
+author-</word>
+<word bottom="740" left="1806" right="1856" top="771">
+ing),</word>
+<word bottom="742" left="1866" right="1955" top="771">
+
+Voyetra
+</word>
+<word bottom="746" left="1962" right="2029" top="771">
+Audio</word>
+<word bottom="746" left="2038" right="2118" top="772">
+Station</word>
+<word bottom="643" left="1779" right="1848" top="668">
+Media</word>
+<word bottom="637" left="1857" right="1959" top="668">
+Manager</word>
+<word bottom="637" left="1967" right="2079" top="667">
+(universal</word>
+<word bottom="643" left="2089" right="2146" top="662">
+mes-</word>
+<word bottom="602" left="1791" right="1844" top="627">
+sage</word>
+<word bottom="604" left="1853" right="2004" top="631">
+management</word>
+<word bottom="608" left="2012" right="2053" top="632">
+and</word>
+<word bottom="608" left="2063" right="2133" top="632">
+sound</word>
+<word bottom="566" left="1926" right="1998" top="597">
+mixer)</word>
+<word bottom="481" left="1787" right="1872" top="506">
+
+WinFax
+</word>
+<word bottom="478" left="1881" right="1938" top="506">
+LITE,</word>
+<word bottom="481" left="1947" right="2069" top="506">
+
+WinComm
+</word>
+<word bottom="478" left="2080" right="2137" top="506">
+LITE,</word>
+<word bottom="441" left="1768" right="1880" top="471">
+Spectrum</word>
+<word bottom="445" left="1890" right="2034" top="471">
+Switchboard</word>
+<word bottom="440" left="2044" right="2156" top="470">
+(universal</word>
+<word bottom="405" left="1775" right="1877" top="430">
+message</word>
+<word bottom="404" left="1886" right="2052" top="435">
+management),</word>
+<word bottom="410" left="2063" right="2151" top="435">
+Internet</word>
+<word bottom="370" left="1780" right="1900" top="400">
+
+Anywheio,
+</word>
+<word bottom="371" left="1910" right="1986" top="400">
+Doom,</word>
+<word bottom="370" left="1996" right="2145" top="401">
+CompuServe</word>
+<word bottom="339" left="1880" right="1982" top="370">
+"Starter</word>
+<word bottom="340" left="1991" right="2021" top="364">
+Kit</word>
+</words>
+</ocrresult>
+

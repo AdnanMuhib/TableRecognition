@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2544" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490714758.png" width="3312"/>
+<words>
+<word bottom="2101" left="753" right="898" top="2132">
+Refer-</word>
+<word bottom="2054" left="479" right="675" top="2084">
+Variable</word>
+<word bottom="2044" left="754" right="900" top="2082">
+
+encing
+</word>
+<word bottom="2005" left="530" right="626" top="2026">
+name</word>
+<word bottom="1995" left="728" right="924" top="2026">
+programs</word>
+<word bottom="1904" left="484" right="631" top="1934">
+
+RDWDEF
+</word>
+<word bottom="1904" left="732" right="854" top="1936">
+
+HST3D
+</word>
+<word bottom="1854" left="733" right="830" top="1884">
+DUMP</word>
+<word bottom="1804" left="733" right="852" top="1835">
+
+ETOM1
+</word>
+<word bottom="1754" left="734" right="854" top="1786">
+
+INIT2
+</word>
+<word bottom="1704" left="733" right="831" top="1735">
+ITER</word>
+<word bottom="1654" left="731" right="851" top="1686">
+
+READ1
+</word>
+<word bottom="1605" left="733" right="854" top="1637">
+
+READ2
+</word>
+<word bottom="1555" left="732" right="856" top="1585">
+WHEAL</word>
+<word bottom="1504" left="731" right="879" top="1535">
+
+WELLSS
+</word>
+<word bottom="1455" left="730" right="880" top="1485">
+
+WELRIS
+</word>
+<word bottom="1405" left="731" right="878" top="1437">
+
+WRITE2
+</word>
+<word bottom="1354" left="732" right="879" top="1387">
+
+WRITE5
+</word>
+<word bottom="1254" left="482" right="632" top="1286">
+
+RDWFLO
+</word>
+<word bottom="1253" left="731" right="856" top="1286">
+
+HST3D
+</word>
+<word bottom="1203" left="734" right="881" top="1236">
+
+ERROR3
+</word>
+<word bottom="1154" left="734" right="855" top="1186">
+
+ETOM2
+</word>
+<word bottom="1105" left="737" right="856" top="1137">
+
+INIT3
+</word>
+<word bottom="1055" left="734" right="856" top="1087">
+
+READ3
+</word>
+<word bottom="1004" left="732" right="881" top="1037">
+
+WRITE3
+</word>
+<word bottom="905" left="484" right="606" top="935">
+
+RDWHD
+</word>
+<word bottom="904" left="732" right="856" top="936">
+
+HST3D
+</word>
+<word bottom="853" left="735" right="880" top="886">
+
+ERROR3
+</word>
+<word bottom="805" left="734" right="854" top="837">
+
+ETOM2
+</word>
+<word bottom="755" left="736" right="856" top="787">
+
+INIT3
+</word>
+<word bottom="705" left="733" right="855" top="737">
+
+READ3
+</word>
+<word bottom="655" left="732" right="881" top="688">
+
+WRITE3
+</word>
+<word bottom="407" left="485" right="632" top="437">
+
+RESTRT
+</word>
+<word bottom="406" left="734" right="857" top="438">
+
+HST3D
+</word>
+<word bottom="356" left="736" right="855" top="388">
+
+READ1
+</word>
+<word bottom="306" left="734" right="879" top="338">
+
+WRITE1
+</word>
+<word bottom="2200" left="903" right="1024" top="2232">
+Table</word>
+<word bottom="2199" left="1057" right="1571" top="2230">
+
+11.2--Cross
+
+-reference
+</word>
+<word bottom="2198" left="1601" right="1696" top="2230">
+list</word>
+<word bottom="2198" left="1723" right="1771" top="2228">
+of</word>
+<word bottom="2196" left="1797" right="2288" top="2230">
+
+variables--Continued
+</word>
+<word bottom="556" left="731" right="879" top="587">
+
+WELLSS
+</word>
+<word bottom="557" left="982" right="1130" top="590">
+
+REAL*8
+</word>
+<word bottom="505" left="732" right="882" top="535">
+
+WFDYDZ
+</word>
+<word bottom="507" left="983" right="1131" top="540">
+
+REAL*8
+</word>
+<word bottom="2051" left="1101" right="1296" top="2082">
+Variable</word>
+<word bottom="1993" left="1152" right="1248" top="2029">
+type</word>
+<word bottom="1903" left="981" right="1203" top="1935">
+
+LOGICAL*4
+</word>
+<word bottom="1853" left="982" right="1203" top="1886">
+
+LOGICAL*4
+</word>
+<word bottom="1804" left="980" right="1202" top="1837">
+
+LOGICAL*4
+</word>
+<word bottom="1753" left="980" right="1203" top="1787">
+
+LOGICAL*4
+</word>
+<word bottom="1703" left="980" right="1202" top="1737">
+
+LOGICAL*4
+</word>
+<word bottom="1654" left="980" right="1202" top="1687">
+
+LOGICAL*4
+</word>
+<word bottom="1604" left="981" right="1201" top="1638">
+
+LOGICAL*4
+</word>
+<word bottom="1555" left="981" right="1203" top="1588">
+
+LOGICAL*4
+</word>
+<word bottom="1504" left="980" right="1202" top="1538">
+
+LOGICAL*4
+</word>
+<word bottom="1454" left="981" right="1203" top="1489">
+
+LOGICAL*4
+</word>
+<word bottom="1405" left="981" right="1202" top="1438">
+
+LOGICAL*4
+</word>
+<word bottom="1355" left="982" right="1202" top="1388">
+
+LOGICAL*4
+</word>
+<word bottom="1254" left="980" right="1204" top="1288">
+
+LOGICAL*4
+</word>
+<word bottom="1204" left="983" right="1204" top="1237">
+
+LOGICAL*4
+</word>
+<word bottom="1155" left="981" right="1203" top="1188">
+
+LOGICAL*4
+</word>
+<word bottom="1105" left="983" right="1204" top="1138">
+
+LOGICAL*4
+</word>
+<word bottom="1055" left="982" right="1203" top="1089">
+
+LOGICAL*4
+</word>
+<word bottom="1006" left="983" right="1205" top="1039">
+
+LOGICAL*4
+</word>
+<word bottom="905" left="981" right="1202" top="938">
+
+LOGICAL*4
+</word>
+<word bottom="855" left="984" right="1204" top="889">
+
+LOGICAL*4
+</word>
+<word bottom="805" left="982" right="1204" top="839">
+
+LOGICAL*4
+</word>
+<word bottom="756" left="983" right="1204" top="790">
+
+LOGICAL*4
+</word>
+<word bottom="706" left="982" right="1204" top="740">
+
+LOGICAL*4
+</word>
+<word bottom="656" left="983" right="1203" top="690">
+
+LOGICAL*4
+</word>
+<word bottom="407" left="983" right="1205" top="441">
+
+LOGICAL*4
+</word>
+<word bottom="358" left="984" right="1204" top="391">
+
+LOGICAL*4
+</word>
+<word bottom="307" left="983" right="1204" top="340">
+
+LOGICAL*4
+</word>
+<word bottom="2098" left="1920" right="2064" top="2129">
+Refer-</word>
+<word bottom="2050" left="1647" right="1842" top="2081">
+Variable</word>
+<word bottom="2041" left="1921" right="2067" top="2078">
+
+encing
+</word>
+<word bottom="2001" left="1698" right="1794" top="2023">
+name</word>
+<word bottom="1991" left="1894" right="2090" top="2022">
+programs</word>
+<word bottom="1907" left="1655" right="1703" top="1937">
+RF</word>
+<word bottom="1610" left="1656" right="1704" top="1640">
+RH</word>
+<word bottom="1312" left="1657" right="1726" top="1345">
+
+RH1
+</word>
+<word bottom="1207" left="1655" right="1726" top="1238">
+
+RHS
+</word>
+<word bottom="907" left="1653" right="1799" top="938">
+
+RHSSBC
+</word>
+<word bottom="757" left="1653" right="1751" top="789">
+
+RHSW
+</word>
+<word bottom="609" left="1652" right="1776" top="639">
+
+RIOAR
+</word>
+<word bottom="1907" left="1902" right="2050" top="1938">
+
+APLYBC
+</word>
+<word bottom="1857" left="1902" right="2050" top="1888">
+
+ASEMBL
+</word>
+<word bottom="1806" left="1903" right="2027" top="1838">
+
+COEFF
+</word>
+<word bottom="1758" left="1905" right="2003" top="1788">
+ITER</word>
+<word bottom="1707" left="1901" right="2051" top="1739">
+
+WELLSS
+</word>
+<word bottom="1610" left="1902" right="2051" top="1641">
+
+APLYBC
+</word>
+<word bottom="1560" left="1902" right="2053" top="1591">
+
+ASEMBL
+</word>
+<word bottom="1511" left="1904" right="2028" top="1542">
+
+COEFF
+</word>
+<word bottom="1461" left="1907" right="2005" top="1492">
+ITER</word>
+<word bottom="1413" left="1903" right="2050" top="1443">
+
+WELLSS
+</word>
+<word bottom="1312" left="1902" right="2053" top="1344">
+
+ASEMBL
+</word>
+<word bottom="1314" left="2154" right="2300" top="1346">
+
+REAL*8
+</word>
+<word bottom="1310" left="2327" right="2618" top="1349">
+DIMENSION(*)</word>
+<word bottom="1206" left="1901" right="2052" top="1236">
+
+ASEMBL
+</word>
+<word bottom="1156" left="1902" right="2023" top="1189">
+
+D4DES
+</word>
+<word bottom="1107" left="1906" right="2002" top="1137">
+ITER</word>
+<word bottom="1056" left="1902" right="2028" top="1089">
+
+L2SOR
+</word>
+<word bottom="1006" left="1903" right="2026" top="1037">
+
+SOR2L
+</word>
+<word bottom="907" left="1899" right="2048" top="937">
+
+ASEMBL
+</word>
+<word bottom="906" left="2149" right="2297" top="938">
+
+REAL*8
+</word>
+<word bottom="900" left="2324" right="2614" top="938">
+DIMENSION(*)</word>
+<word bottom="857" left="1903" right="2050" top="888">
+
+SBCFLO
+</word>
+<word bottom="857" left="2152" right="2297" top="889">
+
+REAL*8
+</word>
+<word bottom="850" left="2325" right="2615" top="889">
+DIMENSION(*)</word>
+<word bottom="756" left="1899" right="2048" top="787">
+
+ASEMBL
+</word>
+<word bottom="756" left="2150" right="2297" top="788">
+
+REAL*8
+</word>
+<word bottom="749" left="2324" right="2614" top="788">
+DIMENSION(*)</word>
+<word bottom="706" left="1900" right="2050" top="738">
+
+WBCFLO
+</word>
+<word bottom="706" left="2150" right="2297" top="738">
+
+REAL*8
+</word>
+<word bottom="699" left="2323" right="2615" top="738">
+DIMENSION(*)</word>
+<word bottom="606" left="1899" right="2022" top="638">
+
+HST3D
+</word>
+<word bottom="558" left="1897" right="2047" top="589">
+
+APLYBC
+</word>
+<word bottom="508" left="1898" right="1997" top="539">
+DUMP</word>
+<word bottom="459" left="1901" right="2020" top="490">
+
+ETOM1
+</word>
+<word bottom="408" left="1902" right="2021" top="440">
+
+INIT2
+</word>
+<word bottom="359" left="1900" right="2019" top="389">
+
+READ1
+</word>
+<word bottom="308" left="1899" right="2020" top="340">
+
+READ2
+</word>
+<word bottom="258" left="1897" right="2046" top="290">
+
+WRITE2
+</word>
+<word bottom="1908" left="2152" right="2298" top="1939">
+
+REAL*8
+</word>
+<word bottom="1858" left="2152" right="2298" top="1890">
+
+REAL*8
+</word>
+<word bottom="1808" left="2152" right="2299" top="1839">
+
+REAL*8
+</word>
+<word bottom="1758" left="2152" right="2299" top="1790">
+
+REAL*8
+</word>
+<word bottom="1709" left="2152" right="2299" top="1741">
+
+REAL*8
+</word>
+<word bottom="607" left="2149" right="2294" top="639">
+
+REAL*8
+</word>
+<word bottom="558" left="2148" right="2294" top="590">
+
+REAL*8
+</word>
+<word bottom="509" left="2148" right="2294" top="540">
+
+REAL*8
+</word>
+<word bottom="459" left="2149" right="2294" top="491">
+
+REAL*8
+</word>
+<word bottom="409" left="2148" right="2293" top="440">
+
+REAL*8
+</word>
+<word bottom="359" left="2148" right="2293" top="391">
+
+REAL*8
+</word>
+<word bottom="309" left="2146" right="2293" top="341">
+
+REAL*8
+</word>
+<word bottom="258" left="2147" right="2293" top="290">
+
+REAL*8
+</word>
+<word bottom="2048" left="2266" right="2464" top="2080">
+Variable</word>
+<word bottom="1990" left="2319" right="2415" top="2026">
+type</word>
+<word bottom="1904" left="2325" right="2618" top="1943">
+DIMENSION(*)</word>
+<word bottom="1853" left="2326" right="2617" top="1892">
+DIMENSION(*)</word>
+<word bottom="1805" left="2325" right="2617" top="1843">
+DIMENSION(*)</word>
+<word bottom="1754" left="2325" right="2617" top="1793">
+DIMENSION(*)</word>
+<word bottom="1704" left="2325" right="2618" top="1743">
+DIMENSION(*)</word>
+<word bottom="1611" left="2153" right="2300" top="1643">
+
+REAL*8
+</word>
+<word bottom="1606" left="2327" right="2618" top="1645">
+DIMENSION(*)</word>
+<word bottom="1561" left="2153" right="2300" top="1594">
+
+REAL*8
+</word>
+<word bottom="1557" left="2326" right="2618" top="1597">
+DIMENSION(*)</word>
+<word bottom="1512" left="2153" right="2300" top="1544">
+
+REAL*8
+</word>
+<word bottom="1507" left="2326" right="2618" top="1546">
+DIMENSION(*)</word>
+<word bottom="1463" left="2154" right="2300" top="1495">
+
+REAL*8
+</word>
+<word bottom="1459" left="2326" right="2619" top="1499">
+DIMENSION(*)</word>
+<word bottom="1413" left="2154" right="2299" top="1446">
+
+REAL*8
+</word>
+<word bottom="1409" left="2327" right="2618" top="1448">
+DIMENSION(*)</word>
+<word bottom="1204" left="2153" right="2298" top="1236">
+
+REAL*8
+</word>
+<word bottom="1198" left="2326" right="2617" top="1237">
+DIMENSION(*)</word>
+<word bottom="1154" left="2152" right="2299" top="1187">
+
+REAL*8
+</word>
+<word bottom="1148" left="2327" right="2616" top="1187">
+DIMENSION(*)</word>
+<word bottom="1106" left="2152" right="2298" top="1138">
+
+REAL*8
+</word>
+<word bottom="1099" left="2326" right="2617" top="1137">
+DIMENSION(*)</word>
+<word bottom="1056" left="2151" right="2298" top="1087">
+
+REAL*8
+</word>
+<word bottom="1049" left="2325" right="2616" top="1088">
+DIMENSION(*)</word>
+<word bottom="1005" left="2151" right="2298" top="1037">
+
+REAL*8
+</word>
+<word bottom="998" left="2325" right="2616" top="1037">
+DIMENSION(*)</word>
+</words>
+</ocrresult>
+

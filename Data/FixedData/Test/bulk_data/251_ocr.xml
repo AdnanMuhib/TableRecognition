@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544571550.png" width="2552"/>
+<words>
+<word bottom="2984" left="310" right="425" top="3014">
+STEPS</word>
+<word bottom="2985" left="457" right="550" top="3014">
+FROM</word>
+<word bottom="2986" left="657" right="748" top="3016">
+STEP</word>
+<word bottom="2934" left="359" right="499" top="2963">
+MATRIX</word>
+<word bottom="2936" left="656" right="749" top="2965">
+NAME</word>
+<word bottom="2781" left="312" right="403" top="2810">
+STEP</word>
+<word bottom="2782" left="435" right="453" top="2810">
+
+0
+</word>
+<word bottom="2529" left="313" right="403" top="2558">
+STEP</word>
+<word bottom="2531" left="442" right="451" top="2557">
+
+1
+</word>
+<word bottom="2229" left="318" right="405" top="2257">
+STEP</word>
+<word bottom="2231" left="439" right="453" top="2258">
+
+2
+</word>
+<word bottom="2231" left="588" right="729" top="2259">
+SYSTEM</word>
+<word bottom="2181" left="612" right="803" top="2211">
+ELEMENTS</word>
+<word bottom="1928" left="318" right="407" top="1956">
+STEP</word>
+<word bottom="1928" left="442" right="457" top="1956">
+
+3
+</word>
+<word bottom="1627" left="320" right="409" top="1657">
+STEP</word>
+<word bottom="1628" left="444" right="509" top="1656">
+
+4-5
+</word>
+<word bottom="1176" left="321" right="411" top="1206">
+STEP</word>
+<word bottom="1183" left="445" right="462" top="1206">
+
+7
+</word>
+<word bottom="3069" left="580" right="700" top="3100">
+WHERE</word>
+<word bottom="3071" left="733" right="772" top="3100">
+IS</word>
+<word bottom="3071" left="804" right="1074" top="3101">
+PERFORMANCE</word>
+<word bottom="3071" left="1105" right="1349" top="3103">
+ALLOCATION</word>
+<word bottom="3072" left="1379" right="1600" top="3103">
+DISCUSSED</word>
+<word bottom="3074" left="1635" right="1676" top="3103">
+IN</word>
+<word bottom="3074" left="1707" right="1801" top="3103">
+
+SCP?
+</word>
+<word bottom="2783" left="583" right="776" top="2814">
+DESCRIBE</word>
+<word bottom="2732" left="609" right="775" top="2761">
+OVERALL</word>
+<word bottom="2683" left="637" right="826" top="2713">
+STRATEGY</word>
+<word bottom="2532" left="585" right="652" top="2561">
+PER</word>
+<word bottom="2481" left="611" right="853" top="2512">
+OBJECTIVES</word>
+<word bottom="1929" left="589" right="806" top="1959">
+LICENSING</word>
+<word bottom="1880" left="614" right="806" top="1910">
+APPROACH</word>
+<word bottom="1629" left="591" right="857" top="1659">
+PERFORMANCE</word>
+<word bottom="1579" left="618" right="859" top="1609">
+ALLOCATION</word>
+<word bottom="1528" left="640" right="807" top="1558">
+DETAILS</word>
+<word bottom="1178" left="595" right="686" top="1207">
+TEST</word>
+<word bottom="1129" left="617" right="883" top="1159">
+DEFINITIONS</word>
+<word bottom="2988" left="985" right="1024" top="3017">
+IN</word>
+<word bottom="2987" left="1057" right="1124" top="3017">
+
+SCP
+</word>
+<word bottom="2936" left="982" right="1151" top="2967">
+SECTION</word>
+<word bottom="2938" left="1405" right="1677" top="2969">
+DESCRIPTIVE</word>
+<word bottom="2938" left="1708" right="1903" top="2969">
+COMMENTS</word>
+<word bottom="2785" left="958" right="1024" top="2814">
+
+8.1
+</word>
+<word bottom="2786" left="1307" right="1476" top="2816">
+PROVIDE</word>
+<word bottom="2788" left="1506" right="1525" top="2815">
+A</word>
+<word bottom="2787" left="1557" right="1678" top="2817">
+BRIEF</word>
+<word bottom="2787" left="1709" right="1879" top="2817">
+GENERIC</word>
+<word bottom="2785" left="1910" right="2177" top="2816">
+DESCRIPTION</word>
+<word bottom="2786" left="2207" right="2252" top="2815">
+OF</word>
+<word bottom="2735" left="1334" right="1400" top="2764">
+THE</word>
+<word bottom="2736" left="1432" right="1601" top="2765">
+OVERALL</word>
+<word bottom="2736" left="1634" right="1831" top="2765">
+APPROACH</word>
+<word bottom="2736" left="1862" right="1904" top="2765">
+TO</word>
+<word bottom="2735" left="1936" right="2201" top="2765">
+PERFORMANCE</word>
+<word bottom="2684" left="1358" right="1603" top="2715">
+ALLOCATION</word>
+<word bottom="2534" left="959" right="1226" top="2563">
+
+8.3.5.2.1.2
+</word>
+<word bottom="2483" left="961" right="1228" top="2513">
+
+8.3.5.2.1.3
+</word>
+<word bottom="2433" left="961" right="1179" top="2463">
+
+8.7.5.2.3
+</word>
+<word bottom="2381" left="960" right="1178" top="2411">
+
+8.3.5.2.4
+</word>
+<word bottom="1931" left="963" right="1129" top="1960">
+
+8.3.5.2
+</word>
+<word bottom="583" left="970" right="1083" top="612">
+
+8.3.1
+</word>
+<word bottom="583" left="1120" right="1138" top="612">
+
+&amp;
+</word>
+<word bottom="533" left="997" right="1112" top="562">
+
+8.3.S
+</word>
+<word bottom="2534" left="1312" right="1426" top="2564">
+ISSUE</word>
+<word bottom="2535" left="1462" right="1551" top="2564">
+
+1.13
+</word>
+<word bottom="2548" left="1584" right="1602" top="2551">
+-</word>
+<word bottom="2484" left="1313" right="1427" top="2514">
+ISSUE</word>
+<word bottom="2485" left="1463" right="1553" top="2514">
+
+1.14
+</word>
+<word bottom="2434" left="1313" right="1427" top="2463">
+ISSUE</word>
+<word bottom="2434" left="1463" right="1552" top="2463">
+
+1.1E
+</word>
+<word bottom="2382" left="1312" right="1428" top="2411">
+ISSUE</word>
+<word bottom="2382" left="1463" right="1551" top="2411">
+
+1.16
+</word>
+<word bottom="2535" left="1634" right="1905" top="2565">
+CONTAINMENT</word>
+<word bottom="2534" left="1938" right="2030" top="2564">
+TIME</word>
+<word bottom="2498" left="1585" right="1603" top="2501">
+
+-
+</word>
+<word bottom="2485" left="1636" right="1806" top="2515">
+RELEASE</word>
+<word bottom="2484" left="1838" right="1955" top="2514">
+RATES</word>
+<word bottom="2485" left="1987" right="2080" top="2514">
+FROM</word>
+<word bottom="2483" left="2110" right="2179" top="2514">
+
+EBS
+</word>
+<word bottom="2447" left="1586" right="1603" top="2450">
+
+-
+</word>
+<word bottom="2434" left="1636" right="1905" top="2464">
+GROUNDWATER</word>
+<word bottom="2434" left="1938" right="2078" top="2463">
+TRAVEL</word>
+<word bottom="2433" left="2112" right="2203" top="2462">
+TIME</word>
+<word bottom="2395" left="1585" right="1604" top="2399">
+
+-
+</word>
+<word bottom="2382" left="1636" right="1830" top="2412">
+RELEASES</word>
+<word bottom="2383" left="1863" right="1906" top="2412">
+TO</word>
+<word bottom="2382" left="1938" right="2098" top="2412">
+ACCESS.</word>
+<word bottom="2382" left="2134" right="2273" top="2411">
+
+ENVIR.
+</word>
+<word bottom="2233" left="961" right="1025" top="2261">
+
+8.1
+</word>
+<word bottom="2233" left="1309" right="1502" top="2263">
+DESCRIBE</word>
+<word bottom="2233" left="1534" right="1651" top="2262">
+
+NNWSI
+</word>
+<word bottom="2233" left="1687" right="1856" top="2262">
+SYSTEMS</word>
+<word bottom="2233" left="1888" right="2103" top="2262">
+HIERARCHY</word>
+<word bottom="2132" left="1311" right="1503" top="2161">
+DESCRIBE</word>
+<word bottom="2131" left="1535" right="1831" top="2162">
+RELATIONSHIP</word>
+<word bottom="2132" left="1864" right="2031" top="2161">
+BETWEEN</word>
+<word bottom="2131" left="2064" right="2229" top="2161">
+SYSTEMS</word>
+<word bottom="2082" left="1335" right="1553" top="2111">
+HIERARCHY</word>
+<word bottom="2083" left="1586" right="1656" top="2111">
+AND</word>
+<word bottom="2082" left="1691" right="1832" top="2111">
+ISSUES</word>
+<word bottom="2082" left="1864" right="2080" top="2111">
+HIERARCHY</word>
+<word bottom="1932" left="1312" right="1379" top="1961">
+THE</word>
+<word bottom="1932" left="1411" right="1606" top="1961">
+SPECIFIC</word>
+<word bottom="1932" left="1638" right="1834" top="1961">
+APPROACH</word>
+<word bottom="1932" left="1865" right="1933" top="1962">
+FOR</word>
+<word bottom="1931" left="1965" right="2130" top="1961">
+MEETING</word>
+<word bottom="1931" left="2161" right="2256" top="1961">
+EACH</word>
+<word bottom="1883" left="1336" right="1379" top="1911">
+OF</word>
+<word bottom="1883" left="1411" right="1479" top="1912">
+THE</word>
+<word bottom="1882" left="1511" right="1783" top="1912">
+PERFORMANCE</word>
+<word bottom="1882" left="1815" right="2056" top="1912">
+OBJECTIVES</word>
+<word bottom="1881" left="2087" right="2179" top="1910">
+WILL</word>
+<word bottom="1881" left="2212" right="2256" top="1910">
+BE</word>
+<word bottom="1829" left="1361" right="1580" top="1860">
+DESCRIBED</word>
+<word bottom="1831" left="1613" right="1732" top="1860">
+UNDER</word>
+<word bottom="1831" left="1764" right="1859" top="1859">
+EACH</word>
+<word bottom="1830" left="1889" right="2130" top="1860">
+RESPECTIVE</word>
+<word bottom="1830" left="2165" right="2280" top="1860">
+ISSUE</word>
+<word bottom="1781" left="1387" right="1531" top="1811">
+LISTED</word>
+<word bottom="1782" left="1566" right="1607" top="1810">
+IN</word>
+<word bottom="1782" left="1639" right="1733" top="1811">
+STEP</word>
+<word bottom="1782" left="1768" right="1780" top="1809">
+
+1
+</word>
+<word bottom="1632" left="965" right="1032" top="1660">
+SOP</word>
+<word bottom="1631" left="1064" right="1257" top="1660">
+SECTIONS</word>
+<word bottom="1632" left="1317" right="1407" top="1661">
+INFO</word>
+<word bottom="1632" left="1437" right="1532" top="1661">
+NEED</word>
+<word bottom="1632" left="1562" right="1860" top="1661">
+DESCRIPTIONS</word>
+<word bottom="1632" left="1891" right="1985" top="1660">
+WILL</word>
+<word bottom="1632" left="2014" right="2158" top="1662">
+DEFINE</word>
+<word bottom="1580" left="991" right="1133" top="1610">
+LISTED</word>
+<word bottom="1582" left="1169" right="1209" top="1609">
+IN</word>
+<word bottom="1581" left="1340" right="1483" top="1611">
+NEEDED</word>
+<word bottom="1582" left="1514" right="1759" top="1611">
+PARAMETERS</word>
+<word bottom="1582" left="1792" right="1861" top="1611">
+AND</word>
+<word bottom="1581" left="1891" right="2059" top="1611">
+DESIRED</word>
+<word bottom="1529" left="1015" right="1107" top="1559">
+STEP</word>
+<word bottom="1531" left="1144" right="1154" top="1557">
+
+1
+</word>
+<word bottom="1530" left="1367" right="1632" top="1560">
+INDICATIONS</word>
+<word bottom="1531" left="1665" right="1709" top="1560">
+OF</word>
+<word bottom="1530" left="1741" right="1984" top="1560">
+CONFIDENCE</word>
+<word bottom="1430" left="1319" right="1408" top="1459">
+INFO</word>
+<word bottom="1430" left="1440" right="1532" top="1460">
+NEED</word>
+<word bottom="1431" left="1569" right="1706" top="1460">
+
+1.XX.1
+</word>
+<word bottom="1431" left="1742" right="1910" top="1460">
+CONVEYS</word>
+<word bottom="1431" left="1943" right="2058" top="1460">
+THESE</word>
+<word bottom="1430" left="2091" right="2207" top="1460">
+NEEDS</word>
+<word bottom="1379" left="1340" right="1382" top="1408">
+TO</word>
+<word bottom="1381" left="1414" right="1482" top="1409">
+THE</word>
+<word bottom="1380" left="1514" right="1609" top="1409">
+SITE</word>
+<word bottom="1380" left="1640" right="2034" top="1410">
+CHARACTERIZATION</word>
+<word bottom="1380" left="2069" right="2131" top="1409">
+
+INs
+</word>
+<word bottom="1327" left="1368" right="1502" top="1358">
+(i.e.,</word>
+<word bottom="1331" left="1540" right="1583" top="1360">
+TO</word>
+<word bottom="1332" left="1616" right="1685" top="1361">
+THE</word>
+<word bottom="1332" left="1716" right="1809" top="1360">
+PI)</word>
+<word bottom="1179" left="967" right="1080" top="1208">
+
+8.3.1
+</word>
+<word bottom="1179" left="1319" right="1408" top="1209">
+INFO</word>
+<word bottom="1180" left="1440" right="1533" top="1209">
+NEED</word>
+<word bottom="1180" left="1565" right="1862" top="1210">
+DESCRIPTIONS</word>
+<word bottom="1179" left="1893" right="1985" top="1209">
+WILL</word>
+<word bottom="1180" left="2016" right="2159" top="1210">
+DEFINE</word>
+<word bottom="1180" left="2190" right="2259" top="1210">
+THE</word>
+<word bottom="1131" left="1340" right="1457" top="1161">
+TESTS</word>
+<word bottom="1131" left="1490" right="1558" top="1160">
+AND</word>
+<word bottom="1131" left="1590" right="1860" top="1161">
+
+MEASURABLES
+</word>
+<word bottom="1130" left="1893" right="2084" top="1161">
+REQUIRED</word>
+<word bottom="1131" left="2115" right="2157" top="1160">
+TO</word>
+<word bottom="1081" left="1365" right="1533" top="1110">
+PROVIDE</word>
+<word bottom="1082" left="1565" right="1710" top="1111">
+VALUES</word>
+<word bottom="1082" left="1743" right="1786" top="1110">
+OF</word>
+<word bottom="1081" left="1818" right="2058" top="1111">
+PARAMETERS</word>
+<word bottom="928" left="323" right="412" top="957">
+STEP</word>
+<word bottom="929" left="446" right="462" top="957">
+
+8
+</word>
+<word bottom="929" left="595" right="685" top="958">
+TEST</word>
+<word bottom="931" left="967" right="1160" top="960">
+WORKSHOP</word>
+<word bottom="944" left="1193" right="1210" top="947">
+
+-
+</word>
+<word bottom="931" left="1242" right="1260" top="959">
+I</word>
+<word bottom="931" left="1290" right="1485" top="961">
+EVALUATE</word>
+<word bottom="932" left="1514" right="1611" top="961">
+DATA</word>
+<word bottom="933" left="1642" right="1710" top="961">
+AND</word>
+<word bottom="932" left="1742" right="2009" top="961">
+CONFIDENCES</word>
+<word bottom="932" left="2041" right="2284" top="961">
+ACHIEVABLE</word>
+<word bottom="880" left="620" right="886" top="911">
+EVALUATIONS</word>
+<word bottom="883" left="1316" right="1359" top="912">
+BY</word>
+<word bottom="883" left="1392" right="1509" top="913">
+TESTS</word>
+<word bottom="832" left="1243" right="1261" top="860">
+
+•
+</word>
+<word bottom="832" left="1291" right="1560" top="862">
+RE-ALLOCATE</word>
+<word bottom="833" left="1592" right="1862" top="862">
+PERFORMANCE</word>
+<word bottom="833" left="1894" right="2009" top="862">
+GOALS</word>
+<word bottom="833" left="2042" right="2110" top="861">
+AND</word>
+<word bottom="779" left="1316" right="1604" top="812">
+CONFIDENCES,</word>
+<word bottom="784" left="1647" right="1685" top="812">
+IF</word>
+<word bottom="782" left="1718" right="1936" top="812">
+NECESSARY</word>
+<word bottom="733" left="1344" right="1486" top="761">
+and/or</word>
+<word bottom="682" left="1243" right="1261" top="711">
+
+•
+</word>
+<word bottom="682" left="1293" right="1435" top="711">
+MODIFY</word>
+<word bottom="684" left="1467" right="1510" top="712">
+OR</word>
+<word bottom="683" left="1542" right="1763" top="713">
+ELIMINATE</word>
+<word bottom="677" left="1797" right="1932" top="712">
+TESTS,</word>
+<word bottom="684" left="1969" right="2011" top="712">
+AS</word>
+<word bottom="683" left="2043" right="2309" top="713">
+APPROPRIATE</word>
+<word bottom="583" left="1297" right="1561" top="613">
+INCORPORATE</word>
+<word bottom="583" left="1593" right="1762" top="613">
+RESULTS</word>
+<word bottom="583" left="1795" right="1839" top="613">
+OF</word>
+<word bottom="583" left="1870" right="2060" top="613">
+WORKSHOP</word>
+<word bottom="584" left="2096" right="2185" top="613">
+INTO</word>
+<word bottom="585" left="2216" right="2282" top="614">
+
+SCP
+</word>
+</words>
+</ocrresult>
+

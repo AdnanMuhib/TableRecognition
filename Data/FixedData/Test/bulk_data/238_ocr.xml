@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544498395.png" width="2544"/>
+<words>
+<word bottom="3007" left="324" right="389" top="3028">
+
+NOGR
+</word>
+<word bottom="1891" left="371" right="486" top="1923">
+
+1.1.1
+</word>
+<word bottom="1891" left="543" right="690" top="1926">
+METHOD</word>
+<word bottom="1891" left="722" right="766" top="1925">
+OF</word>
+<word bottom="1890" left="797" right="1145" top="1926">
+IDENTIFICATION</word>
+<word bottom="1386" left="372" right="491" top="1419">
+
+1.1.2
+</word>
+<word bottom="1385" left="546" right="793" top="1421">
+EXCEPTIONS</word>
+<word bottom="1083" left="373" right="492" top="1116">
+
+1.1.3
+</word>
+<word bottom="1082" left="546" right="820" top="1118">
+CONDITIONAL</word>
+<word bottom="1081" left="849" right="1024" top="1118">
+RELEASE</word>
+<word bottom="3069" left="1018" right="1184" top="3112">
+
+NNWSI
+</word>
+<word bottom="3067" left="1209" right="1444" top="3111">
+PROJECT</word>
+<word bottom="3067" left="1468" right="1543" top="3111">
+OA</word>
+<word bottom="3068" left="1568" right="1702" top="3111">
+PLAN</word>
+<word bottom="2897" left="1247" right="1418" top="2934">
+SECTION</word>
+<word bottom="2899" left="1446" right="1494" top="2933">
+XV</word>
+<word bottom="2797" left="996" right="1168" top="2834">
+CONTROL</word>
+<word bottom="2800" left="1198" right="1243" top="2834">
+OF</word>
+<word bottom="2797" left="1272" right="1596" top="2835">
+NONCONFORMING</word>
+<word bottom="2797" left="1626" right="1747" top="2835">
+ITEMS</word>
+<word bottom="2647" left="1048" right="1118" top="2680">
+
+1.0
+</word>
+<word bottom="2647" left="1172" right="1344" top="2683">
+GENERAL</word>
+<word bottom="2642" left="1373" right="1671" top="2685">
+REQUIREMENTS</word>
+<word bottom="2547" left="492" right="688" top="2581">
+Measures</word>
+<word bottom="2547" left="720" right="832" top="2580">
+shall</word>
+<word bottom="2546" left="871" right="916" top="2580">
+be</word>
+<word bottom="2546" left="946" right="1218" top="2581">
+established</word>
+<word bottom="2547" left="1250" right="1294" top="2577">
+to</word>
+<word bottom="2547" left="1323" right="1487" top="2582">
+control</word>
+<word bottom="2547" left="1532" right="1646" top="2582">
+items</word>
+<word bottom="2546" left="1677" right="1775" top="2579">
+that</word>
+<word bottom="2547" left="1805" right="1851" top="2580">
+do</word>
+<word bottom="2548" left="1883" right="1952" top="2578">
+not</word>
+<word bottom="2547" left="1981" right="2151" top="2581">
+conform</word>
+<word bottom="2546" left="2180" right="2224" top="2576">
+to</word>
+<word bottom="2490" left="370" right="662" top="2531">
+requirements</word>
+<word bottom="2497" left="694" right="738" top="2527">
+to</word>
+<word bottom="2488" left="770" right="942" top="2527">
+prevent</word>
+<word bottom="2496" left="972" right="1091" top="2530">
+their</word>
+<word bottom="2496" left="1131" right="1395" top="2530">
+inadvertent</word>
+<word bottom="2496" left="1431" right="1722" top="2532">
+installation</word>
+<word bottom="2497" left="1754" right="1798" top="2519">
+or</word>
+<word bottom="2496" left="1832" right="1918" top="2520">
+use.</word>
+<word bottom="2496" left="1980" right="2101" top="2533">
+These</word>
+<word bottom="2493" left="2128" right="2323" top="2518">
+measures</word>
+<word bottom="2446" left="369" right="481" top="2480">
+shall</word>
+<word bottom="2446" left="525" right="690" top="2480">
+include</word>
+<word bottom="2445" left="719" right="966" top="2479">
+documented</word>
+<word bottom="2437" left="998" right="1244" top="2479">
+procedures</word>
+<word bottom="2446" left="1275" right="1344" top="2481">
+for</word>
+<word bottom="2437" left="1381" right="1742" top="2481">
+identification,</word>
+<word bottom="2437" left="1780" right="2119" top="2480">
+documentation,</word>
+<word bottom="2388" left="368" right="631" top="2429">
+evaluation,</word>
+<word bottom="2386" left="670" right="940" top="2428">
+segregation</word>
+<word bottom="2386" left="978" right="1092" top="2429">
+(when</word>
+<word bottom="2386" left="1124" right="1387" top="2430">
+practical),</word>
+<word bottom="2387" left="1424" right="1717" top="2430">
+disposition,</word>
+<word bottom="2395" left="1755" right="1825" top="2428">
+and</word>
+<word bottom="2394" left="1858" right="2149" top="2430">
+notification</word>
+<word bottom="2393" left="2180" right="2224" top="2424">
+to</word>
+<word bottom="2345" left="369" right="563" top="2379">
+affected</word>
+<word bottom="2336" left="593" right="935" top="2378">
+organizations.</word>
+<word bottom="2345" left="998" right="1061" top="2378">
+All</word>
+<word bottom="2336" left="1099" right="1312" top="2378">
+personnel</word>
+<word bottom="2345" left="1356" right="1546" top="2379">
+involved</word>
+<word bottom="2346" left="1583" right="1621" top="2379">
+in</word>
+<word bottom="2344" left="1651" right="1799" top="2379">
+Nevada</word>
+<word bottom="2345" left="1831" right="1999" top="2379">
+Nuclear</word>
+<word bottom="2344" left="2030" right="2151" top="2378">
+Waste</word>
+<word bottom="2334" left="2179" right="2351" top="2378">
+Storage</word>
+<word bottom="2285" left="371" right="714" top="2329">
+Investigations</word>
+<word bottom="2285" left="752" right="910" top="2329">
+
+(NNWSI)
+</word>
+<word bottom="2285" left="947" right="1119" top="2329">
+Project</word>
+<word bottom="2294" left="1149" right="1394" top="2329">
+activities</word>
+<word bottom="2294" left="1425" right="1496" top="2317">
+are</word>
+<word bottom="2287" left="1528" right="1802" top="2329">
+responsible</word>
+<word bottom="2295" left="1832" right="1901" top="2329">
+for</word>
+<word bottom="2285" left="1934" right="2151" top="2328">
+reporting</word>
+<word bottom="2244" left="370" right="739" top="2278">
+
+nonconformances
+</word>
+<word bottom="2244" left="777" right="815" top="2277">
+in</word>
+<word bottom="2243" left="845" right="1094" top="2277">
+accordance</word>
+<word bottom="2244" left="1124" right="1219" top="2278">
+with</word>
+<word bottom="2244" left="1250" right="1369" top="2278">
+their</word>
+<word bottom="2244" left="1399" right="1673" top="2279">
+established</word>
+<word bottom="2244" left="1706" right="2052" top="2280">
+nonconformance</word>
+<word bottom="2244" left="2081" right="2244" top="2277">
+control</word>
+<word bottom="2187" left="369" right="632" top="2227">
+procedures.</word>
+<word bottom="2193" left="696" right="817" top="2229">
+These</word>
+<word bottom="2186" left="847" right="1094" top="2226">
+procedures</word>
+<word bottom="2194" left="1125" right="1238" top="2228">
+shall</word>
+<word bottom="2194" left="1276" right="1322" top="2228">
+be</word>
+<word bottom="2194" left="1350" right="1599" top="2228">
+consistent</word>
+<word bottom="2194" left="1628" right="1725" top="2229">
+with</word>
+<word bottom="2194" left="1757" right="1828" top="2228">
+the</word>
+<word bottom="2195" left="1857" right="2029" top="2229">
+minimum</word>
+<word bottom="2187" left="2060" right="2351" top="2227">
+requirements</word>
+<word bottom="2144" left="377" right="513" top="2178">
+listed</word>
+<word bottom="2143" left="544" right="682" top="2176">
+below.</word>
+<word bottom="1992" left="1126" right="1194" top="2025">
+
+1.1
+</word>
+<word bottom="1992" left="1253" right="1600" top="2028">
+IDENTIFICATION</word>
+<word bottom="1790" left="497" right="841" top="1825">
+Identification</word>
+<word bottom="1790" left="872" right="915" top="1823">
+of</word>
+<word bottom="1781" left="951" right="1272" top="1824">
+nonconforming</word>
+<word bottom="1790" left="1308" right="1422" top="1825">
+items</word>
+<word bottom="1791" left="1453" right="1566" top="1825">
+shall</word>
+<word bottom="1791" left="1605" right="1651" top="1824">
+be</word>
+<word bottom="1790" left="1679" right="1779" top="1825">
+made</word>
+<word bottom="1782" left="1809" right="1853" top="1825">
+by</word>
+<word bottom="1782" left="1883" right="2073" top="1825">
+marking,</word>
+<word bottom="1781" left="2110" right="2298" top="1825">
+tagging,</word>
+<word bottom="1740" left="370" right="415" top="1762">
+or</word>
+<word bottom="1740" left="445" right="564" top="1773">
+other</word>
+<word bottom="1739" left="595" right="766" top="1772">
+methods</word>
+<word bottom="1739" left="798" right="894" top="1773">
+that</word>
+<word bottom="1739" left="925" right="1038" top="1773">
+shall</word>
+<word bottom="1739" left="1077" right="1147" top="1769">
+not</word>
+<word bottom="1731" left="1177" right="1397" top="1774">
+adversely</word>
+<word bottom="1740" left="1428" right="1576" top="1775">
+affect</word>
+<word bottom="1740" left="1606" right="1678" top="1775">
+the</word>
+<word bottom="1740" left="1707" right="1778" top="1774">
+end</word>
+<word bottom="1740" left="1811" right="1881" top="1764">
+use</word>
+<word bottom="1740" left="1910" right="1953" top="1775">
+of</word>
+<word bottom="1740" left="1985" right="2056" top="1774">
+the</word>
+<word bottom="1740" left="2091" right="2198" top="1775">
+item.</word>
+<word bottom="1740" left="2257" right="2332" top="1776">
+The</word>
+<word bottom="1689" left="378" right="715" top="1724">
+identification</word>
+<word bottom="1689" left="748" right="860" top="1722">
+shall</word>
+<word bottom="1689" left="899" right="945" top="1722">
+be</word>
+<word bottom="1680" left="982" right="1165" top="1723">
+legible,</word>
+<word bottom="1681" left="1202" right="1346" top="1725">
+easily</word>
+<word bottom="1680" left="1380" right="1696" top="1725">
+recognizable,</word>
+<word bottom="1689" left="1732" right="1804" top="1724">
+and</word>
+<word bottom="1690" left="1835" right="1948" top="1724">
+shall</word>
+<word bottom="1690" left="1984" right="2154" top="1725">
+contain</word>
+<word bottom="1690" left="2185" right="2256" top="1725">
+the</word>
+<word bottom="1638" left="372" right="717" top="1673">
+nonconformance</word>
+<word bottom="1630" left="749" right="895" top="1669">
+report</word>
+<word bottom="1638" left="925" right="1089" top="1671">
+number.</word>
+<word bottom="1639" left="1150" right="1223" top="1674">
+The</word>
+<word bottom="1639" left="1254" right="1602" top="1675">
+nonconformance</word>
+<word bottom="1631" left="1632" right="1781" top="1670">
+report</word>
+<word bottom="1639" left="1810" right="1954" top="1673">
+number</word>
+<word bottom="1640" left="1985" right="2097" top="1674">
+shall</word>
+<word bottom="1640" left="2134" right="2181" top="1674">
+be</word>
+<word bottom="1640" left="2210" right="2228" top="1663">
+a</word>
+<word bottom="1580" left="372" right="608" top="1621">
+sequential</word>
+<word bottom="1588" left="648" right="791" top="1621">
+number</word>
+<word bottom="1581" left="824" right="1019" top="1621">
+preceded</word>
+<word bottom="1579" left="1051" right="1095" top="1622">
+by</word>
+<word bottom="1588" left="1127" right="1172" top="1611">
+an</word>
+<word bottom="1579" left="1202" right="1542" top="1623">
+organizational</word>
+<word bottom="1580" left="1580" right="1755" top="1612">
+acronym</word>
+<word bottom="1579" left="1790" right="1898" top="1624">
+
+(e.g,
+</word>
+<word bottom="1580" left="1934" right="2098" top="1624">
+
+LLNL-1,
+</word>
+<word bottom="1581" left="2133" right="2297" top="1624">
+
+USGS-6,
+</word>
+<word bottom="1528" left="370" right="483" top="1572">
+etc).</word>
+<word bottom="1537" left="548" right="588" top="1572">
+If</word>
+<word bottom="1528" left="621" right="716" top="1567">
+tags</word>
+<word bottom="1537" left="747" right="818" top="1560">
+are</word>
+<word bottom="1529" left="850" right="963" top="1571">
+used,</word>
+<word bottom="1529" left="1001" right="1095" top="1570">
+they</word>
+<word bottom="1537" left="1127" right="1240" top="1571">
+shall</word>
+<word bottom="1538" left="1277" right="1324" top="1572">
+be</word>
+<word bottom="1530" left="1353" right="1548" top="1572">
+securely</word>
+<word bottom="1538" left="1580" right="1778" top="1572">
+attached</word>
+<word bottom="1538" left="1810" right="1856" top="1569">
+to</word>
+<word bottom="1538" left="1885" right="2004" top="1573">
+avoid</word>
+<word bottom="1538" left="2042" right="2129" top="1572">
+loss</word>
+<word bottom="1529" left="2159" right="2304" top="1573">
+during</word>
+<word bottom="1478" left="373" right="584" top="1521">
+handling.</word>
+<word bottom="1285" left="498" right="538" top="1320">
+If</word>
+<word bottom="1285" left="578" right="920" top="1319">
+identification</word>
+<word bottom="1285" left="950" right="994" top="1319">
+of</word>
+<word bottom="1284" left="1026" right="1122" top="1318">
+each</word>
+<word bottom="1276" left="1154" right="1476" top="1320">
+nonconforming</word>
+<word bottom="1285" left="1513" right="1604" top="1320">
+item</word>
+<word bottom="1286" left="1639" right="1679" top="1320">
+is</word>
+<word bottom="1286" left="1710" right="1782" top="1317">
+not</word>
+<word bottom="1277" left="1811" right="2050" top="1321">
+practical,</word>
+<word bottom="1287" left="2086" right="2157" top="1321">
+the</word>
+<word bottom="1227" left="372" right="609" top="1269">
+container,</word>
+<word bottom="1225" left="648" right="838" top="1268">
+package,</word>
+<word bottom="1234" left="875" right="920" top="1256">
+or</word>
+<word bottom="1224" left="952" right="1199" top="1268">
+segregated</word>
+<word bottom="1225" left="1230" right="1401" top="1265">
+storage</word>
+<word bottom="1227" left="1430" right="1544" top="1258">
+area,</word>
+<word bottom="1234" left="1582" right="1627" top="1258">
+as</word>
+<word bottom="1227" left="1658" right="1951" top="1269">
+appropriate,</word>
+<word bottom="1236" left="1988" right="2099" top="1270">
+shall</word>
+<word bottom="1236" left="2136" right="2182" top="1270">
+be</word>
+<word bottom="1184" left="379" right="635" top="1219">
+identified.</word>
+<word bottom="982" left="496" right="591" top="1016">
+Work</word>
+<word bottom="982" left="622" right="667" top="1004">
+on</word>
+<word bottom="981" left="700" right="771" top="1015">
+the</word>
+<word bottom="972" left="801" right="1125" top="1016">
+nonconforming</word>
+<word bottom="981" left="1162" right="1252" top="1016">
+item</word>
+<word bottom="981" left="1280" right="1393" top="1016">
+shall</word>
+<word bottom="982" left="1432" right="1478" top="1016">
+be</word>
+<word bottom="974" left="1507" right="1679" top="1017">
+stopped</word>
+<word bottom="982" left="1712" right="1825" top="1017">
+until</word>
+<word bottom="975" left="1864" right="2107" top="1018">
+completion</word>
+<word bottom="984" left="2137" right="2180" top="1018">
+of</word>
+<word bottom="984" left="2213" right="2284" top="1019">
+the</word>
+<word bottom="931" left="374" right="518" top="966">
+action</word>
+<word bottom="924" left="548" right="770" top="965">
+specified</word>
+<word bottom="932" left="807" right="846" top="965">
+in</word>
+<word bottom="931" left="877" right="950" top="964">
+the</word>
+<word bottom="930" left="976" right="1328" top="965">
+Nonconformance</word>
+<word bottom="924" left="1355" right="1504" top="966">
+Report</word>
+<word bottom="922" left="1538" right="1649" top="967">
+(NCR)</word>
+<word bottom="924" left="1685" right="1976" top="966">
+disposition.</word>
+<word bottom="932" left="2039" right="2081" top="968">
+If</word>
+<word bottom="924" left="2114" right="2207" top="967">
+only</word>
+<word bottom="934" left="2237" right="2256" top="957">
+a</word>
+<word bottom="873" left="374" right="567" top="915">
+specific</word>
+<word bottom="873" left="599" right="770" top="914">
+portion</word>
+<word bottom="881" left="800" right="844" top="915">
+of</word>
+<word bottom="880" left="878" right="949" top="913">
+the</word>
+<word bottom="880" left="985" right="1076" top="914">
+item</word>
+<word bottom="879" left="1112" right="1150" top="914">
+is</word>
+<word bottom="881" left="1188" right="1225" top="915">
+in</word>
+<word bottom="873" left="1257" right="1622" top="916">
+nonconformance,</word>
+<word bottom="881" left="1659" right="1756" top="915">
+then</word>
+<word bottom="881" left="1787" right="1885" top="914">
+that</word>
+<word bottom="874" left="1914" right="2108" top="917">
+specific</word>
+<word bottom="883" left="2138" right="2231" top="906">
+area</word>
+<word bottom="831" left="374" right="486" top="865">
+shall</word>
+<word bottom="831" left="524" right="569" top="864">
+be</word>
+<word bottom="830" left="606" right="846" top="865">
+identified</word>
+<word bottom="830" left="877" right="947" top="864">
+and</word>
+<word bottom="830" left="978" right="1073" top="864">
+work</word>
+<word bottom="820" left="1103" right="1174" top="852">
+may</word>
+<word bottom="822" left="1206" right="1376" top="864">
+proceed</word>
+<word bottom="831" left="1406" right="1451" top="854">
+on</word>
+<word bottom="830" left="1482" right="1554" top="865">
+the</word>
+<word bottom="822" left="1586" right="1809" top="866">
+remaining</word>
+<word bottom="830" left="1838" right="1977" top="854">
+areas.</word>
+<word bottom="832" left="2039" right="2081" top="867">
+If</word>
+<word bottom="832" left="2114" right="2208" top="866">
+work</word>
+<word bottom="833" left="2237" right="2283" top="856">
+on</word>
+<word bottom="832" left="2312" right="2331" top="855">
+a</word>
+<word bottom="770" left="376" right="696" top="814">
+nonconforming</word>
+<word bottom="780" left="734" right="824" top="814">
+item</word>
+<word bottom="779" left="851" right="950" top="811">
+must</word>
+<word bottom="779" left="979" right="1026" top="813">
+be</word>
+<word bottom="779" left="1054" right="1276" top="814">
+continued</word>
+<word bottom="770" left="1313" right="1596" top="815">
+(conditional</word>
+<word bottom="771" left="1637" right="1827" top="815">
+release)</word>
+<word bottom="773" left="1865" right="1983" top="815">
+prior</word>
+<word bottom="782" left="2014" right="2059" top="813">
+to</word>
+<word bottom="722" left="381" right="720" top="764">
+implementation</word>
+<word bottom="729" left="750" right="794" top="764">
+of</word>
+<word bottom="729" left="828" right="899" top="763">
+the</word>
+<word bottom="721" left="927" right="1219" top="763">
+disposition,</word>
+<word bottom="729" left="1257" right="1328" top="764">
+the</word>
+<word bottom="729" left="1356" right="1479" top="763">
+Waste</word>
+<word bottom="720" left="1506" right="1758" top="764">
+Management</word>
+<word bottom="722" left="1787" right="1960" top="765">
+Project</word>
+<word bottom="731" left="1990" right="2135" top="766">
+Office</word>
+<word bottom="722" left="2171" right="2302" top="767">
+
+(WMPO)
+</word>
+<word bottom="679" left="375" right="487" top="713">
+shall</word>
+<word bottom="671" left="525" right="697" top="702">
+approve</word>
+<word bottom="678" left="727" right="822" top="712">
+such</word>
+<word bottom="677" left="852" right="1144" top="713">
+continuance.</word>
+<word bottom="670" left="1207" right="1402" top="714">
+Requests</word>
+<word bottom="679" left="1433" right="1503" top="714">
+for</word>
+<word bottom="679" left="1533" right="1802" top="714">
+conditional</word>
+<word bottom="679" left="1842" right="2035" top="714">
+releases</word>
+<word bottom="681" left="2065" right="2110" top="705">
+on</word>
+<word bottom="618" left="376" right="696" top="663">
+nonconforming</word>
+<word bottom="627" left="733" right="847" top="662">
+items</word>
+<word bottom="627" left="878" right="992" top="662">
+shall</word>
+<word bottom="627" left="1037" right="1203" top="662">
+include</word>
+<word bottom="627" left="1231" right="1478" top="663">
+documented</word>
+<word bottom="619" left="1509" right="1834" top="664">
+justification</word>
+<word bottom="629" left="1866" right="1961" top="663">
+that</word>
+<word bottom="630" left="1991" right="2061" top="664">
+the</word>
+<word bottom="621" left="2091" right="2310" top="666">
+following</word>
+<word bottom="577" left="374" right="619" top="612">
+conditions</word>
+<word bottom="577" left="650" right="722" top="600">
+are</word>
+<word bottom="577" left="750" right="841" top="607">
+met:</word>
+<word bottom="477" left="500" right="519" top="499">
+
+o
+</word>
+<word bottom="476" left="599" right="671" top="511">
+The</word>
+<word bottom="467" left="701" right="1026" top="510">
+nonconforming</word>
+<word bottom="476" left="1062" right="1154" top="510">
+item</word>
+<word bottom="475" left="1181" right="1253" top="499">
+can</word>
+<word bottom="476" left="1283" right="1329" top="511">
+be</word>
+<word bottom="476" left="1360" right="1530" top="511">
+removed</word>
+<word bottom="476" left="1559" right="1604" top="500">
+or</word>
+<word bottom="477" left="1635" right="1861" top="511">
+corrected</word>
+<word bottom="477" left="1890" right="1937" top="508">
+at</word>
+<word bottom="477" left="1965" right="1986" top="500">
+a</word>
+<word bottom="478" left="2023" right="2134" top="512">
+later</word>
+<word bottom="478" left="2165" right="2261" top="513">
+date</word>
+<word bottom="425" left="601" right="774" top="460">
+without</word>
+<word bottom="416" left="802" right="951" top="459">
+damage</word>
+<word bottom="417" left="981" right="1044" top="457">
+to,</word>
+<word bottom="425" left="1081" right="1126" top="448">
+or</word>
+<word bottom="425" left="1157" right="1479" top="460">
+contamination</word>
+<word bottom="426" left="1509" right="1554" top="461">
+of</word>
+<word bottom="426" left="1587" right="1659" top="460">
+the</word>
+<word bottom="426" left="1687" right="1936" top="461">
+associated</word>
+<word bottom="419" left="1967" right="2187" top="459">
+permanent</word>
+<word bottom="366" left="601" right="796" top="410">
+facility</word>
+<word bottom="367" left="828" right="1052" top="409">
+equipment</word>
+<word bottom="375" left="1080" right="1126" top="398">
+or</word>
+<word bottom="374" left="1158" right="1422" top="406">
+structures.</word>
+<word bottom="3096" left="2152" right="2261" top="3131">
+
+4-QA
+</word>
+<word bottom="3095" left="2264" right="2368" top="3129">
+
+-040
+</word>
+<word bottom="3068" left="2405" right="2417" top="3167">
+I</word>
+<word bottom="3050" left="2158" right="2246" top="3085">
+
+1/87
+</word>
+<word bottom="169" left="342" right="418" top="195">
+REV.</word>
+<word bottom="169" left="448" right="501" top="194">
+NO.</word>
+<word bottom="138" left="619" right="626" top="199">
+I</word>
+<word bottom="167" left="647" right="767" top="195">
+ISSUED</word>
+<word bottom="100" left="999" right="1169" top="198">
+'SECTION</word>
+<word bottom="167" left="1193" right="1295" top="194">
+TITLE</word>
+<word bottom="105" left="2134" right="2141" top="196">
+I</word>
+<word bottom="171" left="2157" right="2238" top="197">
+PAGE</word>
+<word bottom="171" left="2262" right="2315" top="197">
+NO.</word>
+<word bottom="124" left="426" right="449" top="157">
+
+0
+</word>
+<word bottom="122" left="1107" right="1281" top="159">
+CONTROL</word>
+<word bottom="123" left="1310" right="1355" top="158">
+OF</word>
+<word bottom="123" left="1384" right="1711" top="160">
+NONCONFORMING</word>
+<word bottom="123" left="1741" right="1863" top="160">
+ITEMS</word>
+<word bottom="126" left="2216" right="2310" top="161">
+
+XV-1
+</word>
+<word bottom="93" left="666" right="759" top="119">
+
+g/10
+</word>
+<word bottom="95" left="771" right="833" top="119">
+
+/PQ
+</word>
+</words>
+</ocrresult>
+

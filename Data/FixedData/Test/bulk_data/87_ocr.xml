@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256490614654.png" width="2544"/>
+<words>
+<word bottom="1662" left="365" right="487" top="1697">
+where</word>
+<word bottom="2930" left="489" right="686" top="2973">
+Property</word>
+<word bottom="2930" left="1490" right="1629" top="2974">
+Symbol</word>
+<word bottom="2937" left="1815" right="2003" top="2973">
+
+Submodel
+</word>
+<word bottom="2789" left="363" right="484" top="2824">
+Waste</word>
+<word bottom="2790" left="514" right="611" top="2825">
+form</word>
+<word bottom="2789" left="640" right="803" top="2826">
+thermal</word>
+<word bottom="2781" left="840" right="1136" top="2825">
+conductivity</word>
+<word bottom="2790" left="1539" right="1557" top="2824">
+
+k
+</word>
+<word bottom="2788" left="1737" right="1903" top="2825">
+Thermal</word>
+<word bottom="2789" left="1938" right="2059" top="2822">
+waste</word>
+<word bottom="2714" left="363" right="485" top="2749">
+Waste</word>
+<word bottom="2715" left="515" right="611" top="2750">
+form</word>
+<word bottom="2715" left="640" right="835" top="2749">
+fracture</word>
+<word bottom="2705" left="867" right="1060" top="2750">
+strength</word>
+<word bottom="2696" left="1539" right="1587" top="2745">
+
+ac
+</word>
+<word bottom="2714" left="1737" right="1979" top="2750">
+Mechanical</word>
+<word bottom="2640" left="364" right="485" top="2674">
+Waste</word>
+<word bottom="2640" left="514" right="611" top="2675">
+form</word>
+<word bottom="2640" left="640" right="804" top="2676">
+thermal</word>
+<word bottom="2632" left="840" right="1060" top="2675">
+expansion</word>
+<word bottom="2639" left="1090" right="1360" top="2675">
+coefficient</word>
+<word bottom="2646" left="1538" right="1562" top="2670">
+a</word>
+<word bottom="2639" left="1738" right="1979" top="2676">
+Mechanical</word>
+<word bottom="2565" left="364" right="484" top="2599">
+Waste</word>
+<word bottom="2565" left="514" right="611" top="2600">
+form</word>
+<word bottom="2557" left="639" right="811" top="2601">
+density</word>
+<word bottom="2564" left="1543" right="1562" top="2595">
+
+P
+</word>
+<word bottom="2556" left="1740" right="1935" top="2601">
+Leaching</word>
+<word bottom="2414" left="363" right="436" top="2450">
+The</word>
+<word bottom="2405" left="465" right="610" top="2450">
+damage</word>
+<word bottom="2415" left="641" right="830" top="2450">
+
+submodel
+</word>
+<word bottom="2415" left="866" right="959" top="2450">
+does</word>
+<word bottom="2415" left="991" right="1060" top="2448">
+not</word>
+<word bottom="2415" left="1094" right="1261" top="2450">
+include</word>
+<word bottom="2415" left="1291" right="1361" top="2450">
+the</word>
+<word bottom="2414" left="1390" right="1535" top="2450">
+effect</word>
+<word bottom="2415" left="1566" right="1610" top="2449">
+of</word>
+<word bottom="2408" left="1640" right="1831" top="2450">
+fission,</word>
+<word bottom="2407" left="1867" right="2055" top="2448">
+neutron,</word>
+<word bottom="2331" left="365" right="505" top="2367">
+gamma,</word>
+<word bottom="2341" left="540" right="585" top="2367">
+or</word>
+<word bottom="2340" left="616" right="711" top="2375">
+beta</word>
+<word bottom="2341" left="740" right="980" top="2376">
+radiation.</word>
+<word bottom="2341" left="1039" right="1110" top="2375">
+The</word>
+<word bottom="2333" left="1142" right="1262" top="2376">
+alpha</word>
+<word bottom="2333" left="1291" right="1487" top="2376">
+particle</word>
+<word bottom="2332" left="1517" right="1712" top="2376">
+activity</word>
+<word bottom="2339" left="1742" right="1785" top="2372">
+at</word>
+<word bottom="2340" left="1817" right="1910" top="2375">
+time</word>
+<word bottom="2340" left="1942" right="1960" top="2373">
+
+t
+</word>
+<word bottom="2340" left="1994" right="2034" top="2375">
+is</word>
+<word bottom="2265" left="365" right="609" top="2301">
+calculated</word>
+<word bottom="2257" left="641" right="687" top="2300">
+by</word>
+<word bottom="2257" left="719" right="1035" top="2301">
+interpolation</word>
+<word bottom="2266" left="1065" right="1210" top="2301">
+within</word>
+<word bottom="2266" left="1241" right="1311" top="2300">
+the</word>
+<word bottom="2266" left="1342" right="1486" top="2292">
+source</word>
+<word bottom="2258" left="1516" right="1735" top="2301">
+depletion</word>
+<word bottom="2264" left="1766" right="1905" top="2301">
+table.</word>
+<word bottom="2265" left="1965" right="2036" top="2299">
+The</word>
+<word bottom="2183" left="368" right="660" top="2226">
+interpolated</word>
+<word bottom="2190" left="691" right="836" top="2226">
+result</word>
+<word bottom="2190" left="869" right="910" top="2226">
+is</word>
+<word bottom="2190" left="941" right="1161" top="2226">
+converted</word>
+<word bottom="2190" left="1191" right="1236" top="2223">
+to</word>
+<word bottom="2191" left="1268" right="1287" top="2217">
+a</word>
+<word bottom="2191" left="1314" right="1437" top="2224">
+waste</word>
+<word bottom="2191" left="1466" right="1563" top="2226">
+form</word>
+<word bottom="2183" left="1593" right="1713" top="2226">
+alpha</word>
+<word bottom="2182" left="1741" right="1936" top="2226">
+particle</word>
+<word bottom="2190" left="1966" right="2059" top="2225">
+dis-</word>
+<word bottom="2108" left="366" right="585" top="2151">
+placement</word>
+<word bottom="2116" left="617" right="711" top="2149">
+rate</word>
+<word bottom="2107" left="743" right="961" top="2151">
+according</word>
+<word bottom="2117" left="992" right="1037" top="2150">
+to</word>
+<word bottom="2116" left="1068" right="1137" top="2151">
+the</word>
+<word bottom="2107" left="1167" right="1386" top="2152">
+following</word>
+<word bottom="2108" left="1418" right="1731" top="2152">
+relationship:</word>
+<word bottom="1959" left="430" right="451" top="1998">
+(I)</word>
+<word bottom="1945" left="582" right="634" top="1994">
+Ra</word>
+<word bottom="1945" left="655" right="708" top="1993">
+
+N
+
+a
+</word>
+<word bottom="1954" left="730" right="748" top="1993">
+
+/
+</word>
+<word bottom="1934" left="782" right="852" top="1992">
+
+Vwf
+</word>
+<word bottom="1513" left="485" right="506" top="1551">
+
+(1)
+</word>
+<word bottom="1505" left="594" right="713" top="1549">
+alpha</word>
+<word bottom="1506" left="743" right="938" top="1549">
+particle</word>
+<word bottom="1506" left="968" right="1262" top="1549">
+displacement</word>
+<word bottom="1514" left="1293" right="1388" top="1547">
+rate</word>
+<word bottom="1515" left="1421" right="1462" top="1549">
+in</word>
+<word bottom="1506" left="1493" right="1811" top="1550">
+displacements</word>
+<word bottom="1455" left="593" right="662" top="1488">
+per</word>
+<word bottom="1462" left="692" right="812" top="1498">
+cubic</word>
+<word bottom="1462" left="842" right="1111" top="1498">
+centimeters</word>
+<word bottom="1462" left="1144" right="1287" top="1498">
+second</word>
+<word bottom="1348" left="467" right="517" top="1397">
+
+R
+
+a
+</word>
+<word bottom="1374" left="543" right="561" top="1386">
+
+=
+</word>
+<word bottom="1355" left="595" right="714" top="1398">
+alpha</word>
+<word bottom="1355" left="745" right="939" top="1398">
+activity</word>
+<word bottom="1363" left="971" right="1012" top="1398">
+in</word>
+<word bottom="1353" left="1042" right="1413" top="1399">
+disintegrations</word>
+<word bottom="1356" left="1443" right="1513" top="1389">
+per</word>
+<word bottom="1363" left="1544" right="1687" top="1398">
+second</word>
+<word bottom="1247" left="468" right="519" top="1296">
+
+N
+
+a
+</word>
+<word bottom="1274" left="543" right="561" top="1286">
+
+=
+</word>
+<word bottom="1262" left="593" right="738" top="1297">
+number</word>
+<word bottom="1263" left="768" right="813" top="1298">
+of</word>
+<word bottom="1262" left="841" right="963" top="1296">
+waste</word>
+<word bottom="1263" left="993" right="1090" top="1298">
+form</word>
+<word bottom="1262" left="1120" right="1263" top="1297">
+atomic</word>
+<word bottom="1255" left="1293" right="1612" top="1298">
+displacements</word>
+<word bottom="1255" left="1643" right="1713" top="1288">
+per</word>
+<word bottom="1254" left="1745" right="1863" top="1297">
+alpha</word>
+<word bottom="1204" left="592" right="937" top="1247">
+disintegration</word>
+<word bottom="1062" left="366" right="438" top="1097">
+The</word>
+<word bottom="1055" left="468" right="787" top="1098">
+displacements</word>
+<word bottom="1063" left="819" right="963" top="1097">
+caused</word>
+<word bottom="1055" left="994" right="1040" top="1097">
+by</word>
+<word bottom="1055" left="1072" right="1189" top="1098">
+alpha</word>
+<word bottom="1055" left="1219" right="1438" top="1098">
+particles</word>
+<word bottom="1063" left="1471" right="1539" top="1088">
+are</word>
+<word bottom="1062" left="1571" right="1838" top="1098">
+accumulated</word>
+<word bottom="1062" left="1870" right="1964" top="1088">
+over</word>
+<word bottom="1062" left="1995" right="2089" top="1097">
+time</word>
+<word bottom="979" left="368" right="431" top="1022">
+by:</word>
+<word bottom="692" left="691" right="818" top="758">
+
+q)
+
+(ti)
+</word>
+<word bottom="710" left="857" right="917" top="754">
+(
+t.
+</word>
+<word bottom="691" left="906" right="917" top="715">
+1</word>
+<word bottom="689" left="1004" right="1042" top="748">
+
+t
+
+i
+</word>
+<word bottom="689" left="1130" right="1167" top="753">
+
+1)
+</word>
+<word bottom="140" left="1234" right="1299" top="175">
+
+287
+</word>
+<word bottom="1805" left="1872" right="2057" top="1851">
+
+(4.16.9)
+</word>
+<word bottom="527" left="1874" right="2085" top="573">
+
+(4.16.10)
+</word>
+</words>
+</ocrresult>
+

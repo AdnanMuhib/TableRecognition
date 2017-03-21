@@ -1,0 +1,3257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544287612.png" width="2560"/>
+<words>
+<word bottom="725" left="2274" right="2348" top="746">
+LAKE</word>
+<word bottom="726" left="2372" right="2408" top="745">
+SW</word>
+<word bottom="2837" left="323" right="397" top="2857">
+DATE</word>
+<word bottom="2844" left="422" right="438" top="2849">
+
+-
+</word>
+<word bottom="2838" left="464" right="538" top="2857">
+TIME</word>
+<word bottom="2839" left="625" right="778" top="2859">
+LATITUDE</word>
+<word bottom="2936" left="988" right="1059" top="2957">
+
+1980
+</word>
+<word bottom="2937" left="1106" right="1200" top="2957">
+LOCAL</word>
+<word bottom="2937" left="1225" right="1419" top="2959">
+
+HYPOCENTER
+</word>
+<word bottom="2938" left="1445" right="1580" top="2959">
+SUMMARY</word>
+<word bottom="2872" left="1045" right="1138" top="2892">
+
+HORIZ
+</word>
+<word bottom="2873" left="1345" right="1419" top="2893">
+VERT</word>
+<word bottom="2873" left="1485" right="1536" top="2894">
+
+AZI
+</word>
+<word bottom="2839" left="826" right="1000" top="2860">
+LONGITUDE</word>
+<word bottom="2840" left="1046" right="1139" top="2860">
+ERROR</word>
+<word bottom="2841" left="1185" right="1280" top="2861">
+DEPTH</word>
+<word bottom="2840" left="1347" right="1440" top="2860">
+ERROR</word>
+<word bottom="2841" left="1486" right="1540" top="2861">
+GAP</word>
+<word bottom="2800" left="387" right="474" top="2827">
+
+(UTC)
+</word>
+<word bottom="2802" left="627" right="713" top="2828">
+(DEC.</word>
+<word bottom="2803" left="745" right="775" top="2829">
+
+N)
+</word>
+<word bottom="2802" left="829" right="915" top="2828">
+(DEC.</word>
+<word bottom="2803" left="944" right="976" top="2830">
+
+W)
+</word>
+<word bottom="2803" left="1049" right="1117" top="2830">
+(KM)</word>
+<word bottom="2804" left="1189" right="1257" top="2831">
+(KM)</word>
+<word bottom="2804" left="1349" right="1417" top="2831">
+(KM)</word>
+<word bottom="2804" left="1470" right="1558" top="2832">
+(DEG)</word>
+<word bottom="2809" left="1586" right="1662" top="2829">
+
+QUAL
+</word>
+<word bottom="2808" left="1707" right="1742" top="2829">
+
+Md
+</word>
+<word bottom="2804" left="1787" right="1863" top="2828">
+
+Mblg
+</word>
+<word bottom="2808" left="1929" right="2124" top="2829">
+QUADRANGLE</word>
+<word bottom="2741" left="284" right="338" top="2760">
+MAY</word>
+<word bottom="2741" left="367" right="394" top="2759">
+
+11
+</word>
+<word bottom="2741" left="464" right="598" top="2761">
+
+9:28:54
+</word>
+<word bottom="2742" left="646" right="758" top="2763">
+
+36.576
+</word>
+<word bottom="2742" left="849" right="980" top="2762">
+
+116.344
+</word>
+<word bottom="2743" left="1066" right="1120" top="2763">
+
+0.4
+</word>
+<word bottom="2744" left="1207" right="1280" top="2765">
+
+8.13
+</word>
+<word bottom="2744" left="1370" right="1420" top="2763">
+
+1.4
+</word>
+<word bottom="2744" left="1490" right="1541" top="2765">
+
+136
+</word>
+<word bottom="2744" left="1607" right="1642" top="2764">
+AC</word>
+<word bottom="2744" left="1688" right="1741" top="2765">
+
+0.7
+</word>
+<word bottom="2750" left="1787" right="1843" top="2755">
+
+---
+</word>
+<word bottom="2743" left="1931" right="2064" top="2765">
+LATHROP</word>
+<word bottom="2743" left="2089" right="2185" top="2764">
+WELLS</word>
+<word bottom="2742" left="2211" right="2245" top="2763">
+SE</word>
+<word bottom="2708" left="368" right="399" top="2728">
+
+13
+</word>
+<word bottom="2709" left="465" right="599" top="2729">
+
+2:33:43
+</word>
+<word bottom="2710" left="646" right="759" top="2731">
+
+36.789
+</word>
+<word bottom="2710" left="849" right="981" top="2731">
+
+116.090
+</word>
+<word bottom="2710" left="1067" right="1121" top="2731">
+
+2.0
+</word>
+<word bottom="2712" left="1207" right="1277" top="2732">
+
+8.61
+</word>
+<word bottom="2712" left="1368" right="1420" top="2731">
+
+4.2
+</word>
+<word bottom="2712" left="1490" right="1541" top="2733">
+
+178
+</word>
+<word bottom="2712" left="1608" right="1643" top="2733">
+BC</word>
+<word bottom="2718" left="1687" right="1744" top="2724">
+
+---
+</word>
+<word bottom="2711" left="1789" right="1839" top="2732">
+
+0.1
+</word>
+<word bottom="2711" left="1930" right="2005" top="2732">
+CANE</word>
+<word bottom="2711" left="2030" right="2145" top="2732">
+SPRING</word>
+<word bottom="2677" left="368" right="399" top="2695">
+
+14
+</word>
+<word bottom="2676" left="465" right="599" top="2697">
+
+8:33:32
+</word>
+<word bottom="2678" left="646" right="760" top="2698">
+
+36.845
+</word>
+<word bottom="2678" left="849" right="981" top="2698">
+
+116.206
+</word>
+<word bottom="2678" left="1067" right="1121" top="2699">
+
+0.6
+</word>
+<word bottom="2679" left="1207" right="1281" top="2700">
+
+7.00
+</word>
+<word bottom="2679" left="1370" right="1421" top="2699">
+
+1.0
+</word>
+<word bottom="2679" left="1491" right="1542" top="2700">
+
+145
+</word>
+<word bottom="2680" left="1608" right="1643" top="2700">
+AC</word>
+<word bottom="2678" left="1688" right="1743" top="2700">
+
+0.3
+</word>
+<word bottom="2685" left="1787" right="1844" top="2691">
+
+---
+</word>
+<word bottom="2678" left="1930" right="2026" top="2699">
+SKULL</word>
+<word bottom="2678" left="2050" right="2105" top="2699">
+MTN</word>
+<word bottom="2644" left="368" right="399" top="2663">
+
+15
+</word>
+<word bottom="2644" left="468" right="599" top="2665">
+
+1:30:38
+</word>
+<word bottom="2646" left="646" right="760" top="2666">
+
+36.504
+</word>
+<word bottom="2646" left="850" right="981" top="2666">
+
+115.894
+</word>
+<word bottom="2647" left="1070" right="1121" top="2667">
+
+1.5
+</word>
+<word bottom="2647" left="1208" right="1282" top="2668">
+
+7.00
+</word>
+<word bottom="2647" left="1368" right="1418" top="2666">
+
+4.1
+</word>
+<word bottom="2646" left="1487" right="1542" top="2668">
+
+230
+</word>
+<word bottom="2647" left="1608" right="1643" top="2667">
+BD</word>
+<word bottom="2646" left="1688" right="1743" top="2668">
+
+0.5
+</word>
+<word bottom="2653" left="1787" right="1845" top="2658">
+
+---
+</word>
+<word bottom="2646" left="1929" right="2065" top="2667">
+MERCURY</word>
+<word bottom="2646" left="2091" right="2127" top="2666">
+SW</word>
+<word bottom="2613" left="368" right="399" top="2631">
+
+16
+</word>
+<word bottom="2613" left="449" right="555" top="2633">
+
+16:49:
+</word>
+<word bottom="2613" left="586" right="600" top="2633">
+
+8
+</word>
+<word bottom="2614" left="647" right="759" top="2634">
+
+37.087
+</word>
+<word bottom="2614" left="850" right="981" top="2634">
+
+116.053
+</word>
+<word bottom="2614" left="1067" right="1120" top="2634">
+
+0.7
+</word>
+<word bottom="2615" left="1208" right="1281" top="2636">
+
+7.07
+</word>
+<word bottom="2615" left="1368" right="1422" top="2634">
+
+3.6
+</word>
+<word bottom="2615" left="1491" right="1542" top="2635">
+
+162
+</word>
+<word bottom="2616" left="1609" right="1643" top="2635">
+BC</word>
+<word bottom="2614" left="1689" right="1743" top="2635">
+
+0.9
+</word>
+<word bottom="2621" left="1788" right="1845" top="2626">
+
+---
+</word>
+<word bottom="2614" left="1930" right="2026" top="2635">
+YUCCA</word>
+<word bottom="2614" left="2051" right="2125" top="2635">
+FLAT</word>
+<word bottom="2581" left="368" right="399" top="2599">
+
+18
+</word>
+<word bottom="2581" left="468" right="596" top="2601">
+
+1:43:11
+</word>
+<word bottom="2582" left="647" right="760" top="2602">
+
+36.812
+</word>
+<word bottom="2582" left="850" right="982" top="2602">
+
+116.236
+</word>
+<word bottom="2583" left="1070" right="1121" top="2603">
+
+1.3
+</word>
+<word bottom="2583" left="1207" right="1282" top="2604">
+
+8.23
+</word>
+<word bottom="2584" left="1368" right="1421" top="2603">
+
+3.7
+</word>
+<word bottom="2583" left="1491" right="1542" top="2603">
+
+149
+</word>
+<word bottom="2584" left="1609" right="1643" top="2603">
+BC</word>
+<word bottom="2583" left="1689" right="1744" top="2603">
+
+0.4
+</word>
+<word bottom="2589" left="1787" right="1845" top="2594">
+
+---
+</word>
+<word bottom="2582" left="1930" right="2026" top="2602">
+SKULL</word>
+<word bottom="2583" left="2050" right="2105" top="2603">
+14TH</word>
+<word bottom="2517" left="369" right="399" top="2536">
+
+18
+</word>
+<word bottom="2518" left="449" right="600" top="2538">
+
+17:56:25
+</word>
+<word bottom="2519" left="647" right="756" top="2539">
+
+36.911
+</word>
+<word bottom="2519" left="850" right="981" top="2538">
+
+116.016
+</word>
+<word bottom="2519" left="1068" right="1121" top="2539">
+
+2.4
+</word>
+<word bottom="2520" left="1189" right="1281" top="2540">
+
+32.46
+</word>
+<word bottom="2519" left="1369" right="1422" top="2539">
+
+4.3
+</word>
+<word bottom="2519" left="1491" right="1541" top="2540">
+
+196
+</word>
+<word bottom="2520" left="1609" right="1642" top="2539">
+BD</word>
+<word bottom="2519" left="1689" right="1743" top="2540">
+
+0.3
+</word>
+<word bottom="2525" left="1788" right="1845" top="2530">
+
+---
+</word>
+<word bottom="2518" left="1930" right="2025" top="2539">
+YUCCA</word>
+<word bottom="2518" left="2053" right="2125" top="2539">
+LAKE</word>
+<word bottom="2486" left="369" right="399" top="2504">
+
+19
+</word>
+<word bottom="2486" left="467" right="600" top="2506">
+
+4:16:35
+</word>
+<word bottom="2487" left="647" right="760" top="2507">
+
+37.076
+</word>
+<word bottom="2487" left="850" right="981" top="2507">
+
+117.072
+</word>
+<word bottom="2487" left="1068" right="1121" top="2507">
+
+0.9
+</word>
+<word bottom="2488" left="1191" right="1281" top="2508">
+
+11.24
+</word>
+<word bottom="2488" left="1369" right="1421" top="2507">
+
+2.5
+</word>
+<word bottom="2488" left="1508" right="1542" top="2508">
+
+64
+</word>
+<word bottom="2488" left="1609" right="1643" top="2508">
+BA</word>
+<word bottom="2487" left="1692" right="1743" top="2507">
+
+1.8
+</word>
+<word bottom="2494" left="1788" right="1845" top="2498">
+
+---
+</word>
+<word bottom="2486" left="1930" right="2045" top="2507">
+BONNIE</word>
+<word bottom="2486" left="2071" right="2186" top="2507">
+CLAIRE</word>
+<word bottom="2485" left="2212" right="2246" top="2506">
+SE</word>
+<word bottom="2453" left="287" right="341" top="2473">
+JUN</word>
+<word bottom="2454" left="387" right="401" top="2473">
+
+3
+</word>
+<word bottom="2454" left="467" right="496" top="2474">
+
+9:
+</word>
+<word bottom="2454" left="527" right="601" top="2474">
+
+4:28
+</word>
+<word bottom="2455" left="647" right="761" top="2475">
+
+36.886
+</word>
+<word bottom="2455" left="851" right="982" top="2475">
+
+116.003
+</word>
+<word bottom="2455" left="1068" right="1122" top="2476">
+
+0.5
+</word>
+<word bottom="2456" left="1209" right="1282" top="2477">
+
+7.98
+</word>
+<word bottom="2456" left="1369" right="1423" top="2476">
+
+3.5
+</word>
+<word bottom="2455" left="1491" right="1543" top="2476">
+
+149
+</word>
+<word bottom="2456" left="1609" right="1644" top="2476">
+BC</word>
+<word bottom="2455" left="1689" right="1742" top="2476">
+
+0.7
+</word>
+<word bottom="2461" left="1788" right="1846" top="2467">
+
+---
+</word>
+<word bottom="2455" left="1930" right="2027" top="2475">
+YUCCA</word>
+<word bottom="2454" left="2053" right="2126" top="2475">
+LAKE</word>
+<word bottom="2422" left="388" right="401" top="2440">
+
+4
+</word>
+<word bottom="2422" left="450" right="601" top="2442">
+
+19:54:36
+</word>
+<word bottom="2423" left="648" right="761" top="2444">
+
+37.572
+</word>
+<word bottom="2423" left="851" right="982" top="2444">
+
+116.458
+</word>
+<word bottom="2423" left="1068" right="1123" top="2444">
+
+0.9
+</word>
+<word bottom="2424" left="1209" right="1301" top="2445">
+
+4.59.
+</word>
+<word bottom="2431" left="1367" right="1424" top="2435">
+
+---
+</word>
+<word bottom="2424" left="1508" right="1543" top="2445">
+
+88
+</word>
+<word bottom="2424" left="1609" right="1645" top="2444">
+CC</word>
+<word bottom="2424" left="1692" right="1740" top="2443">
+
+1.1
+</word>
+<word bottom="2429" left="1788" right="1846" top="2435">
+
+---
+</word>
+<word bottom="2423" left="1930" right="2106" top="2444">
+
+OUARTZITE
+</word>
+<word bottom="2423" left="2131" right="2186" top="2443">
+MTN</word>
+<word bottom="2390" left="388" right="401" top="2409">
+
+6
+</word>
+<word bottom="2390" left="450" right="600" top="2410">
+
+19:43:17
+</word>
+<word bottom="2391" left="648" right="762" top="2411">
+
+36.888
+</word>
+<word bottom="2391" left="851" right="983" top="2412">
+
+115.739
+</word>
+<word bottom="2392" left="1071" right="1123" top="2412">
+
+1.5
+</word>
+<word bottom="2392" left="1208" right="1301" top="2413">
+
+2.49.
+</word>
+<word bottom="2392" left="1489" right="1543" top="2412">
+
+200
+</word>
+<word bottom="2393" left="1609" right="1643" top="2412">
+CD</word>
+<word bottom="2392" left="1690" right="1744" top="2411">
+
+0.6
+</word>
+<word bottom="2398" left="1789" right="1846" top="2403">
+
+---
+</word>
+<word bottom="2391" left="1930" right="2045" top="2412">
+QUARTZ</word>
+<word bottom="2390" left="2072" right="2146" top="2411">
+PEAK</word>
+<word bottom="2391" left="2172" right="2209" top="2410">
+NW</word>
+<word bottom="2359" left="388" right="401" top="2377">
+
+7
+</word>
+<word bottom="2358" left="467" right="497" top="2378">
+
+2:
+</word>
+<word bottom="2358" left="527" right="602" top="2379">
+
+8:55
+</word>
+<word bottom="2360" left="648" right="761" top="2380">
+
+36.977
+</word>
+<word bottom="2360" left="851" right="982" top="2380">
+
+116.977
+</word>
+<word bottom="2366" left="1067" right="1124" top="2371">
+
+---
+</word>
+<word bottom="2360" left="1209" right="1283" top="2381">
+
+8.00
+</word>
+<word bottom="2360" left="1491" right="1540" top="2381">
+
+151
+</word>
+<word bottom="2360" left="1609" right="1644" top="2380">
+BD</word>
+<word bottom="2360" left="1693" right="1741" top="2379">
+
+1.1
+</word>
+<word bottom="2366" left="1789" right="1846" top="2371">
+
+---
+</word>
+<word bottom="2359" left="1931" right="2087" top="2380">
+BULLFROG</word>
+<word bottom="2296" left="390" right="401" top="2314">
+
+7
+</word>
+<word bottom="2295" left="451" right="497" top="2315">
+
+12:
+</word>
+<word bottom="2296" left="529" right="602" top="2315">
+
+0:33
+</word>
+<word bottom="2297" left="650" right="762" top="2317">
+
+36.617
+</word>
+<word bottom="2296" left="852" right="983" top="2316">
+
+116.264
+</word>
+<word bottom="2297" left="1070" right="1123" top="2317">
+
+0.3
+</word>
+<word bottom="2298" left="1211" right="1283" top="2318">
+
+7.74
+</word>
+<word bottom="2297" left="1370" right="1423" top="2316">
+
+0.6
+</word>
+<word bottom="2297" left="1493" right="1544" top="2317">
+
+152
+</word>
+<word bottom="2298" left="1610" right="1645" top="2317">
+AC</word>
+<word bottom="2296" left="1691" right="1744" top="2317">
+0.8</word>
+<word bottom="2303" left="1790" right="1846" top="2307">
+
+---
+</word>
+<word bottom="2296" left="1934" right="2066" top="2316">
+LATHROP</word>
+<word bottom="2296" left="2091" right="2187" top="2316">
+WELLS</word>
+<word bottom="2294" left="2213" right="2247" top="2315">
+SE</word>
+<word bottom="2265" left="390" right="401" top="2283">
+
+7
+</word>
+<word bottom="2264" left="452" right="498" top="2284">
+
+12:
+</word>
+<word bottom="2265" left="531" right="598" top="2283">
+
+1:41
+</word>
+<word bottom="2265" left="650" right="762" top="2285">
+
+36.617
+</word>
+<word bottom="2265" left="852" right="983" top="2285">
+
+116.256
+</word>
+<word bottom="2265" left="1070" right="1123" top="2285">
+
+0.2
+</word>
+<word bottom="2266" left="1210" right="1283" top="2286">
+
+5.53
+</word>
+<word bottom="2266" left="1370" right="1423" top="2285">
+
+0.6
+</word>
+<word bottom="2266" left="1493" right="1544" top="2286">
+
+148
+</word>
+<word bottom="2266" left="1610" right="1645" top="2285">
+AC</word>
+<word bottom="2265" left="1691" right="1744" top="2285">
+
+0.5
+</word>
+<word bottom="2271" left="1790" right="1847" top="2276">
+
+---
+</word>
+<word bottom="2264" left="1934" right="2066" top="2285">
+LATHROP</word>
+<word bottom="2264" left="2091" right="2187" top="2284">
+WELLS</word>
+<word bottom="2263" left="2214" right="2247" top="2284">
+SE</word>
+<word bottom="2233" left="390" right="401" top="2252">
+
+7
+</word>
+<word bottom="2233" left="452" right="603" top="2253">
+
+12:21:54
+</word>
+<word bottom="2234" left="650" right="763" top="2254">
+
+36.614
+</word>
+<word bottom="2234" left="853" right="980" top="2254">
+
+116.261
+</word>
+<word bottom="2241" left="1069" right="1125" top="2245">
+
+---
+</word>
+<word bottom="2235" left="1210" right="1282" top="2255">
+
+5.17
+</word>
+<word bottom="2241" left="1369" right="1426" top="2245">
+
+---
+</word>
+<word bottom="2234" left="1493" right="1544" top="2255">
+
+153
+</word>
+<word bottom="2235" left="1610" right="1644" top="2254">
+AD</word>
+<word bottom="2233" left="1691" right="1745" top="2254">
+
+0.2
+</word>
+<word bottom="2239" left="1790" right="1847" top="2245">
+
+---
+</word>
+<word bottom="2233" left="1934" right="2066" top="2254">
+LATHROP</word>
+<word bottom="2233" left="2091" right="2187" top="2253">
+WELLS</word>
+<word bottom="2231" left="2214" right="2247" top="2252">
+SE</word>
+<word bottom="2202" left="390" right="403" top="2221">
+
+8
+</word>
+<word bottom="2202" left="452" right="559" top="2221">
+
+11:40:
+</word>
+<word bottom="2203" left="590" right="603" top="2221">
+
+4
+</word>
+<word bottom="2202" left="650" right="764" top="2223">
+
+37.343
+</word>
+<word bottom="2202" left="853" right="984" top="2222">
+
+114.794
+</word>
+<word bottom="2202" left="1073" right="1124" top="2222">
+
+1.5
+</word>
+<word bottom="2203" left="1210" right="1285" top="2223">
+
+8.09
+</word>
+<word bottom="2203" left="1373" right="1425" top="2222">
+
+1.0
+</word>
+<word bottom="2202" left="1490" right="1544" top="2223">
+
+302
+</word>
+<word bottom="2203" left="1611" right="1645" top="2222">
+BO</word>
+<word bottom="2201" left="1694" right="1745" top="2222">
+
+1.0
+</word>
+<word bottom="2208" left="1790" right="1848" top="2213">
+
+---
+</word>
+<word bottom="2201" left="1932" right="2108" top="2222">
+
+GREGERSON
+</word>
+<word bottom="2200" left="2134" right="2228" top="2221">
+BASIN</word>
+<word bottom="2170" left="390" right="404" top="2188">
+
+9
+</word>
+<word bottom="2169" left="470" right="603" top="2190">
+
+7:53:32
+</word>
+<word bottom="2171" left="650" right="760" top="2190">
+
+36.781
+</word>
+<word bottom="2171" left="853" right="985" top="2191">
+
+115.984
+</word>
+<word bottom="2171" left="1073" right="1121" top="2190">
+
+1.1
+</word>
+<word bottom="2170" left="1211" right="1285" top="2191">
+
+7.00
+</word>
+<word bottom="2171" left="1371" right="1425" top="2190">
+
+5.2
+</word>
+<word bottom="2170" left="1493" right="1545" top="2191">
+
+155
+</word>
+<word bottom="2171" left="1611" right="1646" top="2191">
+CC</word>
+<word bottom="2170" left="1694" right="1745" top="2190">
+
+1.0
+</word>
+<word bottom="2176" left="1790" right="1847" top="2181">
+
+---
+</word>
+<word bottom="2169" left="1933" right="2108" top="2190">
+FRENCHMAN</word>
+<word bottom="2168" left="2134" right="2208" top="2189">
+FLAT</word>
+<word bottom="2138" left="390" right="404" top="2157">
+
+9
+</word>
+<word bottom="2138" left="453" right="604" top="2158">
+
+12:29:10
+</word>
+<word bottom="2139" left="651" right="764" top="2159">
+
+36.872
+</word>
+<word bottom="2139" left="853" right="984" top="2159">
+
+116.334
+</word>
+<word bottom="2145" left="1068" right="1126" top="2150">
+
+---
+</word>
+<word bottom="2138" left="1211" right="1323" top="2160">
+
+7.08..
+</word>
+<word bottom="2145" left="1369" right="1426" top="2150">
+
+---
+</word>
+<word bottom="2139" left="1493" right="1541" top="2159">
+
+101
+</word>
+<word bottom="2139" left="1610" right="1645" top="2159">
+AD</word>
+<word bottom="2144" left="1689" right="1747" top="2150">
+
+---
+</word>
+<word bottom="2137" left="1791" right="1846" top="2158">
+
+0.2
+</word>
+<word bottom="2137" left="1932" right="2067" top="2158">
+JACKASS</word>
+<word bottom="2137" left="2094" right="2188" top="2158">
+FLATS</word>
+<word bottom="2074" left="372" right="403" top="2093">
+
+10
+</word>
+<word bottom="2074" left="452" right="558" top="2094">
+
+15:19:
+</word>
+<word bottom="2075" left="589" right="603" top="2094">
+
+5
+</word>
+<word bottom="2075" left="649" right="763" top="2095">
+
+37.156
+</word>
+<word bottom="2075" left="852" right="983" top="2095">
+
+117.339
+</word>
+<word bottom="2075" left="1069" right="1124" top="2095">
+
+0.4
+</word>
+<word bottom="2075" left="1210" right="1284" top="2096">
+
+7.00
+</word>
+<word bottom="2074" left="1372" right="1423" top="2094">
+
+1.3
+</word>
+<word bottom="2075" left="1492" right="1543" top="2095">
+
+188
+</word>
+<word bottom="2075" left="1610" right="1644" top="2095">
+AD</word>
+<word bottom="2074" left="1693" right="1744" top="2095">
+
+1.0
+</word>
+<word bottom="2080" left="1789" right="1847" top="2086">
+
+---
+</word>
+<word bottom="2073" left="1931" right="2066" top="2094">
+
+UBEHEBE
+</word>
+<word bottom="2072" left="2092" right="2207" top="2093">
+CRATER</word>
+<word bottom="2042" left="372" right="403" top="2062">
+
+15
+</word>
+<word bottom="2042" left="472" right="603" top="2063">
+
+1:17:38
+</word>
+<word bottom="2043" left="650" right="763" top="2064">
+
+36.823
+</word>
+<word bottom="2043" left="853" right="983" top="2063">
+
+115.999
+</word>
+<word bottom="2043" left="1073" right="1120" top="2063">
+
+1.1
+</word>
+<word bottom="2043" left="1210" right="1283" top="2064">
+
+6.23
+</word>
+<word bottom="2043" left="1370" right="1423" top="2063">
+
+3.7
+</word>
+<word bottom="2043" left="1493" right="1543" top="2063">
+
+192
+</word>
+<word bottom="2043" left="1610" right="1644" top="2063">
+BD</word>
+<word bottom="2043" left="1691" right="1744" top="2063">
+
+0.4
+</word>
+<word bottom="2048" left="1790" right="1846" top="2053">
+
+---
+</word>
+<word bottom="2041" left="1932" right="2107" top="2063">
+FRENCHMAN</word>
+<word bottom="2041" left="2134" right="2206" top="2061">
+FLAT</word>
+<word bottom="2011" left="373" right="403" top="2029">
+
+18
+</word>
+<word bottom="2011" left="453" right="599" top="2031">
+
+17:57:11
+</word>
+<word bottom="2012" left="651" right="763" top="2032">
+
+36.712
+</word>
+<word bottom="2011" left="853" right="984" top="2031">
+
+115.623
+</word>
+<word bottom="2011" left="1070" right="1123" top="2032">
+
+0.3
+</word>
+<word bottom="2012" left="1189" right="1302" top="2032">
+
+-8.81.
+</word>
+<word bottom="2018" left="1369" right="1425" top="2022">
+
+---
+</word>
+<word bottom="2011" left="1493" right="1543" top="2031">
+
+116
+</word>
+<word bottom="2011" left="1610" right="1645" top="2031">
+CC</word>
+<word bottom="2010" left="1694" right="1744" top="2030">
+
+1.0
+</word>
+<word bottom="2016" left="1790" right="1846" top="2021">
+
+---
+</word>
+<word bottom="2009" left="1932" right="2066" top="2031">
+HEAVENS</word>
+<word bottom="2009" left="2091" right="2167" top="2029">
+WELL</word>
+<word bottom="1978" left="373" right="403" top="1997">
+
+19
+</word>
+<word bottom="1978" left="470" right="599" top="1998">
+
+2:33:21
+</word>
+<word bottom="1979" left="650" right="763" top="1999">
+
+36.697
+</word>
+<word bottom="1979" left="853" right="983" top="1999">
+
+116.283
+</word>
+<word bottom="1979" left="1070" right="1123" top="1999">
+
+0.8
+</word>
+<word bottom="1979" left="1189" right="1283" top="2000">
+
+-0.13
+</word>
+<word bottom="1979" left="1373" right="1423" top="1999">
+
+1.e
+</word>
+<word bottom="1978" left="1493" right="1544" top="1999">
+
+130
+</word>
+<word bottom="1979" left="1611" right="1644" top="1999">
+
+ee
+</word>
+<word bottom="1978" left="1691" right="1744" top="1998">
+
+e.e
+</word>
+<word bottom="1984" left="1790" right="1847" top="1989">
+
+---
+</word>
+<word bottom="1977" left="1932" right="2066" top="1998">
+STRIPED</word>
+<word bottom="1977" left="2093" right="2186" top="1997">
+HILLS</word>
+<word bottom="1946" left="373" right="404" top="1965">
+
+19
+</word>
+<word bottom="1947" left="471" right="499" top="1965">
+
+4:
+</word>
+<word bottom="1947" left="531" right="559" top="1966">
+
+4:
+</word>
+<word bottom="1946" left="590" right="604" top="1966">
+
+8
+</word>
+<word bottom="1947" left="651" right="764" top="1967">
+
+36.535
+</word>
+<word bottom="1947" left="853" right="984" top="1967">
+
+116.374
+</word>
+<word bottom="1947" left="1070" right="1125" top="1967">
+
+0.8
+</word>
+<word bottom="1947" left="1213" right="1284" top="1968">
+
+1.18
+</word>
+<word bottom="1947" left="1371" right="1424" top="1967">
+
+3.3
+</word>
+<word bottom="1946" left="1493" right="1545" top="1967">
+
+108
+</word>
+<word bottom="1947" left="1611" right="1646" top="1967">
+BC</word>
+<word bottom="1946" left="1691" right="1745" top="1966">
+
+0.6
+</word>
+<word bottom="1952" left="1790" right="1847" top="1957">
+
+---
+</word>
+<word bottom="1945" left="1934" right="2067" top="1966">
+LATHROP</word>
+<word bottom="1944" left="2091" right="2187" top="1965">
+WELLS</word>
+<word bottom="1943" left="2213" right="2248" top="1965">
+SE</word>
+<word bottom="1914" left="370" right="404" top="1933">
+
+20
+</word>
+<word bottom="1914" left="450" right="604" top="1934">
+
+20:40:58
+</word>
+<word bottom="1915" left="651" right="761" top="1935">
+
+36.671
+</word>
+<word bottom="1915" left="853" right="985" top="1934">
+
+116.408
+</word>
+<word bottom="1915" left="1073" right="1124" top="1935">
+
+1.2
+</word>
+<word bottom="1915" left="1211" right="1284" top="1936">
+
+7.75
+</word>
+<word bottom="1915" left="1370" right="1425" top="1934">
+
+2.8
+</word>
+<word bottom="1914" left="1493" right="1544" top="1935">
+
+182
+</word>
+<word bottom="1915" left="1611" right="1645" top="1934">
+BD</word>
+<word bottom="1913" left="1691" right="1745" top="1934">
+
+0.5
+</word>
+<word bottom="1920" left="1790" right="1847" top="1925">
+
+---
+</word>
+<word bottom="1913" left="1934" right="2067" top="1934">
+LATHROP</word>
+<word bottom="1913" left="2091" right="2187" top="1933">
+WELLS</word>
+<word bottom="1912" left="2213" right="2250" top="1931">
+NW</word>
+<word bottom="1849" left="291" right="345" top="1869">
+JUL</word>
+<word bottom="1849" left="391" right="404" top="1868">
+
+3
+</word>
+<word bottom="1849" left="471" right="604" top="1869">
+
+2:52:10
+</word>
+<word bottom="1850" left="651" right="764" top="1870">
+
+36.873
+</word>
+<word bottom="1850" left="854" right="981" top="1869">
+
+116.181
+</word>
+<word bottom="1850" left="1073" right="1125" top="1869">
+
+1.4
+</word>
+<word bottom="1850" left="1194" right="1284" top="1871">
+
+11.38
+</word>
+<word bottom="1850" left="1371" right="1425" top="1870">
+
+5.8
+</word>
+<word bottom="1850" left="1493" right="1545" top="1870">
+
+153
+</word>
+<word bottom="1850" left="1611" right="1645" top="1870">
+CD</word>
+<word bottom="1849" left="1691" right="1745" top="1870">
+
+0.3
+</word>
+<word bottom="1855" left="1791" right="1847" top="1860">
+
+---
+</word>
+<word bottom="1848" left="1932" right="2028" top="1868">
+SKULL</word>
+<word bottom="1849" left="2052" right="2108" top="1869">
+MTN</word>
+<word bottom="1817" left="392" right="405" top="1836">
+
+3
+</word>
+<word bottom="1817" left="451" right="604" top="1837">
+
+21:15:42
+</word>
+<word bottom="1818" left="652" right="764" top="1838">
+
+36.317
+</word>
+<word bottom="1818" left="854" right="985" top="1838">
+
+114.893
+</word>
+<word bottom="1818" left="1071" right="1125" top="1838">
+
+2.3
+</word>
+<word bottom="1819" left="1212" right="1285" top="1838">
+
+4.14
+</word>
+<word bottom="1818" left="1371" right="1424" top="1838">
+
+2.4
+</word>
+<word bottom="1818" left="1491" right="1545" top="1838">
+
+254
+</word>
+<word bottom="1819" left="1611" right="1645" top="1838">
+BD</word>
+<word bottom="1817" left="1694" right="1745" top="1838">
+
+1.2
+</word>
+<word bottom="1824" left="1791" right="1847" top="1829">
+
+---
+</word>
+<word bottom="1817" left="1932" right="1988" top="1837">
+DRY</word>
+<word bottom="1816" left="2015" right="2088" top="1837">
+LAKE</word>
+<word bottom="1786" left="393" right="404" top="1804">
+
+4
+</word>
+<word bottom="1786" left="472" right="500" top="1805">
+
+7:
+</word>
+<word bottom="1785" left="532" right="560" top="1805">
+
+3:
+</word>
+<word bottom="1785" left="592" right="604" top="1805">
+
+3
+</word>
+<word bottom="1786" left="652" right="764" top="1806">
+
+36.696
+</word>
+<word bottom="1786" left="855" right="984" top="1806">
+
+116.277
+</word>
+<word bottom="1786" left="1072" right="1125" top="1806">
+
+0.5
+</word>
+<word bottom="1786" left="1212" right="1284" top="1807">
+
+4.86
+</word>
+<word bottom="1786" left="1374" right="1425" top="1806">
+
+1.3
+</word>
+<word bottom="1786" left="1512" right="1545" top="1806">
+
+89
+</word>
+<word bottom="1787" left="1611" right="1646" top="1806">
+AA</word>
+<word bottom="1786" left="1692" right="1745" top="1806">
+
+0.6
+</word>
+<word bottom="1792" left="1791" right="1847" top="1797">
+
+---
+</word>
+<word bottom="1784" left="1933" right="2068" top="1805">
+STRIPED</word>
+<word bottom="1784" left="2094" right="2188" top="1804">
+HILLS</word>
+<word bottom="1754" left="393" right="405" top="1772">
+
+4
+</word>
+<word bottom="1753" left="471" right="605" top="1774">
+
+8:21:39
+</word>
+<word bottom="1754" left="652" right="765" top="1774">
+
+36.820
+</word>
+<word bottom="1754" left="855" right="985" top="1774">
+
+116.685
+</word>
+<word bottom="1754" left="1071" right="1125" top="1774">
+
+8.4
+</word>
+<word bottom="1755" left="1212" right="1285" top="1775">
+
+4.19
+</word>
+<word bottom="1754" left="1372" right="1425" top="1774">
+
+3.3
+</word>
+<word bottom="1754" left="1512" right="1544" top="1775">
+
+97
+</word>
+<word bottom="1755" left="1612" right="1645" top="1775">
+
+OB
+</word>
+<word bottom="1754" left="1692" right="1745" top="1774">
+
+0.6
+</word>
+<word bottom="1760" left="1791" right="1848" top="1765">
+
+---
+</word>
+<word bottom="1753" left="1933" right="2007" top="1774">
+BARE</word>
+<word bottom="1753" left="2033" right="2088" top="1773">
+MIN</word>
+<word bottom="1721" left="392" right="405" top="1741">
+
+5
+</word>
+<word bottom="1721" left="454" right="561" top="1741">
+
+13:26:
+</word>
+<word bottom="1721" left="592" right="604" top="1741">
+
+8
+</word>
+<word bottom="1722" left="652" right="765" top="1742">
+
+36.765
+</word>
+<word bottom="1722" left="855" right="984" top="1743">
+
+116.627
+</word>
+<word bottom="1722" left="1072" right="1124" top="1742">
+
+2.7
+</word>
+<word bottom="1723" left="1211" right="1285" top="1743">
+
+8.25
+</word>
+<word bottom="1722" left="1371" right="1425" top="1742">
+
+3.0
+</word>
+<word bottom="1722" left="1494" right="1545" top="1743">
+
+106
+</word>
+<word bottom="1723" left="1612" right="1646" top="1742">
+CD</word>
+<word bottom="1722" left="1692" right="1745" top="1743">
+
+0.7
+</word>
+<word bottom="1728" left="1791" right="1847" top="1733">
+
+---
+</word>
+<word bottom="1721" left="1933" right="2008" top="1742">
+BARE</word>
+<word bottom="1721" left="2033" right="2088" top="1741">
+MIN</word>
+<word bottom="1690" left="393" right="405" top="1709">
+
+7
+</word>
+<word bottom="1689" left="454" right="605" top="1709">
+
+15:13:14
+</word>
+<word bottom="1690" left="652" right="766" top="1710">
+
+36.748
+</word>
+<word bottom="1690" left="855" right="982" top="1710">
+
+115.821
+</word>
+<word bottom="1690" left="1072" right="1126" top="1710">
+
+2.0
+</word>
+<word bottom="1690" left="1194" right="1286" top="1711">
+
+11.15
+</word>
+<word bottom="1691" left="1372" right="1426" top="1710">
+
+4.9
+</word>
+<word bottom="1690" left="1494" right="1542" top="1711">
+
+191
+</word>
+<word bottom="1690" left="1612" right="1646" top="1710">
+BD</word>
+<word bottom="1689" left="1692" right="1746" top="1711">
+
+0.7
+</word>
+<word bottom="1696" left="1791" right="1848" top="1701">
+
+---
+</word>
+<word bottom="1689" left="1932" right="2069" top="1710">
+MERCURY</word>
+<word bottom="1689" left="2094" right="2129" top="1709">
+NE</word>
+<word bottom="1625" left="391" right="405" top="1644">
+
+9
+</word>
+<word bottom="1625" left="470" right="604" top="1645">
+
+0:36:58
+</word>
+<word bottom="1625" left="651" right="765" top="1646">
+
+36.935
+</word>
+<word bottom="1625" left="854" right="985" top="1646">
+
+118.452
+</word>
+<word bottom="1625" left="1051" right="1124" top="1646">
+
+23.8
+</word>
+<word bottom="1626" left="1211" right="1284" top="1647">
+
+7.00
+</word>
+<word bottom="1626" left="1370" right="1425" top="1646">
+
+8.0
+</word>
+<word bottom="1625" left="1490" right="1545" top="1647">
+
+334
+</word>
+<word bottom="1626" left="1611" right="1645" top="1646">
+
+DD
+</word>
+<word bottom="1626" left="1694" right="1745" top="1645">
+
+1.4
+</word>
+<word bottom="1631" left="1790" right="1847" top="1636">
+
+---
+</word>
+<word bottom="1624" left="1934" right="2206" top="1645">
+
+•..REGIONAL...
+</word>
+<word bottom="1592" left="390" right="404" top="1612">
+
+9
+</word>
+<word bottom="1592" left="471" right="604" top="1613">
+
+2:13:48
+</word>
+<word bottom="1593" left="651" right="764" top="1614">
+
+37.252
+</word>
+<word bottom="1593" left="854" right="985" top="1613">
+
+115.030
+</word>
+<word bottom="1593" left="1073" right="1124" top="1613">
+
+1.5
+</word>
+<word bottom="1593" left="1211" right="1284" top="1614">
+
+2.75
+</word>
+<word bottom="1593" left="1370" right="1424" top="1613">
+
+6.2
+</word>
+<word bottom="1593" left="1493" right="1545" top="1614">
+
+186
+</word>
+<word bottom="1594" left="1611" right="1645" top="1614">
+CD</word>
+<word bottom="1592" left="1694" right="1745" top="1614">
+
+1.7
+</word>
+<word bottom="1599" left="1790" right="1847" top="1604">
+
+---
+</word>
+<word bottom="1592" left="1931" right="2028" top="1613">
+ALAMO</word>
+<word bottom="1591" left="2053" right="2087" top="1613">
+SE</word>
+<word bottom="1560" left="391" right="405" top="1579">
+
+9
+</word>
+<word bottom="1560" left="454" right="500" top="1581">
+
+15:
+</word>
+<word bottom="1560" left="532" right="601" top="1580">
+
+5:51
+</word>
+<word bottom="1561" left="652" right="765" top="1581">
+
+36.856
+</word>
+<word bottom="1560" left="855" right="985" top="1581">
+
+116.169
+</word>
+<word bottom="1560" left="1071" right="1121" top="1581">
+
+2.1
+</word>
+<word bottom="1561" left="1193" right="1284" top="1582">
+
+18.73
+</word>
+<word bottom="1561" left="1371" right="1421" top="1581">
+
+3.1
+</word>
+<word bottom="1562" left="1494" right="1545" top="1582">
+
+154
+</word>
+<word bottom="1562" left="1611" right="1646" top="1582">
+BC</word>
+<word bottom="1561" left="1692" right="1746" top="1581">
+
+0.4
+</word>
+<word bottom="1567" left="1791" right="1847" top="1572">
+
+---
+</word>
+<word bottom="1560" left="1933" right="2028" top="1580">
+SKULL</word>
+<word bottom="1560" left="2053" right="2107" top="1581">
+MIN</word>
+<word bottom="1528" left="374" right="401" top="1547">
+
+11
+</word>
+<word bottom="1528" left="454" right="560" top="1548">
+
+13:22:
+</word>
+<word bottom="1529" left="592" right="604" top="1547">
+
+4
+</word>
+<word bottom="1529" left="652" right="764" top="1549">
+
+36.750
+</word>
+<word bottom="1529" left="854" right="984" top="1549">
+
+116.277
+</word>
+<word bottom="1529" left="1071" right="1124" top="1549">
+
+0.3
+</word>
+<word bottom="1529" left="1211" right="1285" top="1550">
+
+7.ee
+</word>
+<word bottom="1530" left="1371" right="1424" top="1549">
+
+0.6
+</word>
+<word bottom="1529" left="1511" right="1544" top="1550">
+
+58
+</word>
+<word bottom="1531" left="1611" right="1646" top="1549">
+AA</word>
+<word bottom="1529" left="1694" right="1745" top="1550">
+
+1.2
+</word>
+<word bottom="1535" left="1791" right="1847" top="1540">
+
+---
+</word>
+<word bottom="1528" left="1933" right="2067" top="1549">
+JACKASS</word>
+<word bottom="1528" left="2095" right="2187" top="1548">
+FLATS</word>
+<word bottom="1496" left="374" right="401" top="1515">
+
+11
+</word>
+<word bottom="1495" left="454" right="604" top="1516">
+
+13:26:10
+</word>
+<word bottom="1497" left="652" right="764" top="1517">
+
+36.757
+</word>
+<word bottom="1497" left="854" right="984" top="1517">
+
+116.277
+</word>
+<word bottom="1497" left="1071" right="1124" top="1517">
+
+0.5
+</word>
+<word bottom="1498" left="1212" right="1284" top="1518">
+
+7.00
+</word>
+<word bottom="1497" left="1371" right="1424" top="1517">
+
+0.8
+</word>
+<word bottom="1498" left="1511" right="1541" top="1518">
+
+71
+</word>
+<word bottom="1498" left="1611" right="1645" top="1517">
+AA</word>
+<word bottom="1497" left="1692" right="1745" top="1518">
+
+8.3
+</word>
+<word bottom="1503" left="1791" right="1847" top="1508">
+
+---
+</word>
+<word bottom="1496" left="1933" right="2067" top="1517">
+JACKASS</word>
+<word bottom="1496" left="2094" right="2187" top="1517">
+FLATS</word>
+<word bottom="1464" left="374" right="402" top="1483">
+
+11
+</word>
+<word bottom="1464" left="454" right="605" top="1484">
+
+13:37:58
+</word>
+<word bottom="1465" left="652" right="765" top="1485">
+
+36.750
+</word>
+<word bottom="1464" left="854" right="984" top="1485">
+
+116.277
+</word>
+<word bottom="1464" left="1071" right="1124" top="1485">
+
+0.4
+</word>
+<word bottom="1465" left="1211" right="1284" top="1486">
+
+7.00
+</word>
+<word bottom="1465" left="1371" right="1424" top="1485">
+
+0.7
+</word>
+<word bottom="1465" left="1511" right="1544" top="1486">
+
+67
+</word>
+<word bottom="1467" left="1610" right="1646" top="1485">
+AA</word>
+<word bottom="1465" left="1692" right="1744" top="1486">
+
+0.7
+</word>
+<word bottom="1471" left="1791" right="1847" top="1476">
+
+---
+</word>
+<word bottom="1464" left="1932" right="2067" top="1485">
+JACKASS</word>
+<word bottom="1464" left="2094" right="2187" top="1485">
+FLATS</word>
+<word bottom="1400" left="374" right="401" top="1418">
+
+11
+</word>
+<word bottom="1399" left="454" right="560" top="1419">
+
+14:53:
+</word>
+<word bottom="1399" left="591" right="605" top="1419">
+
+2
+</word>
+<word bottom="1400" left="651" right="765" top="1420">
+
+36.755
+</word>
+<word bottom="1399" left="854" right="985" top="1420">
+
+116.275
+</word>
+<word bottom="1400" left="1071" right="1125" top="1420">
+
+0.4
+</word>
+<word bottom="1400" left="1210" right="1285" top="1421">
+
+6.55
+</word>
+<word bottom="1400" left="1370" right="1424" top="1420">
+
+0.7
+</word>
+<word bottom="1400" left="1511" right="1545" top="1421">
+
+70
+</word>
+<word bottom="1401" left="1610" right="1646" top="1420">
+AA</word>
+<word bottom="1400" left="1691" right="1746" top="1422">
+
+0.5
+</word>
+<word bottom="1406" left="1790" right="1847" top="1411">
+
+---
+</word>
+<word bottom="1399" left="1932" right="2067" top="1420">
+JACKASS</word>
+<word bottom="1399" left="2094" right="2188" top="1420">
+FLATS</word>
+<word bottom="1367" left="374" right="401" top="1386">
+
+11
+</word>
+<word bottom="1367" left="454" right="601" top="1387">
+
+15:10:21
+</word>
+<word bottom="1368" left="651" right="765" top="1388">
+
+37.699
+</word>
+<word bottom="1367" left="854" right="985" top="1388">
+
+115.046
+</word>
+<word bottom="1367" left="1071" right="1125" top="1388">
+
+0.4
+</word>
+<word bottom="1368" left="1213" right="1285" top="1389">
+
+1.59
+</word>
+<word bottom="1368" left="1373" right="1425" top="1388">
+
+1.3
+</word>
+<word bottom="1368" left="1493" right="1545" top="1389">
+
+116
+</word>
+<word bottom="1369" left="1610" right="1646" top="1389">
+AC</word>
+<word bottom="1368" left="1694" right="1742" top="1388">
+
+1.1
+</word>
+<word bottom="1374" left="1790" right="1848" top="1379">
+
+---
+</word>
+<word bottom="1367" left="1932" right="2008" top="1388">
+
+HIKO
+</word>
+<word bottom="1367" left="2033" right="2068" top="1388">
+NE</word>
+<word bottom="1335" left="373" right="405" top="1354">
+
+12
+</word>
+<word bottom="1335" left="454" right="605" top="1355">
+
+17:18:28
+</word>
+<word bottom="1336" left="651" right="765" top="1356">
+
+36.702
+</word>
+<word bottom="1335" left="853" right="985" top="1356">
+
+116.282
+</word>
+<word bottom="1336" left="1071" right="1125" top="1356">
+
+0.4
+</word>
+<word bottom="1337" left="1210" right="1285" top="1357">
+
+5.05
+</word>
+<word bottom="1336" left="1370" right="1425" top="1356">
+
+0.9
+</word>
+<word bottom="1336" left="1510" right="1545" top="1357">
+
+63
+</word>
+<word bottom="1338" left="1610" right="1646" top="1356">
+AA</word>
+<word bottom="1336" left="1693" right="1745" top="1356">
+
+1.0
+</word>
+<word bottom="1342" left="1790" right="1848" top="1347">
+
+---
+</word>
+<word bottom="1335" left="1932" right="2067" top="1356">
+STRIPED</word>
+<word bottom="1335" left="2093" right="2188" top="1355">
+HILLS</word>
+<word bottom="1303" left="374" right="405" top="1322">
+
+13
+</word>
+<word bottom="1303" left="454" right="605" top="1323">
+
+13:58:28
+</word>
+<word bottom="1304" left="652" right="765" top="1324">
+
+37.397
+</word>
+<word bottom="1303" left="854" right="985" top="1323">
+
+115.210
+</word>
+<word bottom="1304" left="1072" right="1125" top="1324">
+
+0.8
+</word>
+<word bottom="1305" left="1211" right="1285" top="1325">
+
+0.44
+</word>
+<word bottom="1305" left="1371" right="1425" top="1324">
+
+3.3
+</word>
+<word bottom="1305" left="1494" right="1545" top="1325">
+
+134
+</word>
+<word bottom="1305" left="1612" right="1646" top="1325">
+BC</word>
+<word bottom="1304" left="1694" right="1745" top="1325">
+
+1.2
+</word>
+<word bottom="1310" left="1791" right="1848" top="1316">
+
+---
+</word>
+<word bottom="1304" left="1932" right="1987" top="1324">
+ASH</word>
+<word bottom="1304" left="2014" right="2148" top="1324">
+SPRINGS</word>
+<word bottom="1271" left="374" right="405" top="1291">
+
+13
+</word>
+<word bottom="1272" left="455" right="501" top="1291">
+
+16:
+</word>
+<word bottom="1272" left="532" right="605" top="1291">
+
+2:10
+</word>
+<word bottom="1272" left="652" right="765" top="1292">
+
+36.808
+</word>
+<word bottom="1272" left="854" right="985" top="1292">
+
+115.934
+</word>
+<word bottom="1272" left="1071" right="1125" top="1292">
+
+8.4
+</word>
+<word bottom="1273" left="1211" right="1285" top="1293">
+
+5.66
+</word>
+<word bottom="1273" left="1371" right="1425" top="1293">
+
+2.3
+</word>
+<word bottom="1273" left="1493" right="1545" top="1294">
+
+175
+</word>
+<word bottom="1274" left="1611" right="1646" top="1293">
+BC</word>
+<word bottom="1273" left="1694" right="1745" top="1293">
+
+1.0
+</word>
+<word bottom="1279" left="1791" right="1848" top="1284">
+
+---
+</word>
+<word bottom="1272" left="1934" right="2107" top="1293">
+FRENCHMAN</word>
+<word bottom="1272" left="2135" right="2207" top="1292">
+FLAT</word>
+<word bottom="1240" left="374" right="405" top="1259">
+
+13
+</word>
+<word bottom="1240" left="454" right="560" top="1259">
+
+16:51:
+</word>
+<word bottom="1240" left="592" right="605" top="1259">
+
+8
+</word>
+<word bottom="1241" left="652" right="765" top="1261">
+
+36.774
+</word>
+<word bottom="1240" left="854" right="985" top="1260">
+
+115.980
+</word>
+<word bottom="1247" left="1070" right="1126" top="1252">
+
+---
+</word>
+<word bottom="1242" left="1194" right="1285" top="1262">
+
+12.48
+</word>
+<word bottom="1248" left="1369" right="1426" top="1252">
+
+---
+</word>
+<word bottom="1241" left="1491" right="1545" top="1262">
+
+224
+</word>
+<word bottom="1242" left="1610" right="1645" top="1261">
+AD</word>
+<word bottom="1241" left="1691" right="1745" top="1261">
+
+0.8
+</word>
+<word bottom="1247" left="1791" right="1848" top="1252">
+
+---
+</word>
+<word bottom="1240" left="1934" right="2107" top="1261">
+FRENCHMAN</word>
+<word bottom="1240" left="2135" right="2207" top="1260">
+FLAT</word>
+<word bottom="1177" left="373" right="405" top="1194">
+
+14
+</word>
+<word bottom="1176" left="471" right="605" top="1196">
+
+2:18:23
+</word>
+<word bottom="1177" left="651" right="765" top="1197">
+
+36.772
+</word>
+<word bottom="1176" left="853" right="984" top="1197">
+
+115.978
+</word>
+<word bottom="1178" left="1211" right="1322" top="1198">
+
+7.80..
+</word>
+<word bottom="1184" left="1368" right="1425" top="1188">
+
+---
+</word>
+<word bottom="1178" left="1490" right="1544" top="1198">
+
+235
+</word>
+<word bottom="1178" left="1609" right="1645" top="1198">
+AD</word>
+<word bottom="1177" left="1690" right="1745" top="1199">
+
+0.3
+</word>
+<word bottom="1183" left="1789" right="1847" top="1188">
+
+---
+</word>
+<word bottom="1176" left="1932" right="2107" top="1198">
+FRENCHMAN</word>
+<word bottom="1176" left="2133" right="2206" top="1197">
+FLAT</word>
+<word bottom="1144" left="373" right="405" top="1162">
+
+14
+</word>
+<word bottom="1143" left="471" right="604" top="1164">
+
+2:51:48
+</word>
+<word bottom="1144" left="651" right="765" top="1164">
+
+36.814
+</word>
+<word bottom="1144" left="853" right="985" top="1165">
+
+115.932
+</word>
+<word bottom="1145" left="1073" right="1124" top="1165">
+
+1.8
+</word>
+<word bottom="1145" left="1210" right="1284" top="1166">
+
+7.23
+</word>
+<word bottom="1145" left="1370" right="1424" top="1165">
+
+6.2
+</word>
+<word bottom="1145" left="1492" right="1544" top="1166">
+
+199
+</word>
+<word bottom="1146" left="1610" right="1644" top="1166">
+CD</word>
+<word bottom="1145" left="1690" right="1745" top="1166">
+
+0.9
+</word>
+<word bottom="1151" left="1789" right="1847" top="1156">
+
+---
+</word>
+<word bottom="1144" left="1932" right="2106" top="1165">
+FRENCHMAN</word>
+<word bottom="1143" left="2133" right="2206" top="1164">
+FLAT</word>
+<word bottom="1112" left="374" right="405" top="1130">
+
+14
+</word>
+<word bottom="1111" left="471" right="604" top="1131">
+
+2:57:15
+</word>
+<word bottom="1112" left="651" right="765" top="1132">
+
+36.758
+</word>
+<word bottom="1111" left="854" right="984" top="1132">
+
+115.957
+</word>
+<word bottom="1113" left="1190" right="1284" top="1133">
+
+24.98
+</word>
+<word bottom="1120" left="1368" right="1425" top="1124">
+
+---
+</word>
+<word bottom="1113" left="1490" right="1544" top="1134">
+
+234
+</word>
+<word bottom="1113" left="1609" right="1644" top="1133">
+AD</word>
+<word bottom="1112" left="1690" right="1745" top="1133">
+
+0.6
+</word>
+<word bottom="1118" left="1789" right="1846" top="1124">
+
+---
+</word>
+<word bottom="1111" left="1932" right="2107" top="1132">
+FRENCHMAN</word>
+<word bottom="1110" left="2133" right="2206" top="1132">
+FLAT</word>
+<word bottom="1080" left="374" right="405" top="1098">
+
+14
+</word>
+<word bottom="1079" left="453" right="500" top="1099">
+
+12:
+</word>
+<word bottom="1079" left="532" right="604" top="1099">
+
+4:29
+</word>
+<word bottom="1080" left="651" right="765" top="1100">
+
+37.115
+</word>
+<word bottom="1080" left="854" right="985" top="1100">
+
+116.205
+</word>
+<word bottom="1080" left="1070" right="1124" top="1100">
+
+2.3
+</word>
+<word bottom="1081" left="1193" right="1284" top="1101">
+
+14.86
+</word>
+<word bottom="1081" left="1370" right="1424" top="1100">
+
+3.4
+</word>
+<word bottom="1081" left="1490" right="1544" top="1101">
+
+200
+</word>
+<word bottom="1081" left="1610" right="1644" top="1101">
+BD</word>
+<word bottom="1081" left="1690" right="1744" top="1101">
+
+0.9
+</word>
+<word bottom="1086" left="1789" right="1846" top="1092">
+
+---
+</word>
+<word bottom="1080" left="1932" right="2086" top="1100">
+
+TIPPIPAH
+</word>
+<word bottom="1079" left="2112" right="2228" top="1099">
+SPRING</word>
+<word bottom="1048" left="375" right="405" top="1065">
+
+14
+</word>
+<word bottom="1046" left="455" right="604" top="1067">
+
+12:12:42
+</word>
+<word bottom="1048" left="653" right="765" top="1067">
+
+37.0
+
+,99
+</word>
+<word bottom="1048" left="854" right="984" top="1067">
+
+116.193
+</word>
+<word bottom="1048" left="1071" right="1124" top="1068">
+
+0.5
+</word>
+<word bottom="1049" left="1190" right="1284" top="1069">
+
+-0.03
+</word>
+<word bottom="1049" left="1370" right="1423" top="1068">
+
+0.7
+</word>
+<word bottom="1048" left="1493" right="1544" top="1069">
+
+113
+</word>
+<word bottom="1049" left="1610" right="1644" top="1069">
+AB</word>
+<word bottom="1049" left="1691" right="1744" top="1069">
+
+0.7
+</word>
+<word bottom="1054" left="1790" right="1846" top="1059">
+
+---
+</word>
+<word bottom="1048" left="1934" right="2086" top="1068">
+
+TIPPIPAH
+</word>
+<word bottom="1046" left="2113" right="2228" top="1067">
+SPRING</word>
+<word bottom="1015" left="375" right="405" top="1033">
+
+14
+</word>
+<word bottom="1014" left="455" right="604" top="1035">
+
+12:44:29
+</word>
+<word bottom="1015" left="652" right="765" top="1035">
+
+37.052
+</word>
+<word bottom="1016" left="854" right="984" top="1035">
+
+116.147
+</word>
+<word bottom="1017" left="1211" right="1284" top="1037">
+
+0.18
+</word>
+<word bottom="1024" left="1369" right="1425" top="1027">
+
+---
+</word>
+<word bottom="1017" left="1493" right="1544" top="1037">
+
+180
+</word>
+<word bottom="1017" left="1610" right="1644" top="1037">
+AD</word>
+<word bottom="1017" left="1691" right="1743" top="1037">
+
+0.7
+</word>
+<word bottom="1022" left="1790" right="1846" top="1027">
+
+---
+</word>
+<word bottom="1016" left="1933" right="2086" top="1036">
+
+TIPPIPAH
+</word>
+<word bottom="1014" left="2113" right="2228" top="1035">
+SPRING</word>
+<word bottom="952" left="375" right="406" top="969">
+
+14
+</word>
+<word bottom="951" left="455" right="606" top="970">
+
+16:42:50
+</word>
+<word bottom="952" left="652" right="766" top="971">
+
+36.806
+</word>
+<word bottom="952" left="854" right="985" top="971">
+
+115.947
+</word>
+<word bottom="952" left="1074" right="1125" top="972">
+1.0</word>
+<word bottom="953" left="1211" right="1285" top="973">
+
+0.89
+</word>
+<word bottom="954" left="1373" right="1424" top="972">
+
+1.9
+</word>
+<word bottom="953" left="1493" right="1545" top="973">
+
+193
+</word>
+<word bottom="954" left="1610" right="1645" top="973">
+AD</word>
+<word bottom="953" left="1691" right="1745" top="973">
+
+0.4
+</word>
+<word bottom="959" left="1790" right="1847" top="964">
+
+---
+</word>
+<word bottom="952" left="1933" right="2107" top="972">
+FRENCHMAN</word>
+<word bottom="951" left="2134" right="2207" top="971">
+FLAT</word>
+<word bottom="919" left="375" right="406" top="938">
+
+15
+</word>
+<word bottom="919" left="455" right="502" top="938">
+
+12:
+</word>
+<word bottom="918" left="532" right="602" top="938">
+
+3:21
+</word>
+<word bottom="919" left="652" right="766" top="939">
+
+36.743
+</word>
+<word bottom="919" left="855" right="985" top="939">
+
+115.954
+</word>
+<word bottom="919" left="1071" right="1125" top="939">
+
+2.4
+</word>
+<word bottom="921" left="1190" right="1285" top="941">
+
+26.29
+</word>
+<word bottom="921" left="1370" right="1425" top="940">
+
+2.2
+</word>
+<word bottom="921" left="1493" right="1544" top="941">
+
+182
+</word>
+<word bottom="922" left="1610" right="1646" top="941">
+BC</word>
+<word bottom="927" left="1690" right="1747" top="933">
+
+---
+</word>
+<word bottom="920" left="1791" right="1846" top="940">
+
+0.2
+</word>
+<word bottom="919" left="1931" right="2068" top="940">
+MERCURY</word>
+<word bottom="887" left="375" right="406" top="906">
+
+15
+</word>
+<word bottom="886" left="455" right="606" top="907">
+
+14:23:33
+</word>
+<word bottom="887" left="652" right="766" top="907">
+
+36.802
+</word>
+<word bottom="887" left="854" right="981" top="907">
+
+115.921
+</word>
+<word bottom="887" left="1071" right="1124" top="908">
+
+0.2
+</word>
+<word bottom="888" left="1193" right="1285" top="909">
+
+11.60
+</word>
+<word bottom="888" left="1370" right="1424" top="908">
+
+0.5
+</word>
+<word bottom="888" left="1490" right="1544" top="909">
+
+203
+</word>
+<word bottom="889" left="1610" right="1645" top="909">
+AD</word>
+<word bottom="888" left="1691" right="1745" top="910">
+
+0.2
+</word>
+<word bottom="894" left="1790" right="1847" top="899">
+
+---
+</word>
+<word bottom="887" left="1932" right="2107" top="908">
+FRENCHMAN</word>
+<word bottom="886" left="2134" right="2207" top="907">
+FLAT</word>
+<word bottom="854" left="375" right="406" top="873">
+
+15
+</word>
+<word bottom="854" left="452" right="605" top="874">
+
+23:16:16
+</word>
+<word bottom="855" left="652" right="766" top="875">
+
+36.896
+</word>
+<word bottom="855" left="854" right="985" top="875">
+
+116.815
+</word>
+<word bottom="855" left="1070" right="1124" top="875">
+
+0.5
+</word>
+<word bottom="856" left="1190" right="1303" top="877">
+
+-0.05.
+</word>
+<word bottom="863" left="1369" right="1426" top="867">
+
+---
+</word>
+<word bottom="856" left="1493" right="1544" top="877">
+
+123
+</word>
+<word bottom="857" left="1610" right="1645" top="877">
+CC</word>
+<word bottom="856" left="1694" right="1745" top="877">
+
+1.3
+</word>
+<word bottom="863" left="1790" right="1847" top="867">
+
+---
+</word>
+<word bottom="855" left="1931" right="2087" top="876">
+BULLFROG</word>
+<word bottom="822" left="375" right="406" top="841">
+
+16
+</word>
+<word bottom="822" left="472" right="606" top="842">
+
+6:37:38
+</word>
+<word bottom="823" left="653" right="766" top="843">
+
+36.190
+</word>
+<word bottom="822" left="854" right="985" top="843">
+
+115.435
+</word>
+<word bottom="824" left="1074" right="1124" top="843">
+
+1.7
+</word>
+<word bottom="824" left="1211" right="1284" top="845">
+
+2.33
+</word>
+<word bottom="824" left="1373" right="1424" top="844">
+
+1.9
+</word>
+<word bottom="824" left="1490" right="1544" top="845">
+
+295
+</word>
+<word bottom="825" left="1610" right="1645" top="845">
+BD</word>
+<word bottom="824" left="1693" right="1745" top="845">
+
+1.3
+</word>
+<word bottom="831" left="1789" right="1847" top="836">
+
+---
+</word>
+<word bottom="824" left="1933" right="1967" top="843">
+LA</word>
+<word bottom="823" left="1991" right="2087" top="844">
+MADRE</word>
+<word bottom="824" left="2111" right="2167" top="843">
+MIN</word>
+<word bottom="791" left="376" right="405" top="809">
+
+17
+</word>
+<word bottom="791" left="456" right="561" top="810">
+
+14:16:
+</word>
+<word bottom="790" left="593" right="605" top="810">
+
+3
+</word>
+<word bottom="791" left="653" right="766" top="811">
+
+36.765
+</word>
+<word bottom="791" left="855" right="981" top="810">
+
+115.911
+</word>
+<word bottom="791" left="1071" right="1124" top="811">
+
+8.8
+</word>
+<word bottom="793" left="1211" right="1284" top="813">
+
+0.69
+</word>
+<word bottom="792" left="1373" right="1424" top="812">
+
+1.3
+</word>
+<word bottom="793" left="1493" right="1544" top="813">
+
+188
+</word>
+<word bottom="794" left="1610" right="1645" top="813">
+AD</word>
+<word bottom="793" left="1691" right="1745" top="813">
+
+0.4
+</word>
+<word bottom="799" left="1790" right="1846" top="804">
+
+---
+</word>
+<word bottom="792" left="1933" right="2107" top="812">
+FRENCHMAN</word>
+<word bottom="791" left="2134" right="2206" top="811">
+FLAT</word>
+<word bottom="728" left="376" right="405" top="746">
+
+17
+</word>
+<word bottom="727" left="453" right="501" top="747">
+
+22:
+</word>
+<word bottom="727" left="532" right="605" top="747">
+
+3:14
+</word>
+<word bottom="728" left="652" right="765" top="748">
+
+37.086
+</word>
+<word bottom="728" left="855" right="985" top="747">
+
+115.188
+</word>
+<word bottom="735" left="1069" right="1125" top="739">
+
+---
+</word>
+<word bottom="730" left="1212" right="1283" top="749">
+
+7.46
+</word>
+<word bottom="736" left="1368" right="1424" top="740">
+
+---
+</word>
+<word bottom="729" left="1490" right="1544" top="750">
+
+228
+</word>
+<word bottom="730" left="1610" right="1644" top="750">
+BD</word>
+<word bottom="730" left="1690" right="1743" top="750">
+
+0.5
+</word>
+<word bottom="736" left="1789" right="1845" top="740">
+
+---
+</word>
+<word bottom="728" left="1933" right="2026" top="749">
+LOWER</word>
+<word bottom="727" left="2051" right="2246" top="748">
+
+PAHRANAGAT
+</word>
+<word bottom="696" left="375" right="406" top="714">
+
+18
+</word>
+<word bottom="695" left="455" right="601" top="715">
+
+12:13:41
+</word>
+<word bottom="696" left="652" right="765" top="716">
+
+37.099
+</word>
+<word bottom="695" left="854" right="985" top="715">
+
+116.194
+</word>
+<word bottom="696" left="1070" right="1124" top="716">
+
+0.7
+</word>
+<word bottom="697" left="1210" right="1284" top="718">
+
+5.28
+</word>
+<word bottom="697" left="1370" right="1424" top="717">
+
+2.8
+</word>
+<word bottom="698" left="1509" right="1544" top="718">
+
+93
+</word>
+<word bottom="699" left="1610" right="1644" top="718">
+BB</word>
+<word bottom="697" left="1693" right="1744" top="719">
+
+1.2
+</word>
+<word bottom="704" left="1789" right="1846" top="709">
+
+---
+</word>
+<word bottom="696" left="1931" right="2086" top="718">
+
+TIPPIPAH
+</word>
+<word bottom="695" left="2112" right="2228" top="716">
+SPRING</word>
+<word bottom="663" left="375" right="406" top="682">
+
+18
+</word>
+<word bottom="663" left="455" right="605" top="683">
+
+15:18:53
+</word>
+<word bottom="664" left="652" right="765" top="684">
+
+36.752
+</word>
+<word bottom="664" left="854" right="985" top="684">
+
+116.292
+</word>
+<word bottom="664" left="1070" right="1124" top="685">
+
+0.7
+</word>
+<word bottom="665" left="1210" right="1284" top="686">
+
+9.33
+</word>
+<word bottom="666" left="1373" right="1424" top="685">
+
+1.2
+</word>
+<word bottom="666" left="1492" right="1544" top="686">
+
+150
+</word>
+<word bottom="667" left="1609" right="1645" top="686">
+AC</word>
+<word bottom="665" left="1690" right="1744" top="687">
+
+0.2
+</word>
+<word bottom="672" left="1789" right="1846" top="677">
+
+---
+</word>
+<word bottom="664" left="1931" right="2066" top="685">
+JACKASS</word>
+<word bottom="664" left="2093" right="2186" top="684">
+FLATS</word>
+<word bottom="631" left="376" right="406" top="650">
+
+18
+</word>
+<word bottom="631" left="455" right="606" top="651">
+
+15:39:44
+</word>
+<word bottom="632" left="652" right="766" top="652">
+
+36.759
+</word>
+<word bottom="631" left="854" right="985" top="652">
+
+116.303
+</word>
+<word bottom="639" left="1069" right="1126" top="643">
+
+---
+</word>
+<word bottom="633" left="1211" right="1280" top="654">
+
+7.21
+</word>
+<word bottom="640" left="1369" right="1425" top="644">
+
+---
+</word>
+<word bottom="633" left="1490" right="1544" top="654">
+
+228
+</word>
+<word bottom="634" left="1609" right="1644" top="654">
+AD</word>
+<word bottom="640" left="1688" right="1746" top="646">
+
+---
+</word>
+<word bottom="633" left="1790" right="1841" top="653">
+
+0.1
+</word>
+<word bottom="631" left="1931" right="2066" top="653">
+JACKASS</word>
+<word bottom="631" left="2093" right="2186" top="652">
+FLATS</word>
+<word bottom="599" left="375" right="406" top="618">
+
+19
+</word>
+<word bottom="599" left="455" right="502" top="619">
+
+10:
+</word>
+<word bottom="599" left="535" right="606" top="618">
+
+1:46
+</word>
+<word bottom="599" left="653" right="765" top="620">
+
+36.872
+</word>
+<word bottom="599" left="854" right="985" top="619">
+
+116.177
+</word>
+<word bottom="599" left="1071" right="1125" top="620">
+
+0.5
+</word>
+<word bottom="601" left="1211" right="1284" top="621">
+
+7.50
+</word>
+<word bottom="601" left="1370" right="1423" top="621">
+
+0.7
+</word>
+<word bottom="601" left="1492" right="1544" top="622">
+
+154
+</word>
+<word bottom="602" left="1609" right="1645" top="622">
+AC</word>
+<word bottom="601" left="1690" right="1740" top="622">
+
+0.1
+</word>
+<word bottom="607" left="1789" right="1846" top="612">
+
+---
+</word>
+<word bottom="600" left="1931" right="2027" top="620">
+SKULL</word>
+<word bottom="600" left="2051" right="2106" top="620">
+MTN</word>
+<word bottom="567" left="375" right="406" top="585">
+
+19
+</word>
+<word bottom="566" left="452" right="561" top="586">
+
+21:49:
+</word>
+<word bottom="567" left="593" right="605" top="585">
+
+4
+</word>
+<word bottom="567" left="654" right="766" top="587">
+
+37.408
+</word>
+<word bottom="567" left="854" right="985" top="587">
+
+114.457
+</word>
+<word bottom="574" left="1070" right="1126" top="578">
+
+---
+</word>
+<word bottom="568" left="1211" right="1322" top="589">
+
+7.00..
+</word>
+<word bottom="576" left="1369" right="1425" top="579">
+
+---
+</word>
+<word bottom="569" left="1491" right="1543" top="589">
+
+327
+</word>
+<word bottom="570" left="1610" right="1644" top="589">
+CD</word>
+<word bottom="569" left="1693" right="1744" top="590">
+
+1.3
+</word>
+<word bottom="575" left="1789" right="1846" top="580">
+
+---
+</word>
+<word bottom="567" left="1933" right="2205" top="588">
+...REGIONAL...</word>
+<word bottom="502" left="377" right="406" top="521">
+
+19
+</word>
+<word bottom="502" left="454" right="606" top="522">
+
+21:49:36
+</word>
+<word bottom="503" left="654" right="766" top="522">
+
+36.836
+</word>
+<word bottom="502" left="856" right="982" top="522">
+
+115.281
+</word>
+<word bottom="503" left="1072" right="1125" top="523">
+
+5.5
+</word>
+<word bottom="504" left="1211" right="1303" top="524">
+
+6.98.
+</word>
+<word bottom="511" left="1370" right="1425" top="515">
+
+---
+</word>
+<word bottom="504" left="1491" right="1544" top="525">
+
+246
+</word>
+<word bottom="506" left="1611" right="1644" top="525">
+
+DD
+</word>
+<word bottom="505" left="1691" right="1744" top="525">
+
+0.6
+</word>
+<word bottom="511" left="1790" right="1846" top="515">
+
+---
+</word>
+<word bottom="503" left="1932" right="2005" top="524">
+DEAD</word>
+<word bottom="502" left="2032" right="2126" top="523">
+HORSE</word>
+<word bottom="501" left="2153" right="2246" top="522">
+RIDGE</word>
+<word bottom="470" left="374" right="407" top="489">
+
+20
+</word>
+<word bottom="470" left="476" right="606" top="489">
+
+1:49:59
+</word>
+<word bottom="471" left="654" right="765" top="490">
+
+37.030
+</word>
+<word bottom="470" left="856" right="986" top="490">
+
+116.019
+</word>
+<word bottom="478" left="1071" right="1126" top="482">
+
+---
+</word>
+<word bottom="472" left="1212" right="1323" top="492">
+
+7.00..
+</word>
+<word bottom="479" left="1370" right="1425" top="483">
+
+---
+</word>
+<word bottom="473" left="1491" right="1544" top="493">
+
+234
+</word>
+<word bottom="474" left="1610" right="1644" top="493">
+AD</word>
+<word bottom="473" left="1691" right="1744" top="493">
+
+0.5
+</word>
+<word bottom="479" left="1791" right="1846" top="484">
+
+---
+</word>
+<word bottom="472" left="1931" right="2026" top="492">
+YUCCA</word>
+<word bottom="471" left="2053" right="2125" top="491">
+FLAT</word>
+<word bottom="438" left="374" right="407" top="457">
+
+20
+</word>
+<word bottom="438" left="473" right="503" top="457">
+
+9:
+</word>
+<word bottom="438" left="534" right="607" top="457">
+
+7:55
+</word>
+<word bottom="438" left="654" right="767" top="458">
+
+37.023
+</word>
+<word bottom="438" left="856" right="986" top="458">
+
+116.007
+</word>
+<word bottom="439" left="1072" right="1126" top="458">
+
+0.5
+</word>
+<word bottom="440" left="1195" right="1286" top="460">
+
+11.24
+</word>
+<word bottom="440" left="1371" right="1425" top="460">
+
+2.5
+</word>
+<word bottom="441" left="1494" right="1544" top="461">
+
+157
+</word>
+<word bottom="442" left="1611" right="1646" top="461">
+BC</word>
+<word bottom="441" left="1691" right="1745" top="461">
+
+0.8
+</word>
+<word bottom="447" left="1790" right="1847" top="452">
+
+---
+</word>
+<word bottom="439" left="1932" right="2027" top="460">
+YUCCA</word>
+<word bottom="438" left="2053" right="2126" top="459">
+FLAT</word>
+<word bottom="406" left="374" right="408" top="425">
+
+20
+</word>
+<word bottom="405" left="474" right="607" top="425">
+
+9:47:19
+</word>
+<word bottom="406" left="654" right="767" top="426">
+
+37.020
+</word>
+<word bottom="406" left="856" right="987" top="426">
+
+116.003
+</word>
+<word bottom="406" left="1072" right="1126" top="426">
+
+0.4
+</word>
+<word bottom="408" left="1212" right="1286" top="429">
+
+7.12
+</word>
+<word bottom="408" left="1371" right="1425" top="428">
+
+3.2
+</word>
+<word bottom="408" left="1494" right="1545" top="429">
+
+158
+</word>
+<word bottom="409" left="1611" right="1646" top="429">
+BC</word>
+<word bottom="408" left="1691" right="1745" top="429">
+
+0.8
+</word>
+<word bottom="414" left="1790" right="1847" top="419">
+
+---
+</word>
+<word bottom="407" left="1932" right="2027" top="428">
+YUCCA</word>
+<word bottom="406" left="2053" right="2126" top="427">
+FLAT</word>
+<word bottom="374" left="374" right="408" top="393">
+
+20
+</word>
+<word bottom="373" left="454" right="503" top="393">
+
+23:
+</word>
+<word bottom="373" left="534" right="607" top="393">
+
+4:18
+</word>
+<word bottom="374" left="654" right="767" top="394">
+
+36.709
+</word>
+<word bottom="373" left="856" right="987" top="394">
+
+116.313
+</word>
+<word bottom="374" left="1073" right="1126" top="394">
+
+3.0
+</word>
+<word bottom="376" left="1212" right="1286" top="396">
+
+7.00
+</word>
+<word bottom="376" left="1371" right="1425" top="396">
+
+2.4
+</word>
+<word bottom="376" left="1491" right="1541" top="397">
+
+201
+</word>
+<word bottom="377" left="1611" right="1646" top="397">
+CD</word>
+<word bottom="376" left="1691" right="1745" top="398">
+
+0.2
+</word>
+<word bottom="383" left="1790" right="1847" top="387">
+
+---
+</word>
+<word bottom="375" left="1932" right="2067" top="396">
+STRIPED</word>
+<word bottom="374" left="2092" right="2187" top="394">
+HILLS</word>
+<word bottom="342" left="375" right="404" top="360">
+
+21
+</word>
+<word bottom="342" left="474" right="503" top="361">
+
+2:
+</word>
+<word bottom="342" left="534" right="608" top="361">
+
+8:40
+</word>
+<word bottom="342" left="654" right="767" top="362">
+
+36.832
+</word>
+<word bottom="342" left="857" right="987" top="361">
+
+115.988
+</word>
+<word bottom="349" left="1072" right="1128" top="354">
+
+---
+</word>
+<word bottom="344" left="1213" right="1324" top="364">
+
+7.00.•
+</word>
+<word bottom="352" left="1370" right="1427" top="355">
+
+---
+</word>
+<word bottom="345" left="1492" right="1546" top="365">
+
+254
+</word>
+<word bottom="346" left="1611" right="1646" top="365">
+AD</word>
+<word bottom="345" left="1670" right="1745" top="366">
+
+-0.2
+</word>
+<word bottom="351" left="1790" right="1847" top="356">
+
+---
+</word>
+<word bottom="343" left="1932" right="2106" top="364">
+FRENCHMAN</word>
+<word bottom="342" left="2133" right="2206" top="362">
+FLAT</word>
+<word bottom="251" left="1215" right="1266" top="270">
+
+130
+</word>
+</words>
+</ocrresult>
+

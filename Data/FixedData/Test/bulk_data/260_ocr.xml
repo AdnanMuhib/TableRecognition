@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2550" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544614973.png" width="3304"/>
+<words>
+<word bottom="2233" left="521" right="642" top="2263">
+Table</word>
+<word bottom="2232" left="671" right="786" top="2264">
+
+5-53.
+</word>
+<word bottom="2225" left="846" right="1066" top="2264">
+Projected</word>
+<word bottom="2233" left="1097" right="1241" top="2263">
+annual</word>
+<word bottom="2225" left="1272" right="1441" top="2255">
+average</word>
+<word bottom="2225" left="1470" right="1593" top="2264">
+daily</word>
+<word bottom="2232" left="1622" right="1791" top="2263">
+traffic</word>
+<word bottom="2233" left="1821" right="1866" top="2255">
+on</word>
+<word bottom="2233" left="1894" right="1985" top="2262">
+U.S.</word>
+<word bottom="2224" left="2019" right="2192" top="2264">
+Highway</word>
+<word bottom="2232" left="2220" right="2263" top="2264">
+
+95
+</word>
+<word bottom="2233" left="2296" right="2340" top="2263">
+in</word>
+<word bottom="2233" left="2369" right="2439" top="2262">
+Las</word>
+<word bottom="2225" left="2467" right="2609" top="2262">
+Vegas,</word>
+<word bottom="2232" left="2648" right="2738" top="2264">
+
+1998
+</word>
+<word bottom="663" left="421" right="443" top="684">
+a</word>
+<word bottom="637" left="445" right="518" top="666">
+
+NLV
+</word>
+<word bottom="646" left="547" right="569" top="657">
+
+=
+</word>
+<word bottom="638" left="595" right="718" top="668">
+North</word>
+<word bottom="637" left="746" right="817" top="665">
+Las</word>
+<word bottom="629" left="846" right="988" top="665">
+Vegas.</word>
+<word bottom="609" left="422" right="443" top="639">
+
+b
+</word>
+<word bottom="585" left="445" right="517" top="614">
+
+NUL
+</word>
+<word bottom="595" left="547" right="569" top="605">
+
+=
+</word>
+<word bottom="586" left="595" right="791" top="617">
+Northern</word>
+<word bottom="585" left="820" right="941" top="616">
+Urban</word>
+<word bottom="585" left="970" right="1136" top="615">
+Limits.</word>
+<word bottom="558" left="422" right="443" top="579">
+
+c
+</word>
+<word bottom="536" left="448" right="537" top="565">
+
+S.R.
+</word>
+<word bottom="545" left="571" right="593" top="556">
+
+=
+</word>
+<word bottom="536" left="623" right="742" top="566">
+State</word>
+<word bottom="536" left="771" right="912" top="565">
+Route.</word>
+<word bottom="1924" left="443" right="619" top="1962">
+Highway</word>
+<word bottom="1924" left="648" right="817" top="1958">
+segment</word>
+<word bottom="2035" left="1219" right="1390" top="2066">
+Without</word>
+<word bottom="2028" left="1421" right="1667" top="2065">
+repository</word>
+<word bottom="2030" left="1698" right="1937" top="2069">
+(baseline)</word>
+<word bottom="2036" left="2317" right="2414" top="2066">
+With</word>
+<word bottom="2028" left="2444" right="2690" top="2065">
+repository</word>
+<word bottom="1983" left="1120" right="1267" top="2014">
+Number</word>
+<word bottom="1984" left="1296" right="1340" top="2014">
+of</word>
+<word bottom="1931" left="1172" right="1266" top="1954">
+cars</word>
+<word bottom="1984" left="1395" right="1541" top="2014">
+Number</word>
+<word bottom="1984" left="1570" right="1615" top="2014">
+of</word>
+<word bottom="1932" left="1423" right="1565" top="1963">
+trucks</word>
+<word bottom="1932" left="1670" right="1789" top="1962">
+Total</word>
+<word bottom="1932" left="1820" right="2014" top="1963">
+vehicles</word>
+<word bottom="1983" left="2068" right="2215" top="2014">
+Number</word>
+<word bottom="1983" left="2244" right="2289" top="2014">
+of</word>
+<word bottom="1932" left="2120" right="2214" top="1953">
+cars</word>
+<word bottom="1983" left="2343" right="2489" top="2014">
+Number</word>
+<word bottom="1984" left="2518" right="2562" top="2014">
+of</word>
+<word bottom="1932" left="2371" right="2512" top="1963">
+trucks</word>
+<word bottom="1931" left="2617" right="2736" top="1962">
+Total</word>
+<word bottom="1932" left="2768" right="2961" top="1963">
+vehicles</word>
+<word bottom="1782" left="321" right="493" top="1811">
+Decatur</word>
+<word bottom="1783" left="523" right="568" top="1809">
+to</word>
+<word bottom="1776" left="595" right="743" top="1814">
+Valley</word>
+<word bottom="1783" left="770" right="871" top="1813">
+View</word>
+<word bottom="1775" left="1148" right="1291" top="1815">
+
+71,233
+</word>
+<word bottom="1776" left="1448" right="1565" top="1815">
+
+2,204
+</word>
+<word bottom="1776" left="1772" right="1914" top="1815">
+
+73,437
+</word>
+<word bottom="1776" left="2096" right="2239" top="1815">
+
+72,397
+</word>
+<word bottom="1776" left="2396" right="2513" top="1815">
+
+2,240
+</word>
+<word bottom="1776" left="2720" right="2862" top="1816">
+
+74,637
+</word>
+<word bottom="1724" left="320" right="470" top="1762">
+Valley</word>
+<word bottom="1731" left="496" right="597" top="1761">
+View</word>
+<word bottom="1732" left="624" right="669" top="1758">
+to</word>
+<word bottom="1731" left="697" right="844" top="1762">
+Rancho</word>
+<word bottom="1724" left="1148" right="1288" top="1763">
+
+82,151
+</word>
+<word bottom="1725" left="1447" right="1563" top="1763">
+
+2,541
+</word>
+<word bottom="1725" left="1772" right="1914" top="1763">
+
+84,462
+</word>
+<word bottom="1724" left="2096" right="2239" top="1763">
+
+83,494
+</word>
+<word bottom="1725" left="2396" right="2513" top="1763">
+
+2,583
+</word>
+<word bottom="1724" left="2719" right="2863" top="1763">
+
+86,077
+</word>
+<word bottom="1682" left="321" right="467" top="1712">
+Rancho</word>
+<word bottom="1682" left="497" right="541" top="1708">
+to</word>
+<word bottom="1675" left="570" right="768" top="1713">
+Highland</word>
+<word bottom="1674" left="1147" right="1290" top="1714">
+
+96,135
+</word>
+<word bottom="1675" left="1447" right="1565" top="1714">
+
+2,974
+</word>
+<word bottom="1675" left="1771" right="1915" top="1714">
+
+99,109
+</word>
+<word bottom="1675" left="2095" right="2238" top="1714">
+
+97,707
+</word>
+<word bottom="1675" left="2395" right="2511" top="1714">
+
+3,022
+</word>
+<word bottom="1675" left="2694" right="2862" top="1714">
+
+100,729
+</word>
+<word bottom="1623" left="319" right="517" top="1661">
+Highland</word>
+<word bottom="1632" left="549" right="592" top="1658">
+to</word>
+<word bottom="1631" left="624" right="717" top="1662">
+
+1-15
+</word>
+<word bottom="1624" left="749" right="1017" top="1662">
+Interchange</word>
+<word bottom="1624" left="1125" right="1290" top="1663">
+
+107,847
+</word>
+<word bottom="1625" left="1447" right="1566" top="1663">
+
+3,336
+</word>
+<word bottom="1625" left="1749" right="1914" top="1663">
+
+111,183
+</word>
+<word bottom="1624" left="2073" right="2239" top="1663">
+
+109,610
+</word>
+<word bottom="1625" left="2395" right="2513" top="1664">
+
+3,390
+</word>
+<word bottom="1625" left="2696" right="2863" top="1663">
+
+113,000
+</word>
+<word bottom="1580" left="323" right="417" top="1611">
+
+1-15
+</word>
+<word bottom="1574" left="448" right="717" top="1612">
+Interchange</word>
+<word bottom="1582" left="748" right="792" top="1607">
+to</word>
+<word bottom="1533" left="372" right="517" top="1562">
+Casino</word>
+<word bottom="1533" left="547" right="693" top="1562">
+Center</word>
+<word bottom="1533" left="722" right="837" top="1563">
+Blvd.</word>
+<word bottom="1526" left="1123" right="1266" top="1564">
+
+78,189
+</word>
+<word bottom="1526" left="1450" right="1565" top="1564">
+
+1,596
+</word>
+<word bottom="1526" left="1772" right="1914" top="1564">
+
+79,785
+</word>
+<word bottom="1526" left="2097" right="2238" top="1565">
+
+79,467
+</word>
+<word bottom="1526" left="2397" right="2512" top="1564">
+
+1,622
+</word>
+<word bottom="1527" left="2718" right="2862" top="1564">
+
+81,089
+</word>
+<word bottom="1483" left="322" right="467" top="1513">
+Casino</word>
+<word bottom="1484" left="498" right="643" top="1513">
+Center</word>
+<word bottom="1484" left="673" right="787" top="1515">
+Blvd.</word>
+<word bottom="1484" left="824" right="868" top="1510">
+to</word>
+<word bottom="1434" left="370" right="468" top="1462">
+Down</word>
+<word bottom="1434" left="496" right="592" top="1463">
+Town</word>
+<word bottom="1427" left="622" right="714" top="1463">
+Exp.</word>
+<word bottom="1426" left="1148" right="1292" top="1465">
+
+36,285
+</word>
+<word bottom="1434" left="1498" right="1563" top="1465">
+
+741
+</word>
+<word bottom="1427" left="1771" right="1916" top="1465">
+
+37,026
+</word>
+<word bottom="1427" left="2095" right="2239" top="1465">
+
+36,878
+</word>
+<word bottom="1433" left="2446" right="2512" top="1465">
+
+753
+</word>
+<word bottom="1427" left="2718" right="2860" top="1465">
+
+37,631
+</word>
+<word bottom="1383" left="322" right="417" top="1412">
+Down</word>
+<word bottom="1384" left="446" right="542" top="1412">
+Town</word>
+<word bottom="1376" left="571" right="663" top="1413">
+Exp.</word>
+<word bottom="1384" left="699" right="744" top="1411">
+to</word>
+<word bottom="1332" left="371" right="443" top="1361">
+Las</word>
+<word bottom="1325" left="471" right="592" top="1362">
+Vegas</word>
+<word bottom="1334" left="623" right="739" top="1365">
+Blvd.</word>
+<word bottom="1325" left="1148" right="1292" top="1365">
+
+37,409
+</word>
+<word bottom="1333" left="1498" right="1565" top="1365">
+
+763
+</word>
+<word bottom="1326" left="1771" right="1915" top="1365">
+
+38,172
+</word>
+<word bottom="1326" left="2095" right="2240" top="1365">
+
+38,020
+</word>
+<word bottom="1334" left="2446" right="2513" top="1365">
+
+776
+</word>
+<word bottom="1326" left="2719" right="2863" top="1365">
+
+38,796
+</word>
+<word bottom="1284" left="212" right="243" top="1302">
+
+ul
+</word>
+<word bottom="1259" left="220" right="226" top="1279">
+
+1
+</word>
+<word bottom="1237" left="211" right="241" top="1251">
+
+1-
+</word>
+<word bottom="1210" left="211" right="241" top="1228">
+
+1..,
+</word>
+<word bottom="1184" left="210" right="242" top="1202">
+
+Ui
+</word>
+<word bottom="1281" left="322" right="392" top="1310">
+Las</word>
+<word bottom="1274" left="421" right="541" top="1310">
+Vegas</word>
+<word bottom="1282" left="573" right="687" top="1313">
+Blvd.</word>
+<word bottom="1282" left="724" right="769" top="1309">
+to</word>
+<word bottom="1282" left="798" right="1042" top="1313">
+Charleston</word>
+<word bottom="1232" left="321" right="567" top="1262">
+Charleston</word>
+<word bottom="1233" left="599" right="642" top="1259">
+to</word>
+<word bottom="1233" left="674" right="818" top="1264">
+Sahara</word>
+<word bottom="1181" left="323" right="466" top="1212">
+Sahara</word>
+<word bottom="1182" left="497" right="541" top="1208">
+to</word>
+<word bottom="1182" left="570" right="668" top="1213">
+Lamb</word>
+<word bottom="1274" left="1148" right="1292" top="1314">
+
+34,960
+</word>
+<word bottom="1225" left="1147" right="1291" top="1264">
+
+66,109
+</word>
+<word bottom="1174" left="1147" right="1289" top="1214">
+
+65,791
+</word>
+<word bottom="1283" left="1498" right="1565" top="1314">
+
+714
+</word>
+<word bottom="1226" left="1446" right="1565" top="1264">
+
+2,045
+</word>
+<word bottom="1175" left="1446" right="1565" top="1214">
+
+2,035
+</word>
+<word bottom="1275" left="1771" right="1915" top="1314">
+
+35,674
+</word>
+<word bottom="1226" left="1770" right="1914" top="1265">
+
+68,154
+</word>
+<word bottom="1175" left="1770" right="1914" top="1214">
+
+67,826
+</word>
+<word bottom="1275" left="2095" right="2236" top="1314">
+
+35,531
+</word>
+<word bottom="1226" left="2095" right="2238" top="1265">
+
+67,189
+</word>
+<word bottom="1175" left="2095" right="2238" top="1214">
+
+66,866
+</word>
+<word bottom="1283" left="2446" right="2513" top="1314">
+
+726
+</word>
+<word bottom="1226" left="2394" right="2513" top="1264">
+
+2,078
+</word>
+<word bottom="1175" left="2394" right="2513" top="1214">
+
+2,068
+</word>
+<word bottom="1275" left="2718" right="2862" top="1314">
+
+36,257
+</word>
+<word bottom="1226" left="2718" right="2861" top="1264">
+
+69,267
+</word>
+<word bottom="1175" left="2718" right="2861" top="1214">
+
+68,934
+</word>
+<word bottom="1130" left="320" right="419" top="1161">
+Lamb</word>
+<word bottom="1131" left="449" right="492" top="1157">
+to</word>
+<word bottom="1124" left="521" right="719" top="1162">
+Flamingo</word>
+<word bottom="1124" left="1147" right="1289" top="1163">
+
+66,521
+</word>
+<word bottom="1124" left="1447" right="1566" top="1162">
+
+2,058
+</word>
+<word bottom="1124" left="1771" right="1915" top="1163">
+
+68,579
+</word>
+<word bottom="1124" left="2095" right="2238" top="1163">
+
+67,609
+</word>
+<word bottom="1125" left="2394" right="2509" top="1163">
+
+2,091
+</word>
+<word bottom="1125" left="2718" right="2862" top="1163">
+
+69,700
+</word>
+<word bottom="1073" left="322" right="517" top="1111">
+Flamingo</word>
+<word bottom="1081" left="548" right="592" top="1107">
+to</word>
+<word bottom="1081" left="621" right="766" top="1112">
+
+Nellis
+</word>
+<word bottom="1073" left="1147" right="1289" top="1113">
+
+66,521
+</word>
+<word bottom="1074" left="1447" right="1565" top="1112">
+
+2,058
+</word>
+<word bottom="1074" left="1770" right="1914" top="1113">
+
+68,579
+</word>
+<word bottom="1074" left="2095" right="2238" top="1113">
+
+67,609
+</word>
+<word bottom="1074" left="2395" right="2509" top="1113">
+
+2,091
+</word>
+<word bottom="1074" left="2717" right="2862" top="1113">
+
+69,700
+</word>
+<word bottom="1030" left="321" right="467" top="1060">
+
+Nellis
+</word>
+<word bottom="1031" left="498" right="543" top="1056">
+to</word>
+<word bottom="1023" left="571" right="793" top="1061">
+Tropicana</word>
+<word bottom="1023" left="1148" right="1291" top="1063">
+
+49,422
+</word>
+<word bottom="1024" left="1449" right="1565" top="1062">
+
+1,529
+</word>
+<word bottom="1024" left="1771" right="1911" top="1062">
+
+50,951
+</word>
+<word bottom="1024" left="2096" right="2240" top="1062">
+
+50,230
+</word>
+<word bottom="1024" left="2397" right="2512" top="1064">
+
+1,554
+</word>
+<word bottom="1025" left="2718" right="2861" top="1064">
+
+51,784
+</word>
+<word bottom="974" left="321" right="542" top="1011">
+Tropicana</word>
+<word bottom="982" left="573" right="617" top="1008">
+to</word>
+<word bottom="982" left="646" right="717" top="1010">
+Las</word>
+<word bottom="956" left="746" right="866" top="1009">
+
+Veggs
+</word>
+<word bottom="981" left="896" right="992" top="1027">
+
+NLV
+
+a
+</word>
+<word bottom="974" left="1147" right="1292" top="1013">
+
+51,965
+</word>
+<word bottom="975" left="1450" right="1564" top="1013">
+
+1,607
+</word>
+<word bottom="975" left="1771" right="1913" top="1013">
+
+53,572
+</word>
+<word bottom="975" left="2096" right="2238" top="1013">
+
+52,815
+</word>
+<word bottom="975" left="2397" right="2511" top="1014">
+
+1,633
+</word>
+<word bottom="975" left="2718" right="2862" top="1015">
+
+54,448
+</word>
+<word bottom="933" left="320" right="392" top="961">
+Las</word>
+<word bottom="925" left="421" right="542" top="961">
+Vegas</word>
+<word bottom="933" left="572" right="644" top="962">
+
+NLV
+</word>
+<word bottom="934" left="672" right="719" top="960">
+to</word>
+<word bottom="932" left="747" right="819" top="961">
+NUL</word>
+<word bottom="934" left="871" right="1092" top="964">
+Henderson</word>
+<word bottom="926" left="1146" right="1291" top="965">
+
+48,692
+</word>
+<word bottom="927" left="1449" right="1566" top="964">
+
+1,506
+</word>
+<word bottom="927" left="1772" right="1915" top="964">
+
+50,198
+</word>
+<word bottom="926" left="2094" right="2239" top="966">
+
+49,488
+</word>
+<word bottom="927" left="2397" right="2513" top="965">
+
+1,530
+</word>
+<word bottom="927" left="2718" right="2862" top="965">
+
+51,018
+</word>
+<word bottom="883" left="321" right="394" top="912">
+NUL</word>
+<word bottom="884" left="421" right="642" top="914">
+Henderson</word>
+<word bottom="884" left="674" right="717" top="910">
+to</word>
+<word bottom="883" left="748" right="891" top="912">
+Sunset</word>
+<word bottom="884" left="921" right="987" top="914">
+Rd.</word>
+<word bottom="876" left="1146" right="1291" top="916">
+
+48,692
+</word>
+<word bottom="876" left="1449" right="1565" top="915">
+
+1,506
+</word>
+<word bottom="877" left="1771" right="1915" top="915">
+
+50,198
+</word>
+<word bottom="877" left="2093" right="2239" top="916">
+
+49,488
+</word>
+<word bottom="877" left="2398" right="2512" top="916">
+
+1,530
+</word>
+<word bottom="878" left="2718" right="2861" top="916">
+
+51,018
+</word>
+<word bottom="834" left="323" right="467" top="863">
+Sunset</word>
+<word bottom="835" left="496" right="563" top="865">
+Rd.</word>
+<word bottom="835" left="598" right="644" top="861">
+to</word>
+<word bottom="835" left="675" right="762" top="864">
+
+S.R.
+</word>
+<word bottom="834" left="802" right="893" top="879">
+
+146
+
+c
+</word>
+<word bottom="826" left="1148" right="1292" top="865">
+
+58,232
+</word>
+<word bottom="827" left="1448" right="1566" top="866">
+
+2,426
+</word>
+<word bottom="827" left="1772" right="1915" top="865">
+
+60,658
+</word>
+<word bottom="827" left="2096" right="2238" top="865">
+
+59,183
+</word>
+<word bottom="828" left="2395" right="2513" top="867">
+
+2,466
+</word>
+<word bottom="828" left="2719" right="2862" top="867">
+
+61,649
+</word>
+<word bottom="784" left="323" right="411" top="813">
+
+S.R.
+</word>
+<word bottom="783" left="449" right="515" top="816">
+
+146
+</word>
+<word bottom="784" left="548" right="591" top="810">
+to</word>
+<word bottom="784" left="620" right="842" top="815">
+Henderson</word>
+<word bottom="776" left="1147" right="1291" top="816">
+
+34,162
+</word>
+<word bottom="776" left="1447" right="1562" top="815">
+
+2,181
+</word>
+<word bottom="777" left="1770" right="1913" top="816">
+
+36,343
+</word>
+<word bottom="777" left="2094" right="2239" top="816">
+
+34,720
+</word>
+<word bottom="777" left="2395" right="2511" top="816">
+
+2,216
+</word>
+<word bottom="777" left="2717" right="2861" top="816">
+
+36,936
+</word>
+</words>
+</ocrresult>
+

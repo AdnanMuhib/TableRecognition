@@ -13,7 +13,11 @@ import numpy as np
 # Libraries for Directory creation and
 # copy pasting the files
 import os
-
+import weka.core.jvm as jvm
+import traceback
+# self defined wrapper of python on 
+# weka-python
+import Weka_Machine_Learning as WML
 ################################################
 ################################################
 
@@ -96,13 +100,17 @@ def region_bounder(file, no_of_words, img, word_Width, word_Height):
     return
 
 ##### weka version
-def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr, file_name):
-    wrong_predictions = read_csv_w(file)
+def region_bounder_weka(wrong_predictions, no_of_words, img, word_Width, word_Height, word_x, word_y, arr, file_name):
+    #wrong_predictions = read_csv_w(file)
     img = np.array(Image.open(img))
     fig, ax = plt.subplots(1)
     ax.imshow(img)
     val = 0
-    for i in range(0, no_of_words-1):
+    if (no_of_words - len(wrong_predictions) == 1):
+        length = no_of_words
+    else:
+        length = no_of_words - 1
+    for i in range(0, length):
         if (wrong_predictions[i] == "+"):
             # add the rectangle patches to the plot
             # so it can be displayed to the image
@@ -137,7 +145,7 @@ def region_bounder_weka(file, no_of_words, img, word_Width, word_Height, word_x,
                 ax.add_patch(rect)
     plt.savefig(file_name + ".png", transparent=True, dpi=300)
     plt.close()
-    return arr, wrong_predictions
+    return arr
 ##########################################3
 def region_bounder_weka_via_arr(file, no_of_words, img, word_Width, word_Height, word_x, word_y, arr, file_name):
 # for every table drawing the boundry 
@@ -242,8 +250,99 @@ def read_csv(f):
     return x, y, table, table_pre
 
 ################################################
+
+def write_to_csv(arr, no_of_words, name):
+    #print("table : prediction")
+    words_in_table = 0
+    words_in_table_dected_non_table = 0
+    words_in_non_table = 0
+    words_in_non_table_detected_table = 0
+    for i in range(0, no_of_words):
+        #print(arr[i].table, ":" ,arr[i].prediction)
+        if (arr[i].table == 1 and arr[i].prediction == 1):
+            words_in_table = words_in_table + 1
+        elif (arr[i].table == 0 and arr[i].prediction == 0):
+            words_in_non_table = words_in_non_table + 1
+        elif (arr[i].table == 1 and arr[i].prediction == 0):
+            words_in_table_dected_non_table = words_in_table_dected_non_table + 1
+        elif (arr[i].table == 0 and arr[i].prediction == 1):
+            words_in_non_table_detected_table = words_in_non_table_detected_table + 1
+        elif (arr[i].prediction == None):
+            if (arr[i].table == 1):
+                words_in_table = words_in_table + 1
+            elif (arr[i].table == 0):
+                words_in_non_table = words_in_non_table + 1
+    #print("table : Non Table : wrong Detected Table : wrong Detected Non Table")
+    #print(words_in_table, "   ", words_in_non_table, "   ", words_in_non_table_detected_table, "   ", words_in_table_dected_non_table)
+    _arr = []
+    _arr.append([])
+    _arr[0].append("Table")
+    _arr[0].append("None Table")
+    _arr[0].append("wrong Detected Table")
+    _arr[0].append("wrong Detected Non Table")
+    _arr.append([])
+    _arr[1].append(words_in_table)
+    _arr[1].append(words_in_non_table)
+    _arr[1].append(words_in_non_table_detected_table)
+    _arr[1].append(words_in_table_dected_non_table)
+    
+    TableClass.write_to_csv(_arr, name)
+    return
+
+################################################
+def call_the_interface(img, arff, out, name, name_b):
+    print ("##############################################")
+    print ("This is a testing version of Table Recognition")
+    print ("##############################################")
+    dir = img.split('.png')[0]
+    user = os.path.expanduser("~")
+    table = dir + ".xml"
+    ocr = dir + "_ocr.xml"
+    no_of_words, width, height, x, y, objects, no_of_table = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
+    prediction = WML.weka_cross_validation("F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Train\\Train CSV and ARFF\\WekaModel_y_excluded_included_width.model",
+                                           arff)
+    #region_bounder("C:\\TR_JUNK\\output_lab.csv", no_of_words, img, width, height)
+    arr = region_bounder_weka(prediction, no_of_words, img, width, height, x, y, objects, out)
+    write_to_csv(arr, no_of_words, name_b)
+    new_arr = ground_truth_x(arr, prediction)
+    arr = region_bounder_weka_via_arr(new_arr, no_of_words, img, width, height, x, y, objects, out)
+    write_to_csv(new_arr, no_of_words, name)
+    print ("##############################################")
+    print ("This is a testing version of Table Recognition")
+    print ("##############################################")
+    return
+
+
+
+###########################################################
+def main():
+    create_directory("C:\\TR_JUNK")
+    user = os.path.expanduser("~")
+    create_directory(user + "\\Documents\\TR_JUNK")
+    #dir = raw_input("Please Input the main directory having subfolders : ")
+    dir = "F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Test"
+    after_pre = dir + "\\result after preprocessing\\"
+    before_pre = dir + "\\result before preprocessing\\"
+    for i in range(326, 327):
+        if (i != 330 and i != 332 and i != 336 and i != 341 and i != 343 and i != 344 and i != 345 and i != 351 and i != 352 and i != 357 and i != 360 and i != 363 and i != 370 and i != 371 and i != 377 and i != 379 and i != 380 and i != 383 and i != 387 and i != 390 and i != 393 and i != 394 and i != 398 and i != 404 and i != 410 and i != 412 and i != 423):
+            img = dir + "\\bulk_data\\" + str(i) + ".png"
+            arff = dir + "\\ARFF\\" + str(i) + "_arf.arff"
+            out = "C:\\TR_JUNK\\" + str(i)
+            name = after_pre + str(i)
+            name_b = before_pre + str(i)
+            call_the_interface(img, arff, out, name, name_b)
+    return    
+#################################################
 if __name__ == "__main__":
-    ############################################
+    try:
+        jvm.start()
+        main()
+    except Exception, e:
+        print(traceback.format_exc())
+    finally:
+        jvm.stop()
+#################################################
+    '''
     print ("##############################################")
     print ("This is a testing version of Table Recognition")
     print ("##############################################")
@@ -255,16 +354,18 @@ if __name__ == "__main__":
     table = dir + ".xml"
     ocr = dir + "_ocr.xml"
     no_of_words, width, height, x, y, objects, no_of_table = interface(table, img, ocr, "C:\\TR_JUNK",  user + "\\Documents\\TR_JUNK")
+    prediction = WML.weka_cross_validation("F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Train\\Train CSV and ARFF\\WekaModel_y_excluded_included_width.model",
+                                           "F:\\KICS - Research Officer\\CVML\\RegionBounder\\New folder\\TableRecognition\\Data\\FixedData\\Test\\ARFF\\331_arf.arff")
     #region_bounder("C:\\TR_JUNK\\output_lab.csv", no_of_words, img, width, height)
-    arr, wrong_predictions = region_bounder_weka("D:\\KICS - Research Officer\\CVML\\tablerecognition\\Data\\FixedData\\Test\\ARFF\\336_weka.csv", no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\336")
-    new_arr = ground_truth_x(arr, wrong_predictions)
-    arr = region_bounder_weka_via_arr(new_arr, no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\336")
+    arr = region_bounder_weka(prediction, no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\331")
+    new_arr = ground_truth_x(arr, prediction)
+    arr = region_bounder_weka_via_arr(new_arr, no_of_words, img, width, height, x, y, objects, "C:\\TR_JUNK\\331")
     #ground_truth_y(arr)
     print ("##############################################")
     print ("This is a testing version of Table Recognition")
     print ("##############################################")
-    ############################################
-################################################
-##################END OF FILE###################
+    '''
+#################################################
+##################END OF FILE####################
 ################################################
 

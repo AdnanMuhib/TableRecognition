@@ -26,6 +26,9 @@
     <Compile Include="CSV_Merger.py" />
     <Compile Include="Interface_TableRecognition.py" />
     <Compile Include="UNLV_RegionBounder.py" />
+    <Compile Include="Weka_Machine_Learning.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

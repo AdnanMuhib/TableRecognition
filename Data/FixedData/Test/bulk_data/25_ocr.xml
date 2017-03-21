@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="2550" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543780483.png" width="3312"/>
+<words>
+<word bottom="1937" left="448" right="533" top="1956">
+Therm.</word>
+<word bottom="1907" left="447" right="518" top="1926">
+Mech.</word>
+<word bottom="1869" left="447" right="506" top="1888">
+Unit</word>
+<word bottom="1885" left="508" right="521" top="1903">
+
+d
+</word>
+<word bottom="1670" left="447" right="506" top="1689">
+
+TSwl
+</word>
+<word bottom="1687" left="507" right="522" top="1705">
+
+h
+</word>
+<word bottom="1610" left="447" right="521" top="1645">
+
+TEwli
+</word>
+<word bottom="1793" left="447" right="492" top="1811">
+
+TCw
+</word>
+<word bottom="1732" left="447" right="492" top="1749">
+
+PTn
+</word>
+<word bottom="1550" left="448" right="506" top="1569">
+
+T5w2
+</word>
+<word bottom="1490" left="447" right="506" top="1508">
+
+TSw3
+</word>
+<word bottom="1430" left="448" right="522" top="1448">
+
+CHnlv
+</word>
+<word bottom="1369" left="448" right="521" top="1388">
+
+CHnlz
+</word>
+<word bottom="1308" left="448" right="506" top="1327">
+
+CHn2
+</word>
+<word bottom="1247" left="448" right="507" top="1265">
+
+CHn3
+</word>
+<word bottom="1186" left="448" right="494" top="1203">
+
+PPw
+</word>
+<word bottom="1125" left="448" right="508" top="1143">
+
+CFUn
+</word>
+<word bottom="1064" left="448" right="494" top="1082">
+
+BFw
+</word>
+<word bottom="1004" left="448" right="522" top="1022">
+
+CFMn1
+</word>
+<word bottom="943" left="448" right="522" top="961">
+
+CFMn2
+</word>
+<word bottom="883" left="448" right="522" top="901">
+
+CFMn3
+</word>
+<word bottom="822" left="448" right="494" top="839">
+
+TRw
+</word>
+<word bottom="2013" left="674" right="778" top="2033">
+Thermal</word>
+<word bottom="2013" left="795" right="976" top="2034">
+Conductivit
+y
+</word>
+<word bottom="2013" left="996" right="1053" top="2033">
+
+(U/m
+</word>
+<word bottom="2013" left="1069" right="1095" top="2033">
+
+K)
+</word>
+<word bottom="716" left="449" right="473" top="729">
+a.</word>
+<word bottom="716" left="510" right="552" top="733">
+See</word>
+<word bottom="712" left="569" right="690" top="735">
+Appendix</word>
+<word bottom="716" left="705" right="730" top="734">
+O.</word>
+<word bottom="685" left="448" right="473" top="704">
+b.</word>
+<word bottom="685" left="508" right="612" top="704">
+Thermal</word>
+<word bottom="682" left="630" right="810" top="705">
+conductivity</word>
+<word bottom="686" left="827" right="886" top="705">
+data</word>
+<word bottom="686" left="904" right="947" top="705">
+for</word>
+<word bottom="686" left="964" right="1007" top="706">
+all</word>
+<word bottom="686" left="1023" right="1098" top="706">
+units</word>
+<word bottom="687" left="1115" right="1159" top="706">
+and</word>
+<word bottom="687" left="1176" right="1280" top="706">
+thermal</word>
+<word bottom="651" left="510" right="674" top="674">
+capacitance</word>
+<word bottom="656" left="690" right="750" top="674">
+data</word>
+<word bottom="656" left="767" right="811" top="675">
+for</word>
+<word bottom="655" left="827" right="873" top="674">
+
+PPw
+</word>
+<word bottom="656" left="888" right="932" top="675">
+and</word>
+<word bottom="652" left="948" right="1098" top="676">
+underlying</word>
+<word bottom="657" left="1114" right="1189" top="676">
+units</word>
+<word bottom="657" left="1207" right="1250" top="671">
+are</word>
+<word bottom="657" left="1268" right="1312" top="676">
+for</word>
+<word bottom="625" left="510" right="523" top="639">
+a</word>
+<word bottom="625" left="540" right="643" top="644">
+nominal</word>
+<word bottom="625" left="661" right="810" top="644">
+saturation</word>
+<word bottom="625" left="827" right="855" top="645">
+of</word>
+<word bottom="623" left="874" right="928" top="644">
+
+1.0,
+</word>
+<word bottom="626" left="948" right="1053" top="644">
+whereas</word>
+<word bottom="626" left="1071" right="1173" top="645">
+thermal</word>
+<word bottom="622" left="1191" right="1357" top="646">
+capacitance</word>
+<word bottom="595" left="510" right="568" top="613">
+data</word>
+<word bottom="595" left="586" right="629" top="613">
+for</word>
+<word bottom="595" left="645" right="703" top="613">
+
+CHn3
+</word>
+<word bottom="595" left="721" right="765" top="613">
+and</word>
+<word bottom="591" left="781" right="916" top="615">
+overlying</word>
+<word bottom="595" left="933" right="1007" top="615">
+units</word>
+<word bottom="595" left="1025" right="1068" top="609">
+are</word>
+<word bottom="596" left="1085" right="1235" top="615">
+calculated</word>
+<word bottom="592" left="1251" right="1326" top="616">
+using</word>
+<word bottom="565" left="511" right="673" top="584">
+saturations</word>
+<word bottom="565" left="692" right="751" top="584">
+from</word>
+<word bottom="565" left="765" right="887" top="583">
+
+Montazer
+</word>
+<word bottom="566" left="903" right="946" top="585">
+and</word>
+<word bottom="566" left="962" right="1053" top="585">
+Wilson</word>
+<word bottom="565" left="1072" right="1170" top="585">
+
+(1984).
+</word>
+<word bottom="535" left="450" right="474" top="548">
+
+c.
+</word>
+<word bottom="531" left="510" right="599" top="554">
+Design</word>
+<word bottom="535" left="616" right="703" top="553">
+values</word>
+<word bottom="531" left="722" right="855" top="554">
+represent</word>
+<word bottom="536" left="874" right="916" top="555">
+the</word>
+<word bottom="536" left="933" right="1007" top="555">
+basis</word>
+<word bottom="536" left="1026" right="1069" top="555">
+for</word>
+<word bottom="536" left="1086" right="1144" top="556">
+this</word>
+<word bottom="533" left="1161" right="1278" top="554">
+
+SCP-CDR;
+</word>
+<word bottom="536" left="1297" right="1387" top="556">
+varia-</word>
+<word bottom="501" left="510" right="598" top="524">
+bility</word>
+<word bottom="505" left="615" right="765" top="524">
+evaluation</word>
+<word bottom="501" left="782" right="931" top="524">
+represents</word>
+<word bottom="506" left="947" right="1008" top="520">
+more</word>
+<word bottom="506" left="1025" right="1114" top="524">
+recent</word>
+<word bottom="506" left="1132" right="1235" top="525">
+results</word>
+<word bottom="506" left="1252" right="1280" top="525">
+of</word>
+<word bottom="506" left="1297" right="1357" top="525">
+data</word>
+<word bottom="471" left="511" right="628" top="494">
+analyses</word>
+<word bottom="475" left="646" right="689" top="494">
+and</word>
+<word bottom="475" left="706" right="870" top="494">
+establishes</word>
+<word bottom="472" left="888" right="976" top="490">
+ranges</word>
+<word bottom="476" left="995" right="1039" top="495">
+for</word>
+<word bottom="471" left="1054" right="1216" top="495">
+properties.</word>
+<word bottom="445" left="451" right="475" top="464">
+
+d.
+</word>
+<word bottom="441" left="511" right="600" top="464">
+Figure</word>
+<word bottom="445" left="618" right="659" top="463">
+
+2-6
+</word>
+<word bottom="441" left="675" right="796" top="464">
+provides</word>
+<word bottom="445" left="813" right="826" top="459">
+a</word>
+<word bottom="446" left="843" right="994" top="466">
+definition</word>
+<word bottom="446" left="1010" right="1036" top="465">
+of</word>
+<word bottom="446" left="1056" right="1327" top="466">
+
+thermalftechanical
+</word>
+<word bottom="446" left="1342" right="1429" top="466">
+units.</word>
+<word bottom="415" left="452" right="476" top="428">
+
+e.
+</word>
+<word bottom="415" left="512" right="615" top="434">
+Assumed</word>
+<word bottom="415" left="633" right="661" top="433">
+to</word>
+<word bottom="415" left="677" right="706" top="433">
+be</word>
+<word bottom="415" left="723" right="766" top="433">
+the</word>
+<word bottom="415" left="784" right="842" top="429">
+same</word>
+<word bottom="416" left="859" right="886" top="430">
+as</word>
+<word bottom="415" left="904" right="1069" top="435">
+correlative</word>
+<word bottom="411" left="1085" right="1206" top="434">
+property</word>
+<word bottom="416" left="1224" right="1268" top="435">
+for</word>
+<word bottom="416" left="1283" right="1342" top="436">
+Unit</word>
+<word bottom="416" left="1359" right="1429" top="434">
+
+TSwl.
+</word>
+<word bottom="385" left="453" right="476" top="404">
+
+f.
+</word>
+<word bottom="385" left="512" right="615" top="403">
+
+NA--not
+</word>
+<word bottom="385" left="633" right="777" top="404">
+available.</word>
+<word bottom="350" left="452" right="476" top="368">
+
+g.
+</word>
+<word bottom="354" left="512" right="616" top="373">
+Assumed</word>
+<word bottom="354" left="634" right="661" top="372">
+to</word>
+<word bottom="354" left="677" right="706" top="373">
+be</word>
+<word bottom="354" left="724" right="766" top="372">
+the</word>
+<word bottom="354" left="784" right="842" top="368">
+same</word>
+<word bottom="355" left="859" right="886" top="369">
+as</word>
+<word bottom="354" left="904" right="1069" top="374">
+correlative</word>
+<word bottom="350" left="1085" right="1206" top="373">
+property</word>
+<word bottom="354" left="1224" right="1267" top="374">
+for</word>
+<word bottom="354" left="1283" right="1353" top="373">
+
+TSw3.
+</word>
+<word bottom="2151" left="1578" right="1653" top="2169">
+TABLE</word>
+<word bottom="2152" left="1670" right="1712" top="2170">
+
+2-9
+</word>
+<word bottom="2091" left="1250" right="1356" top="2108">
+THERMAL</word>
+<word bottom="2091" left="1372" right="1523" top="2108">
+PROPERTIES</word>
+<word bottom="2091" left="1538" right="1568" top="2108">
+OF</word>
+<word bottom="2091" left="1586" right="1674" top="2110">
+
+1NTACT
+</word>
+<word bottom="2092" left="1691" right="1751" top="2109">
+ROCK</word>
+<word bottom="2092" left="1767" right="1811" top="2110">
+AND</word>
+<word bottom="2092" left="1826" right="1872" top="2110">
+THE</word>
+<word bottom="2092" left="1888" right="1949" top="2110">
+ROCK</word>
+<word bottom="2093" left="1963" right="2038" top="2114">
+
+MASS8
+</word>
+<word bottom="1971" left="1281" right="1478" top="1991">
+
+Pretransition
+</word>
+<word bottom="1942" left="2435" right="2490" top="1960">
+Var.</word>
+<word bottom="1943" left="2738" right="2793" top="1960">
+Var.</word>
+<word bottom="1911" left="1434" right="1522" top="1940">
+
+Eval.
+
+c
+</word>
+<word bottom="1912" left="1783" right="1872" top="1941">
+
+Eval.
+
+c
+</word>
+<word bottom="1912" left="2147" right="2235" top="1941">
+
+Eval.
+
+c
+</word>
+<word bottom="1912" left="2436" right="2505" top="1932">
+
+Eval.
+</word>
+<word bottom="1909" left="2586" right="2676" top="1932">
+Design</word>
+<word bottom="1913" left="2739" right="2808" top="1931">
+
+Eval.
+</word>
+<word bottom="1874" left="2435" right="2524" top="1904">
+
+Valuec
+</word>
+<word bottom="1875" left="2586" right="2675" top="1904">
+
+Valuec
+</word>
+<word bottom="1875" left="2738" right="2826" top="1904">
+
+Valuec
+</word>
+<word bottom="2016" left="1418" right="1583" top="2036">
+Coefficient</word>
+<word bottom="2016" left="1601" right="1628" top="2034">
+of</word>
+<word bottom="2016" left="1645" right="1749" top="2036">
+Thermal</word>
+<word bottom="2015" left="1768" right="1903" top="2036">
+Expansion</word>
+<word bottom="2015" left="1922" right="1992" top="2050">
+
+(10
+
+-6
+</word>
+<word bottom="2017" left="2010" right="2054" top="2051">
+
+K-1
+</word>
+<word bottom="2015" left="2057" right="2067" top="2036">
+
+)
+</word>
+<word bottom="2017" left="2344" right="2448" top="2036">
+Thermal</word>
+<word bottom="2016" left="2465" right="2630" top="2037">
+Capacitance</word>
+<word bottom="2015" left="2650" right="2764" top="2051">
+
+(J/cm3K)
+</word>
+<word bottom="718" left="1464" right="1489" top="736">
+h.</word>
+<word bottom="687" left="1467" right="1489" top="706">
+1.</word>
+<word bottom="653" left="1465" right="1489" top="676">
+J.</word>
+<word bottom="506" left="1464" right="1489" top="525">
+
+k.
+</word>
+<word bottom="476" left="1467" right="1489" top="495">
+
+1.
+</word>
+<word bottom="446" left="1464" right="1490" top="459">
+
+m
+
+.
+</word>
+<word bottom="416" left="1465" right="1490" top="429">
+
+n
+
+.
+</word>
+<word bottom="1971" left="1645" right="1796" top="1992">
+Transition</word>
+<word bottom="1972" left="1980" right="2191" top="1992">
+
+Posttransition
+</word>
+<word bottom="1972" left="2345" right="2479" top="1991">
+Saturated</word>
+<word bottom="1989" left="2480" right="2495" top="2007">
+
+b
+</word>
+<word bottom="1971" left="2693" right="2737" top="1991">
+Dry</word>
+<word bottom="714" left="1525" right="1734" top="738">
+
+Nonlithophysal
+</word>
+<word bottom="715" left="1754" right="1841" top="738">
+layers</word>
+<word bottom="719" left="1860" right="1887" top="738">
+in</word>
+<word bottom="719" left="1903" right="1963" top="739">
+Unit</word>
+<word bottom="719" left="1979" right="2050" top="738">
+
+TEwl.
+</word>
+<word bottom="683" left="1526" right="1688" top="707">
+
+Lithophysal
+</word>
+<word bottom="685" left="1708" right="1795" top="707">
+layers</word>
+<word bottom="688" left="1814" right="1842" top="708">
+in</word>
+<word bottom="688" left="1858" right="1917" top="708">
+Unit</word>
+<word bottom="688" left="1934" right="2004" top="707">
+
+TSwl.
+</word>
+<word bottom="657" left="1526" right="1570" top="674">
+For</word>
+<word bottom="654" left="1589" right="1749" top="677">
+
+lithophysal
+</word>
+<word bottom="654" left="1770" right="1868" top="677">
+layers,</word>
+<word bottom="658" left="1890" right="1933" top="677">
+the</word>
+<word bottom="658" left="1950" right="2023" top="677">
+total</word>
+<word bottom="654" left="2040" right="2161" top="678">
+porosity</word>
+<word bottom="659" left="2179" right="2205" top="678">
+is</word>
+<word bottom="652" left="2221" right="2253" top="675">
+Ms</word>
+<word bottom="664" left="2271" right="2280" top="672">
+
+•
+</word>
+<word bottom="659" left="2298" right="2314" top="676">
+
+M
+</word>
+<word bottom="659" left="2329" right="2343" top="674">
+
++
+</word>
+<word bottom="652" left="2359" right="2389" top="676">
+•
+A
+</word>
+<word bottom="664" left="2408" right="2416" top="672">
+
+•
+</word>
+<word bottom="659" left="2434" right="2450" top="677">
+A</word>
+<word bottom="659" left="2466" right="2479" top="674">
+
++
+</word>
+<word bottom="652" left="2495" right="2536" top="676">
+
+41,
+</word>
+<word bottom="627" left="1525" right="1600" top="645">
+where</word>
+<word bottom="621" left="1616" right="1646" top="644">
+M.</word>
+<word bottom="628" left="1663" right="1688" top="647">
+is</word>
+<word bottom="628" left="1705" right="1796" top="647">
+matrix</word>
+<word bottom="623" left="1812" right="1944" top="647">
+porosity,</word>
+<word bottom="621" left="1963" right="1994" top="644">
+MA</word>
+<word bottom="628" left="2012" right="2038" top="648">
+is</word>
+<word bottom="628" left="2057" right="2100" top="647">
+the</word>
+<word bottom="624" left="2116" right="2236" top="648">
+porosity</word>
+<word bottom="628" left="2253" right="2281" top="647">
+of</word>
+<word bottom="624" left="2299" right="2585" top="648">
+vapor-phase-altered</word>
+<word bottom="594" left="1525" right="1656" top="616">
+material.</word>
+<word bottom="594" left="1675" right="1690" top="614">
+
+•
+</word>
+<word bottom="597" left="1723" right="1749" top="616">
+is</word>
+<word bottom="597" left="1768" right="1810" top="616">
+the</word>
+<word bottom="597" left="1828" right="1917" top="616">
+volume</word>
+<word bottom="597" left="1935" right="2055" top="617">
+fraction</word>
+<word bottom="594" left="2074" right="2235" top="617">
+
+lithophysal
+</word>
+<word bottom="595" left="2254" right="2385" top="617">
+cavities,</word>
+<word bottom="598" left="2406" right="2449" top="617">
+and</word>
+<word bottom="598" left="2465" right="2480" top="616">
+
+M
+</word>
+<word bottom="599" left="2496" right="2539" top="618">
+and</word>
+<word bottom="599" left="2556" right="2571" top="617">
+A</word>
+<word bottom="599" left="2587" right="2631" top="613">
+are</word>
+<word bottom="567" left="1526" right="1615" top="585">
+volume</word>
+<word bottom="567" left="1633" right="1764" top="587">
+fractions</word>
+<word bottom="568" left="1782" right="1810" top="587">
+of</word>
+<word bottom="568" left="1826" right="1918" top="587">
+matrix</word>
+<word bottom="568" left="1934" right="1978" top="586">
+and</word>
+<word bottom="564" left="1995" right="2282" top="587">
+vapor-phase-altered</word>
+<word bottom="565" left="2298" right="2430" top="588">
+material,</word>
+<word bottom="565" left="2451" right="2631" top="589">
+respectively</word>
+<word bottom="568" left="2650" right="2736" top="590">
+(Price</word>
+<word bottom="536" left="1525" right="1554" top="554">
+et</word>
+<word bottom="534" left="1572" right="1626" top="555">
+al.,</word>
+<word bottom="536" left="1647" right="1730" top="556">
+
+1985).
+</word>
+<word bottom="506" left="1525" right="1630" top="526">
+Assumed</word>
+<word bottom="507" left="1647" right="1674" top="525">
+to</word>
+<word bottom="508" left="1690" right="1719" top="526">
+be</word>
+<word bottom="507" left="1737" right="1780" top="526">
+the</word>
+<word bottom="507" left="1798" right="1856" top="521">
+same</word>
+<word bottom="507" left="1874" right="1902" top="521">
+as</word>
+<word bottom="507" left="1919" right="2085" top="527">
+correlative</word>
+<word bottom="503" left="2101" right="2221" top="526">
+property</word>
+<word bottom="508" left="2239" right="2283" top="527">
+for</word>
+<word bottom="508" left="2299" right="2384" top="526">
+
+CHnlz.
+</word>
+<word bottom="476" left="1525" right="1629" top="496">
+Assumed</word>
+<word bottom="477" left="1647" right="1674" top="495">
+to</word>
+<word bottom="477" left="1690" right="1719" top="496">
+be</word>
+<word bottom="477" left="1737" right="1780" top="496">
+the</word>
+<word bottom="477" left="1798" right="1857" top="491">
+same</word>
+<word bottom="477" left="1874" right="1901" top="491">
+as</word>
+<word bottom="477" left="1919" right="2085" top="497">
+correlative</word>
+<word bottom="473" left="2101" right="2221" top="496">
+property</word>
+<word bottom="477" left="2239" right="2283" top="496">
+for</word>
+<word bottom="478" left="2299" right="2369" top="495">
+
+CFUn.
+</word>
+<word bottom="446" left="1526" right="1630" top="466">
+Assumed</word>
+<word bottom="447" left="1647" right="1675" top="465">
+to</word>
+<word bottom="447" left="1690" right="1720" top="466">
+be</word>
+<word bottom="447" left="1737" right="1781" top="466">
+the</word>
+<word bottom="447" left="1798" right="1858" top="461">
+same</word>
+<word bottom="447" left="1874" right="1902" top="461">
+as</word>
+<word bottom="447" left="1920" right="2086" top="467">
+correlative</word>
+<word bottom="443" left="2101" right="2221" top="466">
+property</word>
+<word bottom="448" left="2239" right="2283" top="466">
+for</word>
+<word bottom="448" left="2299" right="2355" top="465">
+
+BFw.
+</word>
+<word bottom="416" left="1527" right="1630" top="436">
+Assumed</word>
+<word bottom="417" left="1648" right="1675" top="435">
+to</word>
+<word bottom="417" left="1691" right="1720" top="436">
+be</word>
+<word bottom="417" left="1734" right="1781" top="435">
+the</word>
+<word bottom="417" left="1799" right="1857" top="431">
+same</word>
+<word bottom="417" left="1874" right="1902" top="431">
+as</word>
+<word bottom="417" left="1920" right="2086" top="436">
+correlative</word>
+<word bottom="413" left="2102" right="2223" top="435">
+property</word>
+<word bottom="417" left="2240" right="2284" top="436">
+for</word>
+<word bottom="417" left="2300" right="2369" top="436">
+
+CHn2.
+</word>
+<word bottom="377" left="1526" right="1556" top="403">
+
+T
+
+b
+</word>
+<word bottom="389" left="1574" right="1586" top="396">
+
+.
+</word>
+<word bottom="383" left="1602" right="1705" top="407">
+boiling</word>
+<word bottom="382" left="1723" right="1888" top="404">
+temperature</word>
+<word bottom="386" left="1904" right="1932" top="405">
+of</word>
+<word bottom="382" left="1949" right="2009" top="401">
+pore</word>
+<word bottom="387" left="2026" right="2111" top="405">
+water.</word>
+<word bottom="1797" left="2451" right="2509" top="1817">
+
+2.18
+</word>
+<word bottom="1798" left="2602" right="2659" top="1817">
+
+1.86
+</word>
+<word bottom="1799" left="2724" right="2781" top="1817">
+
+1.88
+</word>
+<word bottom="1737" left="2451" right="2508" top="1756">
+
+2.24
+</word>
+<word bottom="1738" left="2602" right="2660" top="1756">
+
+1.09
+</word>
+<word bottom="1738" left="2724" right="2781" top="1756">
+
+1.09
+</word>
+<word bottom="1676" left="2451" right="2508" top="1695">
+
+2.09
+</word>
+<word bottom="1676" left="2602" right="2660" top="1695">
+
+1.88
+</word>
+<word bottom="1676" left="2723" right="2780" top="1695">
+
+1.98
+</word>
+<word bottom="1614" left="2451" right="2508" top="1634">
+
+1.87
+</word>
+<word bottom="1627" left="2510" right="2522" top="1651">
+
+J
+</word>
+<word bottom="1616" left="2602" right="2660" top="1634">
+
+1.38
+</word>
+<word bottom="1615" left="2723" right="2793" top="1651">
+
+1.38i
+</word>
+<word bottom="1555" left="2451" right="2508" top="1574">
+
+2.16
+</word>
+<word bottom="1555" left="2602" right="2660" top="1574">
+
+1.88
+</word>
+<word bottom="1555" left="2723" right="2779" top="1574">
+
+2.17
+</word>
+<word bottom="1494" left="2451" right="2508" top="1514">
+
+2.04
+</word>
+<word bottom="1495" left="2603" right="2660" top="1514">
+
+1.88
+</word>
+<word bottom="1495" left="2723" right="2780" top="1514">
+
+2.45
+</word>
+<word bottom="1434" left="2451" right="2509" top="1453">
+
+2.61
+</word>
+<word bottom="1435" left="2603" right="2660" top="1454">
+
+1.24
+</word>
+<word bottom="1435" left="2724" right="2780" top="1453">
+
+1.26
+</word>
+<word bottom="1373" left="2451" right="2508" top="1393">
+
+2.61
+</word>
+<word bottom="1374" left="2602" right="2659" top="1393">
+
+1.37
+</word>
+<word bottom="1374" left="2724" right="2780" top="1393">
+
+1.36
+</word>
+<word bottom="1312" left="2451" right="2508" top="1332">
+
+2.62
+</word>
+<word bottom="1313" left="2602" right="2659" top="1332">
+
+1.37
+</word>
+<word bottom="1313" left="2723" right="2780" top="1332">
+
+1.51
+</word>
+<word bottom="1251" left="2452" right="2509" top="1270">
+
+2.66
+</word>
+<word bottom="1252" left="2603" right="2660" top="1271">
+
+1.37
+</word>
+<word bottom="1252" left="2725" right="2783" top="1271">
+
+1.30
+</word>
+<word bottom="1190" left="2452" right="2509" top="1210">
+
+2.65
+</word>
+<word bottom="1191" left="2604" right="2661" top="1210">
+
+1.64
+</word>
+<word bottom="1191" left="2725" right="2782" top="1210">
+
+1.65
+</word>
+<word bottom="1129" left="2452" right="2510" top="1149">
+
+2.68
+</word>
+<word bottom="1130" left="2603" right="2661" top="1149">
+
+1.43
+</word>
+<word bottom="1130" left="2725" right="2782" top="1149">
+
+1.43
+</word>
+<word bottom="1069" left="2452" right="2509" top="1088">
+
+2.66
+</word>
+<word bottom="1070" left="2603" right="2661" top="1088">
+
+1.66
+</word>
+<word bottom="1070" left="2725" right="2781" top="1088">
+
+1.66
+</word>
+<word bottom="1008" left="2452" right="2508" top="1028">
+
+2.56
+</word>
+<word bottom="1009" left="2603" right="2661" top="1028">
+
+1.53
+</word>
+<word bottom="1009" left="2725" right="2782" top="1028">
+
+1.52
+</word>
+<word bottom="947" left="2452" right="2509" top="967">
+
+2.61
+</word>
+<word bottom="948" left="2604" right="2661" top="967">
+
+1.53
+</word>
+<word bottom="948" left="2725" right="2781" top="967">
+
+1.61
+</word>
+<word bottom="886" left="2452" right="2509" top="906">
+
+2.62
+</word>
+<word bottom="887" left="2603" right="2661" top="906">
+
+1.53
+</word>
+<word bottom="888" left="2725" right="2782" top="906">
+
+1.50
+</word>
+<word bottom="826" left="2451" right="2509" top="845">
+
+2.58
+</word>
+<word bottom="827" left="2603" right="2661" top="845">
+
+1.79
+</word>
+<word bottom="827" left="2725" right="2782" top="846">
+
+1.79
+</word>
+<word bottom="1906" left="1220" right="1310" top="1930">
+Design</word>
+<word bottom="1911" left="1356" right="1412" top="1928">
+Var.</word>
+<word bottom="1907" left="1571" right="1659" top="1931">
+Design</word>
+<word bottom="1912" left="1706" right="1761" top="1930">
+Var.</word>
+<word bottom="1908" left="1919" right="2009" top="1932">
+Design</word>
+<word bottom="1912" left="2070" right="2126" top="1930">
+Var.</word>
+<word bottom="1908" left="2284" right="2373" top="1932">
+Design</word>
+<word bottom="1872" left="1220" right="1309" top="1901">
+
+Value
+
+c
+</word>
+<word bottom="1873" left="1341" right="1401" top="1890">
+Mean</word>
+<word bottom="1871" left="1463" right="1535" top="1892">
+
+T(C)
+</word>
+<word bottom="1873" left="1569" right="1658" top="1902">
+
+Value
+
+c
+</word>
+<word bottom="1874" left="1706" right="1766" top="1892">
+Mean</word>
+<word bottom="1872" left="1797" right="1869" top="1893">
+
+T(C)
+</word>
+<word bottom="1875" left="1919" right="2008" top="1903">
+
+Value
+
+c
+</word>
+<word bottom="1874" left="2055" right="2115" top="1892">
+Mean</word>
+<word bottom="1872" left="2177" right="2249" top="1893">
+
+T(*C)
+</word>
+<word bottom="1874" left="2283" right="2372" top="1903">
+
+Value
+
+c
+</word>
+<word bottom="1796" left="1236" right="1293" top="1815">
+
+10.7
+</word>
+<word bottom="1797" left="1342" right="1401" top="1825">
+
+8.8e
+</word>
+<word bottom="1797" left="1449" right="1553" top="1826">
+
+25-200e
+</word>
+<word bottom="1797" left="1630" right="1660" top="1815">
+NA</word>
+<word bottom="1814" left="1662" right="1673" top="1833">
+
+f
+</word>
+<word bottom="1798" left="1736" right="1766" top="1816">
+NA</word>
+<word bottom="1798" left="1812" right="1842" top="1817">
+NA</word>
+<word bottom="1798" left="1979" right="2009" top="1817">
+NA</word>
+<word bottom="1798" left="2086" right="2116" top="1816">
+NA</word>
+<word bottom="1798" left="2207" right="2237" top="1817">
+NA</word>
+<word bottom="1798" left="2315" right="2372" top="1817">
+
+2.24
+</word>
+<word bottom="1736" left="1251" right="1294" top="1754">
+
+5.0
+</word>
+<word bottom="1736" left="1342" right="1401" top="1765">
+
+5.3g
+</word>
+<word bottom="1736" left="1449" right="1538" top="1755">
+
+25-150
+</word>
+<word bottom="1747" left="1539" right="1553" top="1766">
+
+s
+</word>
+<word bottom="1736" left="1616" right="1659" top="1754">
+
+5.0
+</word>
+<word bottom="1737" left="1722" right="1764" top="1756">
+
+3.5
+</word>
+<word bottom="1737" left="1814" right="1917" top="1756">
+
+150-350
+</word>
+<word bottom="1737" left="1980" right="2009" top="1755">
+NA</word>
+<word bottom="1737" left="2086" right="2116" top="1755">
+NA</word>
+<word bottom="1737" left="2207" right="2237" top="1755">
+NA</word>
+<word bottom="1737" left="2315" right="2372" top="1755">
+
+2.59
+</word>
+<word bottom="1674" left="1236" right="1292" top="1693">
+
+10.7
+</word>
+<word bottom="1675" left="1342" right="1401" top="1704">
+
+8.8e
+</word>
+<word bottom="1675" left="1449" right="1553" top="1704">
+
+25-200e
+</word>
+<word bottom="1675" left="1601" right="1658" top="1693">
+
+31.8
+</word>
+<word bottom="1676" left="1707" right="1765" top="1694">
+
+31.8
+</word>
+<word bottom="1676" left="1814" right="1917" top="1694">
+
+200-350
+</word>
+<word bottom="1676" left="1979" right="2009" top="1694">
+NA</word>
+<word bottom="1676" left="2085" right="2116" top="1694">
+NA</word>
+<word bottom="1676" left="2207" right="2238" top="1694">
+VA</word>
+<word bottom="1675" left="2315" right="2372" top="1694">
+
+2.25
+</word>
+<word bottom="1613" left="1236" right="1293" top="1632">
+
+10.7
+</word>
+<word bottom="1614" left="1356" right="1387" top="1632">
+NA</word>
+<word bottom="1614" left="1449" right="1538" top="1632">
+
+25-200
+</word>
+<word bottom="1614" left="1602" right="1658" top="1632">
+
+31.8
+</word>
+<word bottom="1615" left="1736" right="1766" top="1633">
+NA</word>
+<word bottom="1615" left="1812" right="1842" top="1633">
+NA</word>
+<word bottom="1615" left="1979" right="2009" top="1633">
+NA</word>
+<word bottom="1615" left="2086" right="2116" top="1633">
+NA</word>
+<word bottom="1615" left="2207" right="2237" top="1633">
+NA</word>
+<word bottom="1615" left="2315" right="2373" top="1633">
+
+1.88
+</word>
+<word bottom="1553" left="1236" right="1293" top="1572">
+
+10.7
+</word>
+<word bottom="1554" left="1342" right="1385" top="1572">
+
+8.8
+</word>
+<word bottom="1554" left="1449" right="1538" top="1572">
+
+25-200
+</word>
+<word bottom="1554" left="1602" right="1658" top="1572">
+
+31.8
+</word>
+<word bottom="1554" left="1707" right="1765" top="1574">
+
+24.0
+</word>
+<word bottom="1553" left="1814" right="1917" top="1574">
+
+200-350
+</word>
+<word bottom="1555" left="1979" right="2009" top="1573">
+NA</word>
+<word bottom="1555" left="2086" right="2116" top="1573">
+NA</word>
+<word bottom="1555" left="2207" right="2237" top="1573">
+NA</word>
+<word bottom="1555" left="2315" right="2372" top="1573">
+
+2.25
+</word>
+<word bottom="1493" left="1236" right="1293" top="1512">
+
+10.7
+</word>
+<word bottom="1494" left="1342" right="1385" top="1512">
+
+5.3
+</word>
+<word bottom="1493" left="1450" right="1538" top="1512">
+
+25-150
+</word>
+<word bottom="1494" left="1601" right="1658" top="1512">
+
+31.8
+</word>
+<word bottom="1495" left="1722" right="1764" top="1513">
+
+3.5
+</word>
+<word bottom="1495" left="1814" right="1917" top="1513">
+
+150-250
+</word>
+<word bottom="1495" left="1979" right="2009" top="1512">
+NA</word>
+<word bottom="1495" left="2086" right="2116" top="1513">
+NA</word>
+<word bottom="1495" left="2207" right="2237" top="1513">
+NA</word>
+<word bottom="1494" left="2315" right="2372" top="1513">
+
+2.25
+</word>
+<word bottom="1433" left="1251" right="1295" top="1452">
+
+5.0
+</word>
+<word bottom="1433" left="1342" right="1401" top="1462">
+
+5.3g
+</word>
+<word bottom="1433" left="1449" right="1553" top="1462">
+
+25-150g
+</word>
+<word bottom="1434" left="1616" right="1674" top="1464">
+
+5.0
+
+g
+</word>
+<word bottom="1435" left="1722" right="1780" top="1463">
+
+3.5
+
+g
+</word>
+<word bottom="1435" left="1814" right="1932" top="1464">
+
+150-250
+
+g
+</word>
+<word bottom="1435" left="1979" right="2009" top="1453">
+NA</word>
+<word bottom="1434" left="2086" right="2116" top="1453">
+NA</word>
+<word bottom="1434" left="2207" right="2237" top="1452">
+VA</word>
+<word bottom="1434" left="2315" right="2371" top="1453">
+
+2.46
+</word>
+<word bottom="1372" left="1251" right="1293" top="1391">
+
+6.7
+</word>
+<word bottom="1373" left="1342" right="1384" top="1391">
+
+6.7
+</word>
+<word bottom="1373" left="1449" right="1508" top="1391">
+
+25-T
+</word>
+<word bottom="1358" left="1509" right="1523" top="1377">
+
+b
+</word>
+<word bottom="1373" left="1586" right="1658" top="1391">
+
+-56.0
+</word>
+<word bottom="1374" left="1691" right="1765" top="1393">
+
+-56.0
+</word>
+<word bottom="1374" left="1812" right="1826" top="1392">
+
+T
+</word>
+<word bottom="1359" left="1827" right="1841" top="1378">
+
+b
+</word>
+<word bottom="1374" left="1843" right="1902" top="1392">
+
+-150
+</word>
+<word bottom="1374" left="1950" right="2007" top="1392">
+
+-4.5
+</word>
+<word bottom="1374" left="2056" right="2114" top="1392">
+
+-4.5
+</word>
+<word bottom="1374" left="2163" right="2267" top="1392">
+
+150-300
+</word>
+<word bottom="1373" left="2315" right="2371" top="1392">
+
+2.46
+</word>
+<word bottom="1311" left="1251" right="1293" top="1330">
+
+6.7
+</word>
+<word bottom="1312" left="1342" right="1384" top="1330">
+
+6.7
+</word>
+<word bottom="1327" left="1386" right="1401" top="1345">
+
+k
+</word>
+<word bottom="1311" left="1449" right="1508" top="1330">
+
+25-T
+</word>
+<word bottom="1296" left="1509" right="1523" top="1315">
+
+b
+</word>
+<word bottom="1312" left="1586" right="1658" top="1330">
+
+-56.0
+</word>
+<word bottom="1313" left="1691" right="1765" top="1331">
+
+-56.0
+</word>
+<word bottom="1328" left="1766" right="1781" top="1347">
+
+k
+</word>
+<word bottom="1313" left="1812" right="1826" top="1330">
+
+T
+</word>
+<word bottom="1297" left="1827" right="1841" top="1316">
+
+b
+</word>
+<word bottom="1313" left="1843" right="1902" top="1331">
+
+-150
+</word>
+<word bottom="1328" left="1903" right="1918" top="1347">
+
+k
+</word>
+<word bottom="1313" left="1950" right="2007" top="1331">
+
+-4.5
+</word>
+<word bottom="1313" left="2056" right="2114" top="1331">
+
+-4.5
+</word>
+<word bottom="1328" left="2116" right="2131" top="1347">
+
+k
+</word>
+<word bottom="1312" left="2163" right="2267" top="1331">
+
+150-300
+</word>
+<word bottom="1327" left="2267" right="2282" top="1346">
+
+k
+</word>
+<word bottom="1312" left="2315" right="2371" top="1331">
+
+2.46
+</word>
+<word bottom="1250" left="1252" right="1294" top="1268">
+
+6.7
+</word>
+<word bottom="1250" left="1343" right="1385" top="1268">
+
+6.7
+</word>
+<word bottom="1265" left="1386" right="1402" top="1285">
+
+k
+</word>
+<word bottom="1250" left="1450" right="1509" top="1269">
+
+25-T
+</word>
+<word bottom="1235" left="1509" right="1524" top="1254">
+
+b
+</word>
+<word bottom="1251" left="1587" right="1659" top="1269">
+
+-56.0
+</word>
+<word bottom="1252" left="1692" right="1766" top="1270">
+
+-56.0
+</word>
+<word bottom="1267" left="1766" right="1782" top="1286">
+
+k
+</word>
+<word bottom="1251" left="1812" right="1827" top="1269">
+
+T
+</word>
+<word bottom="1236" left="1828" right="1842" top="1255">
+
+b
+</word>
+<word bottom="1251" left="1844" right="1903" top="1270">
+
+-150
+</word>
+<word bottom="1267" left="1902" right="1918" top="1286">
+
+k
+</word>
+<word bottom="1251" left="1950" right="2008" top="1270">
+
+-4.5
+</word>
+<word bottom="1251" left="2057" right="2115" top="1270">
+
+-4.5
+</word>
+<word bottom="1267" left="2116" right="2132" top="1286">
+
+k
+</word>
+<word bottom="1251" left="2164" right="2268" top="1270">
+
+150-300
+</word>
+<word bottom="1267" left="2267" right="2283" top="1286">
+1t</word>
+<word bottom="1251" left="2316" right="2373" top="1269">
+
+2.46
+</word>
+<word bottom="1188" left="1252" right="1295" top="1207">
+
+8.3
+</word>
+<word bottom="1188" left="1342" right="1404" top="1218">
+
+8.3
+
+m
+</word>
+<word bottom="1189" left="1450" right="1509" top="1207">
+
+25-7
+</word>
+<word bottom="1174" left="1509" right="1524" top="1192">
+
+b
+</word>
+<word bottom="1205" left="1524" right="1540" top="1219">
+
+m
+</word>
+<word bottom="1189" left="1587" right="1659" top="1208">
+
+-12.0
+</word>
+<word bottom="1190" left="1692" right="1782" top="1220">
+
+-12.0
+
+m
+</word>
+<word bottom="1190" left="1812" right="1827" top="1208">
+
+T
+</word>
+<word bottom="1175" left="1827" right="1842" top="1194">
+
+b
+</word>
+<word bottom="1190" left="1843" right="1920" top="1220">
+
+-125
+
+m
+</word>
+<word bottom="1190" left="1951" right="2009" top="1209">
+
+10.9
+</word>
+<word bottom="1190" left="2058" right="2133" top="1220">
+
+10.9
+
+m
+</word>
+<word bottom="1190" left="2164" right="2221" top="1209">
+
+&gt;125
+</word>
+<word bottom="1206" left="2222" right="2239" top="1220">
+
+m
+</word>
+<word bottom="1190" left="2315" right="2373" top="1208">
+
+2.64
+</word>
+<word bottom="1128" left="1251" right="1294" top="1146">
+
+6.7
+</word>
+<word bottom="1128" left="1342" right="1402" top="1163">
+
+6.7k
+</word>
+<word bottom="1128" left="1450" right="1509" top="1146">
+
+25-7
+</word>
+<word bottom="1113" left="1510" right="1524" top="1132">
+
+b
+</word>
+<word bottom="1129" left="1587" right="1659" top="1147">
+
+-56.0
+</word>
+<word bottom="1130" left="1692" right="1765" top="1148">
+
+-56.0
+</word>
+<word bottom="1145" left="1767" right="1782" top="1164">
+
+k
+</word>
+<word bottom="1115" left="1827" right="1842" top="1133">
+
+b
+</word>
+<word bottom="1129" left="1843" right="1903" top="1148">
+
+-150
+</word>
+<word bottom="1145" left="1903" right="1918" top="1164">
+
+k
+</word>
+<word bottom="1129" left="1950" right="2008" top="1148">
+
+-4.5
+</word>
+<word bottom="1130" left="2057" right="2115" top="1148">
+
+-4.5
+</word>
+<word bottom="1145" left="2117" right="2132" top="1164">
+
+k
+</word>
+<word bottom="1129" left="2164" right="2268" top="1148">
+
+150-300
+</word>
+<word bottom="1145" left="2268" right="2283" top="1164">
+
+k
+</word>
+<word bottom="1129" left="2316" right="2372" top="1148">
+
+2.67
+</word>
+<word bottom="1067" left="1252" right="1294" top="1086">
+
+8.3
+</word>
+<word bottom="1067" left="1343" right="1386" top="1086">
+
+8.3
+</word>
+<word bottom="1067" left="1450" right="1509" top="1086">
+
+25-T
+</word>
+<word bottom="1052" left="1510" right="1524" top="1071">
+
+b
+</word>
+<word bottom="1068" left="1587" right="1659" top="1086">
+
+-12.0
+</word>
+<word bottom="1069" left="1691" right="1766" top="1087">
+
+-12.0
+</word>
+<word bottom="1069" left="1812" right="1827" top="1086">
+
+T
+</word>
+<word bottom="1054" left="1827" right="1842" top="1072">
+
+b
+</word>
+<word bottom="1069" left="1843" right="1901" top="1087">
+
+-125
+</word>
+<word bottom="1069" left="1951" right="2008" top="1087">
+
+10.9
+</word>
+<word bottom="1069" left="2058" right="2115" top="1087">
+
+10.9
+</word>
+<word bottom="1069" left="2164" right="2221" top="1087">
+
+&gt;125
+</word>
+<word bottom="1069" left="2315" right="2373" top="1088">
+
+2.65
+</word>
+<word bottom="1006" left="1252" right="1294" top="1025">
+
+6.7
+</word>
+<word bottom="1007" left="1343" right="1385" top="1025">
+
+6.7
+</word>
+<word bottom="1022" left="1388" right="1402" top="1041">
+
+k
+</word>
+<word bottom="1007" left="1450" right="1509" top="1025">
+
+25-T
+</word>
+<word bottom="991" left="1510" right="1524" top="1010">
+
+b
+</word>
+<word bottom="1007" left="1587" right="1659" top="1026">
+
+-56.0
+</word>
+<word bottom="1008" left="1691" right="1765" top="1026">
+
+-56.0
+</word>
+<word bottom="1024" left="1767" right="1781" top="1042">
+
+k
+</word>
+<word bottom="1008" left="1812" right="1827" top="1026">
+
+T
+</word>
+<word bottom="993" left="1827" right="1842" top="1011">
+
+b
+</word>
+<word bottom="1008" left="1843" right="1902" top="1026">
+
+-150
+</word>
+<word bottom="1024" left="1903" right="1918" top="1042">
+
+k
+</word>
+<word bottom="1008" left="1950" right="2008" top="1027">
+
+-4.5
+</word>
+<word bottom="1008" left="2056" right="2115" top="1027">
+
+-4.5
+</word>
+<word bottom="1024" left="2117" right="2131" top="1043">
+
+k
+</word>
+<word bottom="1008" left="2164" right="2268" top="1027">
+
+150-300
+</word>
+<word bottom="1024" left="2268" right="2283" top="1043">
+
+k
+</word>
+<word bottom="1008" left="2316" right="2373" top="1027">
+
+2.59
+</word>
+<word bottom="946" left="1251" right="1294" top="964">
+
+6.7
+</word>
+<word bottom="946" left="1343" right="1385" top="964">
+
+6.7
+</word>
+<word bottom="961" left="1387" right="1403" top="980">
+
+k
+</word>
+<word bottom="946" left="1450" right="1509" top="964">
+
+25-T
+</word>
+<word bottom="931" left="1510" right="1524" top="950">
+
+b
+</word>
+<word bottom="947" left="1587" right="1659" top="964">
+
+-56.0
+</word>
+<word bottom="947" left="1691" right="1765" top="965">
+
+-56.0
+</word>
+<word bottom="962" left="1767" right="1781" top="981">
+
+k
+</word>
+<word bottom="947" left="1812" right="1827" top="964">
+
+T
+</word>
+<word bottom="932" left="1827" right="1842" top="951">
+
+b
+</word>
+<word bottom="947" left="1843" right="1902" top="965">
+
+-150
+</word>
+<word bottom="962" left="1903" right="1918" top="981">
+
+k
+</word>
+<word bottom="947" left="1950" right="2008" top="965">
+
+-4.5
+</word>
+<word bottom="947" left="2057" right="2115" top="965">
+
+-4.5
+</word>
+<word bottom="962" left="2116" right="2131" top="981">
+
+k
+</word>
+<word bottom="947" left="2164" right="2268" top="966">
+
+150-300
+</word>
+<word bottom="962" left="2268" right="2283" top="981">
+
+k
+</word>
+<word bottom="947" left="2316" right="2373" top="966">
+
+2.59
+</word>
+<word bottom="885" left="1252" right="1294" top="904">
+
+6.7
+</word>
+<word bottom="885" left="1343" right="1385" top="904">
+
+6.7
+</word>
+<word bottom="901" left="1388" right="1402" top="919">
+
+k
+</word>
+<word bottom="885" left="1450" right="1509" top="903">
+
+25-T
+</word>
+<word bottom="870" left="1510" right="1524" top="889">
+
+b
+</word>
+<word bottom="886" left="1587" right="1659" top="904">
+
+-56.0
+</word>
+<word bottom="886" left="1706" right="1765" top="905">
+56.0</word>
+<word bottom="887" left="1950" right="2008" top="905">
+
+-4.5
+</word>
+<word bottom="887" left="2057" right="2115" top="905">
+
+-4.5
+</word>
+<word bottom="902" left="2116" right="2131" top="921">
+
+k
+</word>
+<word bottom="886" left="2164" right="2268" top="905">
+
+150-300
+</word>
+<word bottom="902" left="2268" right="2283" top="921">
+
+k
+</word>
+<word bottom="886" left="2316" right="2373" top="905">
+
+2.59
+</word>
+<word bottom="824" left="1252" right="1295" top="842">
+
+8.3
+</word>
+<word bottom="824" left="1343" right="1386" top="842">
+
+8.3
+</word>
+<word bottom="839" left="1387" right="1404" top="853">
+
+m
+</word>
+<word bottom="824" left="1450" right="1509" top="842">
+
+25-T
+</word>
+<word bottom="809" left="1510" right="1524" top="828">
+
+b
+</word>
+<word bottom="840" left="1524" right="1540" top="854">
+
+m
+</word>
+<word bottom="825" left="1587" right="1659" top="843">
+
+-12.0
+</word>
+<word bottom="825" left="1691" right="1782" top="854">
+
+-12.0
+
+m
+</word>
+<word bottom="825" left="1812" right="1826" top="842">
+
+T
+</word>
+<word bottom="810" left="1827" right="1842" top="829">
+
+b
+</word>
+<word bottom="825" left="1843" right="1919" top="855">
+
+-125
+
+m
+</word>
+<word bottom="825" left="1951" right="2008" top="844">
+
+10.9
+</word>
+<word bottom="826" left="2057" right="2132" top="855">
+
+10.9
+
+m
+</word>
+<word bottom="826" left="2164" right="2238" top="855">
+
+&gt;125
+
+m
+</word>
+<word bottom="826" left="2315" right="2372" top="845">
+
+2.57
+</word>
+<word bottom="1968" left="630" right="763" top="1987">
+Saturated</word>
+<word bottom="1984" left="764" right="779" top="2003">
+
+b
+</word>
+<word bottom="1969" left="1023" right="1067" top="1988">
+Dry</word>
+<word bottom="1903" left="554" right="643" top="1927">
+Design</word>
+<word bottom="1869" left="553" right="627" top="1888">
+Value</word>
+<word bottom="1885" left="630" right="642" top="1898">
+
+c
+</word>
+<word bottom="1908" left="689" right="744" top="1926">
+Var.</word>
+<word bottom="1908" left="765" right="854" top="1938">
+
+Eval.
+
+c
+</word>
+<word bottom="1905" left="887" right="976" top="1929">
+Design</word>
+<word bottom="1871" left="886" right="975" top="1901">
+
+Value
+
+c
+</word>
+<word bottom="1910" left="1022" right="1078" top="1927">
+Var.</word>
+<word bottom="1910" left="1099" right="1188" top="1939">
+
+Eval.c
+</word>
+<word bottom="1870" left="673" right="733" top="1888">
+Mean</word>
+<word bottom="1865" left="779" right="857" top="1888">
+!Rut</word>
+<word bottom="1872" left="1007" right="1067" top="1889">
+Mean</word>
+<word bottom="1867" left="1113" right="1190" top="1890">
+game</word>
+<word bottom="1793" left="569" right="627" top="1812">
+
+2.00
+</word>
+<word bottom="1794" left="675" right="748" top="1823">
+
+2.03
+
+e
+</word>
+<word bottom="1794" left="780" right="855" top="1825">
+
+0.206
+</word>
+<word bottom="1795" left="902" right="960" top="1814">
+
+1.90
+</word>
+<word bottom="1795" left="1008" right="1082" top="1825">
+
+1.76°
+</word>
+<word bottom="1796" left="1113" right="1188" top="1825">
+
+0.29
+
+e
+</word>
+<word bottom="1732" left="570" right="626" top="1751">
+
+1.17
+</word>
+<word bottom="1732" left="675" right="732" top="1751">
+
+1.35
+</word>
+<word bottom="1733" left="780" right="838" top="1751">
+
+0.06
+</word>
+<word bottom="1734" left="903" right="960" top="1753">
+
+1.02
+</word>
+<word bottom="1735" left="1008" right="1065" top="1753">
+
+1.02
+</word>
+<word bottom="1735" left="1113" right="1172" top="1754">
+
+0.19
+</word>
+<word bottom="1671" left="569" right="626" top="1690">
+
+2.07
+</word>
+<word bottom="1671" left="675" right="732" top="1690">
+
+2.03
+</word>
+<word bottom="1672" left="780" right="839" top="1690">
+
+0.20
+</word>
+<word bottom="1673" left="902" right="959" top="1692">
+
+1.91
+</word>
+<word bottom="1674" left="1008" right="1065" top="1692">
+
+1.76
+</word>
+<word bottom="1674" left="1113" right="1172" top="1692">
+
+0.29
+</word>
+<word bottom="1610" left="570" right="626" top="1629">
+
+1.16
+</word>
+<word bottom="1611" left="675" right="731" top="1629">
+
+1.96
+</word>
+<word bottom="1611" left="780" right="839" top="1629">
+
+0.41
+</word>
+<word bottom="1613" left="901" right="959" top="1631">
+
+0.85
+</word>
+<word bottom="1613" left="1008" right="1065" top="1631">
+
+1.21
+</word>
+<word bottom="1613" left="1113" right="1172" top="1631">
+
+0.14
+</word>
+<word bottom="1550" left="569" right="626" top="1569">
+
+2.07
+</word>
+<word bottom="1551" left="675" right="732" top="1570">
+
+2.29
+</word>
+<word bottom="1551" left="780" right="837" top="1570">
+
+0.17
+</word>
+<word bottom="1552" left="902" right="960" top="1571">
+
+1.91
+</word>
+<word bottom="1553" left="1009" right="1066" top="1572">
+
+1.88
+</word>
+<word bottom="1553" left="1113" right="1172" top="1572">
+
+0.24
+</word>
+<word bottom="1491" left="570" right="626" top="1509">
+
+2.07
+</word>
+<word bottom="1491" left="675" right="732" top="1509">
+
+1.34
+</word>
+<word bottom="1491" left="780" right="839" top="1510">
+
+0.10
+</word>
+<word bottom="1492" left="902" right="960" top="1511">
+
+1.91
+</word>
+<word bottom="1493" left="1009" right="1067" top="1511">
+
+1.40
+</word>
+<word bottom="1493" left="1113" right="1171" top="1511">
+
+0.16
+</word>
+<word bottom="1430" left="570" right="626" top="1449">
+
+1.21
+</word>
+<word bottom="1431" left="675" right="732" top="1450">
+
+1.35
+</word>
+<word bottom="1431" left="779" right="837" top="1450">
+
+0.06
+</word>
+<word bottom="1432" left="902" right="959" top="1451">
+
+1.02
+</word>
+<word bottom="1432" left="1008" right="1066" top="1451">
+
+1.02
+</word>
+<word bottom="1433" left="1113" right="1172" top="1451">
+
+0.19
+</word>
+<word bottom="1369" left="569" right="626" top="1388">
+
+1.35
+</word>
+<word bottom="1370" left="675" right="732" top="1389">
+
+1.48
+</word>
+<word bottom="1371" left="779" right="837" top="1389">
+
+0.17
+</word>
+<word bottom="1372" left="902" right="959" top="1390">
+
+1.03
+</word>
+<word bottom="1372" left="1008" right="1065" top="1391">
+
+1.01
+</word>
+<word bottom="1372" left="1113" right="1172" top="1391">
+
+0.14
+</word>
+<word bottom="1308" left="570" right="627" top="1327">
+
+1.35
+</word>
+<word bottom="1309" left="675" right="732" top="1328">
+
+1.61
+</word>
+<word bottom="1309" left="779" right="838" top="1328">
+
+0.04
+</word>
+<word bottom="1310" left="902" right="959" top="1329">
+
+1.03
+</word>
+<word bottom="1311" left="1008" right="1065" top="1330">
+
+1.21
+</word>
+<word bottom="1311" left="1113" right="1172" top="1330">
+
+0.04
+</word>
+<word bottom="1247" left="571" right="628" top="1265">
+
+1.35
+</word>
+<word bottom="1247" left="676" right="748" top="1282">
+
+1.43
+
+1
+</word>
+<word bottom="1248" left="780" right="855" top="1284">
+
+0.031
+</word>
+<word bottom="1249" left="903" right="960" top="1267">
+
+1.03
+</word>
+<word bottom="1249" left="1009" right="1081" top="1284">
+
+1.04
+
+1
+</word>
+<word bottom="1250" left="1114" right="1188" top="1284">
+
+0.05
+
+1
+</word>
+<word bottom="1185" left="570" right="628" top="1204">
+
+2.00
+</word>
+<word bottom="1186" left="675" right="734" top="1205">
+
+2.00
+</word>
+<word bottom="1202" left="733" right="750" top="1216">
+
+m
+</word>
+<word bottom="1186" left="780" right="838" top="1205">
+
+0.27
+</word>
+<word bottom="1203" left="840" right="857" top="1217">
+
+m
+</word>
+<word bottom="1188" left="903" right="960" top="1206">
+
+1.35
+</word>
+<word bottom="1188" left="1009" right="1066" top="1207">
+
+1.35
+</word>
+<word bottom="1204" left="1067" right="1084" top="1218">
+
+m
+</word>
+<word bottom="1188" left="1114" right="1174" top="1207">
+
+0.30
+</word>
+<word bottom="1204" left="1174" right="1191" top="1218">
+
+m
+</word>
+<word bottom="1125" left="570" right="628" top="1143">
+
+1.43
+</word>
+<word bottom="1125" left="676" right="733" top="1144">
+
+1.43
+</word>
+<word bottom="1126" left="780" right="839" top="1144">
+
+0.03
+</word>
+<word bottom="1127" left="903" right="960" top="1145">
+
+1.04
+</word>
+<word bottom="1127" left="1009" right="1066" top="1146">
+
+1.04
+</word>
+<word bottom="1128" left="1114" right="1173" top="1146">
+
+0.05
+</word>
+<word bottom="1065" left="570" right="629" top="1083">
+
+2.00
+</word>
+<word bottom="1065" left="676" right="734" top="1084">
+
+2.00
+</word>
+<word bottom="1065" left="780" right="838" top="1084">
+
+0.27
+</word>
+<word bottom="1066" left="903" right="960" top="1085">
+
+1.35
+</word>
+<word bottom="1066" left="1009" right="1066" top="1085">
+
+1.35
+</word>
+<word bottom="1067" left="1114" right="1174" top="1085">
+
+0.30
+</word>
+<word bottom="1004" left="571" right="628" top="1023">
+
+1.48
+</word>
+<word bottom="1004" left="676" right="733" top="1023">
+
+1.43
+</word>
+<word bottom="1005" left="781" right="840" top="1023">
+
+0.00
+</word>
+<word bottom="1006" left="903" right="960" top="1025">
+
+1.13
+</word>
+<word bottom="1006" left="1009" right="1066" top="1024">
+
+1.11
+</word>
+<word bottom="1006" left="1114" right="1172" top="1025">
+
+0.07
+</word>
+<word bottom="943" left="571" right="628" top="961">
+
+1.48
+</word>
+<word bottom="944" left="676" right="750" top="973">
+
+1.61n
+</word>
+<word bottom="944" left="781" right="856" top="974">
+
+0.04
+
+n
+</word>
+<word bottom="945" left="903" right="960" top="964">
+
+1.13
+</word>
+<word bottom="945" left="1009" right="1083" top="975">
+
+1.21
+
+n
+</word>
+<word bottom="946" left="1114" right="1190" top="975">
+
+0.04
+
+n
+</word>
+<word bottom="883" left="571" right="628" top="901">
+
+1.48
+</word>
+<word bottom="883" left="677" right="733" top="901">
+
+1.46
+</word>
+<word bottom="883" left="796" right="826" top="902">
+VA</word>
+<word bottom="884" left="903" right="960" top="903">
+
+1.13
+</word>
+<word bottom="884" left="1009" right="1066" top="903">
+
+1.11
+</word>
+<word bottom="885" left="1129" right="1160" top="903">
+NA</word>
+<word bottom="822" left="570" right="628" top="840">
+
+2.09
+</word>
+<word bottom="822" left="676" right="734" top="841">
+
+2.09
+</word>
+<word bottom="822" left="781" right="840" top="841">
+
+0.18
+</word>
+<word bottom="823" left="903" right="961" top="842">
+
+1.79
+</word>
+<word bottom="823" left="1010" right="1067" top="842">
+
+1.79
+</word>
+<word bottom="824" left="1114" right="1172" top="843">
+
+0.37
+</word>
+</words>
+</ocrresult>
+

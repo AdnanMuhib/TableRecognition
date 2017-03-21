@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543861840.png" width="2560"/>
+<words>
+<word bottom="2956" left="303" right="326" top="2987">
+
+T
+</word>
+<word bottom="2932" left="330" right="348" top="2952">
+a</word>
+<word bottom="2968" left="456" right="473" top="2973">
+
+-
+</word>
+<word bottom="2956" left="504" right="601" top="2986">
+AIRY</word>
+<word bottom="2968" left="708" right="719" top="2974">
+
+.
+</word>
+<word bottom="2950" left="762" right="849" top="2990">
+
+.:010
+</word>
+<word bottom="2947" left="1185" right="1456" top="2983">
+temperature</word>
+<word bottom="2956" left="1486" right="1532" top="2987">
+of</word>
+<word bottom="2956" left="1562" right="1631" top="2987">
+the</word>
+<word bottom="2956" left="1662" right="1733" top="2986">
+air</word>
+<word bottom="2956" left="1762" right="1807" top="2982">
+at</word>
+<word bottom="2956" left="1837" right="1857" top="2977">
+a</word>
+<word bottom="2955" left="1889" right="2085" top="2987">
+standard</word>
+<word bottom="2906" left="1235" right="1431" top="2936">
+distance</word>
+<word bottom="2907" left="1461" right="1581" top="2937">
+above</word>
+<word bottom="2907" left="1611" right="1681" top="2937">
+the</word>
+<word bottom="2897" left="1710" right="1808" top="2936">
+body</word>
+<word bottom="2906" left="1837" right="1883" top="2936">
+of</word>
+<word bottom="2906" left="1911" right="2052" top="2932">
+water.</word>
+<word bottom="2807" left="303" right="325" top="2838">
+
+T
+</word>
+<word bottom="2782" left="327" right="349" top="2813">
+
+b
+</word>
+<word bottom="2818" left="456" right="474" top="2824">
+
+-
+</word>
+<word bottom="2806" left="504" right="627" top="2837">
+BASET</word>
+<word bottom="2819" left="708" right="724" top="2825">
+
+-
+</word>
+<word bottom="2801" left="762" right="848" top="2841">
+
+(°K)
+</word>
+<word bottom="2798" left="1185" right="1407" top="2837">
+arbitrary</word>
+<word bottom="2808" left="1433" right="1531" top="2838">
+base</word>
+<word bottom="2798" left="1562" right="1832" top="2834">
+temperature</word>
+<word bottom="2807" left="1862" right="1908" top="2837">
+of</word>
+<word bottom="2807" left="1938" right="2008" top="2837">
+the</word>
+<word bottom="2797" left="2036" right="2136" top="2837">
+body</word>
+<word bottom="2806" left="2165" right="2210" top="2836">
+of</word>
+<word bottom="2749" left="1233" right="1375" top="2784">
+water;</word>
+<word bottom="2733" left="1409" right="1455" top="2788">
+
+T
+
+b
+</word>
+<word bottom="2765" left="1485" right="1506" top="2780">
+
+=
+</word>
+<word bottom="2756" left="1536" right="1749" top="2790">
+
+273.15°K.
+</word>
+<word bottom="2657" left="303" right="342" top="2688">
+T.</word>
+<word bottom="2669" left="456" right="474" top="2675">
+
+-
+</word>
+<word bottom="2669" left="708" right="725" top="2674">
+
+-
+</word>
+<word bottom="2651" left="761" right="849" top="2691">
+
+(°K)
+</word>
+<word bottom="2656" left="1182" right="1282" top="2678">
+mean</word>
+<word bottom="2649" left="1310" right="1581" top="2685">
+temperature</word>
+<word bottom="2658" left="1611" right="1657" top="2688">
+of</word>
+<word bottom="2658" left="1688" right="1758" top="2689">
+
+ith
+</word>
+<word bottom="2658" left="1788" right="1932" top="2679">
+source</word>
+<word bottom="2657" left="1963" right="2009" top="2688">
+of</word>
+<word bottom="2656" left="2038" right="2235" top="2687">
+
+advected
+</word>
+<word bottom="2633" left="330" right="348" top="2653">
+
+1
+</word>
+<word bottom="2607" left="1233" right="1374" top="2634">
+water.</word>
+<word bottom="2509" left="302" right="344" top="2547">
+T.</word>
+<word bottom="2521" left="456" right="474" top="2527">
+
+-
+</word>
+<word bottom="2520" left="708" right="725" top="2526">
+
+_
+</word>
+<word bottom="2502" left="762" right="849" top="2542">
+
+(90
+</word>
+<word bottom="2507" left="1182" right="1282" top="2528">
+mean</word>
+<word bottom="2499" left="1310" right="1580" top="2535">
+temperature</word>
+<word bottom="2509" left="1611" right="1656" top="2539">
+of</word>
+<word bottom="2500" left="1685" right="1758" top="2539">
+
+jth
+</word>
+<word bottom="2500" left="1788" right="1908" top="2540">
+layer</word>
+<word bottom="2508" left="1937" right="1983" top="2539">
+of</word>
+<word bottom="2508" left="2014" right="2108" top="2539">
+lake</word>
+<word bottom="2476" left="327" right="344" top="2505">
+
+J
+</word>
+<word bottom="2457" left="1232" right="1373" top="2485">
+water.</word>
+<word bottom="2360" left="302" right="324" top="2390">
+
+T
+</word>
+<word bottom="2335" left="328" right="348" top="2356">
+
+o
+</word>
+<word bottom="2372" left="456" right="473" top="2377">
+
+-
+</word>
+<word bottom="2359" left="503" right="652" top="2390">
+WATERT</word>
+<word bottom="2371" left="707" right="725" top="2377">
+
+-
+</word>
+<word bottom="2353" left="761" right="848" top="2393">
+
+(°K)
+</word>
+<word bottom="2357" left="1185" right="1355" top="2387">
+surface</word>
+<word bottom="2350" left="1385" right="1655" top="2385">
+temperature</word>
+<word bottom="2359" left="1685" right="1731" top="2389">
+of</word>
+<word bottom="2359" left="1761" right="1830" top="2390">
+the</word>
+<word bottom="2350" left="1859" right="1959" top="2390">
+body</word>
+<word bottom="2359" left="1988" right="2033" top="2389">
+of</word>
+<word bottom="2358" left="2060" right="2184" top="2385">
+water</word>
+<word bottom="2300" left="1233" right="1481" top="2339">
+undergoing</word>
+<word bottom="2300" left="1510" right="1799" top="2339">
+evaporation.</word>
+<word bottom="2186" left="302" right="349" top="2241">
+T
+d
+</word>
+<word bottom="2177" left="351" right="373" top="2207">
+
+p
+</word>
+<word bottom="2222" left="456" right="473" top="2228">
+
+-
+</word>
+<word bottom="2210" left="503" right="627" top="2241">
+
+DEWPT
+</word>
+<word bottom="2222" left="707" right="725" top="2228">
+
+-
+</word>
+<word bottom="2205" left="761" right="848" top="2244">
+
+(°K)
+</word>
+<word bottom="2200" left="1184" right="1380" top="2240">
+
+dewpoint
+</word>
+<word bottom="2201" left="1410" right="1700" top="2237">
+temperature,</word>
+<word bottom="2210" left="1736" right="1805" top="2240">
+the</word>
+<word bottom="2201" left="1836" right="2108" top="2237">
+temperature</word>
+<word bottom="2210" left="2139" right="2183" top="2236">
+to</word>
+<word bottom="2160" left="1232" right="1356" top="2191">
+which</word>
+<word bottom="2160" left="1385" right="1404" top="2181">
+a</word>
+<word bottom="2151" left="1433" right="1579" top="2190">
+parcel</word>
+<word bottom="2160" left="1611" right="1656" top="2190">
+of</word>
+<word bottom="2160" left="1685" right="1757" top="2190">
+air</word>
+<word bottom="2160" left="1783" right="1882" top="2187">
+must</word>
+<word bottom="2160" left="1910" right="1956" top="2190">
+be</word>
+<word bottom="2160" left="1989" right="2133" top="2191">
+cooled</word>
+<word bottom="2160" left="2163" right="2209" top="2186">
+at</word>
+<word bottom="2110" left="1236" right="1431" top="2138">
+constant</word>
+<word bottom="2102" left="1458" right="1655" top="2132">
+pressure</word>
+<word bottom="2110" left="1686" right="1756" top="2141">
+and</word>
+<word bottom="2102" left="1783" right="2058" top="2137">
+water-vapor</word>
+<word bottom="2109" left="2089" right="2259" top="2136">
+content</word>
+<word bottom="2060" left="1235" right="1279" top="2087">
+to</word>
+<word bottom="2060" left="1310" right="1479" top="2091">
+achieve</word>
+<word bottom="2060" left="1511" right="1774" top="2090">
+saturation.</word>
+<word bottom="1963" left="300" right="325" top="1993">
+
+T
+</word>
+<word bottom="1938" left="328" right="373" top="1968">
+
+ab
+</word>
+<word bottom="1973" left="456" right="473" top="1979">
+
+-
+</word>
+<word bottom="1962" left="503" right="651" top="1992">
+
+TAUALB
+</word>
+<word bottom="1973" left="707" right="725" top="1979">
+
+-
+</word>
+<word bottom="1955" left="761" right="1125" top="1995">
+(dimensionless)</word>
+<word bottom="1953" left="1184" right="1454" top="1993">
+atmospheric</word>
+<word bottom="1961" left="1485" right="1782" top="1991">
+transmission</word>
+<word bottom="1961" left="1812" right="2082" top="1992">
+coefficient</word>
+<word bottom="1903" left="1236" right="1455" top="1943">
+resulting</word>
+<word bottom="1912" left="1486" right="1582" top="1942">
+from</word>
+<word bottom="1912" left="1612" right="1730" top="1943">
+cloud</word>
+<word bottom="1912" left="1760" right="1925" top="1943">
+albedo.</word>
+<word bottom="1813" left="300" right="325" top="1844">
+
+T
+</word>
+<word bottom="1788" left="328" right="372" top="1819">
+
+da
+</word>
+<word bottom="1824" left="455" right="472" top="1830">
+
+-
+</word>
+<word bottom="1812" left="503" right="653" top="1843">
+
+TAUDRY
+</word>
+<word bottom="1824" left="707" right="725" top="1830">
+
+-
+</word>
+<word bottom="1805" left="761" right="1124" top="1846">
+(dimensionless)</word>
+<word bottom="1803" left="1184" right="1455" top="1843">
+atmospheric</word>
+<word bottom="1812" left="1485" right="1783" top="1842">
+transmission</word>
+<word bottom="1812" left="1812" right="2083" top="1843">
+coefficient</word>
+<word bottom="1811" left="2114" right="2282" top="1842">
+result-</word>
+<word bottom="1754" left="1235" right="1305" top="1791">
+ing</word>
+<word bottom="1762" left="1335" right="1432" top="1793">
+from</word>
+<word bottom="1754" left="1460" right="1631" top="1793">
+dry-air</word>
+<word bottom="1754" left="1661" right="1925" top="1793">
+scattering.</word>
+<word bottom="1664" left="300" right="325" top="1695">
+
+T
+</word>
+<word bottom="1639" left="326" right="373" top="1660">
+
+wa
+</word>
+<word bottom="1675" left="455" right="472" top="1681">
+
+-
+</word>
+<word bottom="1663" left="503" right="651" top="1694">
+
+TAUWET
+</word>
+<word bottom="1657" left="762" right="1124" top="1696">
+
+flimPnsir,-less)
+</word>
+<word bottom="1655" left="1184" right="1454" top="1694">
+atmospheric</word>
+<word bottom="1664" left="1485" right="1782" top="1693">
+transmission</word>
+<word bottom="1663" left="1811" right="2082" top="1694">
+coefficient</word>
+<word bottom="1662" left="2114" right="2282" top="1693">
+result-</word>
+<word bottom="1605" left="1236" right="1306" top="1642">
+ing</word>
+<word bottom="1614" left="1336" right="1432" top="1644">
+from</word>
+<word bottom="1605" left="1458" right="1732" top="1640">
+water-vapor</word>
+<word bottom="1605" left="1761" right="2026" top="1645">
+absorption.</word>
+<word bottom="1525" left="456" right="473" top="1531">
+
+-
+</word>
+<word bottom="1513" left="504" right="677" top="1544">
+
+TAUSCAT
+</word>
+<word bottom="1507" left="762" right="1125" top="1547">
+
+(air.,ensionless)
+</word>
+<word bottom="1505" left="1184" right="1455" top="1545">
+atmospheric</word>
+<word bottom="1514" left="1486" right="1783" top="1544">
+transmission</word>
+<word bottom="1513" left="1812" right="2083" top="1544">
+coefficient</word>
+<word bottom="1513" left="2114" right="2282" top="1544">
+result-</word>
+<word bottom="1455" left="1236" right="1306" top="1492">
+ing</word>
+<word bottom="1464" left="1336" right="1432" top="1494">
+from</word>
+<word bottom="1455" left="1458" right="1732" top="1491">
+water-vapor</word>
+<word bottom="1455" left="1762" right="2026" top="1493">
+scattering.</word>
+<word bottom="1375" left="708" right="725" top="1381">
+
+-
+</word>
+<word bottom="1357" left="762" right="829" top="1397">
+(cm</word>
+<word bottom="1357" left="858" right="949" top="1402">
+
+s
+
+-1)
+</word>
+<word bottom="1363" left="1182" right="1280" top="1394">
+wind</word>
+<word bottom="1356" left="1308" right="1524" top="1395">
+velocity.</word>
+<word bottom="1263" left="301" right="342" top="1294">
+V.</word>
+<word bottom="1275" left="707" right="724" top="1280">
+
+-
+</word>
+<word bottom="1257" left="761" right="873" top="1300">
+
+(cm
+
+3)
+</word>
+<word bottom="1263" left="1182" right="1329" top="1294">
+volume</word>
+<word bottom="1264" left="1360" right="1406" top="1294">
+of</word>
+<word bottom="1265" left="1433" right="1556" top="1291">
+water</word>
+<word bottom="1256" left="1587" right="1706" top="1294">
+input</word>
+<word bottom="1265" left="1736" right="1780" top="1292">
+to</word>
+<word bottom="1265" left="1811" right="1881" top="1296">
+the</word>
+<word bottom="1265" left="1913" right="2007" top="1295">
+lake</word>
+<word bottom="1264" left="2039" right="2134" top="1294">
+from</word>
+<word bottom="1263" left="2163" right="2233" top="1294">
+the</word>
+<word bottom="1239" left="330" right="347" top="1259">
+
+1
+</word>
+<word bottom="1214" left="1236" right="1306" top="1245">
+
+ith
+</word>
+<word bottom="1215" left="1336" right="1529" top="1245">
+surface-</word>
+<word bottom="1215" left="1560" right="1606" top="1236">
+or</word>
+<word bottom="1206" left="1636" right="1932" top="1246">
+ground-water</word>
+<word bottom="1215" left="1963" right="2126" top="1236">
+source.</word>
+<word bottom="1126" left="456" right="472" top="1131">
+
+-
+</word>
+<word bottom="1114" left="502" right="626" top="1144">
+
+WLOFT
+</word>
+<word bottom="1126" left="707" right="724" top="1131">
+
+-
+</word>
+<word bottom="1108" left="761" right="848" top="1148">
+(cm)</word>
+<word bottom="1105" left="1182" right="1480" top="1146">
+
+precipitable
+</word>
+<word bottom="1115" left="1508" right="1631" top="1142">
+water</word>
+<word bottom="1107" left="1661" right="1800" top="1146">
+aloft,</word>
+<word bottom="1110" left="1840" right="1957" top="1150">
+(that</word>
+<word bottom="1107" left="1989" right="2052" top="1145">
+is,</word>
+<word bottom="1114" left="2088" right="2208" top="1145">
+total</word>
+<word bottom="1056" left="1232" right="1506" top="1091">
+water-vapor</word>
+<word bottom="1065" left="1536" right="1706" top="1092">
+content</word>
+<word bottom="1065" left="1736" right="1782" top="1095">
+of</word>
+<word bottom="1065" left="1811" right="1881" top="1096">
+the</word>
+<word bottom="1065" left="1911" right="1983" top="1095">
+air</word>
+<word bottom="1065" left="2012" right="2058" top="1092">
+at</word>
+<word bottom="1064" left="2087" right="2157" top="1095">
+all</word>
+<word bottom="1008" left="1236" right="1423" top="1048">
+levels).</word>
+<word bottom="912" left="301" right="340" top="944">
+
+w'
+</word>
+<word bottom="923" left="707" right="724" top="929">
+
+-
+</word>
+<word bottom="906" left="761" right="829" top="945">
+(cm</word>
+<word bottom="906" left="858" right="948" top="951">
+
+s
+
+-1)
+</word>
+<word bottom="911" left="1184" right="1429" top="943">
+difference</word>
+<word bottom="913" left="1458" right="1632" top="944">
+between</word>
+<word bottom="914" left="1660" right="1882" top="945">
+turbulent</word>
+<word bottom="913" left="1912" right="2184" top="945">
+fluctuation</word>
+<word bottom="912" left="2214" right="2260" top="943">
+in</word>
+<word bottom="862" left="1232" right="1429" top="894">
+vertical</word>
+<word bottom="855" left="1458" right="1681" top="894">
+
+windspeed
+</word>
+<word bottom="864" left="1710" right="1782" top="895">
+and</word>
+<word bottom="864" left="1808" right="1908" top="885">
+mean</word>
+<word bottom="863" left="1934" right="2075" top="894">
+value.</word>
+<word bottom="761" left="300" right="325" top="793">
+
+0
+</word>
+<word bottom="773" left="707" right="724" top="779">
+
+-
+</word>
+<word bottom="755" left="761" right="1124" top="795">
+(dimensionless)</word>
+<word bottom="761" left="1185" right="1380" top="790">
+constant</word>
+<word bottom="763" left="1411" right="1457" top="793">
+in</word>
+<word bottom="763" left="1485" right="1555" top="794">
+the</word>
+<word bottom="755" left="1584" right="1957" top="795">
+Priestly-Taylor</word>
+<word bottom="755" left="1987" right="2201" top="793">
+equation.</word>
+<word bottom="662" left="301" right="368" top="693">
+
+Ax.
+</word>
+<word bottom="673" left="455" right="473" top="679">
+
+-
+</word>
+<word bottom="674" left="707" right="724" top="679">
+
+-
+</word>
+<word bottom="656" left="761" right="848" top="696">
+(cm)</word>
+<word bottom="662" left="1183" right="1403" top="694">
+thickness</word>
+<word bottom="663" left="1435" right="1481" top="694">
+of</word>
+<word bottom="664" left="1510" right="1580" top="694">
+the</word>
+<word bottom="655" left="1609" right="1683" top="695">
+
+jth
+</word>
+<word bottom="656" left="1711" right="1831" top="695">
+layer</word>
+<word bottom="665" left="1861" right="1907" top="695">
+of</word>
+<word bottom="664" left="1934" right="2075" top="691">
+water.</word>
+<word bottom="628" left="352" right="368" top="658">
+
+J
+</word>
+<word bottom="554" left="302" right="325" top="585">
+
+X
+</word>
+<word bottom="573" left="455" right="473" top="579">
+
+-
+</word>
+<word bottom="561" left="505" right="577" top="593">
+SKY</word>
+<word bottom="573" left="707" right="724" top="579">
+
+-
+</word>
+<word bottom="556" left="761" right="1124" top="596">
+(dimensionless)</word>
+<word bottom="562" left="1185" right="1381" top="594">
+fraction</word>
+<word bottom="563" left="1410" right="1456" top="595">
+of</word>
+<word bottom="555" left="1486" right="1557" top="595">
+sky</word>
+<word bottom="564" left="1586" right="1756" top="596">
+covered</word>
+<word bottom="565" left="1783" right="1883" top="596">
+with</word>
+<word bottom="564" left="1912" right="2076" top="596">
+clouds.</word>
+<word bottom="461" left="301" right="326" top="498">
+
+7
+</word>
+<word bottom="472" left="707" right="724" top="478">
+
+-
+</word>
+<word bottom="452" left="761" right="974" top="495">
+(degrees)</word>
+<word bottom="461" left="1184" right="1332" top="493">
+zenith</word>
+<word bottom="454" left="1359" right="1500" top="494">
+angle,</word>
+<word bottom="463" left="1535" right="1605" top="494">
+the</word>
+<word bottom="455" left="1635" right="1806" top="495">
+angular</word>
+<word bottom="464" left="1836" right="2031" top="495">
+distance</word>
+<word bottom="464" left="2062" right="2108" top="494">
+of</word>
+<word bottom="463" left="2137" right="2207" top="495">
+the</word>
+<word bottom="411" left="1236" right="1306" top="434">
+sun</word>
+<word bottom="412" left="1336" right="1432" top="443">
+from</word>
+<word bottom="413" left="1460" right="1530" top="444">
+the</word>
+<word bottom="413" left="1561" right="1680" top="445">
+local</word>
+<word bottom="414" left="1708" right="1925" top="445">
+vertical.</word>
+<word bottom="210" left="1261" right="1305" top="240">
+
+ix
+</word>
+</words>
+</ocrresult>
+

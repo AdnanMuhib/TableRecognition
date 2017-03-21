@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256543965298.png" width="2560"/>
+<words>
+<word bottom="2679" left="528" right="762" top="2718">
+Operations</word>
+<word bottom="1941" left="431" right="601" top="1974">
+Vertical</word>
+<word bottom="1891" left="432" right="631" top="1925">
+Retrieval</word>
+<word bottom="1886" left="649" right="741" top="1926">
+(VR)</word>
+<word bottom="2833" left="746" right="1133" top="2865">
+IDENTIFICATION</word>
+<word bottom="2833" left="1152" right="1213" top="2865">
+OF</word>
+<word bottom="2833" left="1232" right="1537" top="2865">
+OPERATIONS</word>
+<word bottom="2833" left="1554" right="1655" top="2865">
+AND</word>
+<word bottom="2833" left="1673" right="2052" top="2866">
+ABBREVIATIONS</word>
+<word bottom="2684" left="1049" right="1160" top="2716">
+Crew</word>
+<word bottom="2683" left="1181" right="1346" top="2716">
+Number</word>
+<word bottom="1643" left="929" right="1014" top="1675">
+
+VR2
+</word>
+<word bottom="1655" left="1054" right="1071" top="1659">
+
+-
+</word>
+<word bottom="1636" left="1132" right="1344" top="1675">
+Retrieval,</word>
+<word bottom="1585" left="1130" right="1314" top="1626">
+transfer,</word>
+<word bottom="1542" left="1130" right="1201" top="1574">
+and</word>
+<word bottom="1542" left="1219" right="1371" top="1575">
+closure</word>
+<word bottom="2931" left="1280" right="1433" top="2963">
+TABLE</word>
+<word bottom="2932" left="1454" right="1517" top="2963">
+
+3-1
+</word>
+<word bottom="2586" left="435" right="605" top="2620">
+Vertical</word>
+<word bottom="2529" left="435" right="724" top="2569">
+Emplacement</word>
+<word bottom="2530" left="759" right="850" top="2571">
+
+(VE)
+</word>
+<word bottom="2536" left="935" right="1013" top="2568">
+
+VE1
+</word>
+<word bottom="2548" left="1058" right="1075" top="2552">
+
+-
+</word>
+<word bottom="2527" left="1136" right="1387" top="2568">
+Preparation</word>
+<word bottom="2486" left="1135" right="1198" top="2520">
+for</word>
+<word bottom="2427" left="1135" right="1421" top="2468">
+emplacement</word>
+<word bottom="2288" left="933" right="1012" top="2319">
+
+VE2
+</word>
+<word bottom="2300" left="1057" right="1074" top="2304">
+
+-
+</word>
+<word bottom="2280" left="1133" right="1328" top="2320">
+Transfer,</word>
+<word bottom="2229" left="1134" right="1434" top="2269">
+emplacement,</word>
+<word bottom="2188" left="1134" right="1204" top="2219">
+and</word>
+<word bottom="2188" left="1224" right="1375" top="2220">
+closure</word>
+<word bottom="1891" left="930" right="1014" top="1922">
+
+VR1
+</word>
+<word bottom="1903" left="1055" right="1071" top="1907">
+
+-
+</word>
+<word bottom="1881" left="1132" right="1384" top="1922">
+Preparation</word>
+<word bottom="1841" left="1131" right="1194" top="1874">
+for</word>
+<word bottom="1840" left="1212" right="1400" top="1873">
+retrieval</word>
+<word bottom="2535" left="1537" right="1683" top="2568">
+
+VE1E0
+</word>
+<word bottom="2548" left="1711" right="1728" top="2552">
+
+-
+</word>
+<word bottom="2486" left="1537" right="1682" top="2519">
+
+VE1OP
+</word>
+<word bottom="2498" left="1711" right="1729" top="2503">
+
+-
+</word>
+<word bottom="2429" left="1536" right="1687" top="2469">
+
+VE1QC
+</word>
+<word bottom="2449" left="1711" right="1728" top="2453">
+
+-
+</word>
+<word bottom="2386" left="1536" right="1692" top="2418">
+
+VE1RM
+</word>
+<word bottom="2399" left="1711" right="1728" top="2403">
+
+-
+</word>
+<word bottom="2286" left="1536" right="1682" top="2319">
+
+VE2E0
+</word>
+<word bottom="2300" left="1711" right="1728" top="2304">
+
+-
+</word>
+<word bottom="2237" left="1536" right="1681" top="2269">
+
+VE2TO
+</word>
+<word bottom="2250" left="1710" right="1727" top="2254">
+
+-
+</word>
+<word bottom="2188" left="1536" right="1681" top="2220">
+
+VE2TC
+</word>
+<word bottom="2201" left="1711" right="1727" top="2205">
+
+-
+</word>
+<word bottom="2132" left="1536" right="1685" top="2170">
+
+VE2QC
+</word>
+<word bottom="2151" left="1710" right="1726" top="2155">
+
+-
+</word>
+<word bottom="2089" left="1536" right="1680" top="2121">
+
+VE2OP
+</word>
+<word bottom="2102" left="1709" right="1727" top="2105">
+
+-
+</word>
+<word bottom="2039" left="1535" right="1689" top="2070">
+
+VE2RM
+</word>
+<word bottom="2052" left="1709" right="1726" top="2055">
+
+-
+</word>
+<word bottom="1889" left="1534" right="1689" top="1921">
+
+VR1R0
+</word>
+<word bottom="1902" left="1708" right="1725" top="1906">
+
+-
+</word>
+<word bottom="1833" left="1534" right="1689" top="1872">
+
+VR1QC
+</word>
+<word bottom="1853" left="1709" right="1725" top="1857">
+
+-
+</word>
+<word bottom="1790" left="1534" right="1693" top="1822">
+
+VR1RM
+</word>
+<word bottom="1803" left="1708" right="1724" top="1807">
+
+-
+</word>
+<word bottom="1741" left="1534" right="1684" top="1773">
+
+VR1OP
+</word>
+<word bottom="1753" left="1709" right="1725" top="1757">
+
+-
+</word>
+<word bottom="1641" left="1533" right="1689" top="1674">
+
+VR2R0
+</word>
+<word bottom="1654" left="1708" right="1725" top="1658">
+
+-
+</word>
+<word bottom="1591" left="1533" right="1683" top="1624">
+
+VR2TO
+</word>
+<word bottom="1604" left="1707" right="1724" top="1608">
+
+-
+</word>
+<word bottom="1541" left="1533" right="1683" top="1575">
+
+VR2TC
+</word>
+<word bottom="1555" left="1706" right="1724" top="1559">
+
+-
+</word>
+<word bottom="1491" left="1532" right="1692" top="1524">
+
+VR2RM
+</word>
+<word bottom="1505" left="1707" right="1724" top="1509">
+
+-
+</word>
+<word bottom="1435" left="1532" right="1687" top="1475">
+
+VR2QC
+</word>
+<word bottom="1455" left="1706" right="1723" top="1459">
+
+-
+</word>
+<word bottom="1392" left="1531" right="1682" top="1425">
+
+VR2OP
+</word>
+<word bottom="1405" left="1706" right="1723" top="1409">
+
+-
+</word>
+<word bottom="2684" left="1825" right="1934" top="2716">
+Crew</word>
+<word bottom="2685" left="1956" right="2128" top="2716">
+Member</word>
+<word bottom="2528" left="1788" right="2079" top="2567">
+Emplacement</word>
+<word bottom="2536" left="2099" right="2249" top="2570">
+officer</word>
+<word bottom="2477" left="1788" right="1980" top="2518">
+Operator</word>
+<word bottom="2427" left="1787" right="1944" top="2469">
+Quality</word>
+<word bottom="2436" left="1962" right="2116" top="2467">
+control</word>
+<word bottom="2386" left="1789" right="1994" top="2419">
+Radiation</word>
+<word bottom="2386" left="2016" right="2183" top="2419">
+monitor</word>
+<word bottom="2279" left="1788" right="2078" top="2318">
+Emplacement</word>
+<word bottom="2287" left="2099" right="2248" top="2320">
+officer</word>
+<word bottom="2230" left="1785" right="2039" top="2269">
+Transporter</word>
+<word bottom="2229" left="2058" right="2242" top="2267">
+operator</word>
+<word bottom="2180" left="1788" right="1909" top="2220">
+Ramp</word>
+<word bottom="2180" left="1927" right="2172" top="2217">
+transporter</word>
+<word bottom="2187" left="2191" right="2343" top="2219">
+control</word>
+<word bottom="2129" left="1786" right="1943" top="2171">
+Quality</word>
+<word bottom="2138" left="1961" right="2114" top="2169">
+control</word>
+<word bottom="2080" left="1786" right="1978" top="2120">
+Operator</word>
+<word bottom="2038" left="1788" right="1993" top="2071">
+Radiation</word>
+<word bottom="2038" left="2015" right="2181" top="2070">
+monitor</word>
+<word bottom="1889" left="1787" right="1987" top="1922">
+Retrieval</word>
+<word bottom="1889" left="2005" right="2154" top="1922">
+officer</word>
+<word bottom="1831" left="1785" right="1942" top="1872">
+Quality</word>
+<word bottom="1840" left="1961" right="2114" top="1870">
+control</word>
+<word bottom="1790" left="1786" right="1991" top="1822">
+Radiation</word>
+<word bottom="1790" left="2013" right="2180" top="1822">
+monitor</word>
+<word bottom="1731" left="1784" right="1976" top="1773">
+Operator</word>
+<word bottom="1641" left="1785" right="1985" top="1674">
+Retrieval</word>
+<word bottom="1641" left="2005" right="2155" top="1674">
+officer</word>
+<word bottom="1583" left="1782" right="2037" top="1623">
+Transporter</word>
+<word bottom="1583" left="2055" right="2241" top="1621">
+operator</word>
+<word bottom="1533" left="1784" right="1906" top="1574">
+Ramp</word>
+<word bottom="1533" left="1924" right="2170" top="1571">
+transporter</word>
+<word bottom="1541" left="2188" right="2341" top="1573">
+control</word>
+<word bottom="1491" left="1785" right="1991" top="1525">
+Radiation</word>
+<word bottom="1491" left="2012" right="2180" top="1524">
+monitor</word>
+<word bottom="1433" left="1782" right="1940" top="1476">
+Quality</word>
+<word bottom="1441" left="1958" right="2112" top="1473">
+control</word>
+<word bottom="1384" left="1782" right="1975" top="1425">
+Operator</word>
+</words>
+</ocrresult>
+

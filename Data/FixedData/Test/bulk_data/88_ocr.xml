@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544003133.png" width="2560"/>
+<words>
+<word bottom="2451" left="610" right="740" top="2479">
+Vendor</word>
+<word bottom="2357" left="611" right="694" top="2392">
+Type</word>
+<word bottom="2356" left="726" right="808" top="2394">
+(rod</word>
+<word bottom="2359" left="836" right="963" top="2397">
+array)</word>
+<word bottom="2267" left="613" right="785" top="2304">
+
+Assemhly
+</word>
+<word bottom="2274" left="816" right="1032" top="2303">
+Parameters</word>
+<word bottom="2207" left="658" right="877" top="2235">
+Transverse</word>
+<word bottom="2209" left="907" right="1101" top="2239">
+Dimension</word>
+<word bottom="2212" left="1509" right="1617" top="2242">
+
+8.426
+</word>
+<word bottom="2214" left="1648" right="1700" top="2242">
+in.</word>
+<word bottom="2134" left="658" right="833" top="2170">
+Assembly</word>
+<word bottom="2134" left="861" right="992" top="2167">
+Weight</word>
+<word bottom="2141" left="1513" right="1619" top="2175">
+
+1,420
+</word>
+<word bottom="2146" left="1649" right="1686" top="2175">
+lb</word>
+<word bottom="2067" left="660" right="834" top="2103">
+Assembly</word>
+<word bottom="2068" left="863" right="990" top="2101">
+Length</word>
+<word bottom="2078" left="1513" right="1618" top="2109">
+
+161.3
+</word>
+<word bottom="2080" left="1649" right="1701" top="2108">
+in.</word>
+<word bottom="2014" left="663" right="767" top="2043">
+
+GJIde
+</word>
+<word bottom="2016" left="1089" right="1218" top="2043">
+Number</word>
+<word bottom="2017" left="1514" right="1553" top="2047">
+
+20
+</word>
+<word bottom="1967" left="1089" right="1196" top="1999">
+Upper</word>
+<word bottom="1972" left="1223" right="1262" top="2002">
+OD</word>
+<word bottom="1973" left="1513" right="1620" top="2003">
+
+0.544
+</word>
+<word bottom="1974" left="1652" right="1703" top="2001">
+in.</word>
+<word bottom="1925" left="1090" right="1196" top="1953">
+Lower</word>
+<word bottom="1926" left="1222" right="1264" top="1957">
+OD</word>
+<word bottom="1927" left="1513" right="1620" top="1957">
+
+0.489
+</word>
+<word bottom="1929" left="1652" right="1703" top="1957">
+in.</word>
+<word bottom="1882" left="1089" right="1168" top="1913">
+Wall</word>
+<word bottom="1882" left="1203" right="1395" top="1913">
+Thickness</word>
+<word bottom="1883" left="1513" right="1621" top="1913">
+
+0.017
+</word>
+<word bottom="1885" left="1652" right="1705" top="1912">
+in.</word>
+<word bottom="1837" left="1088" right="1258" top="1868">
+Material</word>
+<word bottom="1838" left="1515" right="1598" top="1869">
+
+Zr-4
+</word>
+<word bottom="1776" left="669" right="883" top="1805">
+Instrument</word>
+<word bottom="1776" left="913" right="1035" top="1806">
+Tubes:</word>
+<word bottom="1777" left="1090" right="1219" top="1805">
+Number</word>
+<word bottom="1732" left="1089" right="1130" top="1762">
+OD</word>
+<word bottom="1731" left="1513" right="1620" top="1763">
+
+0.544
+</word>
+<word bottom="1733" left="1653" right="1703" top="1761">
+in.</word>
+<word bottom="1688" left="1089" right="1169" top="1718">
+Wall</word>
+<word bottom="1686" left="1202" right="1395" top="1718">
+Thickness</word>
+<word bottom="1687" left="1513" right="1620" top="1717">
+
+0.017
+</word>
+<word bottom="1688" left="1652" right="1704" top="1716">
+in.</word>
+<word bottom="1642" left="1089" right="1258" top="1673">
+Material</word>
+<word bottom="1642" left="1516" right="1599" top="1673">
+
+Zr-4
+</word>
+<word bottom="1571" left="665" right="793" top="1605">
+Spacer</word>
+<word bottom="1576" left="821" right="946" top="1605">
+Grids:</word>
+<word bottom="1576" left="1091" right="1220" top="1604">
+Number</word>
+<word bottom="1577" left="1517" right="1531" top="1607">
+
+7
+</word>
+<word bottom="1531" left="1091" right="1258" top="1562">
+Material</word>
+<word bottom="1531" left="1519" right="1661" top="1562">
+
+Inconi:
+</word>
+<word bottom="1531" left="1696" right="1756" top="1562">
+
+718
+</word>
+<word bottom="1479" left="1092" right="1220" top="1516">
+Spring</word>
+<word bottom="1486" left="1247" right="1416" top="1517">
+Material</word>
+<word bottom="1486" left="1520" right="1661" top="1516">
+Inconel</word>
+<word bottom="1486" left="1696" right="1756" top="1517">
+
+718
+</word>
+<word bottom="1419" left="667" right="744" top="1450">
+Fuel</word>
+<word bottom="1420" left="779" right="880" top="1449">
+Rods:</word>
+<word bottom="1420" left="1091" right="1222" top="1449">
+Number</word>
+<word bottom="1420" left="1515" right="1577" top="1451">
+
+204
+</word>
+<word bottom="1369" left="1092" right="1221" top="1404">
+Length</word>
+<word bottom="1375" left="1518" right="1623" top="1407">
+
+152.0
+</word>
+<word bottom="1377" left="1652" right="1706" top="1406">
+in.</word>
+<word bottom="1331" left="1092" right="1133" top="1362">
+OD</word>
+<word bottom="1331" left="1515" right="1623" top="1362">
+
+0.422
+</word>
+<word bottom="1332" left="1653" right="1707" top="1361">
+in.</word>
+<word bottom="1288" left="1092" right="1171" top="1318">
+Wall</word>
+<word bottom="1286" left="1204" right="1396" top="1318">
+Thickness</word>
+<word bottom="1286" left="1515" right="1646" top="1317">
+
+0.0243
+</word>
+<word bottom="1287" left="1676" right="1727" top="1309">
+in.</word>
+<word bottom="1242" left="1092" right="1261" top="1273">
+Material</word>
+<word bottom="1242" left="1518" right="1601" top="1274">
+
+Zr-4
+</word>
+<word bottom="1198" left="1095" right="1173" top="1229">
+Fuel</word>
+<word bottom="1190" left="1205" right="1332" top="1228">
+Length</word>
+<word bottom="1198" left="1520" right="1625" top="1229">
+
+144.0
+</word>
+<word bottom="1200" left="1655" right="1708" top="1228">
+in.</word>
+<word bottom="1148" left="1092" right="1467" top="1185">
+
+Prepressurization
+</word>
+<word bottom="1154" left="1518" right="1581" top="1186">
+
+335
+</word>
+<word bottom="1147" left="1608" right="1692" top="1184">
+
+psig
+</word>
+<word bottom="1153" left="1719" right="1760" top="1184">
+He</word>
+<word bottom="1076" left="665" right="816" top="1108">
+Orifice</word>
+<word bottom="1079" left="847" right="954" top="1108">
+Plate</word>
+<word bottom="1079" left="981" right="1150" top="1111">
+Material</word>
+<word bottom="1083" left="1517" right="1579" top="1115">
+
+304
+</word>
+<word bottom="1084" left="1606" right="1647" top="1114">
+SS</word>
+<word bottom="1010" left="668" right="798" top="1040">
+Plenum</word>
+<word bottom="1005" left="825" right="994" top="1043">
+Springs:</word>
+<word bottom="2723" left="1281" right="1388" top="2754">
+TABLE</word>
+<word bottom="2725" left="1416" right="1432" top="2755">
+
+2
+</word>
+<word bottom="2632" left="927" right="1166" top="2664">
+FABRICATION</word>
+<word bottom="2634" left="1194" right="1411" top="2665">
+STATISTICS</word>
+<word bottom="2635" left="1440" right="1502" top="2666">
+FOR</word>
+<word bottom="2635" left="1528" right="1659" top="2666">
+TURKEY</word>
+<word bottom="2636" left="1688" right="1794" top="2668">
+POINT</word>
+<word bottom="2587" left="881" right="964" top="2617">
+FUEL</word>
+<word bottom="2587" left="991" right="1210" top="2618">
+
+ASSZMBLIES
+</word>
+<word bottom="2585" left="1237" right="1318" top="2619">
+
+B02,
+</word>
+<word bottom="2586" left="1349" right="1430" top="2619">
+
+B03,
+</word>
+<word bottom="2586" left="1461" right="1543" top="2621">
+
+B17,
+</word>
+<word bottom="2587" left="1574" right="1656" top="2620">
+
+B41,
+</word>
+<word bottom="2591" left="1686" right="1749" top="2621">
+AND</word>
+<word bottom="2590" left="1775" right="1839" top="2623">
+
+B43
+</word>
+<word bottom="1007" left="1092" right="1244" top="1045">
+Working</word>
+<word bottom="1007" left="1273" right="1399" top="1046">
+Length</word>
+<word bottom="968" left="1093" right="1262" top="1000">
+Material</word>
+<word bottom="898" left="669" right="748" top="930">
+Fuel</word>
+<word bottom="899" left="781" right="929" top="931">
+Pellet:</word>
+<word bottom="902" left="1094" right="1263" top="934">
+Material</word>
+<word bottom="901" left="1518" right="1578" top="938">
+
+UO2
+</word>
+<word bottom="858" left="1095" right="1313" top="889">
+Enrichment</word>
+<word bottom="861" left="1518" right="1626" top="893">
+
+2.559
+</word>
+<word bottom="862" left="1651" right="1716" top="892">
+
+wt%
+</word>
+<word bottom="862" left="1743" right="1827" top="899">
+
+235
+
+U
+</word>
+<word bottom="808" left="1096" right="1248" top="844">
+Density</word>
+<word bottom="816" left="1519" right="1584" top="849">
+
+92%
+</word>
+<word bottom="816" left="1611" right="1844" top="849">
+theoretical</word>
+<word bottom="763" left="1095" right="1426" top="802">
+
+Weight/AsserOly
+</word>
+<word bottom="772" left="1519" right="1629" top="804">
+
+0.448
+</word>
+<word bottom="773" left="1654" right="1717" top="804">
+
+MTU
+</word>
+<word bottom="429" left="1368" right="1386" top="459">
+
+6
+</word>
+<word bottom="2449" left="1507" right="1771" top="2487">
+Westinghouse</word>
+<word bottom="2458" left="1799" right="1969" top="2489">
+Electric</word>
+<word bottom="2452" left="1997" right="2097" top="2489">
+Corp.</word>
+<word bottom="2367" left="1511" right="1593" top="2398">
+
+15x
+</word>
+<word bottom="2368" left="1624" right="1660" top="2398">
+
+15
+</word>
+<word bottom="1016" left="1516" right="1602" top="1048">
+
+6.80
+</word>
+<word bottom="1019" left="1633" right="1684" top="1048">
+in.</word>
+<word bottom="971" left="1522" right="1664" top="1003">
+Inconel</word>
+<word bottom="972" left="1697" right="1760" top="1005">
+
+718
+</word>
+</words>
+</ocrresult>
+

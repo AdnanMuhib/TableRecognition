@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544380155.png" width="2560"/>
+<words>
+<word bottom="3060" left="337" right="460" top="3095">
+
+Table
+</word>
+<word bottom="3062" left="485" right="551" top="3094">
+Al.</word>
+<word bottom="3063" left="641" right="737" top="3093">
+List</word>
+<word bottom="3064" left="765" right="812" top="3094">
+of</word>
+<word bottom="3063" left="843" right="910" top="3093">
+the</word>
+<word bottom="3063" left="938" right="1036" top="3089">
+most</word>
+<word bottom="3057" left="1065" right="1339" top="3095">
+significant</word>
+<word bottom="3063" left="1364" right="1587" top="3095">
+variables</word>
+<word bottom="3066" left="1616" right="1663" top="3096">
+in</word>
+<word bottom="3065" left="1690" right="1830" top="3093">
+
+SOHYP.
+</word>
+<word bottom="2864" left="339" right="536" top="2896">
+VARIABLE</word>
+<word bottom="2864" left="786" right="1036" top="2897">
+DEFINITION</word>
+<word bottom="2668" left="334" right="387" top="2697">
+AK</word>
+<word bottom="2663" left="787" right="1009" top="2701">
+Hydraulic</word>
+<word bottom="2663" left="1039" right="1338" top="2702">
+conductivity</word>
+<word bottom="2666" left="1372" right="1455" top="2701">
+
+(K).
+</word>
+<word bottom="2569" left="333" right="460" top="2598">
+ALPHA</word>
+<word bottom="2570" left="787" right="1062" top="2602">
+Coefficient</word>
+<word bottom="2571" left="1086" right="1111" top="2596">
+a</word>
+<word bottom="2572" left="1140" right="1188" top="2603">
+in</word>
+<word bottom="2565" left="1214" right="1279" top="2600">
+Eq.</word>
+<word bottom="2568" left="1323" right="1430" top="2602">
+(Al).</word>
+<word bottom="2466" left="335" right="425" top="2500">
+
+B(I)
+</word>
+<word bottom="2463" left="786" right="910" top="2499">
+Array</word>
+<word bottom="2465" left="939" right="1188" top="2502">
+containing</word>
+<word bottom="2471" left="1215" right="1386" top="2503">
+initial</word>
+<word bottom="2471" left="1414" right="1636" top="2503">
+estimates</word>
+<word bottom="2473" left="1665" right="1714" top="2503">
+of</word>
+<word bottom="2472" left="1741" right="2055" top="2503">
+coefficients.</word>
+<word bottom="2366" left="335" right="450" top="2400">
+
+BI(I)
+</word>
+<word bottom="2363" left="785" right="909" top="2399">
+Array</word>
+<word bottom="2371" left="938" right="987" top="2401">
+of</word>
+<word bottom="2370" left="1015" right="1288" top="2402">
+coefficient</word>
+<word bottom="2371" left="1314" right="1457" top="2394">
+names.</word>
+<word bottom="2268" left="337" right="482" top="2298">
+DIFFUS</word>
+<word bottom="2270" left="788" right="885" top="2301">
+Soil</word>
+<word bottom="2271" left="911" right="1110" top="2301">
+moisture</word>
+<word bottom="2264" left="1138" right="1413" top="2303">
+diffusivity</word>
+<word bottom="2268" left="1447" right="1530" top="2303">
+
+(D).
+</word>
+<word bottom="2169" left="336" right="410" top="2199">
+MIT</word>
+<word bottom="2172" left="786" right="963" top="2202">
+Maximum</word>
+<word bottom="2172" left="988" right="1136" top="2203">
+number</word>
+<word bottom="2173" left="1165" right="1211" top="2204">
+of</word>
+<word bottom="2172" left="1239" right="1507" top="2205">
+iterations.</word>
+<word bottom="2071" left="336" right="433" top="2099">
+MODE</word>
+<word bottom="2066" left="788" right="1034" top="2104">
+Designates</word>
+<word bottom="2073" left="1061" right="1185" top="2104">
+model</word>
+<word bottom="2066" left="1215" right="1310" top="2102">
+type</word>
+<word bottom="2073" left="1341" right="1386" top="2101">
+to</word>
+<word bottom="2073" left="1413" right="1461" top="2103">
+be</word>
+<word bottom="2073" left="1489" right="1588" top="2104">
+used</word>
+<word bottom="2073" left="1615" right="1663" top="2105">
+in</word>
+<word bottom="2067" left="1686" right="1881" top="2098">
+program:</word>
+<word bottom="1997" left="786" right="853" top="2027">
+
+=1:
+</word>
+<word bottom="1991" left="888" right="1261" top="2027">
+Three-parameter</word>
+<word bottom="1998" left="1291" right="1364" top="2029">
+fit</word>
+<word bottom="1975" left="1398" right="1480" top="2032">
+
+(e
+
+r,
+</word>
+<word bottom="1995" left="1512" right="1556" top="2023">
+a,</word>
+<word bottom="1999" left="1590" right="1663" top="2029">
+and</word>
+<word bottom="1996" left="1688" right="1727" top="2030">
+
+n)
+</word>
+<word bottom="1996" left="1748" right="1913" top="2030">
+
+(Mualem
+</word>
+<word bottom="1993" left="1940" right="2101" top="2030">
+theory)</word>
+<word bottom="1923" left="786" right="853" top="1953">
+
+=2:
+</word>
+<word bottom="1916" left="888" right="1211" top="1950">
+Two-parameter</word>
+<word bottom="1922" left="1240" right="1313" top="1955">
+fit</word>
+<word bottom="1919" left="1348" right="1405" top="1955">
+(a,</word>
+<word bottom="1921" left="1438" right="1477" top="1954">
+
+n)
+</word>
+<word bottom="1920" left="1499" right="1665" top="1955">
+
+(Mualem
+</word>
+<word bottom="1917" left="1691" right="1852" top="1955">
+theory)</word>
+<word bottom="1848" left="787" right="853" top="1878">
+
+=3:
+</word>
+<word bottom="1841" left="888" right="1263" top="1878">
+Three-parameter</word>
+<word bottom="1849" left="1291" right="1364" top="1880">
+fit</word>
+<word bottom="1826" left="1397" right="1480" top="1883">
+
+(e
+
+r,
+</word>
+<word bottom="1846" left="1512" right="1557" top="1875">
+a,</word>
+<word bottom="1847" left="1588" right="1627" top="1881">
+
+n)
+</word>
+<word bottom="1847" left="1650" right="1836" top="1882">
+
+(Burdine
+</word>
+<word bottom="1844" left="1865" right="2055" top="1882">
+theory).</word>
+<word bottom="1747" left="335" right="460" top="1776">
+MODEL</word>
+<word bottom="1749" left="788" right="1033" top="1780">
+Subroutine</word>
+<word bottom="1750" left="1065" right="1112" top="1778">
+to</word>
+<word bottom="1750" left="1140" right="1362" top="1781">
+calculate</word>
+<word bottom="1750" left="1391" right="1486" top="1782">
+soil</word>
+<word bottom="1751" left="1513" right="1712" top="1783">
+moisture</word>
+<word bottom="1752" left="1740" right="1911" top="1779">
+content</word>
+<word bottom="1750" left="1948" right="2001" top="1785">
+
+(e)
+</word>
+<word bottom="1754" left="2041" right="2138" top="1784">
+from</word>
+<word bottom="1643" left="784" right="984" top="1674">
+pressure</word>
+<word bottom="1650" left="1012" right="1113" top="1682">
+head</word>
+<word bottom="1644" left="1147" right="1229" top="1682">
+(Eq.</word>
+<word bottom="1648" left="1263" right="1355" top="1682">
+Al).</word>
+<word bottom="1548" left="335" right="384" top="1577">
+NC</word>
+<word bottom="1550" left="786" right="935" top="1581">
+Number</word>
+<word bottom="1552" left="962" right="1010" top="1582">
+of</word>
+<word bottom="1551" left="1039" right="1159" top="1575">
+cases</word>
+<word bottom="1551" left="1190" right="1456" top="1583">
+considered.</word>
+<word bottom="1447" left="334" right="461" top="1476">
+
+NDATA
+</word>
+<word bottom="1442" left="791" right="910" top="1478">
+Input</word>
+<word bottom="1450" left="938" right="1036" top="1480">
+data</word>
+<word bottom="1450" left="1065" right="1179" top="1481">
+code:</word>
+<word bottom="1376" left="788" right="854" top="1406">
+
+=0:
+</word>
+<word bottom="1377" left="887" right="962" top="1404">
+New</word>
+<word bottom="1377" left="987" right="1086" top="1407">
+data</word>
+<word bottom="1377" left="1114" right="1186" top="1401">
+are</word>
+<word bottom="1378" left="1214" right="1313" top="1408">
+read</word>
+<word bottom="1378" left="1340" right="1388" top="1409">
+in</word>
+<word bottom="1302" left="786" right="855" top="1333">
+
+=1:
+</word>
+<word bottom="1302" left="888" right="986" top="1330">
+Data</word>
+<word bottom="1304" left="1016" right="1115" top="1334">
+from</word>
+<word bottom="1296" left="1136" right="1336" top="1334">
+previous</word>
+<word bottom="1304" left="1367" right="1461" top="1327">
+case</word>
+<word bottom="1304" left="1490" right="1562" top="1328">
+are</word>
+<word bottom="1305" left="1589" right="1706" top="1336">
+used.</word>
+<word bottom="1199" left="336" right="411" top="1228">
+NIT</word>
+<word bottom="1201" left="791" right="1012" top="1233">
+Iteration</word>
+<word bottom="1203" left="1039" right="1187" top="1233">
+number</word>
+<word bottom="1196" left="1213" right="1364" top="1235">
+during</word>
+<word bottom="1196" left="1387" right="1565" top="1228">
+program</word>
+<word bottom="1205" left="1590" right="1830" top="1238">
+execution.</word>
+<word bottom="1099" left="336" right="410" top="1128">
+NOB</word>
+<word bottom="1102" left="789" right="936" top="1133">
+Number</word>
+<word bottom="1103" left="965" right="1013" top="1134">
+of</word>
+<word bottom="1103" left="1040" right="1238" top="1134">
+observed</word>
+<word bottom="1103" left="1265" right="1364" top="1134">
+data</word>
+<word bottom="1096" left="1388" right="1537" top="1135">
+points</word>
+<word bottom="1102" left="1573" right="1689" top="1135">
+(must</word>
+<word bottom="1106" left="1715" right="1788" top="1132">
+not</word>
+<word bottom="1106" left="1814" right="1963" top="1138">
+exceed</word>
+<word bottom="1106" left="1990" right="2079" top="1137">
+
+40).
+</word>
+<word bottom="1000" left="337" right="387" top="1029">
+RK</word>
+<word bottom="1003" left="790" right="986" top="1034">
+Relative</word>
+<word bottom="996" left="1014" right="1238" top="1034">
+hydraulic</word>
+<word bottom="998" left="1266" right="1565" top="1036">
+conductivity</word>
+<word bottom="982" left="1599" right="1705" top="1036">
+(Kr).</word>
+<word bottom="900" left="336" right="387" top="929">
+RN</word>
+<word bottom="896" left="790" right="936" top="934">
+Equals</word>
+<word bottom="900" left="967" right="1088" top="935">
+
+1-1/n
+</word>
+<word bottom="904" left="1118" right="1187" top="935">
+for</word>
+<word bottom="903" left="1215" right="1367" top="934">
+
+MUalem
+</word>
+<word bottom="898" left="1394" right="1557" top="933">
+theory,</word>
+<word bottom="903" left="1593" right="1714" top="938">
+
+1-2/n
+</word>
+<word bottom="908" left="1742" right="1812" top="938">
+for</word>
+<word bottom="908" left="1839" right="2012" top="939">
+
+Burdine
+</word>
+<word bottom="903" left="2042" right="2204" top="939">
+theory.</word>
+<word bottom="800" left="337" right="386" top="829">
+RN</word>
+<word bottom="803" left="789" right="1064" top="836">
+Coefficient</word>
+<word bottom="804" left="1090" right="1114" top="826">
+
+n
+</word>
+<word bottom="803" left="1141" right="1189" top="835">
+in</word>
+<word bottom="797" left="1215" right="1283" top="832">
+Eq.</word>
+<word bottom="801" left="1324" right="1431" top="835">
+(Al).</word>
+<word bottom="700" left="337" right="411" top="730">
+
+RWC
+</word>
+<word bottom="704" left="791" right="1110" top="736">
+Dimensionless</word>
+<word bottom="704" left="1140" right="1339" top="735">
+moisture</word>
+<word bottom="705" left="1370" right="1541" top="735">
+content</word>
+<word bottom="705" left="1575" right="1658" top="742">
+
+(9).
+</word>
+<word bottom="600" left="338" right="440" top="631">
+
+SATK
+</word>
+<word bottom="597" left="790" right="1013" top="637">
+Hydraulic</word>
+<word bottom="598" left="1043" right="1341" top="637">
+conductivity</word>
+<word bottom="606" left="1368" right="1416" top="633">
+at</word>
+<word bottom="606" left="1443" right="1691" top="640">
+saturation</word>
+<word bottom="585" left="1726" right="1833" top="641">
+(Ks).</word>
+<word bottom="495" left="339" right="432" top="531">
+
+SSQ,
+</word>
+<word bottom="502" left="465" right="525" top="530">
+
+SU!
+</word>
+<word bottom="502" left="538" right="563" top="530">
+
+B
+</word>
+<word bottom="505" left="792" right="988" top="536">
+Residual</word>
+<word bottom="505" left="1017" right="1092" top="528">
+sum</word>
+<word bottom="505" left="1118" right="1164" top="536">
+of</word>
+<word bottom="497" left="1194" right="1385" top="529">
+squares.</word>
+<word bottom="308" left="1260" right="1305" top="337">
+
+47
+</word>
+<word bottom="3120" left="2212" right="2384" top="3201">
+05
+c(
+</word>
+</words>
+</ocrresult>
+

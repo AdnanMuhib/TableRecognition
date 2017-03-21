@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ocrresult>
+<docinfo dpix="300" dpiy="300" height="3300" href="C:\Tomcat6.0\apache-tomcat-6.0.16\webapps\OCRTools\png\1256544008270.png" width="2560"/>
+<words>
+<word bottom="2847" left="1106" right="1197" top="2876">
+LIST</word>
+<word bottom="2847" left="1226" right="1269" top="2875">
+OF</word>
+<word bottom="2848" left="1302" right="1467" top="2877">
+FIGURES</word>
+<word bottom="2759" left="1160" right="1414" top="2796">
+(continued)</word>
+<word bottom="2618" left="1940" right="2031" top="2654">
+Page</word>
+<word bottom="2551" left="368" right="507" top="2580">
+FIGURE</word>
+<word bottom="2551" left="543" right="654" top="2582">
+
+11-35
+</word>
+<word bottom="2551" left="710" right="831" top="2580">
+Leach</word>
+<word bottom="2551" left="858" right="1022" top="2579">
+Process</word>
+<word bottom="2551" left="1053" right="1172" top="2581">
+Model</word>
+<word bottom="2548" left="1202" right="1612" top="2584">
+Driver/Subroutine</word>
+<word bottom="2552" left="1645" right="1739" top="2581">
+Flow</word>
+<word bottom="2478" left="712" right="827" top="2508">
+Chart</word>
+<word bottom="2478" left="1965" right="2031" top="2509">
+
+276
+</word>
+<word bottom="2404" left="368" right="508" top="2433">
+FIGURE</word>
+<word bottom="2404" left="543" right="654" top="2435">
+
+11-36
+</word>
+<word bottom="2404" left="711" right="805" top="2434">
+Flow</word>
+<word bottom="2405" left="834" right="949" top="2434">
+Chart</word>
+<word bottom="2404" left="982" right="1050" top="2435">
+for</word>
+<word bottom="2405" left="1081" right="1320" top="2434">
+Subroutine</word>
+<word bottom="2405" left="1349" right="1491" top="2433">
+
+LSOLVE
+</word>
+<word bottom="2404" left="1966" right="2029" top="2435">
+
+277
+</word>
+<word bottom="2331" left="368" right="509" top="2360">
+FIGURE</word>
+<word bottom="2331" left="543" right="653" top="2362">
+
+11-37
+</word>
+<word bottom="2331" left="711" right="902" top="2360">
+Decision</word>
+<word bottom="2324" left="930" right="1048" top="2360">
+Logic</word>
+<word bottom="2331" left="1083" right="1147" top="2362">
+for</word>
+<word bottom="2331" left="1175" right="1295" top="2362">
+Leach</word>
+<word bottom="2332" left="1324" right="1440" top="2361">
+Model</word>
+<word bottom="2324" left="1470" right="1685" top="2361">
+Equations</word>
+<word bottom="2257" left="712" right="903" top="2287">
+Solution</word>
+<word bottom="2256" left="1966" right="2032" top="2288">
+
+278
+</word>
+<word bottom="2183" left="366" right="509" top="2213">
+FIGURE</word>
+<word bottom="2184" left="544" right="629" top="2215">
+
+14-1
+</word>
+<word bottom="2183" left="710" right="779" top="2214">
+Job</word>
+<word bottom="2184" left="808" right="974" top="2213">
+Control</word>
+<word bottom="2176" left="1004" right="1195" top="2212">
+Language</word>
+<word bottom="2184" left="1229" right="1293" top="2214">
+for</word>
+<word bottom="2184" left="1324" right="1445" top="2213">
+
+WAPPA
+</word>
+<word bottom="2183" left="1966" right="2030" top="2215">
+
+339
+</word>
+<word bottom="2109" left="368" right="509" top="2138">
+FIGURE</word>
+<word bottom="2109" left="543" right="627" top="2140">
+
+15-1
+</word>
+<word bottom="2110" left="710" right="902" top="2140">
+Detailed</word>
+<word bottom="2102" left="931" right="1091" top="2138">
+Output:</word>
+<word bottom="2109" left="1151" right="1271" top="2138">
+Waste</word>
+<word bottom="2102" left="1299" right="1467" top="2140">
+Package</word>
+<word bottom="2103" left="1496" right="1707" top="2139">
+Geometry,</word>
+<word bottom="2036" left="712" right="877" top="2064">
+Barrier</word>
+<word bottom="2029" left="907" right="1068" top="2065">
+Status,</word>
+<word bottom="2036" left="1104" right="1171" top="2066">
+and</word>
+<word bottom="2036" left="1200" right="1342" top="2065">
+Radial</word>
+<word bottom="2028" left="1370" right="1661" top="2064">
+Temperatures</word>
+<word bottom="2036" left="1693" right="1735" top="2060">
+at</word>
+<word bottom="1962" left="712" right="805" top="1991">
+each</word>
+<word bottom="1961" left="834" right="928" top="1990">
+Time</word>
+<word bottom="1961" left="956" right="1073" top="1990">
+Point</word>
+<word bottom="1960" left="1966" right="2031" top="1991">
+
+349
+</word>
+<word bottom="1888" left="366" right="509" top="1917">
+FIGURE</word>
+<word bottom="1888" left="543" right="631" top="1918">
+
+15-2
+</word>
+<word bottom="1888" left="711" right="925" top="1918">
+
+Deatailed
+</word>
+<word bottom="1880" left="955" right="1116" top="1916">
+Output:</word>
+<word bottom="1888" left="1176" right="1317" top="1918">
+Radial</word>
+<word bottom="1888" left="1346" right="1514" top="1918">
+Nuclide</word>
+<word bottom="1887" left="1546" right="1882" top="1917">
+Concentrations</word>
+<word bottom="1814" left="711" right="753" top="1839">
+at</word>
+<word bottom="1815" left="785" right="878" top="1844">
+each</word>
+<word bottom="1814" left="907" right="1001" top="1843">
+Time</word>
+<word bottom="1815" left="1030" right="1146" top="1843">
+Point</word>
+<word bottom="1813" left="1966" right="2032" top="1844">
+
+350
+</word>
+<word bottom="1741" left="366" right="508" top="1770">
+FIGURE</word>
+<word bottom="1740" left="542" right="631" top="1772">
+
+15-3
+</word>
+<word bottom="1733" left="713" right="878" top="1770">
+Summary</word>
+<word bottom="1733" left="907" right="1066" top="1770">
+Output:</word>
+<word bottom="1741" left="1129" right="1293" top="1770">
+Barrier</word>
+<word bottom="1741" left="1323" right="1464" top="1769">
+Status</word>
+<word bottom="1733" left="1495" right="1663" top="1770">
+History</word>
+<word bottom="1739" left="1966" right="2029" top="1771">
+
+359
+</word>
+<word bottom="1666" left="368" right="508" top="1695">
+FIGURE</word>
+<word bottom="1666" left="542" right="629" top="1697">
+
+15-4
+</word>
+<word bottom="1659" left="712" right="877" top="1695">
+Summary</word>
+<word bottom="1659" left="907" right="1066" top="1695">
+Output:</word>
+<word bottom="1666" left="1127" right="1245" top="1695">
+Areal</word>
+<word bottom="1657" left="1274" right="1540" top="1695">
+Degradation</word>
+<word bottom="1665" left="1570" right="1735" top="1695">
+Factors</word>
+<word bottom="1665" left="1965" right="2028" top="1696">
+
+361
+</word>
+<word bottom="1593" left="368" right="508" top="1622">
+FIGURE</word>
+<word bottom="1592" left="542" right="630" top="1623">
+
+15-5
+</word>
+<word bottom="1585" left="712" right="878" top="1622">
+Summary</word>
+<word bottom="1584" left="907" right="1066" top="1622">
+Output:</word>
+<word bottom="1592" left="1126" right="1218" top="1623">
+Wall</word>
+<word bottom="1584" left="1247" right="1441" top="1621">
+Thinning</word>
+<word bottom="1584" left="1470" right="1737" top="1622">
+Degradation</word>
+<word bottom="1518" left="710" right="875" top="1547">
+Factors</word>
+<word bottom="1517" left="1965" right="2030" top="1548">
+
+362
+</word>
+<word bottom="1444" left="366" right="508" top="1473">
+FIGURE</word>
+<word bottom="1444" left="542" right="630" top="1474">
+
+15-6
+</word>
+<word bottom="1437" left="713" right="877" top="1473">
+Summary</word>
+<word bottom="1436" left="907" right="1066" top="1473">
+Output:</word>
+<word bottom="1443" left="1128" right="1365" top="1473">
+Fractional</word>
+<word bottom="1444" left="1395" right="1563" top="1473">
+Thermal</word>
+<word bottom="1444" left="1593" right="1711" top="1471">
+Power</word>
+<word bottom="1443" left="1743" right="1809" top="1474">
+and</word>
+<word bottom="1370" left="710" right="900" top="1399">
+Residual</word>
+<word bottom="1369" left="930" right="1149" top="1400">
+
+Wasteform
+</word>
+<word bottom="1369" left="1174" right="1267" top="1397">
+Mass</word>
+<word bottom="1368" left="1965" right="2031" top="1399">
+
+363
+</word>
+<word bottom="1296" left="366" right="508" top="1326">
+FIGURE</word>
+<word bottom="1296" left="542" right="629" top="1327">
+
+15-7
+</word>
+<word bottom="1289" left="713" right="877" top="1325">
+Summary</word>
+<word bottom="1288" left="907" right="1066" top="1325">
+Output:</word>
+<word bottom="1296" left="1127" right="1267" top="1325">
+Radial</word>
+<word bottom="1295" left="1296" right="1464" top="1326">
+Nuclide</word>
+<word bottom="1294" left="1496" right="2030" top="1326">
+Concentrations  
+366
+</word>
+<word bottom="1222" left="368" right="508" top="1251">
+FIGURE</word>
+<word bottom="1222" left="542" right="629" top="1252">
+
+15-8
+</word>
+<word bottom="1215" left="712" right="876" top="1251">
+Summary</word>
+<word bottom="1214" left="906" right="1067" top="1250">
+Output:</word>
+<word bottom="1221" left="1127" right="1316" top="1251">
+Residual</word>
+<word bottom="1221" left="1347" right="1438" top="1250">
+Mass</word>
+<word bottom="1221" left="1471" right="1662" top="1250">
+Fraction</word>
+<word bottom="1221" left="1693" right="1736" top="1252">
+of</word>
+<word bottom="1149" left="711" right="899" top="1179">
+Nuclides</word>
+<word bottom="1149" left="934" right="975" top="1177">
+in</word>
+<word bottom="1149" left="1008" right="1071" top="1178">
+the</word>
+<word bottom="1148" left="1102" right="1320" top="1178">
+
+Wasteform
+</word>
+<word bottom="1147" left="1966" right="2029" top="1179">
+
+367
+</word>
+<word bottom="1074" left="368" right="508" top="1103">
+FIGURE</word>
+<word bottom="1074" left="542" right="629" top="1105">
+
+15-9
+</word>
+<word bottom="1067" left="709" right="976" top="1103">
+Approximate</word>
+<word bottom="1074" left="1003" right="1097" top="1102">
+Year</word>
+<word bottom="1066" left="1126" right="1361" top="1103">
+
+Wasteform,
+</word>
+<word bottom="1073" left="1397" right="1588" top="1103">
+Nuclides</word>
+<word bottom="1073" left="1618" right="1785" top="1103">
+Leached</word>
+<word bottom="994" left="710" right="804" top="1029">
+Away</word>
+<word bottom="999" left="1965" right="2030" top="1030">
+
+368
+</word>
+<word bottom="926" left="369" right="508" top="955">
+FIGURE</word>
+<word bottom="925" left="543" right="654" top="955">
+
+15-10
+</word>
+<word bottom="926" left="709" right="875" top="956">
+Nuclide</word>
+<word bottom="925" left="907" right="1045" top="955">
+Fluxes</word>
+<word bottom="925" left="1077" right="1147" top="955">
+and</word>
+<word bottom="925" left="1176" right="1293" top="954">
+Total</word>
+<word bottom="925" left="1323" right="1512" top="954">
+Nuclides</word>
+<word bottom="925" left="1543" right="1635" top="953">
+Mass</word>
+<word bottom="925" left="1667" right="1733" top="949">
+out</word>
+<word bottom="924" left="1766" right="1808" top="949">
+at</word>
+<word bottom="852" left="710" right="826" top="881">
+Waste</word>
+<word bottom="843" left="856" right="1022" top="882">
+Package</word>
+<word bottom="844" left="1055" right="1245" top="881">
+Boundary</word>
+<word bottom="850" left="1964" right="2029" top="882">
+
+369
+</word>
+</words>
+</ocrresult>
+
